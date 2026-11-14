@@ -141,6 +141,93 @@ bash run_evaluation.sh
 
 ---
 
+## Crawler
+
+The crawler accepts existing job URLs; it does not discover job links automatically.
+Use Python 3.11+ and the crawler-only dependencies (the root requirements also include GPU training packages).
+
+```bash
+python3.12 -m venv .venv
+source .venv/bin/activate
+pip install -r crawling/requirements.txt
+python -m playwright install chromium
+
+# Replace the example with an actual job advertisement URL.
+bash crawling/llm_extract.sh --url 'https://example.com/job' --crawl-only
+```
+
+`--crawl-only` saves page markdown to `data/job.markdown.json` without API credentials.
+For structured extraction, create a Gemini API key in Google AI Studio, copy
+`.env.example` to `.env`, and set `GEMINI_API_KEY`. The default model is
+`gemini-3.5-flash-lite`; optionally change `GEMINI_MODEL` to a model available to your
+project. Requests use Google's OpenAI-compatible endpoint through the existing
+`langchain-openai` dependency; no Azure resource or OpenAI API key is needed.
+Free-tier quotas depend on your project and model; this script does not enforce
+a free-only billing limit. Avoid sending sensitive data on the free tier.
+Then run:
+
+```bash
+bash crawling/llm_extract.sh --url 'https://example.com/job'
+# Or supply a UTF-8 text file containing one HTTP(S) URL per line:
+bash crawling/llm_extract.sh path/to/links.txt
+```
+
+Structured output is validated against `JobAdSchema` and saved to `data/job.json`
+or `data/<input-filename>.json`. Use `--output-dir PATH` to choose another directory.
+Description, requirements, benefits and working hours are taken from complete source
+sections, not the model's summaries. Recognized headings cover TopCV-style Vietnamese
+sections. TopCV navigation and unrelated footer links are excluded from the model
+input; the full main title and explicit graduation/certification requirements are retained.
+English job description/requirements/benefits/working-hours headings are also recognized.
+Pages without a recognizable job-description section fail instead of being accepted.
+Output has 25 fields, ISO dates, and normalized Vietnamese country/contract labels.
+`salary_min` and `salary_max` use millions of VND per month. `salary_avg` is the exact
+midpoint formatted as `X triệu`, not the rounded value in the sample CSV. Ambiguous
+salary text, foreign currencies and unsupported pay periods keep numeric fields null;
+one-sided salaries do not invent an average. Original wording remains in `salary`.
+The repo does not include the full category taxonomy: pass `--category EXACT_LABEL`
+only when that dataset label is known for all input URLs; otherwise `category` is null.
+The JSON includes the sample CSV's fields but is not itself a training CSV. Missing
+labels or salary targets must be reviewed/filtered, never fabricated to fill columns.
+These checks guarantee structural consistency and preserve recognized source sections;
+they do not establish 100% semantic accuracy of all AI-extracted metadata.
+Paths passed on the command line are relative to your current directory; defaults
+and prompt paths are relative to the project. The launcher uses the project's `.venv`
+when present; set `PYTHON=/path/to/python` to override it.
+Without arguments, the shell script processes `crawling/links/*.txt` and errors if none exist.
+Completed URLs are skipped on reruns; failed URLs are retried up to three times and
+cause a nonzero exit code. Invalid model responses are not marked as completed.
+Existing malformed output files are left untouched, and updates use atomic replacement.
+Sites that block browser automation or require login may still fail.
+
+Run the focused checks with `python -m unittest discover -s crawling -p 'test_*.py'`.
+
+### Continuous crawl and report logs
+
+```bash
+.venv/bin/python -u crawling/run_continuous.py
+```
+
+This worker discovers TopCV Data Analyst jobs on the first five search pages,
+refreshes every 15 minutes, and processes at most one new job per minute. It runs
+until stopped, skipping already saved jobs across restarts. Quota errors wait
+30 minutes before retrying; other failures get at most three attempts per URL
+across restarts. Authentication errors stop the worker. Only one worker may own
+an output directory. Use `--output-dir PATH` to choose another directory.
+
+`data/continuous/` is ignored by git and contains:
+
+- `jobs/*.json`: one validated 25-field record per URL, atomically saved.
+- `sources/`: original page markdown and model response/usage for source review.
+- `events/YYYY-MM-DD.jsonl`: UTC-timestamped discovery, API, completion and error events.
+- `status.json`: PID, current status, counters, token totals and next scheduled wakeup.
+
+For a background launch, redirect stdout/stderr to `data/continuous/console.log`.
+Read the PID from `status.json` and send `kill -TERM PID` for a graceful stop.
+The worker needs the host awake and online; it does not install a login service,
+prevent sleep, restart after reboot, or guarantee free-tier billing. Requests
+continue at the configured pace until stopped or rejected by the provider.
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.

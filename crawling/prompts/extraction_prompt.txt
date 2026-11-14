@@ -52,3 +52,14 @@ If a field is not available, set it to null instead of guessing.
 Ensure lists (e.g., technical_skills, benefits) are structured as arrays.
 
 Ensure the JSON output strictly follows the schema structure.
+
+Never shorten, summarize, or omit bullets from description, requirements_text,
+working_hours, or benefits. Include both overview and detailed information,
+including half-day schedules, statutory insurance, leave, and equipment support.
+Keep the salary wording exactly as stated; never interpret an ambiguous '2x'
+as a concrete amount. Set category, salary_min, salary_max and salary_avg to null;
+the application supplies the dataset label and calculates numeric salary fields.
+Use YYYY-MM-DD for dates. Do not copy metadata from recommended or related jobs.
+Preserve the full title, including location or seniority suffixes. For qualifications,
+prefer the detailed requirements over overview badges; preserve degree levels,
+majors and certifications instead of shortening them to a generic degree label.
