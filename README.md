@@ -208,19 +208,46 @@ Run the focused checks with `python -m unittest discover -s crawling -p 'test_*.
 .venv/bin/python -u crawling/run_continuous.py
 ```
 
-This worker discovers TopCV Data Analyst jobs on the first five search pages,
-refreshes every 15 minutes, and processes at most one new job per minute. It runs
-until stopped, skipping already saved jobs across restarts. Quota errors wait
+This worker discovers TopCV Data Analyst jobs by following the public next-page
+button in one browser session, up to five pages. It includes branded job URLs,
+ignores recommendation links outside the main results, and rejects repeated or
+empty result pages. By default it refreshes every 15 minutes and processes at most
+one new job per minute, deduplicating by job ID across restarts. It runs until stopped.
+Website HTTP 403/429 responses, including AJAX pagination and detail responses, pause
+requests for at least 30 minutes, including across restarts. The worker does not
+bypass access controls. Quota errors wait
 30 minutes before retrying; other failures get at most three attempts per URL
 across restarts. Authentication errors stop the worker. Only one worker may own
 an output directory. Use `--output-dir PATH` to choose another directory.
+The default search covers Data Analyst only. Repeat `--search-url` with public
+TopCV search URLs to explicitly include additional keywords. For a larger,
+multi-industry dataset:
+
+```bash
+.venv/bin/python -u crawling/run_continuous.py --all-categories --pages 1 --interval 15
+```
+
+`--all-categories` adds actual public career-category links from rendered pages,
+prioritizing broad industries before specialties. It does not invent pagination
+URLs, bypass blocked requests, or infer dataset category labels from this taxonomy.
+The worker drains its saved queue before advancing to the next search; an empty
+search does not force a 15-minute wait before trying the next category. After a
+full search sweep, it waits at least 15 minutes before refreshing. Search position,
+discovered categories, pending URLs, and quota cooldowns survive restarts.
+`--pages 1` intentionally excludes deeper pagination when it is blocked.
+`--interval 15` allows at most four jobs/minute, not a promised throughput or free
+quota: network latency, extraction, provider limits and website access can reduce it.
+No concurrent browser/API requests are added. Keep the default interval for a more
+conservative crawl. Broader coverage is not a representative sample: first-page
+ranking, overlapping categories and unavailable pages still create sampling bias.
 
 `data/continuous/` is ignored by git and contains:
 
 - `jobs/*.json`: one validated 25-field record per URL, atomically saved.
 - `sources/`: original page markdown and model response/usage for source review.
+- `pending.json`: atomically saved remaining job URLs, resumed without redoing completed jobs.
 - `events/YYYY-MM-DD.jsonl`: UTC-timestamped discovery, API, completion and error events.
-- `status.json`: PID, current status, counters, token totals and next scheduled wakeup.
+- `status.json`: PID, current status, counters, pending count, search cursor, token totals and next scheduled wakeup.
 
 For a background launch, redirect stdout/stderr to `data/continuous/console.log`.
 Read the PID from `status.json` and send `kill -TERM PID` for a graceful stop.

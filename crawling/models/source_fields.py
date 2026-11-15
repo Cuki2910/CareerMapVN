@@ -23,9 +23,12 @@ def job_markdown(markdown, url):
     title = re.search(r"^#[ \t]+.+$", markdown, re.MULTILINE)
     if not title:
         return markdown
-    footer = re.search(r"^Danh mục Nghề liên quan\s*$", markdown[title.start():], re.MULTILINE)
+    footer = re.search(r"^(?:Danh mục Nghề liên quan|#{1,6}[ \t]+Việc làm cùng công ty)\s*$", markdown[title.start():], re.MULTILINE)
     end = title.start() + footer.start() if footer else len(markdown)
-    return markdown[title.start():end]
+    start = title.start()
+    if urlsplit(url).path.startswith("/brand/") and start:
+        start = markdown.rfind("\n", 0, start - 1) + 1
+    return markdown[start:end]
 
 
 def source_sections(markdown):

@@ -10,6 +10,7 @@ import re
 import signal
 import sys
 import time
+from urllib.parse import urljoin, urlsplit
 
 from dotenv import load_dotenv
 
@@ -32,7 +33,103 @@ def write_json(path, data):
 
 
 def job_urls(markdown):
-    return list(dict.fromkeys(re.findall(r'https://www\.topcv\.vn/viec-lam/[^\s)<>"?]+?\.html', markdown)))
+    return list(dict.fromkeys(re.findall(
+        r'https://www\.topcv\.vn/(?:viec-lam/[^\s)<>"?]+?|brand/[^\s)<>"?]+?/tuyen-dung/[^\s)<>"?]+?-j\d+)\.html', markdown,
+    )))
+
+
+def job_id(url):
+    match = re.search(r"(?:/|-j)(\d+)\.html$", url)
+    return match.group(1) if match else url
+
+
+def listing_data(html, url):
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(html, "html.parser")
+    urls = []
+    for anchor in soup.select(".job-list-main .job-item-search-result h3.title a[href]"):
+        href = urljoin(url, anchor["href"]).split("?", 1)[0].split("#", 1)[0]
+        if job_urls(href) == [href]:
+            urls.append(href)
+    if not urls:
+        raise ValueError("No main search-result jobs rendered; refusing to use recommendations as results")
+    next_link = soup.select_one('.job-list-main .box-pagination a[rel="next"]')
+    next_url = urljoin(url, next_link.get("data-href") or next_link.get("href") or "") if next_link else None
+    if next_url and not valid_search_url(next_url):
+        raise ValueError("Unexpected pagination destination; refusing navigation")
+    return {"urls": list(dict.fromkeys(urls)), "next_url": next_url}
+
+
+def valid_search_url(url):
+    parsed = urlsplit(url)
+    return (
+        parsed.scheme == "https" and parsed.hostname == "www.topcv.vn"
+        and parsed.port in (None, 443) and parsed.username is None and parsed.password is None
+        and parsed.path.startswith("/tim-viec-lam-") and not any(character.isspace() for character in url)
+    )
+
+
+def category_search_urls(html, url):
+    from bs4 import BeautifulSoup
+
+    links = []
+    for anchor in BeautifulSoup(html, "html.parser").select("a[href]"):
+        href = urljoin(url, anchor["href"])
+        if re.fullmatch(r"https://www\.topcv\.vn/tim-viec-lam-[a-z0-9-]+-cr\d+(?:cb\d+)?(?:cl\d+)?", href):
+            links.append(href)
+    return sorted(dict.fromkeys(links), key=lambda link: not bool(re.search(r"-cr\d+$", link)))
+
+
+async def listing_pages(url, max_pages, stop):
+    from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig
+
+    selector = ".job-list-main .job-item-search-result h3.title a[href]"
+    visited = set()
+    blocked_status = None
+
+    async def observe_search_responses(page, context, **kwargs):
+        def response_received(response):
+            nonlocal blocked_status
+            parsed = urlsplit(response.url)
+            if parsed.hostname == "www.topcv.vn" and parsed.path.startswith("/tim-viec-lam-") and response.status in (403, 429):
+                blocked_status = response.status
+
+        page.on("response", response_received)
+        return page
+
+    async with AsyncWebCrawler(config=BrowserConfig(headless=True, verbose=False)) as browser:
+        browser.crawler_strategy.set_hook("on_page_context_created", observe_search_responses)
+        for index in range(max_pages):
+            if stop.is_set():
+                return
+            wait_for = "js:() => document.querySelectorAll(" + json.dumps(selector) + ").length > 0"
+            javascript = None
+            if index:
+                javascript = "window.__careermapPreviousJobs = JSON.stringify([...document.querySelectorAll(" + json.dumps(selector) + ")].map(anchor => anchor.href)); document.querySelector('.job-list-main .box-pagination a[rel=\"next\"]').click()"
+                wait_for = "js:() => { const links = [...document.querySelectorAll(" + json.dumps(selector) + ")].map(anchor => anchor.href); return links.length > 0 && JSON.stringify(links) !== window.__careermapPreviousJobs; }"
+            result = await asyncio.wait_for(browser.arun(url=url, config=CrawlerRunConfig(
+                cache_mode=CacheMode.BYPASS, session_id="listing", page_timeout=60000,
+                js_only=bool(index), js_code_before_wait=javascript, wait_for=wait_for, wait_for_timeout=20000,
+            )), 100)
+            if blocked_status:
+                raise RuntimeError(f"Listing navigation blocked (HTTP {blocked_status}); pausing requests")
+            if not result.success or (result.status_code and result.status_code >= 400):
+                raise RuntimeError(f"Listing crawl failed (HTTP {result.status_code}): {result.error_message}")
+            data = listing_data(result.html, url)
+            fingerprint = frozenset(job_id(link) for link in data["urls"])
+            if fingerprint in visited:
+                raise ValueError("Duplicate listing page; pagination did not advance")
+            visited.add(fingerprint)
+            yield {"url": url, "page": index + 1, **data, "category_search_urls": category_search_urls(result.html, url)}
+            if not data["next_url"] or index + 1 == max_pages:
+                return
+            url = data["next_url"]
+            try:
+                await asyncio.wait_for(stop.wait(), 5)
+                return
+            except TimeoutError:
+                pass
 
 
 def safe_error(error):
@@ -64,14 +161,35 @@ async def run(args, stop):
         for path in (output / "jobs").glob("*.json"):
             if path.name.startswith("._"):
                 continue
-            completed.add(str(JobAdSchema.model_validate(json.loads(path.read_text())).url))
+            completed.add(job_id(str(JobAdSchema.model_validate(json.loads(path.read_text())).url)))
+        searches = getattr(args, "search_url", None) or ["https://www.topcv.vn/tim-viec-lam-data-analyst"]
+        all_categories = getattr(args, "all_categories", False)
+        if all_categories:
+            searches = list(dict.fromkeys(searches + previous.get("search_urls", [])))
+        if not searches or not all(valid_search_url(url) for url in searches):
+            raise ValueError("Invalid saved search URLs; refusing navigation")
+        pending_path = output / "pending.json"
+        pending = json.loads(pending_path.read_text()) if pending_path.exists() else []
+        if not isinstance(pending, list) or any(not isinstance(url, str) or job_urls(url) != [url] for url in pending):
+            raise ValueError("Invalid saved queue; refusing to overwrite it")
+        pending = list({job_id(url): url for url in pending if job_id(url) not in completed}.values())
         state = {"pid": os.getpid(), "started_at": timestamp(), "model": model.model_name,
                  "interval_seconds": args.interval, "refresh_seconds": args.refresh_seconds,
-                 "pages": args.pages, "completed_total": len(completed),
+                 "pages": args.pages, "search_urls": searches, "completed_total": len(completed),
                  "requests_total": previous.get("requests_total", 0),
                  "input_tokens": previous.get("input_tokens", 0),
                  "output_tokens": previous.get("output_tokens", 0),
                  "failures": previous.get("failures", {}), "status": "starting"}
+        state["discovery_resume_at"] = previous.get("discovery_resume_at")
+        state["api_resume_at"] = previous.get("api_resume_at")
+        state["all_categories"] = all_categories
+        state["search_index"] = previous.get("search_index", 0) % len(searches) if previous.get("search_urls") == searches else 0
+
+        def save_queue():
+            write_json(pending_path, pending)
+            state["pending_total"] = len(pending)
+
+        save_queue()
 
         def event(name, **details):
             record = {"timestamp": timestamp(), "event": name, **details}
@@ -95,6 +213,7 @@ async def run(args, stop):
         class LoggedModel:
             async def ainvoke(self, prompt):
                 state["requests_total"] += 1
+                state["api_resume_at"] = None
                 event("api_request", url=state["current_url"], prompt_characters=len(prompt))
                 response = await model.ainvoke(prompt)
                 usage = response.usage_metadata or {}
@@ -105,33 +224,56 @@ async def run(args, stop):
                 event("api_response", url=state["current_url"], usage=usage)
                 return response
 
-        pending = []
         refresh_at = 0
         state["status"] = "running"
         event("started", completed_total=len(completed))
         try:
+            for key in ("discovery_resume_at", "api_resume_at"):
+                if not state[key]:
+                    continue
+                remaining = datetime.fromisoformat(state[key]).timestamp() - time.time()
+                if remaining > 0:
+                    event("discovery_cooldown_resumed" if key == "discovery_resume_at" else "api_cooldown_resumed", seconds=round(remaining))
+                    await wait(remaining)
             while not stop.is_set():
-                if time.monotonic() >= refresh_at:
+                pending = [url for url in pending if job_id(url) not in completed and state["failures"].get(url, 0) < 3]
+                save_queue()
+                if not pending and time.monotonic() >= refresh_at:
+                    state["discovery_resume_at"] = None
                     found = []
-                    for page in range(1, args.pages + 1):
+                    blocked = False
+                    listing_url = searches[state["search_index"]]
+                    state.update(status="discovering", current_url=listing_url)
+                    event("discovery_started", url=listing_url)
+                    try:
+                        async for page in listing_pages(listing_url, args.pages, stop):
+                            found.extend(page["urls"])
+                            if all_categories:
+                                searches.extend(url for url in page.get("category_search_urls", []) if url not in searches and valid_search_url(url))
+                            state["current_url"] = page["url"]
+                            event("discovery_completed", **{key: value for key, value in page.items() if key != "category_search_urls"})
+                    except Exception as error:
+                        message = safe_error(error)
+                        blocked = bool(re.search(r"\b(?:403|429)\b|blocked|captcha", message, re.IGNORECASE))
+                        event("discovery_failed", url=listing_url, error=message, blocked=blocked)
+                    if not blocked:
+                        state["search_index"] = (state["search_index"] + 1) % len(searches)
+                    pending = list({job_id(url): url for url in pending + found}.values())
+                    pending = [url for url in pending if job_id(url) not in completed and state["failures"].get(url, 0) < 3]
+                    save_queue()
+                    delay = max(1800, args.refresh_seconds) if blocked else (args.refresh_seconds if state["search_index"] == 0 else 15)
+                    refresh_at = time.monotonic() + delay
+                    if blocked:
+                        state["discovery_resume_at"] = datetime.fromtimestamp(time.time() + max(1800, args.refresh_seconds), timezone.utc).isoformat()
+                    event("discovery_summary", unique_found=len({job_id(url) for url in found}),
+                          new_found=len({job_id(url) for url in found} - completed), blocked=blocked,
+                          search_total=len(searches), pending_total=len(pending))
+                    if blocked:
+                        await wait(max(0, refresh_at - time.monotonic()))
+                        refresh_at = time.monotonic() + args.refresh_seconds
                         if stop.is_set():
                             break
-                        listing_url = f"https://www.topcv.vn/tim-viec-lam-data-analyst?page={page}"
-                        state.update(status="discovering", current_url=listing_url)
-                        event("discovery_started", url=listing_url)
-                        try:
-                            markdown = await asyncio.wait_for(crawler.crawl_markdown(listing_url), 100)
-                        except Exception as error:
-                            event("discovery_failed", url=listing_url, error=safe_error(error))
-                            break
-                        urls = job_urls(markdown)
-                        found.extend(urls)
-                        event("discovery_completed", url=listing_url, urls=urls)
-                        if page < args.pages:
-                            await wait(5)
-                    pending = list(dict.fromkeys(pending + found))
-                    refresh_at = time.monotonic() + args.refresh_seconds
-                pending = [url for url in pending if url not in completed and state["failures"].get(url, 0) < 3]
+                pending = [url for url in pending if job_id(url) not in completed and state["failures"].get(url, 0) < 3]
                 if not pending:
                     event("idle", completed_total=len(completed))
                     await wait(max(1, refresh_at - time.monotonic()))
@@ -152,21 +294,27 @@ async def run(args, stop):
                 except Exception as error:
                     message = safe_error(error)
                     status = getattr(error, "status_code", None)
-                    quota = status == 429 or "RESOURCE_EXHAUSTED" in message or bool(re.search(r"\b429\b", message))
+                    stage = state["status"]
+                    quota = stage == "extracting" and (status == 429 or "RESOURCE_EXHAUSTED" in message or bool(re.search(r"\b429\b", message)))
+                    blocked = stage == "crawling" and bool(re.search(r"\b(?:403|429)\b|blocked|captcha", message, re.IGNORECASE))
                     state["status"] = "error"
-                    if not quota:
+                    if not quota and not blocked:
                         state["failures"][url] = state["failures"].get(url, 0) + 1
-                    event("job_failed", url=url, elapsed_seconds=round(time.monotonic() - started, 3),
-                          error=message, status_code=status, quota=quota)
+                    if quota or blocked:
+                        state["api_resume_at" if quota else "discovery_resume_at"] = datetime.fromtimestamp(time.time() + 1800, timezone.utc).isoformat()
                     pending.append(url)
-                    if status in (401, 403):
+                    save_queue()
+                    event("job_failed", url=url, elapsed_seconds=round(time.monotonic() - started, 3),
+                          error=message, status_code=status, quota=quota, blocked=blocked, stage=stage)
+                    if stage == "extracting" and status in (401, 403):
                         raise RuntimeError("API credentials/access rejected; fix configuration before restarting") from None
-                    await wait(1800 if quota else max(args.interval - (time.monotonic() - started), 1))
+                    await wait(1800 if quota or blocked else max(args.interval - (time.monotonic() - started), 1))
                     continue
                 write_json(output / "jobs" / (identifier + ".json"), data)
-                completed.add(url)
+                completed.add(job_id(url))
                 state["completed_total"] = len(completed)
                 state["failures"].pop(url, None)
+                save_queue()
                 state["status"] = "running"
                 event("job_completed", url=url, job_title=data["job_title"],
                       elapsed_seconds=round(time.monotonic() - started, 3),
@@ -182,14 +330,21 @@ async def run(args, stop):
 
 
 async def main():
-    parser = argparse.ArgumentParser(description="Continuous, logged TopCV Data Analyst crawler")
+    parser = argparse.ArgumentParser(description="Continuous, logged TopCV job crawler")
     parser.add_argument("--output-dir", type=Path, default=crawler.BASE_DIR.parent / "data/continuous")
     parser.add_argument("--interval", type=float, default=60)
     parser.add_argument("--refresh-seconds", type=float, default=900)
     parser.add_argument("--pages", type=int, default=5)
+    parser.add_argument("--search-url", action="append", help="TopCV search URL; repeat for additional keywords")
+    parser.add_argument("--all-categories", action="store_true", help="Include public career-category links found in search pages")
     args = parser.parse_args()
-    if not (args.interval >= 60 and args.refresh_seconds >= 900 and 1 <= args.pages <= 5):
-        parser.error("Use interval >=60s, refresh >=900s, and 1-5 pages")
+    if not (args.interval >= 15 and args.refresh_seconds >= 900 and 1 <= args.pages <= 5):
+        parser.error("Use interval >=15s, refresh >=900s, and 1-5 pages")
+    try:
+        if args.search_url and not all(valid_search_url(url) for url in args.search_url):
+            parser.error("Search URLs must be HTTPS TopCV job-search pages without credentials")
+    except ValueError:
+        parser.error("Invalid search URL")
     args.output_dir = args.output_dir.resolve()
     stop = asyncio.Event()
     for signum in (signal.SIGTERM, signal.SIGINT):

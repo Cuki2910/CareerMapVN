@@ -7,16 +7,105 @@ from pathlib import Path
 import tempfile
 from types import SimpleNamespace
 import unittest
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock, MagicMock, patch
 
 import run_continuous as worker
 
 
 URL = "https://www.topcv.vn/viec-lam/analyst/123.html"
 SOURCE = "# Analyst\n## Mô tả công việc\nAnalyze data\n## Yêu cầu ứng viên\nSQL"
+SEARCH = "https://www.topcv.vn/tim-viec-lam-data-analyst"
+BRAND = "https://www.topcv.vn/brand/company/tuyen-dung/analyst-j456.html"
+
+
+def listing_html(url=URL, next_url=None):
+    link = f'<div class="box-pagination"><a rel="next" data-href="{next_url}">Next</a></div>' if next_url else ""
+    return f'<div class="job-list-main"><div class="job-item-search-result"><h3 class="title"><a href="{url}">Job</a></h3></div>{link}</div>'
+
+
+async def fake_pages(url, max_pages, stop):
+    yield {"url": url, "page": 1, "urls": [URL], "next_url": None}
 
 
 class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
+    def test_category_expansion_uses_only_public_topcv_category_links(self):
+        category = "https://www.topcv.vn/tim-viec-lam-cong-nghe-thong-tin-cr257"
+        specialty = "https://www.topcv.vn/tim-viec-lam-data-analyst-cr257cb261cl145"
+        html = "".join(f'<a href="{url}">Search</a>' for url in (
+            specialty, category, category, "/tim-viec-lam-marketing-cr92", SEARCH,
+            "https://example.com/tim-viec-lam-other-cr123", category + "?page=2",
+        ))
+        links = worker.category_search_urls(html, SEARCH)
+        self.assertEqual(links, [category, "https://www.topcv.vn/tim-viec-lam-marketing-cr92", specialty])
+
+    def test_main_results_brands_and_real_pagination(self):
+        html = listing_html(BRAND, SEARCH + "?page=2") + f'<footer><a href="{URL}">Recommendation</a></footer>'
+        self.assertEqual(worker.listing_data(html, SEARCH), {"urls": [BRAND], "next_url": SEARCH + "?page=2"})
+        self.assertEqual(worker.job_id(BRAND), "456")
+        self.assertEqual(worker.job_id("https://www.topcv.vn/viec-lam/analyst/456.html"), "456")
+        self.assertEqual(worker.job_urls(BRAND), [BRAND])
+        with self.assertRaisesRegex(ValueError, "No main"):
+            worker.listing_data(f'<footer><a href="{URL}">Recommendation</a></footer>', SEARCH)
+        with self.assertRaisesRegex(ValueError, "Unexpected pagination"):
+            worker.listing_data(listing_html(URL, "https://example.com/page=2"), SEARCH)
+
+    async def test_pagination_clicks_next_in_same_session_and_stops(self):
+        responses = [
+            SimpleNamespace(success=True, status_code=200, html=listing_html(URL, SEARCH + "?page=2")),
+            SimpleNamespace(success=True, status_code=200, html=listing_html(BRAND)),
+        ]
+        browser = MagicMock()
+        browser.__aenter__ = AsyncMock(return_value=browser)
+        browser.__aexit__ = AsyncMock(return_value=False)
+        browser.arun = AsyncMock(side_effect=responses)
+        stop = SimpleNamespace(is_set=lambda: False, wait=AsyncMock(side_effect=TimeoutError))
+        with patch("crawl4ai.AsyncWebCrawler", return_value=browser):
+            pages = [page async for page in worker.listing_pages(SEARCH, 5, stop)]
+        self.assertEqual(len(pages), 2)
+        first, second = browser.arun.await_args_list
+        self.assertFalse(first.kwargs["config"].js_only)
+        self.assertTrue(second.kwargs["config"].js_only)
+        self.assertEqual(first.kwargs["config"].session_id, second.kwargs["config"].session_id)
+        self.assertIn(".click()", second.kwargs["config"].js_code_before_wait)
+        self.assertIsNone(second.kwargs["config"].js_code)
+        self.assertEqual(pages[1]["urls"], [BRAND])
+
+    async def test_duplicate_and_blocked_pages_are_not_new_results(self):
+        browser = MagicMock()
+        browser.__aenter__ = AsyncMock(return_value=browser)
+        browser.__aexit__ = AsyncMock(return_value=False)
+        response = SimpleNamespace(success=True, status_code=200, html=listing_html(URL, SEARCH + "?page=2"))
+        browser.arun = AsyncMock(side_effect=[response, response])
+        stop = SimpleNamespace(is_set=lambda: False, wait=AsyncMock(side_effect=TimeoutError))
+        with patch("crawl4ai.AsyncWebCrawler", return_value=browser):
+            with self.assertRaisesRegex(ValueError, "Duplicate"):
+                _ = [page async for page in worker.listing_pages(SEARCH, 5, stop)]
+        browser.arun = AsyncMock(return_value=SimpleNamespace(success=False, status_code=403, error_message="Blocked"))
+        with patch("crawl4ai.AsyncWebCrawler", return_value=browser):
+            with self.assertRaisesRegex(RuntimeError, "403"):
+                _ = [page async for page in worker.listing_pages(SEARCH, 5, stop)]
+        self.assertEqual(browser.arun.await_count, 1)
+
+    async def test_ajax_block_is_detected_even_when_document_status_is_200(self):
+        browser = MagicMock()
+        browser.__aenter__ = AsyncMock(return_value=browser)
+        browser.__aexit__ = AsyncMock(return_value=False)
+
+        async def navigate(**kwargs):
+            hook = browser.crawler_strategy.set_hook.call_args.args[1]
+            page = MagicMock()
+            await hook(page, None)
+            listener = page.on.call_args.args[1]
+            listener(SimpleNamespace(url="https://ads.example.com/blocked", status=403))
+            listener(SimpleNamespace(url=SEARCH + "?page=2", status=429))
+            return SimpleNamespace(success=True, status_code=200, html=listing_html(URL))
+
+        browser.arun = AsyncMock(side_effect=navigate)
+        with patch("crawl4ai.AsyncWebCrawler", return_value=browser):
+            with self.assertRaisesRegex(RuntimeError, "HTTP 429"):
+                _ = [page async for page in worker.listing_pages(SEARCH, 5, asyncio.Event())]
+        self.assertEqual(browser.arun.await_count, 1)
+
     def test_url_discovery_and_redaction(self):
         markdown = f"[Job]({URL}?ref=search) [Again]({URL}) https://example.com/job.html"
         self.assertEqual(worker.job_urls(markdown), [URL])
@@ -36,10 +125,10 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
                 return SimpleNamespace(content='{"job_title":"Analyst"}', usage_metadata={"input_tokens": 5, "output_tokens": 3})
 
             model.ainvoke.side_effect = response
-            fetch = AsyncMock(side_effect=[f"[Job]({URL})", SOURCE])
+            fetch = AsyncMock(return_value=SOURCE)
             with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
                 worker.crawler, "crawl_markdown", fetch
-            ), redirect_stdout(io.StringIO()):
+            ), patch.object(worker, "listing_pages", fake_pages), redirect_stdout(io.StringIO()):
                 await worker.run(args, stop)
             job = json.loads(next(path for path in (args.output_dir / "jobs").glob("*.json") if not path.name.startswith("._")).read_text())
             self.assertEqual(job["job_title"], "Analyst")
@@ -52,16 +141,122 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             self.assertTrue(list((args.output_dir / "sources").glob("*.markdown")))
             stop = asyncio.Event()
 
-            async def listing(url):
+            async def listing(url, max_pages, stop):
                 stop.set()
-                return f"[Job]({URL})"
+                yield {"url": url, "page": 1, "urls": ["https://www.topcv.vn/brand/company/tuyen-dung/analyst-j123.html"], "next_url": None}
 
             model.ainvoke.reset_mock()
             with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
-                worker.crawler, "crawl_markdown", side_effect=listing
+                worker, "listing_pages", listing
             ), redirect_stdout(io.StringIO()):
                 await worker.run(args, stop)
             model.ainvoke.assert_not_awaited()
+
+    async def test_discovery_block_cooldown_survives_restart(self):
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=60, refresh_seconds=900, pages=5)
+            stop = asyncio.Event()
+            model = SimpleNamespace(model_name="test", ainvoke=AsyncMock())
+
+            async def blocked_pages(*args):
+                raise RuntimeError("Listing navigation blocked (HTTP 403)")
+                yield
+
+            async def stop_wait(awaitable, timeout):
+                awaitable.close()
+                self.assertGreater(timeout, 1700)
+                stop.set()
+
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
+                worker, "listing_pages", blocked_pages
+            ), patch.object(worker.asyncio, "wait_for", side_effect=stop_wait), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+                state = json.loads((args.output_dir / "status.json").read_text())
+                self.assertIsNotNone(state["discovery_resume_at"])
+                stop.clear()
+                with patch.object(worker, "listing_pages") as discover:
+                    await worker.run(args, stop)
+                    discover.assert_not_called()
+            model.ainvoke.assert_not_awaited()
+
+    async def test_queue_survives_restart_and_is_drained_before_discovery(self):
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=60, refresh_seconds=900, pages=1)
+            (args.output_dir / "pending.json").write_text(json.dumps([URL, URL]))
+            stop = asyncio.Event()
+
+            async def response(prompt):
+                stop.set()
+                return SimpleNamespace(content='{"job_title":"Analyst"}', usage_metadata={})
+
+            model = SimpleNamespace(model_name="test", ainvoke=AsyncMock(side_effect=response))
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
+                worker.crawler, "crawl_markdown", AsyncMock(return_value=SOURCE)
+            ), patch.object(worker, "listing_pages") as discover, redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            discover.assert_not_called()
+            self.assertEqual(model.ainvoke.await_count, 1)
+            self.assertEqual(json.loads((args.output_dir / "pending.json").read_text()), [])
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertEqual((state["pending_total"], state["completed_total"]), (0, 1))
+
+    async def test_invalid_saved_queue_is_not_overwritten(self):
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=60, refresh_seconds=900, pages=1)
+            queue = args.output_dir / "pending.json"
+            original = '["file:///etc/passwd"]'
+            queue.write_text(original)
+            with patch.object(worker.crawler, "initialize_chat_model"):
+                with self.assertRaisesRegex(ValueError, "Invalid saved queue"):
+                    await worker.run(args, asyncio.Event())
+            self.assertEqual(queue.read_text(), original)
+
+    async def test_categories_rotate_when_current_search_has_no_new_jobs(self):
+        with tempfile.TemporaryDirectory() as directory:
+            category = "https://www.topcv.vn/tim-viec-lam-cong-nghe-thong-tin-cr257"
+            args = SimpleNamespace(output_dir=Path(directory), interval=60, refresh_seconds=900, pages=1, all_categories=True)
+            (args.output_dir / "jobs").mkdir()
+            (args.output_dir / "jobs/seed.json").write_text(json.dumps({"url": URL, "job_title": "Existing", "description": "Existing"}))
+            stop = asyncio.Event()
+            visited = []
+
+            async def listing(url, pages, signal):
+                visited.append(url)
+                yield {"url": url, "page": 1, "urls": [URL if url == SEARCH else BRAND], "next_url": None, "category_search_urls": [category]}
+
+            async def response(prompt):
+                stop.set()
+                return SimpleNamespace(content='{"job_title":"Analyst"}', usage_metadata={})
+
+            model = SimpleNamespace(model_name="test", ainvoke=AsyncMock(side_effect=response))
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
+                worker.crawler, "crawl_markdown", AsyncMock(return_value=SOURCE)
+            ), patch.object(worker, "listing_pages", listing), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            self.assertEqual(visited, [SEARCH, category])
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertEqual((state["completed_total"], state["search_index"]), (2, 0))
+            self.assertEqual(state["search_urls"], [SEARCH, category])
+
+    async def test_website_403_pauses_crawling_without_blame_on_api_key(self):
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=60, refresh_seconds=900, pages=1)
+            stop = asyncio.Event()
+            model = SimpleNamespace(model_name="test", ainvoke=AsyncMock())
+
+            async def fetch(url):
+                stop.set()
+                raise RuntimeError("Crawl failed (HTTP 403): Forbidden")
+
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
+                worker, "listing_pages", fake_pages
+            ), patch.object(worker.crawler, "crawl_markdown", fetch), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            model.ainvoke.assert_not_awaited()
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertIsNotNone(state["discovery_resume_at"])
+            self.assertEqual(state["failures"], {})
+            self.assertEqual(json.loads((args.output_dir / "pending.json").read_text()), [URL])
 
     async def test_quota_error_is_logged_without_spinning(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -78,11 +273,13 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             model.ainvoke.side_effect = response
             with patch.dict(os.environ, {"GEMINI_API_KEY": "test-secret"}), patch.object(
                 worker.crawler, "initialize_chat_model", return_value=model
-            ), patch.object(worker.crawler, "crawl_markdown", AsyncMock(side_effect=[f"[Job]({URL})", SOURCE])), redirect_stdout(io.StringIO()):
+            ), patch.object(worker, "listing_pages", fake_pages), patch.object(worker.crawler, "crawl_markdown", AsyncMock(return_value=SOURCE)), redirect_stdout(io.StringIO()):
                 await worker.run(args, stop)
             state = json.loads((args.output_dir / "status.json").read_text())
             self.assertEqual(state["failures"], {})
             self.assertEqual(state["requests_total"], 1)
+            self.assertIsNotNone(state["api_resume_at"])
+            self.assertEqual(json.loads((args.output_dir / "pending.json").read_text()), [URL])
             events = next((args.output_dir / "events").glob("*.jsonl")).read_text()
             self.assertNotIn("test-secret", events)
             self.assertIn('"quota": true', events)

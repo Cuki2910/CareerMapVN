@@ -70,6 +70,20 @@ class CrawlerChecks(unittest.IsolatedAsyncioTestCase):
         data = normalize_job({"url": url, "job_title": "Analyst", "qualifications": ["Đại Học trở lên"]}, "# Analyst\n## Overview\nĐại Học trở lên\n## Mô tả công việc\nAnalyze data\n## Yêu cầu ứng viên\nƯu tiên có chứng chỉ CDMP, DGSP.")
         self.assertEqual(data["qualifications"], ["Ưu tiên có chứng chỉ CDMP, DGSP.", "Đại Học trở lên"])
 
+    def test_branded_job_keeps_employer_and_excludes_other_jobs(self):
+        url = "https://www.topcv.vn/brand/company/tuyen-dung/analyst-j123.html"
+        markdown = "Navigation\n[Employer](https://www.topcv.vn/brand/company) Company Ltd\n# [Analyst](https://example.com) - Ha Noi\n## Job Description\nAnalyze data\n## Requirements\nSQL\n## Thông tin chung\nFull-time\n## Việc làm cùng công ty\nOther jobs and salaries"
+        focused = job_markdown(markdown, url)
+        self.assertIn("Company Ltd", focused)
+        self.assertIn("Full-time", focused)
+        self.assertNotIn("Navigation", focused)
+        self.assertNotIn("Other jobs", focused)
+        self.assertEqual(job_markdown(focused, url), focused)
+        data = normalize_job({"url": url, "job_title": "Analyst"}, focused)
+        self.assertEqual(data["job_title"], "Analyst - Ha Noi")
+        self.assertEqual(data["description"], "Analyze data")
+        self.assertTrue(job_markdown("# Analyst\n## Job Description\nAnalyze data", url).startswith("# Analyst"))
+
     def test_json_formats(self):
         for content in ('{"job_title":"Analyst"}', '```json\n{"job_title":"Analyst"}\n```', '```\r\n{"job_title":"Analyst"}\r\n```'):
             self.assertEqual(crawler.extract_json_from_codeblock(content), {"job_title": "Analyst"})
