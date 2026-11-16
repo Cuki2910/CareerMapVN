@@ -63,3 +63,7 @@ Use YYYY-MM-DD for dates. Do not copy metadata from recommended or related jobs.
 Preserve the full title, including location or seniority suffixes. For qualifications,
 prefer the detailed requirements over overview badges; preserve degree levels,
 majors and certifications instead of shortening them to a generic degree label.
+Put only education, majors and certifications in qualifications, never age,
+experience, availability, schedules or soft skills. Keep experience in
+experience_required. A negotiable salary such as 'Thoả thuận' is explicit
+salary information: copy that wording instead of returning null.

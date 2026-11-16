@@ -105,32 +105,50 @@ def normalize_job(data, markdown, category=None):
     data["description"] = sections["description"]
     for field in ("requirements_text", "working_hours"):
         data[field] = sections.get(field)
+    title = None
     if urlsplit(data.get("url", "")).hostname in {"topcv.vn", "www.topcv.vn"}:
         title = re.search(r"^#[ \t]+(.+)$", markdown, re.MULTILINE)
         if title:
             data["job_title"] = plain_text(title.group(1))
+    degree_pattern = r"\b(?:tốt nghiệp|trung cấp|cao đẳng|đại học|cử nhân|thạc sĩ|tiến sĩ|bachelor(?:['’]s)?|master(?:['’]s)?|ph\.?d|degree|diploma|high school)\b"
+    certificate_pattern = r"\b(?:chứng chỉ|certificat(?:e|ion)s?|certified|IELTS|TOEIC|TOEFL|JLPT|HSK|TOPIK|ACCA|CPA|CFA|PMP)\b"
+    education_pattern = rf"{degree_pattern}|{certificate_pattern}|^[•*\-\s]*(?:ưu tiên\s+)?(?:các\s+)?chuyên ngành\b|^\s*majors?\b"
     qualifications = [
         line.lstrip("•-* ") for line in (sections.get("requirements_text") or "").splitlines()
-        if re.search(
-            r"\b(?:tốt nghiệp|chứng chỉ)\b|^[•*\-\s]*(?:ưu tiên\s+)?(?:các\s+)?chuyên ngành\b",
-            unicodedata.normalize("NFC", line), re.IGNORECASE,
-        )
+        if re.search(education_pattern, unicodedata.normalize("NFC", line), re.IGNORECASE)
     ]
-    if qualifications:
-        data["qualifications"] = qualifications + [
-            value for value in data.get("qualifications") or []
-            if folded(value).rstrip(".") not in folded("\n".join(qualifications))
+    has_degree = any(re.search(degree_pattern, unicodedata.normalize("NFC", value), re.IGNORECASE) for value in qualifications)
+    candidates = data.get("qualifications") or []
+    if not isinstance(candidates, list) or any(not isinstance(value, str) for value in candidates):
+        raise ValueError("Qualifications must be a list of source text")
+    if not has_degree:
+        overview = re.search(r"(?im)^\s*(?:Học vấn|Education)(?:[ \t]*:[ \t]*|[ \t]*\n[ \t]*)([^\n]+)", plain_text(markdown))
+        if overview and re.search(degree_pattern, unicodedata.normalize("NFC", overview.group(1)), re.IGNORECASE):
+            qualifications.append(overview.group(1).strip())
+            has_degree = True
+    for value in candidates:
+        pattern = certificate_pattern if has_degree else education_pattern
+        if (
+            re.search(pattern, unicodedata.normalize("NFC", value), re.IGNORECASE)
             and folded(value).rstrip(".") in folded(plain_text(markdown))
-        ]
+            and folded(value).rstrip(".") not in folded("\n".join(qualifications))
+        ):
+            qualifications.append(value)
+    data["qualifications"] = list(dict.fromkeys(qualifications)) or None
     benefits = sections.get("benefits")
     data["benefits"] = [
         line.lstrip("•-* ") for line in benefits.splitlines()
         if folded(line) not in {"phucloi", "hotro", "quyenloibosung"}
     ] if benefits else None
-    if benefits:
-        income = re.search(r"(?im)^\s*[•*\-]?\s*Thu nhập\s*:\s*(.+)$", benefits)
-        if income:
-            data["salary"] = income.group(1).strip()
+    income = re.search(r"(?im)^\s*[•*\-]?\s*(?:Thu nhập(?: cạnh tranh)?|Mức lương|Lương)\s*:\s*(.+)$", benefits or "")
+    if income:
+        data["salary"] = income.group(1).strip()
+    elif title:
+        header = plain_text(markdown[title.end():]).splitlines()
+        if header:
+            salary = header[0]
+            if folded(salary) in {"thoathuan", "negotiable", "competitive"} or re.search(r"\d.*(?:triệu|vnđ|vnd|đồng|usd|\$)", salary, re.IGNORECASE):
+                data["salary"] = salary
     if data.get("salary"):
         if not isinstance(data["salary"], str):
             raise ValueError("Salary must be source text, not a guessed number")

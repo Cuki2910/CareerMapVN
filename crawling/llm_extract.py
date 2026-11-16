@@ -1,10 +1,13 @@
 import argparse
 import asyncio
 import json
+import math
 import os
 import re
 import sys
 import tempfile
+import time
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -12,25 +15,134 @@ from urllib.parse import urlsplit
 BASE_DIR = Path(__file__).resolve().parent
 
 
-def initialize_chat_model():
-    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if not api_key:
-        raise ValueError("Missing configuration: GEMINI_API_KEY")
+def safe_error(error):
+    text = str(error)
+    for name, value in os.environ.items():
+        if name.endswith("_API_KEY") and value.strip():
+            text = text.replace(value.strip(), "[REDACTED]")
+    return re.sub(r"AIza[\w-]+", "[REDACTED]", text)
 
+
+class ProvidersUnavailable(RuntimeError):
+    status_code = 429
+
+    def __init__(self, retry_at):
+        super().__init__("All configured API providers are cooling down; waiting before retry")
+        self.retry_at = retry_at
+
+
+class WebsiteBlocked(RuntimeError):
+    def __init__(self, message, status_code=None, retry_after=None):
+        super().__init__(message)
+        self.status_code = status_code
+        self.retry_at = 0
+        if retry_after:
+            try:
+                delay = float(retry_after)
+                if math.isfinite(delay):
+                    self.retry_at = time.time() + max(0, delay)
+            except (ValueError, TypeError):
+                try:
+                    self.retry_at = parsedate_to_datetime(retry_after).timestamp()
+                except (ValueError, TypeError, OverflowError):
+                    pass
+
+
+class ProviderRouter:
+    supports_validation = True
+
+    def __init__(self, providers):
+        self.providers = providers
+        self.cooldowns = {}
+        self.next_index = 0
+
+    @property
+    def model_name(self):
+        return self.providers[self.next_index][1].model_name
+
+    async def ainvoke(self, prompt, validate=None, on_event=None):
+        from openai import APIConnectionError
+
+        emit = on_event or (lambda *args, **kwargs: None)
+        start = self.next_index
+        validation_error = None
+        for offset in range(len(self.providers)):
+            index = (start + offset) % len(self.providers)
+            provider, model = self.providers[index]
+            if self.cooldowns.get(provider, 0) > time.time():
+                continue
+            details = {"provider": provider, "model": model.model_name}
+            emit("api_request", **details, prompt_characters=len(prompt))
+            try:
+                response = await model.ainvoke(prompt)
+            except Exception as error:
+                status = getattr(error, "status_code", None)
+                if not (
+                    isinstance(error, (TimeoutError, APIConnectionError))
+                    or isinstance(status, int) and (400 <= status < 600)
+                ):
+                    raise
+                delay = 1800 if status and 400 <= status < 500 and status != 408 else 60
+                headers = getattr(getattr(error, "response", None), "headers", {})
+                retry_after = headers.get("retry-after")
+                if retry_after:
+                    try:
+                        delay = max(60, float(retry_after))
+                    except ValueError:
+                        try:
+                            delay = max(60, parsedate_to_datetime(retry_after).timestamp() - time.time())
+                        except (ValueError, TypeError, OverflowError):
+                            pass
+                if provider == "groq" and status == 429 and "tokens per minute" in str(error).lower() and not retry_after:
+                    delay = 65
+                self.cooldowns[provider] = time.time() + delay
+                emit("api_error", **details, status_code=status, error=safe_error(error),
+                     retry_at=self.cooldowns[provider])
+                continue
+            self.next_index = (index + 1) % len(self.providers)
+            self.cooldowns[provider] = 0
+            emit("api_response", **details, response=response)
+            if validate is not None:
+                try:
+                    validate(response)
+                except (ValueError, TypeError) as error:
+                    validation_error = error
+                    self.cooldowns[provider] = time.time() + 60
+                    emit("api_invalid_output", **details, error=safe_error(error),
+                         retry_at=self.cooldowns[provider])
+                    continue
+            return response
+        if validation_error is not None:
+            raise ValueError("Available providers returned invalid extraction output") from validation_error
+        raise ProvidersUnavailable(min(self.cooldowns[provider] for provider, _ in self.providers))
+
+
+def initialize_chat_model():
     from langchain_openai import ChatOpenAI
 
-    return ChatOpenAI(
-        api_key=api_key,
-        base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-        model=os.environ.get("GEMINI_MODEL", "").strip() or "gemini-3.5-flash-lite",
-        use_responses_api=False,
-        temperature=0,
-        timeout=60,
-        max_retries=0,
-    )
+    providers = []
+    for provider, endpoint, default_model in (
+        ("gemini", "https://generativelanguage.googleapis.com/v1beta/openai/", "gemini-3.5-flash-lite"),
+        ("groq", "https://api.groq.com/openai/v1", "openai/gpt-oss-120b"),
+        ("openrouter", "https://openrouter.ai/api/v1", "particle-ai/particle-1:free"),
+    ):
+        api_key = os.environ.get(f"{provider.upper()}_API_KEY", "").strip()
+        if not api_key:
+            continue
+        model = os.environ.get(f"{provider.upper()}_MODEL", "").strip() or default_model
+        if provider == "openrouter" and not (model.endswith(":free") or model == "openrouter/free"):
+            raise ValueError("OPENROUTER_MODEL must be a :free model or openrouter/free")
+        providers.append((provider, ChatOpenAI(
+            api_key=api_key, base_url=endpoint, model=model,
+            use_responses_api=False, temperature=0, timeout=60,
+            max_retries=0, max_tokens=12000,
+        )))
+    if not providers:
+        raise ValueError("Missing configuration: set GEMINI_API_KEY, GROQ_API_KEY or OPENROUTER_API_KEY")
+    return ProviderRouter(providers)
 
 
-async def crawl_markdown(url):
+async def crawl_markdown(url, on_event=None):
     from crawl4ai import AsyncWebCrawler, BrowserConfig, CacheMode, CrawlerRunConfig
 
     async with AsyncWebCrawler(config=BrowserConfig(headless=True, verbose=False)) as crawler:
@@ -38,11 +150,57 @@ async def crawl_markdown(url):
             url=url,
             config=CrawlerRunConfig(cache_mode=CacheMode.BYPASS, page_timeout=60000),
         )
+    error = f"Crawl failed (HTTP {result.status_code}): {result.error_message}"
+    challenge = bool(re.search(
+        r"cloudflare|captcha|anti-bot|turnstile", result.error_message or "", re.IGNORECASE,
+    )) or bool(re.search(
+        r"<title[^>]*>\s*(?:Just a moment|Attention Required|Verify you are human)",
+        result.html or "", re.IGNORECASE,
+    ))
+    headers = getattr(result, "response_headers", None) or {}
+    website_error = WebsiteBlocked(error, result.status_code, headers.get("retry-after") or headers.get("Retry-After"))
+    if (challenge or result.status_code in (403, 429)) and website_error.retry_at > time.time():
+        raise website_error
+    if challenge and result.status_code not in (401, 429) and not re.search(r"\b(?:401|429)\b", result.error_message or ""):
+        emit = on_event or (lambda *args, **details: None)
+        emit("crawl_fallback_started", engine="scrapling", reason=safe_error(error))
+        try:
+            markdown = await asyncio.wait_for(scrapling_markdown(url), 90)
+        except Exception as failure:
+            emit("crawl_fallback_failed", engine="scrapling", error=safe_error(failure))
+            blocked = WebsiteBlocked(f"Blocked by website challenge; {error}; Scrapling fallback failed: {safe_error(failure)}", getattr(failure, "status_code", result.status_code))
+            blocked.retry_at = max(website_error.retry_at, getattr(failure, "retry_at", 0))
+            raise blocked from failure
+        emit("crawl_fallback_succeeded", engine="scrapling", markdown_characters=len(markdown))
+        return markdown
     if not result.success or (result.status_code and result.status_code >= 400):
-        raise RuntimeError(f"Crawl failed (HTTP {result.status_code}): {result.error_message}")
+        if result.status_code in (403, 429):
+            raise website_error
+        raise RuntimeError(error)
     markdown = getattr(result.markdown, "raw_markdown", result.markdown)
     if not isinstance(markdown, str) or not markdown.strip():
         raise ValueError("No markdown extracted")
+    return markdown
+
+
+async def scrapling_markdown(url):
+    from crawl4ai import CrawlerRunConfig
+    from models.source_fields import job_markdown, source_sections
+    from scrapling.fetchers import StealthyFetcher
+
+    response = await StealthyFetcher.async_fetch(
+        url, headless=True, solve_cloudflare=True, timeout=60000,
+        wait=2000, google_search=False,
+    )
+    if response.status != 200:
+        headers = getattr(response, "headers", None) or {}
+        raise WebsiteBlocked(f"Scrapling HTTP {response.status}", response.status, headers.get("retry-after") or headers.get("Retry-After"))
+    config = CrawlerRunConfig()
+    options = {key: value for key, value in vars(config).items() if key != "url"}
+    cleaned = config.scraping_strategy.scrap(url, response.html_content, **options).cleaned_html
+    markdown = config.markdown_generator.generate_markdown(cleaned, base_url=url).raw_markdown
+    if not source_sections(job_markdown(markdown, url)).get("description"):
+        raise ValueError("No recognizable job-description section after fallback; refusing challenge/login content")
     return markdown
 
 
@@ -72,13 +230,17 @@ async def extract_job(url, instruction, chat_model, markdown, category=None):
     if not source_sections(markdown).get("description"):
         raise ValueError("No recognizable job-description section; refusing unverified extraction")
 
-    response = await chat_model.ainvoke(f"{instruction}\n\nSource URL: {url}\n\nPage content:\n{markdown}")
-    data = extract_json_from_codeblock(response.content)
-    if data is None:
-        raise ValueError("The model did not return a JSON object")
-    data["url"] = url
-    data = normalize_job(data, markdown, category)
-    return {**JobAdSchema.model_validate(data).model_dump(mode="json"), "url": url}
+    def validate(response):
+        data = extract_json_from_codeblock(response.content)
+        if data is None:
+            raise ValueError("The model did not return a JSON object")
+        data["url"] = url
+        data = normalize_job(data, markdown, category)
+        return {**JobAdSchema.model_validate(data).model_dump(mode="json"), "url": url}
+
+    options = {"validate": validate} if getattr(chat_model, "supports_validation", False) else {}
+    response = await chat_model.ainvoke(f"{instruction}\n\nSource URL: {url}\n\nPage content:\n{markdown}", **options)
+    return validate(response)
 
 
 async def process_urls(urls, instruction, output_file, chat_model=None, crawl_only=False, category=None):
@@ -114,7 +276,7 @@ async def process_urls(urls, instruction, output_file, chat_model=None, crawl_on
                 data = await process_url(url, instruction, chat_model, crawl_only, category)
                 break
             except Exception as error:
-                print(f"Failed {url} (attempt {attempt + 1}/3): {error}", file=sys.stderr)
+                print(f"Failed {url} (attempt {attempt + 1}/3): {safe_error(error)}", file=sys.stderr)
                 if attempt < 2:
                     await asyncio.sleep(attempt + 1)
         else:

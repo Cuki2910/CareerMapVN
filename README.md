@@ -151,6 +151,7 @@ python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r crawling/requirements.txt
 python -m playwright install chromium
+python -m patchright install chromium
 
 # Replace the example with an actual job advertisement URL.
 bash crawling/llm_extract.sh --url 'https://example.com/job' --crawl-only
@@ -164,6 +165,17 @@ project. Requests use Google's OpenAI-compatible endpoint through the existing
 `langchain-openai` dependency; no Azure resource or OpenAI API key is needed.
 Free-tier quotas depend on your project and model; this script does not enforce
 a free-only billing limit. Avoid sending sensitive data on the free tier.
+You can instead configure `GROQ_API_KEY` and/or `OPENROUTER_API_KEY` in `.env`.
+Configured providers rotate Gemini -> Groq -> OpenRouter; missing keys are skipped.
+Errors and invalid extraction output fall back to the next available provider.
+Each provider gets its own cooldown; `Retry-After` is respected, and the worker
+waits when all providers are unavailable. Successful calls do not introduce a
+provider cooldown. Restarting the continuous worker preserves error cooldowns
+and its queue; website-block backoff and the crawl interval remain in effect.
+OpenRouter defaults to `particle-ai/particle-1:free` and accepts only `:free` models
+or `openrouter/free`; optional `GROQ_MODEL`/`OPENROUTER_MODEL` override the defaults.
+Rotation does not remove account/project quotas or guarantee uninterrupted service.
+Continuous logs record each attempt's provider, model, usage and errors, without keys.
 Then run:
 
 ```bash
@@ -213,10 +225,18 @@ button in one browser session, up to five pages. It includes branded job URLs,
 ignores recommendation links outside the main results, and rejects repeated or
 empty result pages. By default it refreshes every 15 minutes and processes at most
 one new job per minute, deduplicating by job ID across restarts. It runs until stopped.
+Detail pages with a detected Cloudflare/browser challenge try Scrapling once before
+pausing. Healthy pages still use Crawl4AI; fallback HTML uses the same Crawl4AI
+cleaning and Markdown conversion and must contain a recognizable job description.
+Fallback start/success/failure events are recorded in the report logs. This does not
+guarantee challenge resolution and does not change listing pagination or use proxies.
 Website HTTP 403/429 responses, including AJAX pagination and detail responses, pause
-requests for at least 30 minutes, including across restarts. The worker does not
-bypass access controls. Quota errors wait
-30 minutes before retrying; other failures get at most three attempts per URL
+requests for 5 minutes on the first unrecovered block, then 10, 20 and at most
+30 minutes on consecutive blocks. A valid website `Retry-After` can extend the wait.
+Website cooldowns and consecutive-block counts survive restarts. Discovery retries
+immediately after cooldown instead of adding another full refresh interval.
+HTTP 429, login failures, and ordinary HTTP 403 responses do not trigger fallback.
+API quota errors use the earliest available provider retry deadline; other failures get at most three attempts per URL
 across restarts. Authentication errors stop the worker. Only one worker may own
 an output directory. Use `--output-dir PATH` to choose another directory.
 The default search covers Data Analyst only. Repeat `--search-url` with public
@@ -224,18 +244,18 @@ TopCV search URLs to explicitly include additional keywords. For a larger,
 multi-industry dataset:
 
 ```bash
-.venv/bin/python -u crawling/run_continuous.py --all-categories --pages 1 --interval 15
+.venv/bin/python -u crawling/run_continuous.py --all-categories --pages 1 --interval 10
 ```
 
 `--all-categories` adds actual public career-category links from rendered pages,
 prioritizing broad industries before specialties. It does not invent pagination
-URLs, bypass blocked requests, or infer dataset category labels from this taxonomy.
+URLs, repeatedly retry blocked pagination, or infer dataset category labels from this taxonomy.
 The worker drains its saved queue before advancing to the next search; an empty
 search does not force a 15-minute wait before trying the next category. After a
 full search sweep, it waits at least 15 minutes before refreshing. Search position,
 discovered categories, pending URLs, and quota cooldowns survive restarts.
 `--pages 1` intentionally excludes deeper pagination when it is blocked.
-`--interval 15` allows at most four jobs/minute, not a promised throughput or free
+`--interval 10` allows at most six jobs/minute, not a promised throughput or free
 quota: network latency, extraction, provider limits and website access can reduce it.
 No concurrent browser/API requests are added. Keep the default interval for a more
 conservative crawl. Broader coverage is not a representative sample: first-page

@@ -28,6 +28,153 @@ async def fake_pages(url, max_pages, stop):
 
 
 class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
+    async def check_discovery_backoff(self, blocks, expected_waits, previous_streak=0):
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=10, refresh_seconds=900, pages=1)
+            (args.output_dir / "status.json").write_text(json.dumps({"website_block_streak": previous_streak}))
+            stop = asyncio.Event()
+            clock = [0]
+            waits = []
+            calls = []
+
+            async def listing(url, pages, signal):
+                calls.append(clock[0])
+                if len(calls) <= len(blocks):
+                    raise worker.crawler.WebsiteBlocked("Listing blocked (HTTP 429)", 429, blocks[len(calls) - 1])
+                stop.set()
+                yield {"url": url, "page": 1, "urls": [], "next_url": None}
+
+            async def advance(awaitable, timeout):
+                awaitable.close()
+                waits.append(timeout)
+                clock[0] += timeout
+                raise TimeoutError
+
+            model = SimpleNamespace(model_name="test", ainvoke=AsyncMock())
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
+                worker, "listing_pages", listing
+            ), patch.object(worker.asyncio, "wait_for", side_effect=advance), patch.object(
+                worker.time, "monotonic", side_effect=lambda: clock[0]
+            ), patch.object(worker.time, "time", side_effect=lambda: 1000000 + clock[0]), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            self.assertEqual(waits[:len(blocks)], expected_waits)
+            self.assertEqual(calls, [sum(expected_waits[:index]) for index in range(len(blocks) + 1)])
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertEqual(state["website_block_streak"], 0)
+            self.assertIsNone(state["discovery_resume_at"])
+            model.ainvoke.assert_not_awaited()
+
+    async def test_discovery_retries_after_backoff_without_extra_refresh(self):
+        await self.check_discovery_backoff([None] * 5, [300, 600, 1200, 1800, 1800])
+
+    async def test_discovery_respects_retry_after(self):
+        await self.check_discovery_backoff(["3600"], [3600])
+
+    async def test_discovery_restores_consecutive_blocks(self):
+        await self.check_discovery_backoff([None], [1200], previous_streak=2)
+
+    async def test_router_logs_each_attempt_and_invalid_output_usage(self):
+        from test_provider_router import provider
+
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=15, refresh_seconds=900, pages=1)
+            stop = asyncio.Event()
+            primary, backup = provider("gemini", "not json"), provider("groq")
+
+            async def response(prompt):
+                stop.set()
+                return SimpleNamespace(content='{"job_title":"Analyst"}', usage_metadata={"input_tokens": 7, "output_tokens": 2})
+
+            backup[1].ainvoke.side_effect = response
+            router = worker.crawler.ProviderRouter([primary, backup])
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=router), patch.object(
+                worker.crawler, "crawl_markdown", AsyncMock(return_value=SOURCE)
+            ) as fetch, patch.object(worker, "listing_pages", fake_pages), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertEqual((state["requests_total"], state["input_tokens"], state["output_tokens"]), (2, 12, 5))
+            self.assertEqual(state["completed_total"], 1)
+            self.assertEqual(state["provider_resume_at"]["groq"], 0)
+            events = [json.loads(line) for line in next((args.output_dir / "events").glob("*.jsonl")).read_text().splitlines()]
+            self.assertEqual([event["provider"] for event in events if event["event"] == "api_request"], ["gemini", "groq"])
+            self.assertIn("api_invalid_output", [event["event"] for event in events])
+            self.assertEqual(len(list((args.output_dir / "sources").glob("*.response.json"))), 3)
+            fetch.assert_awaited_once()
+
+    async def test_router_migrates_legacy_gemini_cooldown_without_pausing_backups(self):
+        from test_provider_router import provider
+
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=15, refresh_seconds=900, pages=1)
+            resume_at = worker.datetime.fromtimestamp(worker.time.time() + 1800, worker.timezone.utc).isoformat()
+            (args.output_dir / "status.json").write_text(json.dumps({"api_resume_at": resume_at}))
+            stop = asyncio.Event()
+            primary, backup = provider("gemini"), provider("groq")
+
+            async def response(prompt):
+                stop.set()
+                return SimpleNamespace(content='{"job_title":"Analyst"}', usage_metadata={})
+
+            backup[1].ainvoke.side_effect = response
+            router = worker.crawler.ProviderRouter([primary, backup])
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=router), patch.object(
+                worker.crawler, "crawl_markdown", AsyncMock(return_value=SOURCE)
+            ), patch.object(worker, "listing_pages", fake_pages), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            primary[1].ainvoke.assert_not_awaited()
+            backup[1].ainvoke.assert_awaited_once()
+            self.assertEqual(router.cooldowns["gemini"], worker.datetime.fromisoformat(resume_at).timestamp())
+
+    async def test_router_restores_all_cooldowns_before_fetching(self):
+        from test_provider_router import provider
+
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=15, refresh_seconds=900, pages=1)
+            cooldowns = {"gemini": worker.time.time() + 3600, "groq": worker.time.time() + 1800}
+            (args.output_dir / "status.json").write_text(json.dumps({"provider_resume_at": cooldowns, "provider_index": 1, "requests_total": 11}))
+            stop = asyncio.Event()
+            router = worker.crawler.ProviderRouter([provider("gemini"), provider("groq")])
+
+            async def stop_wait(awaitable, timeout):
+                awaitable.close()
+                self.assertGreater(timeout, 1700)
+                stop.set()
+
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=router), patch.object(
+                worker, "listing_pages"
+            ) as discover, patch.object(worker.asyncio, "wait_for", side_effect=stop_wait), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            discover.assert_not_called()
+            self.assertEqual((router.cooldowns, router.next_index), (cooldowns, 1))
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertEqual(state["requests_total"], 11)
+
+    async def test_router_all_errors_preserve_pending_job(self):
+        from test_provider_router import api_error, provider
+
+        with tempfile.TemporaryDirectory() as directory:
+            args = SimpleNamespace(output_dir=Path(directory), interval=15, refresh_seconds=900, pages=1)
+            stop = asyncio.Event()
+            primary, backup = provider("gemini"), provider("groq")
+            primary[1].ainvoke.side_effect = api_error(429)
+
+            async def fail(prompt):
+                stop.set()
+                raise api_error(429, message="tokens per minute (TPM)")
+
+            backup[1].ainvoke.side_effect = fail
+            router = worker.crawler.ProviderRouter([primary, backup])
+            with patch.object(worker.crawler, "initialize_chat_model", return_value=router), patch.object(
+                worker.crawler, "crawl_markdown", AsyncMock(return_value=SOURCE)
+            ), patch.object(worker, "listing_pages", fake_pages), redirect_stdout(io.StringIO()):
+                await worker.run(args, stop)
+            state = json.loads((args.output_dir / "status.json").read_text())
+            self.assertEqual((state["failures"], state["requests_total"]), ({}, 2))
+            self.assertEqual(json.loads((args.output_dir / "pending.json").read_text()), [URL])
+            remaining = worker.datetime.fromisoformat(state["api_resume_at"]).timestamp() - worker.time.time()
+            self.assertGreater(remaining, 60)
+            self.assertLessEqual(remaining, 65)
+
     def test_category_expansion_uses_only_public_topcv_category_links(self):
         category = "https://www.topcv.vn/tim-viec-lam-cong-nghe-thong-tin-cr257"
         specialty = "https://www.topcv.vn/tim-viec-lam-data-analyst-cr257cb261cl145"
@@ -97,13 +244,14 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             await hook(page, None)
             listener = page.on.call_args.args[1]
             listener(SimpleNamespace(url="https://ads.example.com/blocked", status=403))
-            listener(SimpleNamespace(url=SEARCH + "?page=2", status=429))
+            listener(SimpleNamespace(url=SEARCH + "?page=2", status=429, headers={"retry-after": "3600"}))
             return SimpleNamespace(success=True, status_code=200, html=listing_html(URL))
 
         browser.arun = AsyncMock(side_effect=navigate)
         with patch("crawl4ai.AsyncWebCrawler", return_value=browser):
-            with self.assertRaisesRegex(RuntimeError, "HTTP 429"):
+            with self.assertRaisesRegex(worker.crawler.WebsiteBlocked, "HTTP 429") as blocked:
                 _ = [page async for page in worker.listing_pages(SEARCH, 5, asyncio.Event())]
+            self.assertGreater(blocked.exception.retry_at - worker.time.time(), 3590)
         self.assertEqual(browser.arun.await_count, 1)
 
     def test_url_discovery_and_redaction(self):
@@ -125,7 +273,12 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
                 return SimpleNamespace(content='{"job_title":"Analyst"}', usage_metadata={"input_tokens": 5, "output_tokens": 3})
 
             model.ainvoke.side_effect = response
-            fetch = AsyncMock(return_value=SOURCE)
+            async def fetched(url, on_event=None):
+                on_event("crawl_fallback_started", engine="scrapling")
+                on_event("crawl_fallback_succeeded", engine="scrapling", markdown_characters=len(SOURCE))
+                return SOURCE
+
+            fetch = AsyncMock(side_effect=fetched)
             with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
                 worker.crawler, "crawl_markdown", fetch
             ), patch.object(worker, "listing_pages", fake_pages), redirect_stdout(io.StringIO()):
@@ -138,6 +291,9 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             self.assertEqual((state["status"], state["completed_total"], state["input_tokens"]), ("stopped", 1, 5))
             events = [json.loads(line) for line in next((args.output_dir / "events").glob("*.jsonl")).read_text().splitlines()]
             self.assertIn("job_completed", [event["event"] for event in events])
+            fallback = [event for event in events if event["event"].startswith("crawl_fallback_")]
+            self.assertEqual([event["event"] for event in fallback], ["crawl_fallback_started", "crawl_fallback_succeeded"])
+            self.assertTrue(all(event["url"] == URL for event in fallback))
             self.assertTrue(list((args.output_dir / "sources").glob("*.markdown")))
             stop = asyncio.Event()
 
@@ -164,7 +320,8 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
 
             async def stop_wait(awaitable, timeout):
                 awaitable.close()
-                self.assertGreater(timeout, 1700)
+                self.assertGreater(timeout, 290)
+                self.assertLessEqual(timeout, 300)
                 stop.set()
 
             with patch.object(worker.crawler, "initialize_chat_model", return_value=model), patch.object(
@@ -244,7 +401,7 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             stop = asyncio.Event()
             model = SimpleNamespace(model_name="test", ainvoke=AsyncMock())
 
-            async def fetch(url):
+            async def fetch(url, **options):
                 stop.set()
                 raise RuntimeError("Crawl failed (HTTP 403): Forbidden")
 

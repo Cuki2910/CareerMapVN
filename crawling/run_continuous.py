@@ -87,13 +87,16 @@ async def listing_pages(url, max_pages, stop):
     selector = ".job-list-main .job-item-search-result h3.title a[href]"
     visited = set()
     blocked_status = None
+    retry_after = None
 
     async def observe_search_responses(page, context, **kwargs):
         def response_received(response):
-            nonlocal blocked_status
+            nonlocal blocked_status, retry_after
             parsed = urlsplit(response.url)
             if parsed.hostname == "www.topcv.vn" and parsed.path.startswith("/tim-viec-lam-") and response.status in (403, 429):
                 blocked_status = response.status
+                headers = getattr(response, "headers", None) or {}
+                retry_after = headers.get("retry-after") or headers.get("Retry-After")
 
         page.on("response", response_received)
         return page
@@ -113,9 +116,10 @@ async def listing_pages(url, max_pages, stop):
                 js_only=bool(index), js_code_before_wait=javascript, wait_for=wait_for, wait_for_timeout=20000,
             )), 100)
             if blocked_status:
-                raise RuntimeError(f"Listing navigation blocked (HTTP {blocked_status}); pausing requests")
+                raise crawler.WebsiteBlocked(f"Listing navigation blocked (HTTP {blocked_status}); pausing requests", blocked_status, retry_after)
             if not result.success or (result.status_code and result.status_code >= 400):
-                raise RuntimeError(f"Listing crawl failed (HTTP {result.status_code}): {result.error_message}")
+                headers = getattr(result, "response_headers", None) or {}
+                raise crawler.WebsiteBlocked(f"Listing crawl failed (HTTP {result.status_code}): {result.error_message}", result.status_code, headers.get("retry-after") or headers.get("Retry-After"))
             data = listing_data(result.html, url)
             fingerprint = frozenset(job_id(link) for link in data["urls"])
             if fingerprint in visited:
@@ -133,11 +137,7 @@ async def listing_pages(url, max_pages, stop):
 
 
 def safe_error(error):
-    text = str(error)
-    key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if key:
-        text = text.replace(key, "[REDACTED]")
-    return re.sub(r"AIza[\w-]+", "[REDACTED]", text)
+    return crawler.safe_error(error)
 
 
 async def run(args, stop):
@@ -182,6 +182,17 @@ async def run(args, stop):
                  "failures": previous.get("failures", {}), "status": "starting"}
         state["discovery_resume_at"] = previous.get("discovery_resume_at")
         state["api_resume_at"] = previous.get("api_resume_at")
+        state["website_block_streak"] = previous.get("website_block_streak", 0)
+        routed = isinstance(model, crawler.ProviderRouter)
+        if routed:
+            model.cooldowns = {name: previous.get("provider_resume_at", {}).get(name, 0) for name, _ in model.providers}
+            if "provider_resume_at" not in previous and previous.get("api_resume_at") and "gemini" in model.cooldowns:
+                model.cooldowns["gemini"] = datetime.fromisoformat(previous["api_resume_at"]).timestamp()
+            model.next_index = previous.get("provider_index", 0) % len(model.providers)
+            state["provider_resume_at"] = model.cooldowns
+            state["api_resume_at"] = None
+            if all(resume_at > time.time() for resume_at in model.cooldowns.values()):
+                state["api_resume_at"] = datetime.fromtimestamp(min(model.cooldowns.values()), timezone.utc).isoformat()
         state["all_categories"] = all_categories
         state["search_index"] = previous.get("search_index", 0) % len(searches) if previous.get("search_urls") == searches else 0
 
@@ -210,18 +221,43 @@ async def run(args, stop):
             except TimeoutError:
                 pass
 
-        class LoggedModel:
-            async def ainvoke(self, prompt):
+        def website_pause(error):
+            streak = min(state["website_block_streak"], 3)
+            state["website_block_streak"] = streak + 1
+            seconds = max(min(300 * 2 ** streak, 1800), getattr(error, "retry_at", 0) - time.time())
+            state["discovery_resume_at"] = datetime.fromtimestamp(time.time() + seconds, timezone.utc).isoformat()
+            return seconds
+
+        def record_api(name, **details):
+            if routed:
+                state["provider_resume_at"] = dict(model.cooldowns)
+                state["provider_index"] = model.next_index
+            if name == "api_request":
                 state["requests_total"] += 1
                 state["api_resume_at"] = None
-                event("api_request", url=state["current_url"], prompt_characters=len(prompt))
-                response = await model.ainvoke(prompt)
+                state["model"] = details["model"]
+            response = details.pop("response", None)
+            if response is not None:
+                details["actual_model"] = (getattr(response, "response_metadata", None) or {}).get("model_name", details["model"])
                 usage = response.usage_metadata or {}
                 state["input_tokens"] += usage.get("input_tokens", 0)
                 state["output_tokens"] += usage.get("output_tokens", 0)
                 identifier = hashlib.sha256(state["current_url"].encode()).hexdigest()[:20]
-                write_json(output / "sources" / (identifier + ".response.json"), {"content": response.content, "usage": usage})
-                event("api_response", url=state["current_url"], usage=usage)
+                payload = {"content": response.content, "usage": usage, **details}
+                write_json(output / "sources" / (identifier + ".response.json"), payload)
+                write_json(output / "sources" / f"{identifier}.{details['provider']}.{state['requests_total']}.response.json", payload)
+                details["usage"] = usage
+            event(name, url=state["current_url"], **details)
+
+        class LoggedModel:
+            supports_validation = routed
+
+            async def ainvoke(self, prompt, **options):
+                if routed:
+                    return await model.ainvoke(prompt, on_event=record_api, **options)
+                record_api("api_request", provider="gemini", model=model.model_name, prompt_characters=len(prompt))
+                response = await model.ainvoke(prompt)
+                record_api("api_response", provider="gemini", model=model.model_name, response=response)
                 return response
 
         refresh_at = 0
@@ -242,6 +278,7 @@ async def run(args, stop):
                     state["discovery_resume_at"] = None
                     found = []
                     blocked = False
+                    block_delay = 0
                     listing_url = searches[state["search_index"]]
                     state.update(status="discovering", current_url=listing_url)
                     event("discovery_started", url=listing_url)
@@ -255,24 +292,26 @@ async def run(args, stop):
                     except Exception as error:
                         message = safe_error(error)
                         blocked = bool(re.search(r"\b(?:403|429)\b|blocked|captcha", message, re.IGNORECASE))
-                        event("discovery_failed", url=listing_url, error=message, blocked=blocked)
+                        if blocked:
+                            block_delay = website_pause(error)
+                        event("discovery_failed", url=listing_url, error=message, blocked=blocked, retry_seconds=block_delay)
                     if not blocked:
+                        state["website_block_streak"] = 0
                         state["search_index"] = (state["search_index"] + 1) % len(searches)
                     pending = list({job_id(url): url for url in pending + found}.values())
                     pending = [url for url in pending if job_id(url) not in completed and state["failures"].get(url, 0) < 3]
                     save_queue()
-                    delay = max(1800, args.refresh_seconds) if blocked else (args.refresh_seconds if state["search_index"] == 0 else 15)
+                    delay = block_delay if blocked else (args.refresh_seconds if state["search_index"] == 0 else min(15, args.interval))
                     refresh_at = time.monotonic() + delay
-                    if blocked:
-                        state["discovery_resume_at"] = datetime.fromtimestamp(time.time() + max(1800, args.refresh_seconds), timezone.utc).isoformat()
                     event("discovery_summary", unique_found=len({job_id(url) for url in found}),
                           new_found=len({job_id(url) for url in found} - completed), blocked=blocked,
                           search_total=len(searches), pending_total=len(pending))
                     if blocked:
                         await wait(max(0, refresh_at - time.monotonic()))
-                        refresh_at = time.monotonic() + args.refresh_seconds
+                        refresh_at = time.monotonic()
                         if stop.is_set():
                             break
+                        continue
                 pending = [url for url in pending if job_id(url) not in completed and state["failures"].get(url, 0) < 3]
                 if not pending:
                     event("idle", completed_total=len(completed))
@@ -286,11 +325,14 @@ async def run(args, stop):
                 state.update(status="crawling", current_url=url, resume_at=None)
                 event("job_started", url=url)
                 try:
-                    markdown = await asyncio.wait_for(crawler.crawl_markdown(url), 100)
+                    markdown = await asyncio.wait_for(crawler.crawl_markdown(
+                        url, on_event=lambda name, **details: event(name, url=url, **details),
+                    ), 210)
+                    state["website_block_streak"] = 0
                     source_path = output / "sources" / (identifier + ".markdown")
                     source_path.write_text(markdown, encoding="utf-8")
                     state["status"] = "extracting"
-                    data = await asyncio.wait_for(crawler.extract_job(url, instruction, LoggedModel(), markdown), 90)
+                    data = await asyncio.wait_for(crawler.extract_job(url, instruction, LoggedModel(), markdown), 210 if routed else 90)
                 except Exception as error:
                     message = safe_error(error)
                     status = getattr(error, "status_code", None)
@@ -300,15 +342,18 @@ async def run(args, stop):
                     state["status"] = "error"
                     if not quota and not blocked:
                         state["failures"][url] = state["failures"].get(url, 0) + 1
+                    pause = max(1, error.retry_at - time.time()) if isinstance(error, crawler.ProvidersUnavailable) else 1800
+                    if blocked:
+                        pause = website_pause(error)
                     if quota or blocked:
-                        state["api_resume_at" if quota else "discovery_resume_at"] = datetime.fromtimestamp(time.time() + 1800, timezone.utc).isoformat()
+                        state["api_resume_at" if quota else "discovery_resume_at"] = datetime.fromtimestamp(time.time() + pause, timezone.utc).isoformat()
                     pending.append(url)
                     save_queue()
                     event("job_failed", url=url, elapsed_seconds=round(time.monotonic() - started, 3),
                           error=message, status_code=status, quota=quota, blocked=blocked, stage=stage)
                     if stage == "extracting" and status in (401, 403):
                         raise RuntimeError("API credentials/access rejected; fix configuration before restarting") from None
-                    await wait(1800 if quota or blocked else max(args.interval - (time.monotonic() - started), 1))
+                    await wait(pause if quota or blocked else max(args.interval - (time.monotonic() - started), 1))
                     continue
                 write_json(output / "jobs" / (identifier + ".json"), data)
                 completed.add(job_id(url))
@@ -338,8 +383,8 @@ async def main():
     parser.add_argument("--search-url", action="append", help="TopCV search URL; repeat for additional keywords")
     parser.add_argument("--all-categories", action="store_true", help="Include public career-category links found in search pages")
     args = parser.parse_args()
-    if not (args.interval >= 15 and args.refresh_seconds >= 900 and 1 <= args.pages <= 5):
-        parser.error("Use interval >=15s, refresh >=900s, and 1-5 pages")
+    if not (args.interval >= 10 and args.refresh_seconds >= 900 and 1 <= args.pages <= 5):
+        parser.error("Use interval >=10s, refresh >=900s, and 1-5 pages")
     try:
         if args.search_url and not all(valid_search_url(url) for url in args.search_url):
             parser.error("Search URLs must be HTTPS TopCV job-search pages without credentials")

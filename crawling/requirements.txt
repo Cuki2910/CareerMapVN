@@ -1,4 +1,5 @@
 crawl4ai>=0.9,<0.10
+scrapling[fetchers]>=0.5.1,<0.6
 langchain-openai>=1,<2
 python-dotenv>=1,<2
 pydantic>=2,<3

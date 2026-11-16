@@ -39,6 +39,89 @@ Apply here.
 
 
 class CrawlerChecks(unittest.IsolatedAsyncioTestCase):
+    def test_website_retry_after_numeric_date_and_invalid_values(self):
+        for header, expected in (("120", 1120), ("Thu, 01 Jan 1970 00:30:00 GMT", 1800), ("-1", 1000), ("invalid", 0), ("inf", 0), ("nan", 0)):
+            with self.subTest(header=header), patch.object(crawler.time, "time", return_value=1000):
+                error = crawler.WebsiteBlocked("HTTP 429", 429, header)
+                self.assertEqual(error.retry_at, expected)
+
+    async def test_detail_rate_limit_keeps_server_retry_after(self):
+        result = SimpleNamespace(success=False, status_code=429, error_message="Rate limited", html="", response_headers={"Retry-After": "3600"})
+        with patch("crawl4ai.AsyncWebCrawler") as constructor:
+            constructor.return_value.__aenter__.return_value.arun.return_value = result
+            with self.assertRaises(crawler.WebsiteBlocked) as blocked:
+                await crawler.crawl_markdown("https://example.com/job")
+        self.assertGreater(blocked.exception.retry_at - crawler.time.time(), 3590)
+
+    async def test_challenge_with_retry_after_waits_before_fallback(self):
+        result = SimpleNamespace(success=False, status_code=403, error_message="Cloudflare JS challenge", html="", response_headers={"retry-after": "3600"})
+        with patch("crawl4ai.AsyncWebCrawler") as constructor, patch.object(crawler, "scrapling_markdown", AsyncMock()) as fallback:
+            constructor.return_value.__aenter__.return_value.arun.return_value = result
+            with self.assertRaises(crawler.WebsiteBlocked) as blocked:
+                await crawler.crawl_markdown("https://example.com/job")
+            self.assertGreater(blocked.exception.retry_at - crawler.time.time(), 3590)
+            fallback.assert_not_awaited()
+
+    async def test_healthy_page_does_not_use_scrapling(self):
+        result = SimpleNamespace(success=True, status_code=200, error_message="", html="<h1>Analyst</h1>", markdown=SOURCE)
+        with patch("crawl4ai.AsyncWebCrawler") as constructor, patch.object(crawler, "scrapling_markdown", AsyncMock()) as fallback:
+            constructor.return_value.__aenter__.return_value.arun.return_value = result
+            self.assertEqual(await crawler.crawl_markdown("https://example.com/job"), SOURCE)
+        fallback.assert_not_awaited()
+
+    async def test_challenge_tries_fallback_once_and_logs_recovery(self):
+        for status, success, html, error in (
+            (307, False, "", "Blocked by anti-bot protection: Cloudflare JS challenge"),
+            (200, True, "<title>Just a moment...</title>", ""),
+        ):
+            events = []
+            result = SimpleNamespace(success=success, status_code=status, error_message=error, html=html)
+            with self.subTest(status=status), patch("crawl4ai.AsyncWebCrawler") as constructor, patch.object(crawler, "scrapling_markdown", AsyncMock(return_value=SOURCE)) as fallback:
+                constructor.return_value.__aenter__.return_value.arun.return_value = result
+                output = await crawler.crawl_markdown("https://example.com/job", on_event=lambda name, **details: events.append(name))
+                self.assertEqual(output, SOURCE)
+                fallback.assert_awaited_once_with("https://example.com/job")
+                self.assertEqual(events, ["crawl_fallback_started", "crawl_fallback_succeeded"])
+
+    async def test_rate_limits_auth_and_ordinary_forbidden_do_not_use_fallback(self):
+        for status, error in ((429, "Cloudflare rate limit"), (None, "Cloudflare HTTP 429"), (401, "Cloudflare authentication required"), (403, "Forbidden"), (500, "Server error")):
+            result = SimpleNamespace(success=False, status_code=status, error_message=error, html="")
+            with self.subTest(status=status), patch("crawl4ai.AsyncWebCrawler") as constructor, patch.object(crawler, "scrapling_markdown", AsyncMock()) as fallback:
+                constructor.return_value.__aenter__.return_value.arun.return_value = result
+                with self.assertRaises(RuntimeError):
+                    await crawler.crawl_markdown("https://example.com/job")
+                fallback.assert_not_awaited()
+
+    async def test_fallback_failure_remains_a_website_block(self):
+        result = SimpleNamespace(success=False, status_code=307, error_message="Cloudflare JS challenge", html="")
+        events = []
+        with patch("crawl4ai.AsyncWebCrawler") as constructor, patch.object(crawler, "scrapling_markdown", AsyncMock(side_effect=TimeoutError("timeout"))) as fallback:
+            constructor.return_value.__aenter__.return_value.arun.return_value = result
+            with self.assertRaisesRegex(RuntimeError, "Blocked by website challenge"):
+                await crawler.crawl_markdown("https://example.com/job", on_event=lambda name, **details: events.append(name))
+            fallback.assert_awaited_once()
+        self.assertEqual(events, ["crawl_fallback_started", "crawl_fallback_failed"])
+
+    async def test_scrapling_uses_existing_converter_and_preserves_degree(self):
+        html = "<html><body><h1>Senior Analyst - Finance</h1><h2>Job Description</h2><p>Analyze reports.</p><h2>Requirements</h2><p>Bachelor's degree in Finance or Accounting.</p><p>CPA preferred.</p></body></html>"
+        response = SimpleNamespace(status=200, html_content=html)
+        with patch("scrapling.fetchers.StealthyFetcher.async_fetch", AsyncMock(return_value=response)) as fetch:
+            markdown = await crawler.scrapling_markdown("https://www.topcv.vn/viec-lam/analyst/123.html")
+        data = normalize_job({"url": "https://www.topcv.vn/viec-lam/analyst/123.html"}, markdown)
+        self.assertEqual(data["job_title"], "Senior Analyst - Finance")
+        self.assertEqual(data["qualifications"], ["Bachelor's degree in Finance or Accounting.", "CPA preferred."])
+        self.assertEqual(data["description"], "Analyze reports.")
+        fetch.assert_awaited_once()
+
+    async def test_scrapling_rejects_errors_and_challenge_content(self):
+        for response in (
+            SimpleNamespace(status=429, html_content=""),
+            SimpleNamespace(status=200, html_content="<html><h1>Just a moment</h1><p>Verify you are human</p></html>"),
+        ):
+            with self.subTest(status=response.status), patch("scrapling.fetchers.StealthyFetcher.async_fetch", AsyncMock(return_value=response)):
+                with self.assertRaises((RuntimeError, ValueError)):
+                    await crawler.scrapling_markdown("https://example.com/job")
+
     def test_decomposed_education_and_separate_majors(self):
         education = unicodedata.normalize("NFD", "Tốt nghiệp Cao đẳng trở lên.")
         majors = "Ưu tiên các chuyên ngành: Khoa học Dữ liệu, Toán học."
@@ -51,6 +134,41 @@ class CrawlerChecks(unittest.IsolatedAsyncioTestCase):
         data = normalize_job({"job_title": "Analyst", "url": "https://example.com/job"}, markdown)
         self.assertEqual(data["requirements_text"], "SQL and Python/R.")
         self.assertEqual(data["working_hours"], "Monday-Friday, 09:00-18:00")
+
+    def test_qualifications_exclude_age_experience_and_availability(self):
+        markdown = "# Support\n## Mô tả công việc\nHỗ trợ khách hàng.\n## Yêu cầu ứng viên\nKhông còn vướng lịch học.\nCó kinh nghiệm CSKH là lợi thế.\n## Thông tin chung\nHọc vấn\nTrung cấp trở lên"
+        values = ["Tuổi 18 - 40", "Không còn vướng lịch học.", "Có kinh nghiệm CSKH là lợi thế.", "Đại học chuyên ngành không có trong nguồn"]
+        for qualifications in (None, [], values + ["Trung cấp trở lên"]):
+            with self.subTest(qualifications=qualifications):
+                data = normalize_job({"qualifications": qualifications}, markdown)
+                self.assertEqual(data["qualifications"], ["Trung cấp trở lên"])
+        self.assertIsNone(normalize_job({"qualifications": values}, "## Job Description\nAnalyze\n## Requirements\nSQL")["qualifications"])
+        for invalid in ("Trung cấp trở lên", [123]):
+            with self.subTest(invalid=invalid), self.assertRaisesRegex(ValueError, "Qualifications"):
+                normalize_job({"qualifications": invalid}, markdown)
+
+    def test_qualifications_preserve_detailed_degrees_and_certificates(self):
+        requirements = ["Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.", "Ưu tiên chứng chỉ CPA."]
+        markdown = "## Mô tả công việc\nAnalyze\n## Yêu cầu ứng viên\n" + "\n".join(requirements) + "\nCó từ 02 năm kinh nghiệm.\n## Thông tin chung\nHọc vấn\nĐại Học trở lên"
+        data = normalize_job({"qualifications": ["Đại Học trở lên", "Có từ 02 năm kinh nghiệm."]}, markdown)
+        self.assertEqual(data["qualifications"], requirements)
+        english = ["Bachelor's degree in Computer Science or Statistics.", "AWS certification preferred."]
+        data = normalize_job({"qualifications": ["3 years of experience"]}, "## Job Description\nAnalyze\n## Requirements\n" + "\n".join(english))
+        self.assertEqual(data["qualifications"], english)
+
+    def test_topcv_salary_is_recovered_from_source_not_model(self):
+        url = "https://www.topcv.vn/viec-lam/analyst/123.html"
+        for salary in (None, "Negotiable", "30 - 40 triệu"):
+            with self.subTest(salary=salary):
+                data = normalize_job({"url": url, "salary": salary}, "# Analyst\nThoả thuận\n## Job Description\nAnalyze")
+                self.assertEqual(data["salary"], "Thoả thuận")
+                self.assertIsNone(data["salary_max"])
+        data = normalize_job({"url": url, "salary": None}, "# Analyst\nTới 12 triệu\n## Job Description\nAnalyze")
+        self.assertEqual(data["salary"], "Tới 12 triệu")
+        data = normalize_job({"url": url, "salary": "15 triệu"}, "# Analyst\n7.6 - 9.2 triệu\n## Job Description\nAnalyze\n## Benefits\n* Thu nhập: 7.600.000 - 9.200.000 VNĐ (LCB + KPI)")
+        self.assertEqual(data["salary"], "7.600.000 - 9.200.000 VNĐ (LCB + KPI)")
+        data = normalize_job({"url": url}, "# Analyst lương 99 triệu\n## Job Description\nAnalyze")
+        self.assertIsNone(data.get("salary"))
 
     def test_topcv_title_education_and_prompt_scope(self):
         markdown = "Navigation and unrelated jobs\n# [Data Analyst](https://example.com) - Hà Nội\n" + SOURCE.replace(
@@ -99,8 +217,8 @@ class CrawlerChecks(unittest.IsolatedAsyncioTestCase):
         with patch.dict(os.environ, {"GEMINI_API_KEY": " test-key "}, clear=True):
             model = crawler.initialize_chat_model()
             self.assertEqual(model.model_name, "gemini-3.5-flash-lite")
-            self.assertEqual(model.openai_api_base, "https://generativelanguage.googleapis.com/v1beta/openai/")
-            self.assertEqual(model.openai_api_key.get_secret_value(), "test-key")
+            self.assertEqual(model.providers[0][1].openai_api_base, "https://generativelanguage.googleapis.com/v1beta/openai/")
+            self.assertEqual(model.providers[0][1].openai_api_key.get_secret_value(), "test-key")
         with patch.dict(os.environ, {"GEMINI_API_KEY": "test-key", "GEMINI_MODEL": "custom-model"}, clear=True):
             self.assertEqual(crawler.initialize_chat_model().model_name, "custom-model")
 
