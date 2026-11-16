@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật (Không Yêu Cầu Kinh Nghiệm) - Lương Từ 12 - 15 Triệu/ Tháng\",\n  \"company_name\": \"CÔNG TY TNHH THIẾT BỊ CÔNG NGHIỆP VIỆT HÀ\",\n  \"job_category\": \"Vận hành và bảo trì/Hỗ trợ kỹ thuật khác\",\n  \"sub_category\": \"Cơ khí / Tự động hóa\",\n  \"industry\": \"Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-khong-yeu-cau-kinh-nghiem-luong-tu-12-15-trieu-thang/2351929.html\",\n  \"qualifications\": [\n    \"Cao đẳng chuyên ngành cơ khí/ tự động hóa\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"chịu khó\",\n    \"tiếp thu tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Sáng 8h-11h45, chiều 11h15-17h (Thứ 2 đến thứ 6, thứ 7 làm cách tuần)\",\n  \"benefits\": [\n    \"Đóng bảo hiểm theo quy định nhà nước sau thử việc\",\n    \"Nghỉ phép theo quy định nhà nước\",\n    \"Lương tháng 13\",\n    \"Thưởng cuối năm\",\n    \"Môi trường vui vẻ, hòa nhã\"\n  ],\n  \"description\": \"- Tiếp nhận đơn sửa chữa, bảo hành. Đảm nhiệm sửa chữa, bảo hành máy móc hư hỏng gửi về công ty.\\n- Giaỉ đáp các vấn đề về kỹ thuật cho sale và khách hàng.\\n- Các công việc khác theo chỉ đạo từ cấp trên.\",\n  \"requirements_text\": \"- Tốt nghiệp từ cao đẳng chuyên ngành cơ khí/ tự động hóa.\\n- Yêu thích công việc kỹ thuật.\\n- Cẩn thận, chịu khó, tiếp thu tốt.\\n- Không yêu cầu kinh nghiệm, vào làm sẽ được chỉ dẫn, đào tạo từ đầu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4670,
+    "output_tokens": 656,
+    "total_tokens": 5326,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư M&E (Thiết Kế & Giám Sát Thi Công) - Lương Từ 15 - 30 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Kỹ sư cơ điện\",\n  \"sub_category\": \"Giám Sát Thi Công\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"183 đường Đông Hưng Thuận 06, Khu phố 1, Phường Đông Hưng Thuận, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-me-thiet-ke-giam-sat-thi-cong-luong-tu-15-30-trieu-lam-viec-tai-ho-chi-minh/2331475.html\",\n  \"qualifications\": [\n    \"Đại Học chuyên ngành Xây dựng, Điện, nước, công nghiệp\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Khả năng làm việc độc lập\",\n    \"có trách nhiệm\",\n    \"tỉ mỉ\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"15 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Khám sức khỏe định kỳ\",\n    \"Du lịch hàng năm\",\n    \"Lương cơ bản + Lương thưởng dự án + các khoản phụ cấp khác\",\n    \"Môi trường làm việc năng động, chuyên nghiệp, đoàn kết, thân thiện\",\n    \"Có nhiều cơ hội học hỏi\",\n    \"Được đào tạo để nâng cao năng lực, nghiệp vụ chuyên môn\",\n    \"Thưởng vào các dịp Lễ, tết trong năm\",\n    \"Xét nâng lương hàng năm hoặc khi có thành tích\",\n    \"Tham gia đầy đủ BHYT, BHXH, BHTN,...theo quy định nhà nước\",\n    \"Có bếp, ăn trưa tại văn phòng\"\n  ],\n  \"description\": \"- Triển khai hồ sơ thiết kế các hạng mục cơ điện: lập thuyết minh, bảng tính, chỉ dẫn kỹ thuật, triển khai bản vẽ thiết kế cơ sở, thiết kế thi công, shopdrawing, lập bảng khối lượng;\\n- Kiểm tra theo dõi đánh giá thi công điện nước tại hiện trường.\\n- Giải quyết các vấn đề phát sinh về khối lượng, kỹ thuật trong thực tế thi công.\\n- Đưa ra phương án sửa đổi, bổ sung.\\n- Phối hợp cùng các phòng ban khác;\",\n  \"requirements_text\": \"- Đội tuổi: Từ 25 - 30\\n- Tốt nghiệp Đại học chuyên ngành Xây dựng, Điện, nước, công nghiệp\\n- Kinh nghiệm từ 3 năm tại vị trí tương đương;\\n- Nắm vững các tiêu chuẩn, quy chuẩn kỹ thuật chuyên ngành liên quan;\\n- Khả năng làm việc độc lập, có trách nhiệm, tỉ mỉ.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5145,
+    "output_tokens": 835,
+    "total_tokens": 5980,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

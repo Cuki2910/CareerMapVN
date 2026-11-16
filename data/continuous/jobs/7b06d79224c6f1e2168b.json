@@ -1,0 +1,62 @@
+{
+  "job_title": "Data Analyst",
+  "company_name": null,
+  "job_category": "Data Analyst",
+  "sub_category": null,
+  "industry": "IT - Phần mềm, Tài chính, Thương mại điện tử",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-14",
+  "url": "https://www.topcv.vn/viec-lam/data-analyst/2344396.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học loại Giỏi trở lên từ các chuyên ngành Khoa học dữ liệu, Kinh tế, Tài chính, Khoa học máy tính, và các chuyên ngành liên quan.",
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "PowerBI",
+    "tableau",
+    "R",
+    "Thu Thập Và Xử Lý Dữ Liệu",
+    "Google Data Studio",
+    "Học Máy",
+    "Xác Suất Thống Kê",
+    "Qlik"
+  ],
+  "soft_skills": [
+    "Tư duy logic",
+    "giao tiếp và phối hợp nhóm tốt"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 3.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",
+  "benefits": [
+    "Thời gian làm việc: 8h00 - 17h30 từ thứ 2 tới thứ 6",
+    "Địa điểm làm việc: Làm việc tại tòa nhà văn phòng Keangnam Landmark 72, Phạm Hùng, Yên Hoà, Hà Nội",
+    "Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn",
+    "Chính sách thưởng hấp dẫn: thưởng năm, thưởng ngày lễ Tết, ... theo quy định chung của VDF và Tập đoàn Viettel",
+    "Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm",
+    "Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam",
+    "Cơ hội thăng tiến rõ ràng với nhiều cấp bậc",
+    "Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn",
+    "Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời.",
+    "Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình.",
+    "Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người",
+    "Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, event quý, event năm, event ngày nghỉ lễ tết,...",
+    "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày",
+    "Thưởng thức bữa trưa được phục vụ ngay tại VDF, được chọn lọc bởi các chuyên gia dinh dưỡng.",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm, Thưởng tháng 13"
+  ],
+  "description": "- Trao đổi với các bộ phận nghiệp vụ và kinh doanh để làm rõ bài toán và thống nhất giải pháp dữ liệu/chỉ số đo lường. Đồng thời chủ động xây dựng các báo cáo tự động (dashboard) để theo dõi các chỉ số dự án và hiệu năng mô hình học máy.\n- Thu thập, EDA, làm sạch và xử lý dữ liệu từ nhiều nguồn (giao dịch, app, đối tác,...) để xây dựng các bộ dữ liệu chuẩn hóa nhằm phục vụ mô hình học máy và phân tích chuyên sâu.\n- Phối hợp cùng bộ phận Data Scientist và Data Engineer để phát triển và tối ưu các mô hình học máy phục vụ các bài toán như dự báo khách hàng tiềm năng, dự báo rời bỏ, chấm điểm khách hàng, đề xuất sản phẩm hoặc các bài toán kinh doanh trọng điểm khác.\n- Thiết lập cơ chế giám sát chất lượng dữ liệu, kịp thời phát hiện biến động phân phối dữ liệu (Data Drift) và suy giảm hiệu năng mô hình.\n- Xây dựng các báo cáo phân tích chuyên sâu nhằm tìm kiếm insights và đề xuất hành động thực tế để đạt mục tiêu kinh doanh.\n- Thiết kế, theo dõi và đánh giá các thử nghiệm A/B cho tính năng sản phẩm mới và chiến dịch Marketing.\n- Ứng dụng các công cụ AI (GenAI, Copilot/LLMs) vào quy trình phân tích, lập trình và tự động hóa báo cáo.",
+  "requirements_text": "- Tốt nghiệp Đại học loại Giỏi trở lên từ các chuyên ngành Khoa học dữ liệu, Kinh tế, Tài chính, Khoa học máy tính, và các chuyên ngành liên quan.\n- Tiếng Anh tương đương TOEIC 650+.\n- Tối thiểu 03 năm kinh nghiệm làm việc với các mô hình dữ liệu, ưu tiên kinh nghiệm phân tích dữ liệu tài chính, ví điện tử, thương mại điện tử.\n- Có kinh nghiệm sử dụng các công cụ để thu thập và xử lý dữ liệu. Thành thạo các tác vụ trên các database (SQL) để làm việc với dữ liệu.\n- Có kinh nghiệm với ít nhất một trong các công cụ Tableau, Qlik, PowerBI, Google Data Studio.\n- Có kinh nghiệm sử dụng ít nhất một trong hai ngôn ngữ Python, R.\n- Nắm vững xác suất thống kê, hiểu biết về học máy là lợi thế.\n- Có kinh nghiệm thực tế làm việc với các nền tảng và công cụ xử lý dữ liệu lớn (ví dụ: Apache Spark, AWS, Databricks,...) là lợi thế.\n- Có kinh nghiệm nghiên cứu khoa học là lợi thế.\n- Có kinh nghiệm sử dụng AI để tối ưu công việc thực tế (nghiên cứu, phân tích, viết tài liệu, tự động hóa quy trình...).\n- Ưu tiên ứng viên có thể trình bày một use case đã ứng dụng AI trong công việc.\n- Tư duy logic, đảm bảo chất lượng với dữ liệu, báo cáo, kỹ năng giao tiếp và phối hợp nhóm tốt.\nKiến thức ngành\nIT - Phần mềm, Tài chính, Thương mại điện tử\nKỹ năng cần có\nPython, SQL, PowerBI, tableau, R, Thu Thập Và Xử Lý Dữ Liệu, Google Data Studio, Học Máy, Xác Suất Thống Kê, Qlik\nKỹ năng nên có\nThương Mại Điện Tử, ứng dụng AI, Nghiên Cứu Khoa Học, Ví điện tử, Nền tảng xử lý dữ liệu lớn (Apache Spark, AWS, Databricks), Kinh nghiệm phân tích dữ liệu tài chính"
+}

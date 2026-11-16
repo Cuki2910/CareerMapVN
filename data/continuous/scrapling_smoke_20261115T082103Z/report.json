@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-11-15T08:21:03.445150+00:00",
+  "library": "scrapling 0.5.1",
+  "headless": true,
+  "solve_cloudflare": true,
+  "worker_modified": false,
+  "llm_calls": 0,
+  "results": [
+    {
+      "url": "https://example.com",
+      "name": "control",
+      "status": 200,
+      "final_url": "https://example.com/",
+      "h1": [],
+      "markdown_characters": 974,
+      "requirements_present": false,
+      "description_present": false,
+      "challenge_present": false,
+      "passed": false,
+      "elapsed_seconds": 7.629
+    }
+  ],
+  "finished_at": "2026-11-15T08:21:12.701988+00:00"
+}

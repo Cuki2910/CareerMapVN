@@ -1,0 +1,62 @@
+{
+  "job_title": "Audio/ Music AI Engineer",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "Game",
+  "category": null,
+  "location": "Quảng Trị",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-12",
+  "url": "https://www.topcv.vn/viec-lam/audio-music-ai-engineer/2356133.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "Audio Processing",
+    "DSP",
+    "Pytorch",
+    "Tensorflow",
+    "Deep learning",
+    "Demucs",
+    "Basic Pitch",
+    "CREPE",
+    "RMVPE",
+    "librosa",
+    "Essentia"
+  ],
+  "soft_skills": [
+    "tư duy nghiên cứu",
+    "khả năng phân tích",
+    "thử nghiệm và giải quyết bài toán độc lập",
+    "chủ động cập nhật công nghệ mới",
+    "phối hợp với đội ngũ phát triển"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",
+  "benefits": [
+    "QUYỀN LỢI",
+    "Mức lương cạnh tranh, đánh giá định kỳ theo năng lực và đóng góp.",
+    "Thưởng tháng 13, thưởng hiệu suất, thưởng theo doanh thu.",
+    "Hỗ trợ ăn trưa tại công ty.",
+    "Các chế độ về BHXH, sinh nhật, thăm hỏi, đau ốm,..",
+    "Môi trường làm việc năng động, đề cao kỹ thuật và chất lượng sản phẩm.",
+    "Cơ hội tham gia xây dựng sản phẩm thực tế, có người dùng thật.",
+    "Tham gia các hoạt động team building, nội bộ thường xuyên.",
+    "Bảo hiểm xã hội, Team building, Du lịch hàng năm, Thưởng tháng 13, Thưởng hiệu quả làm việc",
+    "Phụ cấp",
+    "Ăn trưa"
+  ],
+  "description": "Nghiên cứu và phát triển: Nghiên cứu, thiết kế và triển khai các thuật toán, mô hình Học sâu (Deep Learning) và Trí tuệ nhân tạo (AI) chuyên biệt cho các bài toán xử lý âm thanh và âm nhạc.\nHuấn luyện mô hình: Trực tiếp tham gia vào quá trình thu thập, tiền xử lý dữ liệu âm thanh và thực hiện training/fine-tuning các model AI đáp ứng yêu cầu bài toán cụ thể của dự án.\nTối ưu hóa hệ thống: Tối ưu hóa hiệu năng, tốc độ xử lý và độ chính xác của mô hình để phục vụ triển khai trong môi trường sản xuất (Production).",
+  "requirements_text": "YÊU CẦU ỨNG VIÊN\n1. Kiến thức và kinh nghiệm AI/Deep Learning\n* Có kinh nghiệm thực tế nghiên cứu, huấn luyện và tối ưu mô hình Machine Learning/Deep Learning.\n* Có khả năng đọc hiểu, triển khai và cải tiến các nghiên cứu khoa học (Research Papers) liên quan đến Audio AI/Music AI.\n2. Kiến thức chuyên sâu về Music AI\n* Có kiến thức về xử lý tín hiệu âm thanh số (Digital Signal Processing – DSP), Spectrogram, FFT, STFT, Mel-spectrogram.\n* Có kinh nghiệm hoặc hiểu biết về các bài toán Music Information Retrieval (MIR), bao gồm:\n* Pitch Detection/Estimation – nhận diện cao độ.\n* Melody Extraction – trích xuất giai điệu.\n* Beat & Tempo Tracking – phân tích nhịp và tốc độ bài hát.\n* Vocal/Instrumental Separation – tách giọng hát và nhạc nền.\n* Singing Voice Analysis – phân tích giọng hát.\n* Audio Enhancement – cải thiện chất lượng âm thanh, giảm nhiễu và xử lý giọng hát.\n3. Kỹ năng huấn luyện và tối ưu mô hình\n* Có kinh nghiệm xây dựng dataset, tiền xử lý và augmentation dữ liệu âm thanh.\n* Có khả năng training/fine-tuning các mô hình chuyên biệt cho âm nhạc, giọng hát.\n* Có kinh nghiệm đánh giá chất lượng mô hình, tối ưu inference và triển khai trong môi trường Production.\n* Hiểu biết về tối ưu mô hình phục vụ xử lý thời gian thực (Real-time Audio Processing) là một lợi thế.\n4. Điểm cộng\n* Có kiến thức nhạc lý cơ bản: nốt nhạc, cao độ, nhịp, phách, tempo, quãng âm.\n* Đã từng nghiên cứu hoặc phát triển sản phẩm liên quan đến karaoke, âm nhạc, thu âm hoặc xử lý giọng hát.\n5. Kỹ năng làm việc\n* Có tư duy nghiên cứu, khả năng phân tích, thử nghiệm và giải quyết bài toán độc lập.\n* Chủ động cập nhật công nghệ mới và đề xuất các giải pháp phù hợp với sản phẩm.\n* Có khả năng phối hợp với đội ngũ phát triển để đưa mô hình AI vào ứng dụng thực tế.\nKiến thức ngành\nIT - Phần mềm, Game\nKỹ năng cần có\nPython, Audio Processing, DSP, Pytorch, Tensorflow, Deep learning\nKỹ năng nên có\nDemucs, Basic Pitch, CREPE, RMVPE, librosa, Essentia"
+}

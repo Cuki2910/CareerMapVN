@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Tư Vấn Tuyển Sinh\",\n  \"company_name\": null,\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Giáo Dục\",\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-tuyen-sinh-sales-giao-duc-thu-nhap-825-trieu-tai-ha-noi-ho-chi-minh-quan-7/2352110.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên\",\n    \"Chứng chỉ HSK3 trở lên\",\n    \"Chứng chỉ tư vấn du học\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"8 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 09:00 đến 18:00)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Cước điện thoại\",\n    \"Được cấp Điện thoại, Máy tính\",\n    \"Team building\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Du lịch hàng năm\"\n  ],\n  \"description\": \"- Tư vấn và giới thiệu các khóa học tiếng Trung /lộ trình du học Trung Quốc: Tư vấn chi tiết về các khóa học và lộ trình học tập cho học viên và khách hàng tiềm năng. Tập trung vào tư vấn giá trị và xây dựng mối quan hệ lâu dài với học viên.\\n- Chủ động liên hệ học viên: khai thác nhu cầu và tư vấn lộ trình học tập phù hợp với mục tiêu của từng khách hàng.\\n- Đồng hành cùng học viên: Hỗ trợ học viên và phụ huynh trong suốt quá trình học tập và làm hồ sơ, giải đáp thắc mắc và đảm bảo trải nghiệm dịch vụ tốt nhất.\\n- Các công việc khác: Thực hiện các nhiệm vụ khác theo sự phân công của quản lý\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng trở lên.\\n- Ưu tiên các chuyên ngành liên quan ngoại ngữ, giáo dục, hoặc liên quan đến ngành dịch vụ khách hàng.\\n- Có từ 1 năm kinh nghiệm trong lĩnh vực Sales, Telesales, Tư vấn tuyển sinh, Tư vấn giáo dục hoặc Chăm sóc khách hàng.\\n- Ưu tiên ứng viên biết tiếng trung, Chứng chỉ HSK3 trở lên.\\n- Ưu tiên ứng viên có chứng chỉ tư vấn du học (nếu có).\\n- Ưu tiên có kiến thức về các chương trình du học ở các quốc gia khác nhau.\\n- Thành thạo tin học văn phòng.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5753,
+    "output_tokens": 772,
+    "total_tokens": 6525,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

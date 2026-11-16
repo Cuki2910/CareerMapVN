@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Xuất Nhập Khẩu\",\n  \"company_name\": null,\n  \"job_category\": \"Xuất nhập khẩu/Logistics\",\n  \"sub_category\": null,\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-xuat-nhap-khau/2353140.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Nghiệp Vụ Xuất Nhập Khẩu\",\n    \"Soạn Thảo Chứng Từ Xuất Nhập Khẩu\"\n  ],\n  \"soft_skills\": [\n    \"tinh thần trách nhiệm\",\n    \"chủ động trong công việc\",\n    \"khả năng phối hợp\",\n    \"xử lý tình huống tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"11 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 18:00), Nghỉ trưa từ 12h-13h30\",\n  \"benefits\": [\n    \"Tham gia BHXH, BHYT, BHTN trên 100% mức lương theo quy định.\",\n    \"Cung cấp laptop làm việc và các công cụ cần thiết để hỗ trợ công việc.\",\n    \"Môi trường làm việc chuyên nghiệp, có cơ hội phát triển chuyên môn trong lĩnh vực xuất nhập khẩu, logistics và thủ tục pháp lý hàng hóa.\",\n    \"Công ty mới, còn nhiều cơ hội phát triển và thăng tiến trong sự nghiệp.\"\n  ],\n  \"description\": \"Kiểm tra, chuẩn bị chứng từ các cần thiết để thông quan hàng hóa theo yêu cầu của dịch vụ khai báo hải quan\\nTheo dõi tình trạng vận chuyển, lịch trình hàng hóa và tiến độ giao nhận, đảm bảo hàng hóa được giao đúng thời hạn.\\nTheo dõi, thực hiện thanh toán thuế nhập khẩu và các chi phí liên quan; đảm bảo tiến độ xử lý hồ sơ và thông quan hàng hóa.\\nThực hiện các công việc khác theo sự phân công của cấp trên.\",\n  \"requirements_text\": \"Ít nhất 6 tháng kinh nghiệm trong lĩnh vực xuất nhập khẩu, khai báo hải quan.\\nCó kiến thức cơ bản về quy định hải quan, thuế nhập khẩu và các thủ tục chuyên ngành đối với hàng hóa nhập khẩu.\\nCó tinh thần trách nhiệm, chủ động trong công việc, khả năng phối hợp và xử lý tình huống tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4665,
+    "output_tokens": 723,
+    "total_tokens": 5388,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

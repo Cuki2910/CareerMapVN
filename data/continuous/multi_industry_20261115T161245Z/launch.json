@@ -1,0 +1,18 @@
+{
+  "pid": 79168,
+  "started_at": "2026-11-15T16:13:10.699872+00:00",
+  "command": [
+    "/Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/.venv/bin/python",
+    "-u",
+    "/Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/run_continuous.py",
+    "--all-categories",
+    "--pages",
+    "1",
+    "--interval",
+    "10"
+  ],
+  "reason": "Data searches exhausted: resume multi-industry discovery from saved public category list",
+  "search_count": 849,
+  "resume_search": "https://www.topcv.vn/tim-viec-lam-tai-xe-cr1010",
+  "report_dir": "/Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/data/continuous/multi_industry_20261115T161245Z"
+}

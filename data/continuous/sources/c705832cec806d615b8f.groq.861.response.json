@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Thiết Kế Thời Trang Nam (12-18tr/Tháng)\",\n  \"company_name\": \"Công ty cổ phần Thời trang và Đầu tư Đức giang\",\n  \"job_category\": \"Thiết kế thời trang\",\n  \"sub_category\": \"Thiết kế Thời trang\",\n  \"industry\": \"Bán buôn vải, hàng may mặc, giày dép\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke-thoi-trang-nam-12-18tr-thang/2336381.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Chuyên ngành thiết kế thời trang\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Sáng tạo\",\n    \"Cập nhật xu hướng\",\n    \"Cá tính\",\n    \"Ham học hỏi\",\n    \"Kỹ năng trình bày tốt, có thể diễn đạt rõ ràng được ý tưởng bộ sản phẩm cho các bộ phận liên quan\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"12-18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30); Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập hấp dẫn từ 12tr đến 18tr\",\n    \"Phụ cấp ăn trưa, gửi xe, xăng xe\",\n    \"Thưởng lễ Tết & lương tháng 13\",\n    \"Nghỉ chiều thứ 7, Chủ Nhật\",\n    \"Được hưởng chế độ phép năm\",\n    \"Du lịch, nghỉ mát theo quy định của công ty\",\n    \"Được đóng BHXH, BHYT, hưởng đầy đủ chế độ theo đúng quy định của Nhà nước sau thử việc.\",\n    \"Làm việc trong môi trường năng động, chuyên nghiệp & sáng tạo; có nhiều cơ hội học hỏi và phát triển.\"\n  ],\n  \"description\": \"- Đưa ra ý tưởng, xu hướng thời trang của từng mùa, phù hợp định hướng của Công ty.\\n- Thiết kế mẫu theo yêu cầu của Công ty.\\n- Tìm kiếm nguyên phụ liệu thích hợp, đáp ứng được yêu cầu mẫu thiết kế.\\n- Lập tài liệu hướng dẫn công nghệ may và sản xuất\\n- Kết hợp với Kỹ thuật sản xuất và các phòng / ban khác để đưa mẫu thiết kế vào sản xuất đảm bảo đúng ý tưởng thiết kế, đúng tiêu chuẩn kỹ thuật của sản phẩm.\\n- Giám sát mẫu thiết kế cho đến khi thành phẩm hoàn chỉnh và được tung ra thị trường.\\n- Duyệt và Quản lý mẫu sống\\n- Phối hợp hiệu quả với bộ phận ra mẫu và may mẫu để hoàn thiện sản phẩm theo đúng ý tưởng thiết kế\\n- Phối hợp với bộ phận PR làm bộ sưu tập hàng tháng\",\n  \"requirements_text\": \"2 năm kinh nghiệm chuyên môn  Cao Đẳng trở lên\\n\\n- Tốt nghiệp chuyên ngành thiết kế thời trang\\n- Ứng viên có ít nhất 2 năm kinh nghiệm làm thiết kế tại các hãng thời trang công sở\\n- Nhanh nhẹn, sáng tạo, cập nhật xu hướng\\n- Cá tính, ham học hỏi\\n- Kỹ năng trình bày tốt, có thể diễn đạt rõ ràng được ý tưởng bộ sản phẩm cho các bộ phận liên quan.\"\n}",
+  "usage": {
+    "input_tokens": 4411,
+    "output_tokens": 2761,
+    "total_tokens": 7172,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1911
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

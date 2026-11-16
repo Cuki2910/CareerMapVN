@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư Giám Sát An Toàn (HSE) Thu Nhập 15-30Tr Khu Vực Lân Cận HCM\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Kỹ sư an toàn lao động (HSE)\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-giam-sat-an-toan-hse-thu-nhap-15-30tr-khu-vuc-lan-can-hcm/2335567.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Tốt nghiệp chuyên ngành liên quan HSE\",\n    \"Chứng chỉ Chuyên viên / Giám sát An toàn công trường\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm Tra Và Giám Sát Việc Tuân Thủ Các Quy Định Hse\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"15 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Chế độ bảo hiểm đầy đủ theo quy định\",\n    \"Du Lịch định kỳ\",\n    \"Chế độ thưởng lễ, Tết, thưởng chính sách nội bộ công ty\",\n    \"Hỗ trợ nhà ở, được cấp phát đồng phục\",\n    \"Nghỉ lễ, tết theo công trình\",\n    \"Chế độ nghỉ phép\"\n  ],\n  \"description\": \"- Kiểm soát giấy phép làm việc \\n- Đánh giá rủi ro cho biện pháp thi công.\\n- Giám sát an toàn khu vực thi công, Kiểm soát hồ sơ an toàn của công nhân\\n- Báo cáo & Làm việc với Tổng Thầu - TVGS.\",\n  \"requirements_text\": \"Trình độ: Tốt nghiệp chuyên ngành liên quan HSE\\nChứng chỉ Chuyên viên / Giám sát An toàn công trường.\\nChấp nhận đi giám sát an toàn ở công trình ở HCM và lân cận \\nCó kinh nghiệm ở vị trí Giám sát HSE tại các dự án xây dựng công nghiệp (Ưu tiên đã từng làm việc tại các dự án của Heineken, PepsiCo, Coca-Cola, Nestlé...) là ưu thế\\nChưa có kinh nghiệm sẽ được đào tạo từ đầu\"\n}\n```",
+  "usage": {
+    "input_tokens": 4859,
+    "output_tokens": 715,
+    "total_tokens": 5574,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

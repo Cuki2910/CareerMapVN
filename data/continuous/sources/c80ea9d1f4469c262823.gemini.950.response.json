@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư Điện\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN VINASOL\",\n  \"job_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"sub_category\": \"Kỹ sư điện mặt trời\",\n  \"industry\": \"Lắp đặt hệ thống xây dựng khác\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-dien/2312624.html\",\n  \"qualifications\": [\n    \"Cao đẳng chuyên ngành Điện – Điện tử, Cơ điện, Năng lượng tái tạo hoặc các ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\",\n    \"SketchUp\",\n    \"3D\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Được đào tạo nếu chưa có kinh nghiệm\",\n    \"Lộ trình thăng tiến rõ ràng\",\n    \"Môi trường làm việc trẻ trung, năng động và thân thiện\",\n    \"Hưởng đầy đủ quyền lợi, chế độ theo quy định của pháp luật\"\n  ],\n  \"description\": \"1. Khảo sát công trình theo yêu cầu.\\n2. Thiết kế bản vẽ 2D, 3D cho các công trình được khảo sát.\\n3. Ra khối lượng vật tư cho công trình.\",\n  \"requirements_text\": \"- Trình độ: Tốt nghiệp Cao đẳng chuyên ngành Điện – Điện tử, Cơ điện, Năng lượng tái tạo hoặc các ngành liên quan.\\n- Ưu tiên có kinh nghiệm trong lĩnh vực điện, điện năng lượng mặt trời.\\n- Biết sử dụng các phần mềm AutoCAD, SketchUp, 3D, …\"\n}\n```",
+  "usage": {
+    "input_tokens": 21958,
+    "output_tokens": 574,
+    "total_tokens": 22532,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

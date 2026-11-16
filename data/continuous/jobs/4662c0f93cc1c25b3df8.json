@@ -1,0 +1,56 @@
+{
+  "job_title": "AI Automation Engineer",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội, Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-13",
+  "url": "https://www.topcv.vn/viec-lam/ai-automation-engineer/2357765.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Javascript",
+    "Python",
+    "TypeScript",
+    "API",
+    "Automation",
+    "LLM",
+    "N8n",
+    "AI Agents",
+    "Claude",
+    "OpenAI APIs",
+    "Make.com",
+    "RAG",
+    "OpenClaw"
+  ],
+  "soft_skills": [
+    "Communication"
+  ],
+  "languages_required": [
+    "Vietnamese",
+    "English",
+    "Tiếng Khác"
+  ],
+  "experience_required": 3.0,
+  "salary": "25 - 40 triệu",
+  "salary_min": 25.0,
+  "salary_max": 40.0,
+  "salary_avg": "32.5 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)\n* Monday to Friday, 9am to 6pm (GMT+7)",
+  "benefits": [
+    "Monthly Base Salary: VND 25M to 40M gross, depending on experience, paid in VND.",
+    "Year-End Performance Bonus: Based on company performance and your individual contribution.",
+    "Salary During Probation: 85% of salary during the 3-month probation.",
+    "Progressive Paid Time Off (Vietnam Standard): 12 days of paid annual leave (+1 extra day for every year of tenure at our company), plus all 11 statutory Vietnam public holidays (Tết, National Day, etc.).",
+    "Performance and Career Reviews: Salary and performance review every 6 months, with a path to lead the AI team as it grows.",
+    "Thưởng tháng 13, Thưởng hiệu quả làm việc"
+  ],
+  "description": "* Build AI Agents for Real Work: Start with one or two core agents, then expand into agents for everyday business roles, such as a media buying assistant, a content creation agent, sales follow-ups, simple finance tasks, or a chief-of-staff agent that manages email, calendar and messages. You'll also help choose the tools and models we build on.\n* Connect the Tools People Use: Integrate agents with Gmail, Google Calendar, Zalo, Slack, WhatsApp, Telegram and similar tools through APIs and automation platforms.\n* Keep Them Simple and Reliable: Make every agent easy for non-technical people to set up and use, and keep it working as models and tools change.\n* Support the Users (around 20% of your time): Write clear setup guides and join live workshops to help learners get their agents running.",
+  "requirements_text": "* 3+ Years Hands-On Experience: A proven track record building automations, AI agents or LLM-based workflows that real people use.\n* Real Tool Experience: Strong with at least one of Claude (Projects, Skills, MCP), OpenAI APIs, n8n, Make.com or similar, and good at making agents produce reliable, consistent results.\n* API and Integration Skills: Comfortable connecting tools through APIs and webhooks.\n* Code: Solid Python or JavaScript/TypeScript. No-code tools alone won't be enough for this role.\n* Memory, Evaluation and Deployment (basic level): You've stored user data and conversation memory, set up simple RAG, tested agents so they give reliable output, and deployed tools like n8n or OpenClaw on a server.\n* Language: Fluent in Vietnamese. Basic English is enough for reading documentation and simple written communication.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nJavascript, Python, TypeScript, API, Automation, LLM, N8n, AI Agents\nKỹ năng nên có\nMarketing, Sales, Business Operations, openclaw, Zalo integrations"
+}

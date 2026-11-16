@@ -1,0 +1,54 @@
+{
+  "job_title": "A.I Engineer Intern - Thực Tập Sinh A.I Engineer",
+  "company_name": null,
+  "job_category": "Data Engineer",
+  "sub_category": null,
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "72/24 Phan Đăng Lưu, Phường Đức Nhuận (Phường Đức Nhuận thuộc quận Phú Nhuận cũ), Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-31",
+  "url": "https://www.topcv.vn/viec-lam/a-i-engineer-intern-thuc-tap-sinh-a-i-engineer/2347877.html",
+  "qualifications": [
+    "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp các ngành CNTT, AI, Khoa học dữ liệu hoặc liên quan."
+  ],
+  "technical_skills": [
+    "Tensorflow",
+    "Computer Vision",
+    "Python",
+    "C/C++",
+    "Tensorflow/Pytorch",
+    "Python Cơ Bản",
+    "thư viện python",
+    "code Python",
+    "Deep Learning basics",
+    "AI/Machine Learning",
+    "NLP"
+  ],
+  "soft_skills": [
+    "Tư duy logic",
+    "chủ động học hỏi",
+    "tinh thần nghiên cứu"
+  ],
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 0.0,
+  "salary": "1 - 2 triệu",
+  "salary_min": 1.0,
+  "salary_max": 2.0,
+  "salary_avg": "1.5 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+  "benefits": [
+    "Môi trường thân thiện",
+    "Có cơ hội tiếp cận công nghệ mới",
+    "Được làm việc trong môi trường chuyên nghiệp, vui vẻ và hòa đồng",
+    "Có phụ cấp",
+    "Hỗ trợ tài liệu và dấu mộc thực tập.",
+    "Hỗ trợ nhu yếu phẩm"
+  ],
+  "description": "- Tham gia tìm hiểu và hỗ trợ phát triển các mô hình AI (NLP, Computer Vision) dưới sự hướng dẫn của mentor.\n- Hỗ trợ xử lý và chuẩn bị dữ liệu (data preprocessing, labeling, cleaning).\n- Tham gia thử nghiệm, train và đánh giá các model có sẵn.\n- Hỗ trợ tích hợp model vào hệ thống hoặc demo đơn giản.\n- Nghiên cứu, tìm hiểu các thuật toán/mô hình AI mới theo định hướng của dựán.\n- Tham gia viết tài liệu, báo cáo kết quả.",
+  "requirements_text": "- Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp các ngành CNTT, AI, Khoa học dữ liệu hoặc liên quan.\n- Có kiến thức cơ bản về Machine Learning/Deep Learning hoặc Computer vision/NLP.\n- Biết lập trình Python cơ bản.\n- Có hiểu biết hoặc từng sử dụng các thư viện như TensorFlow, PyTorch (ở mức cơ bản).\n- Có khả năng đọc hiểu tài liệu tiếng Anh.\n- Tư duy logic, chủ động học hỏi và có tinh thần nghiên cứu.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nTensorflow, Computer Vision, Python, C/C++, Tensorflow/Pytorch, Python Cơ Bản, thư viện python, code Python, Deep Learning basics, AI/Machine Learning\nKỹ năng nên có\nPython, Kiến Thức Về Ai Machine Learning (tensorflow, Pytorch)"
+}

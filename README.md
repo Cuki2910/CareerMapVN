@@ -261,7 +261,12 @@ No concurrent browser/API requests are added. Keep the default interval for a mo
 conservative crawl. Broader coverage is not a representative sample: first-page
 ranking, overlapping categories and unavailable pages still create sampling bias.
 
-`data/continuous/` is ignored by git and contains:
+`data/continuous/` contains the crawler output snapshot committed to this repository.
+Raw benchmark HTML (which may include embedded third-party keys) and the runtime
+`worker.lock` file remain ignored. Smoke-test and soak-test outputs are also committed
+under `data/smoke_verified/` and `data/soak_15min_*/`.
+
+The continuous output includes:
 
 - `jobs/*.json`: one validated 25-field record per URL, atomically saved.
 - `sources/`: original page markdown and model response/usage for source review.

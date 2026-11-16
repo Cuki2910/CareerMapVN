@@ -1,0 +1,66 @@
+{
+  "job_title": "Data Engineer (Lead)",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "IT - Phần mềm, Ngân hàng",
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-05",
+  "url": "https://www.topcv.vn/viec-lam/data-engineer-lead/2344625.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học chuyên ngành CNTT hoặc liên quan"
+  ],
+  "technical_skills": [
+    "SQL",
+    "MS SQL Server",
+    "Cloudera platform",
+    "Spark",
+    "Trino",
+    "Presto",
+    "Hive with Tez Engine",
+    "Airflow",
+    "Prefect",
+    "Dagster",
+    "Python"
+  ],
+  "soft_skills": [
+    "Giao tiếp Tiếng Anh tốt",
+    "Quản lý nhóm",
+    "Quản lý dự án"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 3.0,
+  "salary": "Thỏa thuận theo năng lực và kinh nghiệm.",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+  "benefits": [
+    "Mức lương: Thỏa thuận theo năng lực và kinh nghiệm.",
+    "Thưởng: Lương tháng 13 và thưởng vào các dịp lễ, Tết, sinh nhật.",
+    "Thử việc: 02 tháng, hưởng 85% mức lương.",
+    "Bảo hiểm: Công ty đóng BHXH, BHYT, BHTN theo mức 10 triệu đồng.",
+    "Nghỉ phép: 12 ngày phép/năm.",
+    "Thiết bị làm việc: Công ty cấp Laptop và màn hình phục vụ công việc.",
+    "Phụ cấp: Hỗ trợ chi phí gửi xe máy.",
+    "Review lương: Định kỳ 01 lần/năm.",
+    "Chăm sóc sức khỏe: Khám sức khỏe định kỳ 01 lần/năm.",
+    "Du lịch & gắn kết: Du lịch nghỉ mát 01 lần/năm, teambuilding, team lunch, sinh nhật, happy hours, free snacks, hoa quả và đồ uống.",
+    "Môi trường: Môi trường làm việc chuyên nghiệp, trẻ trung, năng động; đồng nghiệp giàu kinh nghiệm và có cơ hội làm việc với các đối tác lớn.",
+    "CƠ HỘI PHÁT TRIỂN",
+    "Tham gia các dự án Banking cùng đội ngũ chuyên gia trong và ngoài nước.",
+    "Được đào tạo và nâng cao kiến thức chuyên môn, kỹ năng mềm, kỹ năng quản lý nhóm và quản lý dự án.",
+    "Có cơ hội tiếp cận, nghiên cứu và thử sức với công nghệ mới, xu hướng công nghệ (hot tech trends).",
+    "Tham gia các chương trình training nội bộ, khóa học chuyên môn và các cuộc thi công nghệ.",
+    "Được tư vấn, chia sẻ về lộ trình phát triển năng lực và nghề nghiệp.",
+    "Cơ hội phát triển và thăng tiến theo năng lực trong môi trường trẻ, chuyên nghiệp."
+  ],
+  "description": "* Xây dựng và phát triển hệ thống dữ liệu (data pipeline, data architecture, ETL).\n* Thu thập, xử lý và chuyển đổi dữ liệu thô thành dữ liệu có giá trị phục vụ business.\n* Thiết kế data model, phân tích yêu cầu và triển khai giải pháp dữ liệu end-to-end.\n* Phát hiện insight/pattern từ dữ liệu và cải thiện chất lượng dữ liệu hiện có.\n* Xử lý sự cố kỹ thuật, tối ưu hệ thống và phối hợp với các team liên quan.",
+  "requirements_text": "* Tốt nghiệp Đại học chuyên ngành CNTT hoặc liên quan\n* Tối thiểu 3 năm kinh nghiệm Data Engineer (data pipeline, data modeling, ETL).\n* Thành thạo SQL, có kinh nghiệm làm việc với MS SQL Server, làm với cloudera platform hoặc các platform tương tự (không dùng impala)\n* Hiểu rõ về data architecture, data structures và tối ưu dữ liệu.\n* Tech stack tương đương: Spark (Trino/Presto, Hive with Tez Engine), Airflow (Prefect, Dagster)\n* BẮT BUỘC giao tiếp Tiếng Anh tốt để giao tiếp với client\nKiến thức ngành\nIT - Phần mềm, Ngân hàng\nKỹ năng cần có\nPython, SQL"
+}

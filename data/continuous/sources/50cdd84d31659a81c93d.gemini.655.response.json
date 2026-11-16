@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Editor Video\",\n  \"company_name\": null,\n  \"job_category\": \"Photographer/Video Editor\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Nghệ An\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-editor-video/2358205.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Công nghệ thông tin, kinh tế, kỹ thuật\"\n  ],\n  \"technical_skills\": [\n    \"Kỹ Năng Biên Tập Video\",\n    \"Kỹ Năng Cắt Ghép Video\",\n    \"phần mềm chỉnh sửa hình ảnh\"\n  ],\n  \"soft_skills\": [\n    \"Tỉ mỉ\",\n    \"cẩn thận\",\n    \"Sáng tạo\",\n    \"chí tiến thủ\",\n    \"kiên trì\",\n    \"chăm chỉ\",\n    \"tự giác có trách nhiệm với công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"7 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 16:00)\\nNghỉ chủ nhật và thứ 7 tuần thứ 3 trong tháng.\",\n  \"benefits\": [\n    \"Môi trường năng động, sáng tạo.\",\n    \"Thưởng lễ, tết, sinh nhật, hiếu hỉ..\",\n    \"Đầy đủ chế độ BHXH, nghỉ phép, nghỉ lễ...\"\n  ],\n  \"description\": \"- Biên tập và hoàn thiện Video trên các kênh Youtube;\\n- Thiết kế thumbnail cho kênh;\\n- Phân tích từ khóa, SEO kênh;\\n- Thực hiện các yêu cầu công việc Quản lý và trưởng nhóm.\",\n  \"requirements_text\": \"- Giới tính: Nam/N\\n- Độ tuổi : Sinh năm 1997 trở lên; đặc biệt tạo điều kiện việc làm ngay cả lúc các bạn đang chờ bằng tốt nghiệp;  \\n-Tốt nghiệp đại học trở lên, đa dạng các ngành học: Công nghệ thông tin, kinh tế, kỹ thuật...  \\n- Có kỹ năng máy tính, thành thạo các phần mềm chỉnh sửa hình ảnh là một lợi thế.\\n- Có chí tiến thủ, kiên trì, chăm chỉ, tự giác có trách nhiệm với công việc.\\n- Thành thạo tiếng Anh là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4579,
+    "output_tokens": 701,
+    "total_tokens": 5280,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

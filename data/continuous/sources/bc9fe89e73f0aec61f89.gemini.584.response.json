@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tư Vấn Tuyển Sinh (Được Đào Tạo) - Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn tuyển sinh/khoá học\",\n  \"sub_category\": null,\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tu-van-tuyen-sinh-duoc-dao-tao-khong-yeu-cau-kinh-nghiem/2345797.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"năng động\",\n    \"chăm chỉ\",\n    \"đam mê kinh doanh\",\n    \"yêu thích công việc tư vấn chăm sóc học viên, khách hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc 8h/ngày, nghỉ thứ 2 mỗi tuần\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Lương cơ bản + Lương trách nhiệm + Lương thưởng (7 - 15 triệu/tháng)\",\n    \"Thưởng theo quý, theo tháng\",\n    \"Thời gian làm việc 8h/ngày, nghỉ thứ 2 mỗi tuần\",\n    \"Hỗ trợ ăn tối\",\n    \"Đóng BHXH, BHYT, BHTN\",\n    \"Cơ hội thăng tiến thành Trưởng phòng tư vấn tuyển sinh, quản lý trung tâm\",\n    \"Du lịch, lương thưởng tháng 13\",\n    \"Môi trường làm việc thân thiện, lành mạnh\"\n  ],\n  \"description\": \"Tham gia các hoạt động tuyển sinh\\nGiới thiệu và tư vấn chương trình đào tạo các khóa học IELTS và khóa học cho trẻ em từ 3 - 15 tuổi\\nChủ động liên hệ học viên tiềm năng theo danh sách được cung cấp hoặc qua điện thoại, email, gặp trực tiếp tại trung tâm.\\nTham gia tuyển chọn và đào tạo nghiệp vụ cho nhân viên mới, đối tác tuyển sinh mới.\\nChịu trách nhiệm về hiệu quả công việc với quản lý trực tiếp.\\nNguồn data có sẵn hoặc tự tìm kiếm thêm khách hàng.\",\n  \"requirements_text\": \"Tốt nghiệp Trung học phổ thông trở lên.\\nTuổi từ 21 đến 35.\\nKhông yêu cầu kinh nghiệm, được đào tạo.\\nKhông nói ngọng, nói lắp.\\nƯu tiên ứng viên năng động, chăm chỉ và đam mê kinh doanh.\\nYêu thích công việc tư vấn chăm sóc học viên, khách hàng.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5207,
+    "output_tokens": 747,
+    "total_tokens": 5954,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giám Sát An Toàn Lao Động - HSE\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Kỹ sư an toàn lao động (HSE)\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"Đắk Lắk, Tây Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-sat-an-toan-lao-dong-hse/2358236.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Bảo hộ lao động\",\n    \"Kỹ thuật xây dựng\",\n    \"Chứng chỉ huấn luyện ATLĐ\"\n  ],\n  \"technical_skills\": [\n    \"Huấn luyện ATLĐ\",\n    \"Giám Sát An Toàn Lao Động\",\n    \"Kiểm tra thiết bị công trường\",\n    \"Lập Báo Cáo\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"quyết đoán\",\n    \"có tinh thần trách nhiệm cao\",\n    \"chịu được áp lực công trường\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"14 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Thời gian làm việc theo Công trình\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Thưởng Lễ, Tết\",\n    \"lương tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\"\n  ],\n  \"description\": \"• Trực tiếp giám sát việc tuân thủ quy định An toàn lao động (ATLĐ), Vệ sinh môi trường (VSMT) và Phòng cháy chữa cháy (PCCC) tại công trường.\\n• Kiểm tra an toàn máy móc, thiết bị, giàn giáo, hệ thống điện và việc sử dụng đồ bảo hộ (PPE) của công nhân hàng ngày.\\n• Tổ chức phổ biến an toàn đầu ca (Toolbox meeting) và huấn luyện ATLĐ cho nhân sự mới.\\n• Lập biên bản xử lý các vi phạm về an toàn và đình chỉ thi công ngay lập tức nếu phát hiện nguy cơ mất an toàn cao.\\n• Lập báo cáo, nhật ký công tác ATLĐ định kỳ theo yêu cầu của Ban chỉ huy công trường.\",\n  \"requirements_text\": \"• Tốt nghiệp Trung cấp trở lên chuyên ngành Bảo hộ lao động, Kỹ thuật xây dựng hoặc các ngành liên quan.\\n• Có Chứng chỉ huấn luyện ATLĐ còn hiệu lực theo quy định hiện hành.\\n• Kinh nghiệm tối thiểu 02 năm ở vị trí tương đương tại các dự án xây dựng.\\n• Trung thực, quyết đoán, có tinh thần trách nhiệm cao và chịu được áp lực công trường.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5127,
+    "output_tokens": 791,
+    "total_tokens": 5918,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

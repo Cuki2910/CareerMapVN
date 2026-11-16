@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Video Editor\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing / Quảng cáo\",\n  \"sub_category\": \"Photographer/Video Editor\",\n  \"industry\": \"Marketing / Quảng cáo\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-video-editor/2357514.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Sinh viên năm 3, 4 các ngành truyền thông, marketing và các ngành liên quan khác\"\n  ],\n  \"technical_skills\": [\n    \"CapCut\",\n    \"Photoshop\",\n    \"Canva\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 2 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được trợ cấp: 2.000.000/tháng\",\n    \"Làm việc trong gen Z, năng động và sáng tạo.\",\n    \"Có cơ hội trở thành nhân viên chính thức.\",\n    \"Được hỗ trợ dấu mộc làm báo cáo tốt nghiệp\"\n  ],\n  \"description\": \"- Quay dựng, chụp ảnh các hoạt động theo yêu cầu của cấp trên\\n- Biên tập, chỉnh sửa, cắt ghép hình ảnh, âm thanh, thành video hoàn chỉnh để đăng trên các nền tảng Facebook, Tiktok,..\\n- Hỗ trợ sáng tạo nội dung video theo kịch bản đã được phê duyệt\\n- Cập nhật Trend, biên tập các Short Video dọc để đăng tải các nền tảng Tiktok, Reels.\",\n  \"requirements_text\": \"- Sinh viên năm 3, 4 các ngành truyền thông, marketing và các ngành liên quan khác\\n- Sử dụng phần mềm chỉnh sửa video cơ bản (như CapCut, Photoshop, Canva).\\n- Ưu tiên các bạn có thể làm fulltime\"\n}\n```",
+  "usage": {
+    "input_tokens": 4597,
+    "output_tokens": 585,
+    "total_tokens": 5182,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

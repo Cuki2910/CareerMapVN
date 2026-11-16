@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Hành Chính, Tư Vấn Hồ Sơ Môi Trường\",\n  \"company_name\": null,\n  \"job_category\": \"Năng lượng / Môi trường\",\n  \"sub_category\": \"Nhân viên môi trường\",\n  \"industry\": \"Năng lượng / Môi trường\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-hanh-chinh-tu-van-ho-so-moi-truong/2354878.html\",\n  \"qualifications\": [\n    \"Đại Học\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\"\n  ],\n  \"soft_skills\": [\n    \"Nhiệt tình\",\n    \"cẩn thận\",\n    \"trung thực\",\n    \"ham học hỏi\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"7 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 11:45)\\n(Nghỉ 2 buổi chiều thứ 7/tháng và các ngày chủ nhật, ngày lễ, tết theo quy định của nhà nước)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Phụ cấp thâm niên\",\n    \"Xăng xe\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"Lập báo cáo đánh giá tác động môi trường (ĐTM), hồ sơ đề xuất cấp Giấy phép môi trường, Đăng ký môi trường ...\\nThực hiện các bản vẽ liên quan hồ sơ môi trường\\nLàm việc với khách hàng, đối tác và cơ quan nhà nước để hoàn thiện thủ tục pháp lý.\\nKhảo sát thực địa, thuyết trình, giải trình hồ sơ khi họp thẩm định.\\nLập báo giá, tư vấn các loại hồ sơ môi trường cho khách hàng\\nPhối hợp với bộ phận tư vấn và thi công của công ty\\nThực hiện các công việc hành chính khác theo sự phân công của lãnh đạo\",\n  \"requirements_text\": \"Tốt nghiệp đại học chuyên ngành Môi trường\\nNắm vững kiến thức về luật Môi trường, nghị định, thông tư liên quan hiện hành;\\nCó từ 6 tháng kinh nghiệm trở lên lập hồ sơ môi trường/hành chính\\nThành thạo AutoCAD, đọc hiểu bản vẽ kỹ thuật tốt\\nNhiệt tình cẩn thận, trung thực và ham học hỏi;\"\n}\n```",
+  "usage": {
+    "input_tokens": 5033,
+    "output_tokens": 753,
+    "total_tokens": 5786,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

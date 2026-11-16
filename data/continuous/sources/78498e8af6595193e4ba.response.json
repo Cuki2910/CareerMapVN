@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Điện / Kỹ Thuật Viên Đấu Nối Tủ Điện Tại Hà Nam (Chấp Nhận Ứng Viên Mới Ra Trường)\",\n  \"company_name\": null,\n  \"job_category\": \"Kỹ sư điện\",\n  \"sub_category\": \"Kỹ thuật viên đấu nối tủ điện\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Ninh Bình\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-ky-thuat-vien-dau-noi-tu-dien-tai-ha-nam-chap-nhan-ung-vien-moi-ra-truong/2350813.html\",\n  \"qualifications\": [\n    \"Trung cấp/Cao đẳng các ngành: Điện – Điện tử, Tự động hóa, Cơ điện,...\"\n  ],\n  \"technical_skills\": [\n    \"Đấu dây và lắp thiết bị điện vào tủ điện theo bản vẽ\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc theo nhóm\",\n    \"Chăm chỉ\",\n    \"nhanh nhẹn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập: 9 – 20 triệu/tháng tùy theo năng lực. Tăng ca hệ số lương 150%\",\n    \"Được đào tạo từ đầu, có cơ hội phát triển lên QC, tổ trưởng kỹ thuật.\",\n    \"Môi trường làm việc ổn định, chuyên nghiệp.\",\n    \"Đóng BHXH, BHYT, BHTN đầy đủ theo quy định.\",\n    \"Chế độ phúc lợi: sinh nhật, lễ Tết, thưởng tháng/quý, du lịch, đồng phục,...\"\n  ],\n  \"description\": \"- Đấu dây và lắp thiết bị điện vào tủ điện theo bản vẽ \\n- Làm việc theo nhóm, được hướng dẫn tận tình từ đầu. \\n- Cơ hội học nghề, nâng tay nghề và phát triển lâu dài.\\n- Phối hợp với các bộ phận sản xuất để hoàn thiện sản phẩm đúng tiến độ.\",\n  \"requirements_text\": \"- Tốt nghiệp Trung cấp/Cao đẳng các ngành: Điện – Điện tử, Tự động hóa, Cơ điện,...\\n- Chưa có kinh nghiệm sẽ được đào tạo bài bản.\\n- Chăm chỉ, nhanh nhẹn, có sức khỏe tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4707,
+    "output_tokens": 695,
+    "total_tokens": 5402,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

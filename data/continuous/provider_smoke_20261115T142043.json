@@ -1,0 +1,41 @@
+{
+  "tested_at": "2026-11-15T14:20:43.912218+07:00",
+  "source": "data/continuous/sources/0009377296c2a86497e7.markdown",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+  "results": [
+    {
+      "provider": "GROQ",
+      "ok": false,
+      "error_type": "ValueError",
+      "error": "Model unavailable: llama-3.3-70b-versatile",
+      "http_status": null,
+      "elapsed_seconds": 0.71
+    },
+    {
+      "provider": "OPENROUTER",
+      "ok": false,
+      "model": "openrouter/free",
+      "models_http_status": 200,
+      "actual_model": "particle-ai/particle-1:free",
+      "usage": {
+        "input_tokens": 6423,
+        "output_tokens": 4000,
+        "total_tokens": 10423,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 0,
+          "cache_creation": 0
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 3126
+        }
+      },
+      "finish_reason": "length",
+      "error_type": "ValueError",
+      "error": "Response is not a JSON object",
+      "http_status": null,
+      "elapsed_seconds": 19.06
+    }
+  ]
+}

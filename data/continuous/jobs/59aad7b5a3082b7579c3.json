@@ -1,0 +1,49 @@
+{
+  "job_title": "Business Intelligence Executive",
+  "company_name": "Trung Tâm Anh Ngữ ILA",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Business Intelligence",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-18",
+  "url": "https://www.topcv.vn/brand/trung-tam-anh-ngu-ila/tuyen-dung/business-intelligence-executive-j2353752.html",
+  "qualifications": [
+    "Bachelor's degree in IT, Information Systems, Statistics, Economics, Business or a related field."
+  ],
+  "technical_skills": [
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Data Modeling",
+    "Power Query",
+    "DAX"
+  ],
+  "soft_skills": [
+    "Communication"
+  ],
+  "languages_required": [
+    "Vietnamese",
+    "English"
+  ],
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)",
+  "benefits": [
+    "Insurances fully provided",
+    "Private insurance will be provided for official staff",
+    "Discount up to 90% English tuition fees for staff and close relatives",
+    "An active, professional, dedicated working environment with experienced managers and friendly colleagues",
+    "Bonding trips and events",
+    "14 day-off per year along with other benefits according to the company's regulations",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Team building, Du lịch hàng năm, Thưởng tháng 13"
+  ],
+  "description": "1. Build reports & dashboards\n* Gather and confirm requirements with business users before building.\n* Build Power BI reports that follow team design and KPI standards.\n* Write SQL (BigQuery) and DAX; build and improve data models.\n* Check report numbers against source data before release.\n* Update reports when source systems change.\n2. Maintain reports\n* Monitor daily refresh; fix or escalate failures quickly.\n* Fix report errors and handle small change requests.\n* Find the root cause of repeated issues and prevent them.\n* Spot unusual data and alert the business users.\n3. Support users\n* Answer user questions and investigate reported issues.\n* Write short guides and run walkthroughs for new reports.\n* Help users find answers on their own, with fewer ad-hoc data requests.",
+  "requirements_text": "* Bachelor's degree in IT, Information Systems, Statistics, Economics, Business or a related field.\n* 1-3 years in BI, data analysis or reporting.\n* Strong Power BI knowledge: data modeling, DAX, Power Query and report design.\n* Good SQL skill: joins, CTEs, window functions.\n* Good Excel skill.\n* Careful with numbers; checks data before sharing.\n* Clear communication with non-technical users, in Vietnamese and English.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nSQL, Excel, Power BI, Data Modeling, Power Query, Dax"
+}

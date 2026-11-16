@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Giáo Viên Dạy Toán [Đống Đa, Hà Nội]\",\n  \"company_name\": \"CÔNG TY TNHH TP-EDU\",\n  \"job_category\": \"Giáo dục / Đào tạo\",\n  \"sub_category\": \"Giáo viên Toán\",\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Đống Đa, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giao-vien-day-toan-dong-da-ha-noi/2351419.html\",\n  \"qualifications\": [\n    \"Đại học trở lên\",\n    \"Tốt nghiệp Sư phạm, Bách khoa, hoặc các ngành liên quan đến Toán\"\n  ],\n  \"technical_skills\": [\n    \"Giảng dạy Toán cấp 1 và cấp 2 hoặc cấp 2 và cấp 3\",\n    \"Xây dựng bài giảng - đề thi - tài liệu học tập\"\n  ],\n  \"soft_skills\": [\n    \"Truyền đạt cuốn hút\",\n    \"Có trách nhiệm với học sinh\",\n    \"Có tinh thần trách nhiệm\",\n    \"Sẵn sàng học hỏi\",\n    \"Phối hợp với phụ huynh và đội ngũ học thuật\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10.000.000 đến 30.000.000 VNĐ/tháng tùy năng lực\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 13:30 đến 17:00); Thứ 2 - Thứ 7 (từ 18:00 đến 22:00)\",\n  \"benefits\": [\n    \"Lương: 10.000.000 đến 30.000.000 VNĐ/tháng tùy năng lực\",\n    \"Được training trực tiếp bởi đội ngũ GV 15+ năm kinh nghiệm (đã đào tạo 2.000+ học sinh).\",\n    \"Tham gia BHXH đầy đủ, phúc lợi theo quy định của trung tâm.\",\n    \"Lộ trình thăng tiến rõ ràng lên GV trưởng bộ môn - Quản lý chuyên môn.\"\n  ],\n  \"description\": \"- Giảng dạy Toán cấp 1 và cấp 2, HOẶC dạy Toán cấp 2 và cấp 3 trực tiếp tại lớp theo phân phối chương trình của trung tâm. Lựa chọn khối lớp do ứng viên đề xuất.\\n- Theo dõi tiến độ học tập của học sinh, phối hợp phụ huynh & đội ngũ học thuật.\\n- Tham gia xây dựng bài giảng - đề thi - tài liệu học tập.\\n- Tư vấn lộ trình học tập cho học sinh, phụ huynh\",\n  \"requirements_text\": \"- Tốt nghiệp Sư phạm, Bách khoa, hoặc các ngành liên quan đến Toán.\\n- Đối với giáo viên tiểu học: Ưu tiên có kinh nghiệm dạy tiểu học, dạy thi vào trường chất lượng cao\\n- Đối với dạy THCS và THPT: Ưu tiên đạt điểm 9+, đạt giải HSG, học trường Chuyên (đối với cấp THCS, THPT), hoặc có kinh nghiệm luyện thi CLC (đối với cấp Tiểu học).\\n- Truyền đạt cuốn hút, có trách nhiệm với học sinh.\\n- Có tinh thần trách nhiệm và sẵn sàng học hỏi.\"\n}",
+  "usage": {
+    "input_tokens": 4599,
+    "output_tokens": 4404,
+    "total_tokens": 9003,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3416
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

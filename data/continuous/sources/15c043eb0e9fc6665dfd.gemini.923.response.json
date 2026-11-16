@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Nông Nghiệp\",\n  \"company_name\": null,\n  \"job_category\": \"Nông lâm ngư nghiệp\",\n  \"sub_category\": \"Kỹ thuật viên nông nghiệp/trồng trọt\",\n  \"industry\": \"Nông lâm ngư nghiệp\",\n  \"category\": null,\n  \"location\": \"Bình Dương\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-nong-nghiep-khong-can-kinh-nghiem-lam-viec-tai-binh-duong/2343840.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Tốt nghiệp chuyên ngành liên quan đến nông nghiệp (Trồng trọt, Nông học, Nông nghiệp sạch, Bảo vệ thực vật hoặc Công nghệ sinh học...)\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"chủ động trong công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Bảo hiểm y tế\",\n    \"Bảo hiểm thất nghiệp\",\n    \"Thưởng tháng 13\",\n    \"Thưởng tháng 14\",\n    \"Thưởng Lễ, Tết\",\n    \"Phụ cấp ăn trưa\",\n    \"Phụ cấp xăng xe\",\n    \"Phụ cấp điện thoại\",\n    \"Phụ cấp công tác\",\n    \"Phụ cấp xa nhà\",\n    \"Xét tăng lương định kỳ hàng năm\",\n    \"Du lịch\",\n    \"Team Building\",\n    \"Các chế độ phúc lợi theo quy định Nhà nước\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Tham gia vào chương trình phát triển hồ tiêu bền vững\\n- Hỗ trợ triển khai các chương trình nông nghiệp bền vững cùng nông dân.\\n- Chuẩn bị hồ sơ và phối hợp với đối tác đánh giá dự án theo các yêu cầu tiêu chuẩn bền vững hàng năm\\n- Phối hợp với các bộ phận liên quan để triển khai chương trình mua hàng nông dân hàng năm.\",\n  \"requirements_text\": \"- Trình độ: Tốt nghiệp chuyên ngành liên quan đến nông nghiệp (Trồng trọt, Nông học, Nông nghiệp sạch, Bảo vệ thực vật hoặc Công nghệ sinh học...).\\n- Không yêu cầu kinh nghiệm (ưu tiên có kinh nghiệm)\\n- Giao tiếp tốt và chủ động trong công việc.\\n- Sức khỏe tốt, sẵn sàng đi công tác (khi cần).\\n- Có tiếng anh là 1 lợi thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 5054,
+    "output_tokens": 771,
+    "total_tokens": 5825,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

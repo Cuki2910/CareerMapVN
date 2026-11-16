@@ -1,0 +1,54 @@
+{
+  "job_title": "Data Analyst",
+  "company_name": "CÔNG TY TNHH UNIMOB VIỆT NAM",
+  "job_category": "IT",
+  "sub_category": "Data Analyst",
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-05",
+  "url": "https://www.topcv.vn/viec-lam/data-analyst/2180185.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "BigQuery",
+    "Looker Studio",
+    "Data Studio",
+    "ETL",
+    "Python",
+    "API",
+    "Airflow",
+    "Machine Learning"
+  ],
+  "soft_skills": [
+    "Kỹ năng giao tiếp và trình bày tốt",
+    "Tinh thần làm việc nhóm tốt",
+    "Sẵn sàng thích nghi với môi trường làm việc năng động và thay đổi liên tục của game di động"
+  ],
+  "languages_required": null,
+  "experience_required": 2.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",
+  "benefits": [
+    "Môi trường làm việc trẻ trung, năng động và sáng tạo.",
+    "Cơ hội tham gia vào các dự án game mới và độc đáo.",
+    "Được làm việc cùng đội ngũ giàu kinh nghiệm trong lĩnh vực marketing game.",
+    "Làm việc 5 ngày/tuần từ thứ 2 đến thứ 6 (nghỉ T7, CN).",
+    "Được làm việc trong môi trường trẻ, chuyên nghiệp và sáng tạo.",
+    "Xét tăng lương 2 lần/năm.",
+    "Chế độ thưởng theo hiệu quả, lợi nhuận hấp dẫn.",
+    "Du lịch 2 lần mỗi năm, sinh nhật, party, hoạt động ngoại khóa để gắn kết các thành viên trong công ty.",
+    "Chế độ phúc lợi cao, cơ hội phát triển bản thân và theo đuổi đam mê.",
+    "Đóng bảo hiểm sau thử việc. Công ty chi trả toàn bộ chi phí trích đóng bảo hiểm",
+    "Công ty hỗ trợ cơm trưa hoàn toàn, khám sức khoẻ định kỳ."
+  ],
+  "description": "* Tiến hành thu thập, xây dựng pipeline và phân tích dữ liệu từ các nguồn dữ liệu liên quan đến hoạt động kinh doanh của công ty.\n* Đề xuất và thiết kế các báo cáo, bảng điều khiển (dashboard), các chỉ số có ý nghĩa dựa trên nhu cầu của các bộ phận trong công ty để hỗ trợ quyết định kinh doanh.\n* Xây dựng và duy trì các báo cáo tự động, đảm bảo tính chính xác và đáng tin cậy của dữ liệu.\n* Phân tích xu hướng về hoạt động game, chi tiêu người dùng, sự kiện trong game, và các chỉ số kỹ thuật khác, đưa ra insight để phục vụ cho việc cải tiến và phát triển.\n* Đề xuất các cải tiến và thay đổi để tối ưu hóa hiệu suất game và tăng hiệu quả kinh doanh.\n* Đề xuất tiến hành A/B test để tìm ra hướng cải tiến chính xác\n* Dự đoán để phục vụ và tăng độ chính xác cho marketing trong việc chạy campaign",
+  "requirements_text": "* Tối thiểu 2 năm kinh nghiệm làm việc trong vai trò Data Analyst trong ngành mobile Game.\n* Hiểu biết sâu về các phương thức phân tích dữ liệu và có kinh nghiệm trong việc sử dụng các công cụ như BigQuery và Looker Studio (Data Studio).\n* Biết xây dựng luồng ETL dữ liệu, chuẩn hoá và làm sạch dữ liệu.\n* Có khả năng sử dụng Python để xử lý dữ liệu và connect API\n* Có khả năng hiểu và giải thích các kết quả phân tích một cách rõ ràng và logic.\n* Kỹ năng giao tiếp và trình bày tốt để truyền đạt thông tin dữ liệu một cách dễ hiểu.\n* Tinh thần làm việc nhóm tốt.\n* Sẵn sàng thích nghi với môi trường làm việc năng động và thay đổi liên tục của game di động.\n* Ưu tiên ứng viên có kiến thức về Airflow và Machine Learning"
+}

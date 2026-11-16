@@ -1,0 +1,22 @@
+{
+  "records": 2,
+  "structurally_valid": 2,
+  "source_sections_preserved": 2,
+  "records_needing_review": 0,
+  "checks": [
+    {
+      "index": 1,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-tai-ha-noi/2353068.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 2,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-tong-hop-du-lieu-va-bao-cao-quan-tri-thu-nhap-18-25m/2353914.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    }
+  ]
+}

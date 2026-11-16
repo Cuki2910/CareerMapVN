@@ -1,0 +1,55 @@
+{
+  "job_title": "Data Lead (Đạt Yêu Cầu Khi Có Kinh Nghiệm Làm Product / Senior Data Engineer) Lương Upto 45 Triệu",
+  "company_name": null,
+  "job_category": "Data Engineer",
+  "sub_category": "Senior Data Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-30",
+  "url": "https://www.topcv.vn/viec-lam/data-lead-dat-yeu-cau-khi-co-kinh-nghiem-lam-product-senior-data-engineer-luong-upto-45-trieu/2346156.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "SQL",
+    "ETL",
+    "Data lake",
+    "ELT",
+    "Data Pipelines",
+    "Data Warehouse (DW)",
+    "Batch processing",
+    "Streaming processing"
+  ],
+  "soft_skills": [
+    "Quản lý",
+    "Tư duy hệ thống",
+    "Tỉ mỉ",
+    "cẩn thận"
+  ],
+  "languages_required": null,
+  "experience_required": 3.0,
+  "salary": "Tới 45 triệu",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)\n* Làm việc 7,5H/ngày, 5 ngày/ tuần, nghỉ trưa 90 phút",
+  "benefits": [
+    "Thưởng mốc thành tựu game, thưởng lễ tết, chia sẻ lợi nhuận... mức thu nhập hàng năm dao động từ 14-16 tháng lương.",
+    "Cơ hội giải quyết các nhiệm vụ đa dạng và có tính thách thức cao.",
+    "Môi trường làm việc rất cởi mở, thân thiện.",
+    "Mức lương cạnh tranh, điều chỉnh hàng năm.",
+    "Trang bị công cụ làm việc hiện đại, đáp ứng đầy đủ cho các yêu cầu công việc.",
+    "Thưởng cho các ngày nghỉ lễ, tết, quà sinh nhật.",
+    "Du lịch cùng công ty, Khám sức khỏe định kỳ hàng năm, Teambuilding hàng quý...",
+    "Quỹ học tập và phát triển Intalent hàng năm, quỹ chăm sóc sức khoẻ Incare ( gym, bơi lội, bảo hiểm sức khoẻ...)",
+    "CLB bóng bàn, Bi-a, cầu lông, liên quân, máu...",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm, Thưởng tháng 13, Thưởng hiệu quả làm việc",
+    "Được cấp Máy tính"
+  ],
+  "description": "* Quản lý, dẫn dắt và xây dựng đội ngũ Data Engineer, phân công công việc và định hướng phát triển chuyên môn cho các thành viên trong team.\n* Xây dựng, vận hành và tối ưu data pipeline từ các sản phẩm app, game, web và hệ thống nội bộ.\n* Thiết kế luồng xử lý dữ liệu theo mô hình ETL/ELT\n* Đảm bảo hệ thống dữ liệu có tính ổn định, khả năng mở.rộng và hiệu suất xử lý cao.\n* Chuẩn hóa, lưu trữ và tổ chức dữ liệu phục vụ phân tích sản phẩm, marketing, vận hành và quản trị.\n* Kiểm soát chất lượng dữ liệu, đảm bảo dữ liệu đầy đủ, chính xác, nhất quán và đúng tần suất.\n* Phối hợp với các team Product, Marketing, Engineering và Data để triển khai tracking, đo lường và phân tích hành vi người dùng.\n* Chủ động cập nhật công nghệ, công cụ và xu hướng mới trong lĩnh vực dữ liệu, app/game mobile và AI.",
+  "requirements_text": "Chuyên môn:\n* Đã từng thiết kế kiến trúc dữ liệu/data model của hệ thống hoặc đã có kinh nghiệm giải quyết những bài toán tối ưu phức tạp.\n* Có khả năng xây dựng 1 giải pháp dữ liệu toàn chỉnh end-to-end (Ví dụ, tích hợp Adjut, a 3rd-party data source) đảm bảo Scalability, Stability, Flexibility, Auditability.\n* Có tư duy user-centric và đánh giá được kết quả đầu ra của Analytics web development và Data Orchestration.\n* Điểm cộng nếu đã làm việc với Analytics Platform.\nCon người:\n* Tư duy hệ thống, user-centric\n* Tỉ mỉ, cẩn thận, luôn tính toán được tối đa các rủi ro.\n* Đã từng quản lý 1 team nhỏ ít nhất 2 người trở lên.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nSQL, ETL, Data lake, ELT, Data Pipelines, Data Warehouse (DW), Batch processing, Streaming processing"
+}

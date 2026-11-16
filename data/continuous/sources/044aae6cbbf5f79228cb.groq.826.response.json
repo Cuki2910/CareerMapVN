@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Bác Sĩ Nha Khoa\",\n  \"company_name\": null,\n  \"job_category\": \"Y tế / Dược phẩm\",\n  \"sub_category\": \"Bác sĩ nha khoa\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Quảng Ninh; Nghệ An\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/bac-si-nha-khoa/998941.html\",\n  \"qualifications\": [\n    \"Đại học trở lên\",\n    \"Răng hàm mặt\",\n    \"CCHN 18 tháng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Khả năng giao tiếp tốt\",\n    \"Kỹ năng tư vấn tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"20 - 60 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:30 đến 18:00); off 1 ngày/tuần hạn chế cuối tuần\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp thâm niên\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"Mô tả công việc \\nLập kế hoạch, triển khai và giám sát thực hiện mục tiêu/KPI theo tháng, quý, năm. \\nNhận chỉ tiêu từ Ban Giám đốc, phân bổ KPI và hướng dẫn nhân viên thực hiện. \\nQuản lý, phân công công việc, đánh giá hiệu suất và kết quả làm việc của nhân sự. \\nTheo dõi, chăm sóc khách hàng theo lịch hẹn và khách hàng tiềm năng. \\nPhối hợp các bộ phận (dịch vụ, thu ngân,...) để tối ưu vận hành và hiệu suất phục vụ. \\nTriển khai thông tin về chương trình khuyến mãi, dịch vụ mới, chính sách nội bộ. \\nTuyển dụng, đào tạo, huấn luyện và phát triển đội ngũ nhân viên. \\nBáo cáo kết quả kinh doanh, phân tích hiệu quả hoạt động và đề xuất cải tiến. \\nXử lý khiếu nại khách hàng, nâng cao chất lượng dịch vụ. \\nQuản lý tài sản, vật tư, đảm bảo sử dụng hiệu quả và đúng quy trình. \\nThực hiện các công việc khác theo yêu cầu của Ban Giám đốc.\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Đại Học trở lên \\n\\nYêu cầu ứng viên \\n- Đại học hoặc tương đương trở lên: Răng hàm mặt, CCHN 18 tháng trở lên\\n- Từ 1-3 năm kinh nghiệm, ưu tiên về chỉnh nha, LCB sẽ thỏa thuận theo kinh nghiệm \\n- Kiến thức về nha khoa và y khoa tổng quát\\n- Khả năng giao tiếp tốt\\n- Kỹ năng tư vấn tốt\\n- Thực hiện công tác vô khuẩn, đúng quy trình nội khoa\"\n}",
+  "usage": {
+    "input_tokens": 4545,
+    "output_tokens": 2365,
+    "total_tokens": 6910,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1582
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

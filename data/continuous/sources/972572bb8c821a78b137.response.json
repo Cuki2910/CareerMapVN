@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giám Đốc Kinh Doanh Ngành Hàng Mỹ Phẩm Hàn Quốc\",\n  \"company_name\": \"Chi nhánh công ty cổ phần dược phẩm trung ương vidipha tại Hà Nội\",\n  \"job_category\": \"Sales Dược/Y tế/Sức khoẻ/Làm đẹp khác\",\n  \"sub_category\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"industry\": \"Bán buôn đồ dùng khác cho gia đình\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-doc-kinh-doanh-nganh-hang-my-pham-han-quoc/2354988.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Facebook Ads\",\n    \"TikTok Ads\"\n  ],\n  \"soft_skills\": [\n    \"Nghiên Cứu Thị Trường\",\n    \"phát triển kinh doanh\",\n    \"Quản Lý Doanh Số\",\n    \"Xây Dựng Chiến Lược Kinh Doanh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương: Thỏa thuận theo năng lực và kinh nghiệm.\",\n    \"Chế độ đãi ngộ hấp dẫn, tương xứng với năng lực và hiệu quả công việc.\",\n    \"Có cơ hội tham gia xây dựng, phát triển ngành hàng mỹ phẩm Hàn Quốc tại VIDIPHA.\"\n  ],\n  \"description\": \"Xây dựng và triển khai kế hoạch phát triển thị trường kinh doanh sỉ, lẻ mỹ phẩm trên toàn quốc.\\nTìm kiếm, mở rộng và phát triển hệ thống đại lý, nhà phân phối, cộng tác viên kinh doanh.\\nQuản lý, chăm sóc và duy trì mối quan hệ với khách hàng sỉ hiện có.\\nXây dựng chính sách bán hàng, chương trình thúc đẩy doanh số phù hợp với từng giai đoạn.\\nĐào tạo, dẫn dắt và phát triển đội ngũ kinh doanh.\\nNghiên cứu thị trường, đề xuất chiến lược phát triển thương hiệu và nâng cao hiệu quả kinh doanh.\",\n  \"requirements_text\": \"Độ tuổi từ 25–45 tuổi (ưu tiên ứng viên thế hệ 8X, 9X, 2K).\\nCó tối thiểu 02 năm kinh nghiệm ở vị trí quản lý kinh doanh hoặc tương đương.\\nƯu tiên ứng viên có kinh nghiệm phát triển thị trường sỉ, lẻ trong ngành mỹ phẩm, làm đẹp hoặc FMCG.\\nAm hiểu các nền tảng kinh doanh online.\\nCó hiểu biết hoặc kinh nghiệm dẫn dắt đội ngũ kinh doanh bán hàng qua các kênh quảng cáo trực tuyến như Facebook Ads, TikTok Ads...\\nCó năng lực quản lý, xây dựng đội nhóm và phát triển hệ thống phân phối.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4978,
+    "output_tokens": 782,
+    "total_tokens": 5760,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,31 @@
+Executing <Task finished name='Task-2' coro=<ContinuousChecks.test_ajax_block_is_detected_even_when_document_status_is_200() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:236> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 1.101 seconds
+Executing <Task finished name='Task-7' coro=<ContinuousChecks.test_categories_rotate_when_current_search_has_no_new_jobs() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:371> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.230 seconds
+Executing <Task finished name='Task-16' coro=<ContinuousChecks.test_discovery_block_cooldown_survives_restart() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:311> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.118 seconds
+Executing <Task finished name='Task-36' coro=<ContinuousChecks.test_duplicate_and_blocked_pages_are_not_new_results() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:220> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.170 seconds
+Executing <Task finished name='Task-55' coro=<ContinuousChecks.test_pagination_clicks_next_in_same_session_and_stops() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:199> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.351 seconds
+Executing <Task finished name='Task-70' coro=<ContinuousChecks.test_router_all_errors_preserve_pending_job() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:152> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 37.342 seconds
+Failed https://example.com/blocked (attempt 1/3): HTTP 403
+Failed https://example.com/blocked (attempt 2/3): HTTP 403
+Failed https://example.com/blocked (attempt 3/3): HTTP 403
+Failed https://example.com/job (attempt 1/3): The model did not return a JSON object
+Failed https://example.com/job (attempt 2/3): The model did not return a JSON object
+Failed https://example.com/job (attempt 3/3): The model did not return a JSON object
+Executing <Task finished name='Task-197' coro=<CrawlerChecks.test_rate_limits_auth_and_ordinary_forbidden_do_not_use_fallback() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_llm_extract.py:86> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.167 seconds
+Executing <Task finished name='Task-229' coro=<CrawlerChecks.test_scrapling_rejects_errors_and_challenge_content() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_llm_extract.py:116> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.238 seconds
+----------------------------------------------------------------------
+Ran 64 tests in 56.600s
+
+OK
+Saved https://example.com/job -> /var/folders/kn/n36cb2ms21g485dsx4ffk0p80000gn/T/tmp9yj16zbt/results.json
+Completed 1/2 URLs; failed: 1
+Completed 0/1 URLs; failed: 1
+Saved https://example.com/job -> /var/folders/kn/n36cb2ms21g485dsx4ffk0p80000gn/T/tmp15f8u4lc/results.json
+Completed 1/1 URLs; failed: 0
+Skipping completed URL: https://example.com/job
+Completed 1/1 URLs; failed: 0
+Skipping completed URL: https://example.com/job
+Completed 1/1 URLs; failed: 0
+Saved https://example.com/new -> /var/folders/kn/n36cb2ms21g485dsx4ffk0p80000gn/T/tmps5j34512/results.json
+Completed 1/1 URLs; failed: 0
+Skipping completed URL: https://example.com/new
+Completed 1/1 URLs; failed: 0

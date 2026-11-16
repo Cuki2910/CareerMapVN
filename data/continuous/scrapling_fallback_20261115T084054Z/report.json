@@ -1,0 +1,75 @@
+{
+  "offline_replay": [
+    {
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dien-tu-tu-dong-hoa-12-15tr-thang-nghi-t7-cn/2351369.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352470.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/ky-su-co-dien-mep-engineer-chap-nhan-sinh-vien-moi-ra-truong-chua-co-kinh-nghiem/2352360.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/brand/altiuslink/tuyen-dung/nhan-vien-cham-soc-khach-hang-dich-vu-van-chuyen-san-tmdt-khong-yeu-cau-kinh-nghiem-thu-viec-100-luong-cung-co-phu-cap-dao-tao-tai-ho-chi-minh-j2349385.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/brand/ipa/tuyen-dung/chuyen-vien-cao-cap-phan-tich-tai-chinh-kinh-doanh-j2198361.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-khach-hang-ca-nhan-tu-van-the-tin-dung-tai-q10-ho-chi-minh-luong-cung-tu-12-den-22-trieu-phu-cap-hoa-hong-tong-thu-nhap-tu-40-den-50-trieu/2340386.html",
+      "differences": [],
+      "passed": true
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/quan-ly-fb-chuoi-cafe-cao-cap-thu-nhap-tu-15-trieu/2348552.html",
+      "differences": [],
+      "passed": true
+    }
+  ],
+  "events": [
+    {
+      "event": "crawl_fallback_started",
+      "engine": "scrapling",
+      "reason": "Crawl failed (HTTP 307): Synthetic test: Cloudflare JS challenge"
+    },
+    {
+      "event": "crawl_fallback_succeeded",
+      "engine": "scrapling",
+      "markdown_characters": 201863
+    }
+  ],
+  "live_title": "Kỹ Sư Thiết Kế Phần Cơ (Dự Án Nhật) Tại Hồ Chí Minh",
+  "live_qualifications": [
+    "Tốt nghiệp ĐH liên quan ngành Kỹ thuật."
+  ],
+  "live_schema_valid": true,
+  "primary_block_was_synthetic": true,
+  "real_scrapling_request": true,
+  "active_cloudflare_solving_proven": false,
+  "llm_calls": 0
+}

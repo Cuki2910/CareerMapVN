@@ -1,0 +1,54 @@
+{
+  "job_title": "Director Of Data & AI",
+  "company_name": "Công ty Cổ phần Công nghệ KiotViet",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-13",
+  "url": "https://www.topcv.vn/viec-lam/director-of-data-ai/2357771.html",
+  "qualifications": [
+    "Master’s or Ph.D. in Computer Science, Data Science, Mathematics, Statistics, Economics, or a related field."
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "MLOps",
+    "LLMs",
+    "Generative AI",
+    "data architecture"
+  ],
+  "soft_skills": [
+    "strategic thinking",
+    "business acumen",
+    "leadership",
+    "communication",
+    "stakeholder management"
+  ],
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 5.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 ()",
+  "benefits": [
+    "Competitive, market-leading salary, negotiable based on experience.",
+    "Annual compensation review and performance-based 13th-month salary.",
+    "Performance bonus of up to two months’ salary.",
+    "Full statutory insurance, annual health check-up, and premium health insurance according to company policy.",
+    "Additional employee and family benefits.",
+    "Employee Stock Ownership Plan (ESOP) in accordance with company policy.",
+    "Benefits",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Bảo hiểm sức khỏe ngưởi thân, Khám sức khỏe định kỳ, Thưởng cổ phần, Thưởng tháng 13, Thưởng hiệu quả làm việc"
+  ],
+  "description": "1. Data & AI Strategy\n* Define and execute the company-wide Data & AI strategy, roadmap, and investment priorities aligned with business objectives.\n* Identify opportunities to drive revenue, customer retention, product innovation, and operational efficiency.\n* Establish the KPI framework for Data & AI initiatives, and measure and report business impact and ROI to leadership on a regular basis.\n* Drive internal AI adoption across departments to improve productivity and build an AI-native way of working company-wide.\n2. Data Platform & Architecture\n* Lead the development of scalable data architecture, data platforms, analytics infrastructure, and data governance frameworks.\n* Ensure data quality, accessibility, security, and reliability across the organization.\n* Build a Single Source of Truth (SSOT) for core business metrics, with clear data ownership, definitions, and lineage.\n* Build a comprehensive, AI-ready metadata and semantic layer that enables secure and consistent data integration with AI agents and automation tools via protocols such as MCP (Model Context Protocol), A2A (Agent-to-Agent), and similar standards.\n3. AI/ML Innovation & Product Development\n* Lead the development and deployment of AI/ML, Generative AI, and AI Agent solutions to enhance KiotViet’s products and internal operations.\n* Establish MLOps and LLMOps practices covering model lifecycle management, evaluation frameworks, monitoring, guardrails, and continuous improvement.\n* Deliver scalable, cost-effective AI solutions with measurable business impact.\n4. Business Partnership & Performance\n* Partner with executive leadership and Product, Engineering, and Business teams to translate business challenges into data-driven solutions.\n* Establish KPIs and measure the business impact and ROI of Data & AI initiatives.\n5. Leadership & Governance\n* Lead and develop a multidisciplinary team of approximately 30 Data Analysts, Data Engineers, and Data Scientists.\n* Manage team performance, budgets, technology investments, and cross-functional collaboration.\n* Ensure data governance, privacy, security, and responsible AI practices.\n* Lead the adoption of an AI-SDLC (AI-driven Software Development Lifecycle) across the team, embedding AI coding agents and tools throughout requirements, design, coding, testing, review, and operations to accelerate delivery while maintaining quality, security, and maintainability",
+  "requirements_text": "* Master’s or Ph.D. in Computer Science, Data Science, Mathematics, Statistics, Economics, or a related field.\n* Proven experience in Data Science, Machine Learning, Data Engineering, or related fields, including team leadership.\n* Strong expertise in data architecture, data platforms, analytics, AI/ML, and modern AI technologies.\n* Hands-on understanding of Python, SQL, MLOps, Generative AI, and LLMs.\n* Strong strategic thinking, business acumen, and ability to translate technology into measurable business outcomes.\n* Excellent leadership, communication, and stakeholder management skills.\n* Experience in SaaS, Retail Tech, POS, E-commerce, or Fintech is an advantage.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nPython, SQL, Machine Learning, MLOps, LLMs, Generative AI, data architecture\nKỹ năng nên có\nFintech, E-commerce, SaaS, POS, Retail Tech"
+}

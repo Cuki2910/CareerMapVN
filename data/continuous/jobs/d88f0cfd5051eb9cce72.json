@@ -1,0 +1,58 @@
+{
+  "job_title": "Data Warehouse Developer",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-26",
+  "url": "https://www.topcv.vn/viec-lam/data-warehouse-developer/2342019.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "SQL",
+    "Stored Procedure",
+    "Function",
+    "Oracle DB",
+    "Apache Doris",
+    "Oracle Data Integrator (ODI)",
+    "DataStage",
+    "Data Services",
+    "Oracle GoldenGate",
+    "IBM Cognos",
+    "Oracle Business Intelligence (OBIEE)",
+    "Power BI",
+    "Tableau"
+  ],
+  "soft_skills": [
+    "Kỷ luật cao",
+    "Tinh thần trách nhiệm",
+    "Sẵn sàng lăn xả",
+    "Chủ động trong công việc"
+  ],
+  "languages_required": null,
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+  "benefits": [
+    "Thu nhập cạnh tranh theo năng lực ứng viên. Lương tháng 13 và thưởng KPI.",
+    "15 ngày phép/năm và các ngày nghỉ Lễ theo quy định.",
+    "Tham gia đào tạo nâng cao chuyên môn và kỹ năng dành cho công việc, thi chứng chỉ chuyên môn quốc tế do Công ty tài trợ.",
+    "Tham gia các hoạt động teambuilding, mừng công và nghỉ mát hàng năm.",
+    "Bảo hiểm sức khỏe FPTCare cho bản thân và cơ hội mua ưu đãi cho người thân. Khám sức khỏe định kỳ hàng năm.",
+    "Môi trường trẻ trung, năng động, hoạt động văn hóa tổng hội phong phú. Điều kiện làm việc hiện đại, văn minh, công cụ phần mềm về quản lý và tác nghiệp tiên tiến nhất.",
+    "Tham gia các hoạt động văn hoá, sự kiện hấp dẫn của Công ty FPT IS và Tập đoàn FPT.",
+    "Xem xét tăng lương hàng năm.",
+    "Chế độ hỗ trợ mua nhà, mua xe cho cán bộ nhân viên."
+  ],
+  "description": "* Tham gia phát triển, nâng cấp và tối ưu hóa hệ thống Kho dữ liệu (Data Warehouse) cho các dự án của công ty.\n* Lập trình, phát triển và tối ưu hóa các luồng xử lý dữ liệu (ETL/ELT) phục vụ việc tích hợp dữ liệu từ nhiều nguồn khác nhau.\n* Thiết kế, tối ưu cấu trúc CSDL (Database Schema/Datamart) đảm bảo hiệu năng và tính mở rộng của hệ thống.\n* Xây dựng các báo cáo, dashboard phân tích dữ liệu phục vụ yêu cầu quản trị và kinh doanh.\n* Nghiên cứu, ứng dụng các công nghệ mới về xử lý dữ liệu lớn (Big Data) và quản trị dữ liệu.",
+  "requirements_text": "* Từ 1 năm kinh nghiệm làm việc ở vị trí Data Warehouse Developer hoặc các vị trí liên quan đến Data/Database.\n* Thành thạo viết SQL, Stored Procedure, Function và tối ưu hóa câu lệnh truy vấn.\n* Có kinh nghiệm về thiết kế CSDL (Relational DB, Data Warehouse Design).\n* Ưu tiên: Có kinh nghiệm làm việc với Oracle DB hoặc Apache Doris.\n* Thành thạo một trong các công cụ ETL/ODI: Oracle Data Integrator (ODI), DataStage, Data Services, Oracle GoldenGate.\n* Có kinh nghiệm sử dụng một trong các công cụ BI/Báo cáo như: IBM Cognos, Oracle Business Intelligence (OBIEE), Power BI, Tableau,...\n* Hiểu biết vững về mô hình Data Warehouse, Datamining và quy trình xử lý dữ liệu lớn (Big Data).\n* Tính kỷ luật cao, có tinh thần trách nhiệm, sẵn sàng lăn xả và chủ động trong công việc.\nKiến thức ngành\nIT - Phần mềm"
+}

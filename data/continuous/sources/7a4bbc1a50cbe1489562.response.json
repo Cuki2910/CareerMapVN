@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Cơ Khí\",\n  \"company_name\": \"CÔNG TY TNHH ECO AUTO GROUP\",\n  \"job_category\": \"Cơ khí\",\n  \"sub_category\": \"Sửa chữa/Bảo trì máy công nghiệp\",\n  \"industry\": \"Bán buôn máy móc, thiết bị và phụ tùng máy khác\",\n  \"category\": null,\n  \"location\": \"Hưng Yên\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-khi-sua-chua-may-xuc-ui-xe-nang-thu-nhap-tu-16-21m-thang-van-phong-tai-hung-yen/2307266.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Bằng lái xe hạng B2 trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sửa chữa máy công trình\",\n    \"Bảo trì máy công nghiệp\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Chịu được áp lực công việc\",\n    \"Sẵn sàng đi công tác/hiện trường\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"16 – 21 triệu đồng/tháng (Lương 14 – 19 triệu đồng + Thưởng KPI 2 triệu đồng)\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2- Thứ 6 (Thứ 7 cách tuần - 8h-17h)\",\n  \"benefits\": [\n    \"Thu nhập: 16 – 21 triệu đồng/tháng (Lương 14 – 19 triệu đồng + Thưởng KPI 2 triệu đồng)\",\n    \"Lương tăng ca: 150% – 200% – 300% theo quy định của pháp luật lao động\",\n    \"Tiền công tác phí: 550.000 – 600.000 đồng/ngày (khi đi công tác/hiện trường)\",\n    \"Trang bị 05 bộ quần áo bảo hộ/năm; 01 đôi giày và 01 mũ bảo hộ/năm\",\n    \"Được đào tạo chuyên môn kỹ thuật theo tiêu chuẩn hãng LiuGong\",\n    \"Tham gia BHXH, BHYT và các chế độ phúc lợi theo quy định của công ty và pháp luật\"\n  ],\n  \"description\": \"- Kiểm tra, chẩn đoán hư hỏng phần cơ khí của máy công trình (động cơ, khung gầm, hệ thống thủy lực, gầm bánh xích/lốp...)\\n- Thực hiện bảo dưỡng, sửa chữa các hạng mục cơ khí theo đúng quy trình kỹ thuật của hãng LiuGong\\n- Phối hợp với Nhân viên vật tư để chuẩn bị phụ tùng, vật tư phục vụ sửa chữa\\n- Lập biên bản, báo cáo kỹ thuật sau mỗi lần sửa chữa, bảo dưỡng\\n- Hướng dẫn khách hàng vận hành, bảo quản máy đúng cách\\n- Hỗ trợ xử lý sự cố cơ khí khẩn cấp tại hiện trường khi được phân công\",\n  \"requirements_text\": \"Yêu cầu:\\nDưới 1 năm kinh nghiệm chuyên môn  Trung cấp trở lên\\n\\nYêu cầu ứng viên\\n- Có kinh nghiệm và được đào tạo ngành cơ khí sửa chữa ô tô hoặc máy công trình\\n- Có bằng lái xe hạng B2 trở lên\\n- Cẩn thận, trung thực, chịu được áp lực công việc và sẵn sàng đi công tác/hiện trường khi cần\\n- Ưu tiên ứng viên đã có kinh nghiệm sửa chữa máy công trình, ô tô tải, xe cơ giới\"\n}",
+  "usage": {
+    "input_tokens": 4688,
+    "output_tokens": 2448,
+    "total_tokens": 7136,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1576
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

@@ -1,0 +1,55 @@
+{
+  "job_title": "Thưc Tập Sinh Ai – COMPUTER VISION (AI INTERN)",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "Công nghệ kỹ thuật",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-13",
+  "url": "https://www.topcv.vn/viec-lam/thuc-tap-sinh-ai-computer-vision-ai-intern/2357244.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "OpenCV",
+    "PyTorch",
+    "TensorFlow",
+    "NumPy",
+    "Pandas"
+  ],
+  "soft_skills": [
+    "tư duy logic",
+    "khả năng tự nghiên cứu và giải quyết vấn đề",
+    "chủ động",
+    "ham học hỏi",
+    "tinh thần trách nhiệm",
+    "khả năng làm việc nhóm"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 0.0,
+  "salary": "Từ 5 triệu",
+  "salary_min": 5.0,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)\n* Thứ 7 làm cách tuần",
+  "benefits": [
+    "Phụ cấp thực tập: 5.000.000 VNĐ/tháng.",
+    "Được đào tạo, hướng dẫn trực tiếp bởi đội ngũ kỹ thuật.",
+    "Được tham gia nghiên cứu và phát triển các dự án AI thực tế của công ty.",
+    "Có cơ hội tiếp cận công nghệ AI, Computer Vision và các mô hình Deep Learning.",
+    "Được hỗ trợ xác nhận thực tập theo quy định của nhà trường.",
+    "Có cơ hội trở thành nhân viên chính thức sau thời gian thực tập nếu đáp ứng yêu cầu công việc."
+  ],
+  "description": "Tham gia nghiên cứu và phát triển các ứng dụng AI, tập trung vào lĩnh vực thị giác máy tính (Computer Vision), cụ thể:\n* Nghiên cứu, phát triển và thử nghiệm các ứng dụng trí tuệ nhân tạo (AI).\n* Nghiên cứu và triển khai các thuật toán xử lý ảnh, nhận diện hình ảnh và vật thể.\n* Tham gia xây dựng, huấn luyện và đánh giá các mô hình Machine Learning/Deep Learning.\n* Thu thập, xử lý, gán nhãn và chuẩn hóa dữ liệu hình ảnh phục vụ huấn luyện mô hình.\n* Tham gia phát triển các ứng dụng:\n* Image Classification – Phân loại hình ảnh.\n* Object Detection – Nhận diện và phát hiện đối tượng.\n* Image Processing – Xử lý hình ảnh.\n* Defect Detection – Phát hiện lỗi sản phẩm qua hình ảnh.\n* Hỗ trợ kiểm thử, tối ưu và tích hợp mô hình AI vào các ứng dụng thực tế.\n* Thực hiện các nhiệm vụ nghiên cứu và phát triển khác theo sự hướng dẫn của đội ngũ kỹ thuật.",
+  "requirements_text": "* Sinh viên năm 3 chuyên ngành Kỹ sư AI, Trí tuệ nhân tạo, Khoa học máy tính hoặc tương đương.\n* Có kiến thức cơ bản về ngôn ngữ lập trình Python.\n* Có kiến thức nền tảng về Machine Learning và Deep Learning.\n* Có hiểu biết hoặc đã tìm hiểu về Computer Vision và xử lý ảnh.\n* Ưu tiên ứng viên đã tiếp xúc với các công cụ, thư viện:\n* OpenCV.\n* PyTorch hoặc TensorFlow.\n* NumPy, Pandas.\n* Có tư duy logic, khả năng tự nghiên cứu và giải quyết vấn đề.\n* Chủ động, ham học hỏi, có tinh thần trách nhiệm và khả năng làm việc nhóm.\n* Ưu tiên ứng viên có đồ án, sản phẩm demo hoặc dự án cá nhân liên quan đến AI/Computer Vision.\nKiến thức ngành\nCông nghệ kỹ thuật, IT - Phần mềm\nKỹ năng cần có\nXử Lý Ảnh (image Processing)\nKỹ năng nên có\nkỹ năng nghiên cứu"
+}

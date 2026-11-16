@@ -1,0 +1,50 @@
+{
+  "job_title": "Data Engineer",
+  "company_name": "Công ty TNHH Vietnam Concentrix Services",
+  "job_category": "Data Engineering",
+  "sub_category": "Data Engineer",
+  "industry": null,
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-28",
+  "url": "https://www.topcv.vn/brand/concentrixservices/tuyen-dung/data-engineer-j2344272.html",
+  "qualifications": [
+    "Cao Đẳng trở lên"
+  ],
+  "technical_skills": [
+    "SQL",
+    "ETL/ELT",
+    "Data Warehouse",
+    "Semantic Models",
+    "Semantic Layers",
+    "MPP",
+    "Python"
+  ],
+  "soft_skills": [
+    "problem-solving",
+    "communication"
+  ],
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 2.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 7 (từ 08:00 đến 18:30)",
+  "benefits": [
+    "Competitive salary and performance-based bonus.",
+    "13th-month salary & 100% salary during probation + 14 annual leave days",
+    "Full social, health, and Aon health insurance",
+    "Lunch and parking support",
+    "Clear career path and growth opportunities in a professional, dynamic environment",
+    "Opportunity to work with top industry experts and talented colleagues",
+    "Transparent, trustworthy, and inspiring workplace culture"
+  ],
+  "description": "• Develop and maintain data pipelines and existing data solutions.\n• Monitor data processes and support troubleshooting when data issues occur.\n• Work with data models and semantic models/layers to support reporting and analytics.\n• Work with large datasets and MPP (Massively Parallel Processing) -based data platforms.\n• Develop and optimize SQL queries and data transformations.\n• Support ETL/ELT processes and Data Warehouse activities.\n• Work closely with Data/BI and business teams to understand requirements and provide\nappropriate data solutions.\n• Ensure data accuracy, quality, and system reliability.",
+  "requirements_text": "• 2+ years of experience in Data Engineering, BI, or a related field.\n• Good knowledge of SQL and databases.\n• Experience with ETL/ELT, data pipelines, or Data Warehouse.\n• Experience or understanding of Semantic Models / Semantic Layers.\n• Familiarity with MPP or large-scale data processing is preferred.\n• Experience in maintaining or supporting existing data systems is a plus.\n• Knowledge of Python is preferred but not mandatory.\n• Good problem-solving and communication skills.\n• Able to communicate in English in a working environment."
+}

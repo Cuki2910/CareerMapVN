@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kĩ Sư Xây Dựng\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Kỹ sư an toàn lao động (HSE)\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-15\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ki-su-xay-dung/2343407.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Đọc Bản Vẽ\",\n    \"Xây Trát\",\n    \"Chống Thấm\",\n    \"Cốp pha\",\n    \"Quản lý thi công xây dựng nhà xưởng công nghiệp\",\n    \"Quy trình thi công bê tông\",\n    \"Cốt thép\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": [\n    \"Tiếng Trung Đọc hiểu\",\n    \"Tiếng Trung\",\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"20 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\",\n    \"Trợ cấp đi lại, điện thoại, nhà ở, ăn, tiền tăng ca\",\n    \"Chế độ tăng lương rõ ràng\",\n    \"Tham gia BHXH, BHYT, BHTN và các chế độ phúc lợi khác của công ty\",\n    \"Lương thưởng theo tình hình kinh doanh của công ty\",\n    \"Khám sức khỏe định kì: 1 lần/ năm\",\n    \"Ăn trưa\",\n    \"Xăng xe\",\n    \"Cước điện thoại\"\n  ],\n  \"description\": \"Quản lý, giám sát thi công xây dựng nhà xưởng công nghiệp, đảm bảo chất lượng, tiến độ và an toàn.\\nQuản lý nhà thầu phụ, tổ đội nhân công và vật liệu tại công trường.\\nKiểm tra bản vẽ, khối lượng thi công, hồ sơ nghiệm thu và thanh toán.\\nPhối hợp với chủ đầu tư, tư vấn giám sát và các nhà cung cấp địa phương.\\nKiểm soát chất lượng thi công, xử lý các vấn đề phát sinh tại hiện trường.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn Từ 35 tuổi trở xuống Cao Đẳng trở lên Tiếng Trung Đọc hiểu\\nChấp nhận sinh viên mới ra trường không có kinh nghiệm\\nBiết đọc bản vẽ, am hiểu quy trình thi công bê tông, cốt thép, cốp pha, xây trát và chống thấm.\\nƯu tiên Tiếng Trung,Tiếng Anh giao tiếp.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4887,
+    "output_tokens": 757,
+    "total_tokens": 5644,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

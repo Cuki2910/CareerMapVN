@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phụ Bếp Full Time/Part Time - Không Yêu Cầu Kinh Nghiệm - Lương Từ 8-10 Triệu - Tại Đội Cấn\",\n  \"company_name\": \"CÔNG TY TNHH DỊCH VỤ ĂN UỐNG A-STYLE VIỆT NAM\",\n  \"job_category\": \"Phụ bếp\",\n  \"sub_category\": \"Phụ bếp\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Số 281 Phố Đội Cấn, Phường Ngọc Hà, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phu-bep-full-time-part-time-khong-yeu-cau-kinh-nghiem-luong-tu-8-10-trieu-tai-doi-can-ha-noi/2350442.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"nhanh nhẹn\",\n    \"cẩn thận\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n- Ca sáng: 10:00 đến 13:30 nghỉ trưa, Ca tối: 15:30 đến 21h00  \\n- Ca sáng 11h30-15h30 ,nghỉ trưa ,Ca tối 17h30-22h30\",\n  \"benefits\": [\n    \"Full-time lương từ 8tr -10tr trở lên, Part-time lương từ 30k-45k/giờ\",\n    \"Xoay ca linh hoạt\",\n    \"Được đóng BHXH, BHYT sau 2 tháng thử việc\",\n    \"Thưởng tháng 13\",\n    \"Được nghỉ mỗi tuần 1 ngày\",\n    \"Hỗ trợ ăn ca 35k/ bữa x 2 bữa 1 ngày\",\n    \"Được làm việc trong nhà hàng Nhật Bản truyền thống, môi trường năng động, trẻ trung, chuyên nghiệp\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Sơ chế các nguyên liệu tươi sống, rau củ quả phục vụ cho chế biến món ăn\\n- Hỗ trợ bếp chính, đầu bếp trong việc chế biến món ăn.\\n- Đảm bảo vệ sinh an toàn thực phẩm\\n\\nQuyền lợi ứng viên\\n- Full-time lương từ 8tr -10tr trở lên, Part-time lương từ 30k-45k/giờ\\n- Xoay ca linh hoạt\\n- Được đóng BHXH, BHYT sau 2 tháng thử việc\\n- Thưởng tháng 13\\n- Được nghỉ mỗi tuần 1 ngày \\n- Hỗ trợ ăn ca 35k/ bữa x 2 bữa 1 ngày\\n- Được làm việc trong nhà hàng Nhật Bản truyền thống, môi trường năng động, trẻ trung, chuyên nghiệp\",\n  \"requirements_text\": \"- Chăm chỉ, nhanh nhẹn, cẩn thận\\n- Ưu tiên có kinh nghiệm làm bếp Nhật, ưu tiên bếp lạnh\\n- Chưa có kinh nghiệm sẽ được đào tạo\"\n}\n```",
+  "usage": {
+    "input_tokens": 4807,
+    "output_tokens": 903,
+    "total_tokens": 5710,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,63 @@
+{
+  "job_title": "Kỹ Sư Điện - Tự Động Hóa",
+  "company_name": null,
+  "job_category": "Kỹ thuật",
+  "sub_category": "Kỹ sư tự động hóa",
+  "industry": "Tự động hóa công nghiệp",
+  "category": null,
+  "location": "Hà Nội: Nhà máy Nova Energy, Khu Công nghệ cao Hòa Lạc, Xã Hòa Lạc (Xã Hòa Lạc thuộc huyện Thạch Thất cũ)",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-06",
+  "url": "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa/2351897.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học chuyên ngành Điện – Điện Tử, Tự Động Hóa, Đo lường, Điều khiển, cơ điện tử."
+  ],
+  "technical_skills": [
+    "EPLAN",
+    "AutoCAD",
+    "TIA Portal",
+    "PLC Siemens (S7-1200, S7-1500, S7-400)",
+    "Step7",
+    "SCADA (WinCC)",
+    "HMI (Siemens)",
+    "VBScript/C Script",
+    "Profinet",
+    "Profibus",
+    "Modbus TCP/RTU",
+    "OPC",
+    "Đọc hiểu tài liệu kỹ thuật",
+    "Bóc tách vật tư",
+    "Thiết kế bản vẽ 2D/3D",
+    "Thiết kế bản vẽ điện động lực",
+    "Lập trình PLC",
+    "HMI"
+  ],
+  "soft_skills": [
+    "Giao tiếp trao đổi công việc",
+    "Làm việc chặt chẽ với các phòng ban"
+  ],
+  "languages_required": [
+    "Tiếng Anh (đọc hiểu, giao tiếp trao đổi công việc với đối tác)"
+  ],
+  "experience_required": 1.0,
+  "salary": "12 - 25 triệu",
+  "salary_min": 12.0,
+  "salary_max": 25.0,
+  "salary_avg": "18.5 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\n* Thời gian làm việc từ thứ 2 – thứ 6. Thứ 7 làm việc/nghỉ cách tuần.",
+  "benefits": [
+    "Được hưởng mức lương cạnh tranh theo năng lực và nguyện vọng: từ 12-25 triệu/tháng.",
+    "Đánh giá xét lương định kì hàng năm theo năng lực và hiệu quả làm việc",
+    "Thưởng theo các dịp lễ tết lớn, thưởng cuối năm theo doanh thu dự án tham gia",
+    "Tham gia các chương trình đào tạo, huấn luyện để trau dồi kiến thức nghề nghiệp và sản phẩm",
+    "Có chế độ nghỉ hè, du xuân hàng năm",
+    "Có chế độ công tác phí, xe đưa đón công tác",
+    "Hưởng chế độ phúc lợi đầy đủ, được đóng BHXH, BHYT, BHTN, nghỉ phép theo quy định của Luật lao động hiện hành",
+    "Thời gian làm việc từ thứ 2 – thứ 6. Thứ 7 làm việc/nghỉ cách tuần.",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13"
+  ],
+  "description": "* Phân tích & thiết kế giải pháp\n- Nghiên cứu yêu cầu kỹ thuật, tài liệu thiết kế (P&ID, IO List, Functional Description).\n- Đề xuất và xây dựng giải pháp điều khiển tối ưu, phù hợp với đặc thù hệ thống tự động hóa công nghiệp.\n* Lập trình & phát triển hệ thống điều khiển\n- Thiết kế, lập trình chương trình điều khiển sử dụng PLC Siemens (S7-1200, S7-1500, S7-400) bằng TIA Portal/Step7.\n- Áp dụng theo cấu trúc module hóa (FB/FC), đảm bảo tính logic, ổn định và dễ mở rộng.\n* Xây dựng giao diện vận hành & giám sát\n- Phát triển SCADA (WinCC)/HMI (Siemens), cấu hình Alarm, Trend, Logging, phân quyền User.\n- Viết Script (VBScript/C Script) khi cần để đáp ứng yêu cầu đặc thù của dự án.\n* Tích hợp truyền thông công nghiệp\n- Lập trình kết nối và cấu hình các giao thức Profinet, Profibus, Modbus TCP/RTU, OPC.\n* Kiểm thử & nghiệm thu hệ thống\n- Thực hiện FAT: mô phỏng tín hiệu I/O, kiểm tra interlock, alarm, sequence vận hành.\n- Tham gia chạy thử, commissioning tại hiện trường; xử lý lỗi phát sinh và tinh chỉnh logic theo điều kiện thực tế.\n* Phối hợp liên phòng ban\n- Làm việc chặt chẽ với kỹ sư thiết kế điện, kỹ sư thi công để đảm bảo tiến độ và chất lượng dự án.\n* Tài liệu & đào tạo\n- Soạn thảo FDS, IO List, Operation Manual, Backup chương trình.\n- Hỗ trợ đào tạo và bàn giao hệ thống cho khách hàng.",
+  "requirements_text": "* Tốt nghiệp Đại học chuyên ngành Điện – Điện Tử, Tự Động Hóa, Đo lường, Điều khiển, cơ điện tử.\n* Sử dụng thành thạo các phần mềm: EPLAN, AutoCAD, TIA Portal.\n* Đọc hiểu tài liệu kỹ thuật tốt.\n* Có kinh nghiệm ít nhất 1 năm ở vị trí công việc tương đương là 1 lợi thế lớn.\n* Có khả năng giao tiếp trao đổi công việc với đối tác bằng tiếng Anh.\nKiến thức ngành\nĐiện / Điện tử / Điện lạnh, Công nghệ kỹ thuật\nKỹ năng cần có\nđọc hiểu tài liệu kỹ thuật, Sử Dụng Autocad, Bóc Tách Vật Tư, Thiết kế bản vẽ 2D/3D, Sử dụng Tia portal, Sử dụng EPLAN, Thiết kế bản vẽ điện động lực, Lập trình PLC, HMI"
+}

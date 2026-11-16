@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Video Editor (Chỉ Chọn Ứng Viên Từ 25 Đến 50 Tuổi)\",\n  \"company_name\": null,\n  \"job_category\": \"Photographer/Video Editor\",\n  \"sub_category\": \"Video Editor\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/video-editor-chi-chon-ung-vien-tu-25-den-50-tuoi/2347075.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Adobe Premiere Pro\",\n    \"Adobe After Effects\",\n    \"Sử dụng phần mềm dựng video chuyên nghiệp\"\n  ],\n  \"soft_skills\": [\n    \"Tự tìm hiểu giải quyết vấn đề\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Sáng: 8:00 – 12:00\\nChiều: 13:30 – 17:30\\nNghỉ 01 ngày/tuần.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Các loại bảo hiểm theo quy định.\"\n  ],\n  \"description\": \"Thiết kế các sản phẩm:\\n  * Video giới thiệu doanh nghiệp, sản phẩm và dịch vụ.\\n  * Video quảng cáo và truyền thông.\\n  * Video Youtube, Facebook, TikTok ...\\n  * Video chuyển thể từ bài viết, nội dung có sẵn.\\n  * Video slideshow, hình ảnh kết hợp voice, âm nhạc và graphic.\\n  * Video hướng dẫn, giải thích, kiến thức và nội dung giáo dục.\\n  * Logo chuyển động, đoạn mở đầu, đoạn kết thúc, đồ họa chuyển động ...\\n  * Các công việc phát sinh trong quá trình hoạt động của công ty, các công việc nằm trong khả năng xử lý của cá nhân.\",\n  \"requirements_text\": \"  * Sử dụng thành thạo Adobe Premiere Pro và Adobe After Effects.\\n  * Có khả năng dựng nhiều loại video.\\n  * Biết thay đổi phong cách dựng theo từng mục tiêu.\\n  * Có thể tự tìm hiểu để giải quyết vấn đề khó khăn gặp phải.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4745,
+    "output_tokens": 636,
+    "total_tokens": 5381,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thiết Kế Cơ Khí - Ưu Tiên Sinh Viên Mới Ra Trường (Thu Nhập Trên 10 Triệu)\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Kỹ sư thiết kế cơ khí\",\n  \"industry\": \"Công nghệ kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Số 21 Đường số 12, Khu dân cư Cityland Parkhills, Phường Gò Vấp, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke-co-khi-uu-tien-sinh-vien-moi-ra-truong-thu-nhap-tren-10-trieu-go-vap-tp-hcm/2355232.html\",\n  \"qualifications\": [\n    \"Cao đẳng\",\n    \"Đại học\"\n  ],\n  \"technical_skills\": [\n    \"Đọc Bản Vẽ\",\n    \"Thiết Kế Cơ Khí\",\n    \"Vẽ Kỹ Thuật\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Nhật\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng bổ sung theo năng lực và doanh thu\",\n    \"Cung cấp sẵn máy tính\"\n  ],\n  \"description\": \"- Vẽ kỹ thuật cho chi tiết máy\\n- Làm tài liệu kỹ thuật liên quan theo yêu cầu: Phiếu kiểm hàng, Hướng dẫn lắp đặt, Hướng dẫn sử dụng,...\\n- Chi tiết công việc trao đổi thêm khi phỏng vấn\",\n  \"requirements_text\": \"- Tốt nghiệp cao đẳng, đại học.\\n- Ưu tiên ứng viên tốt nghiệp các ngành liên quan tới kỹ thuật.\\n- Ưu tiên ứng cử viên muốn làm việc cho công ty Nhật, hoặc biết tiếng Nhật cơ bản\\n- Ưu tiên ứng cử viên có tính cẩn thận cao.(Có test khi phỏng vấn)\\n- Ứng viên chưa có kinh nghiệm sẽ được hướng dẫn, đào tạo 100%\\n- Ứng viên không đúng chuyên ngành nhưng muốn chuyển ngành cũng được hoan nghênh\"\n}\n```",
+  "usage": {
+    "input_tokens": 4923,
+    "output_tokens": 698,
+    "total_tokens": 5621,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,61 @@
+{
+  "job_title": "AI Engineer (Junior)",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-30",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer-junior/1439766.html",
+  "qualifications": [
+    "Tốt nghiệp đại học chuyên ngành Khoa học Máy tính, Công nghệ Thông tin, Toán Tin hoặc các ngành liên quan."
+  ],
+  "technical_skills": [
+    "AI",
+    "Big Data",
+    "LLM",
+    "Backend",
+    "Distributed Systems",
+    "Data Pipeline",
+    "Cloud (AWS/GCP/Azure)",
+    "MLOps",
+    "CI/CD"
+  ],
+  "soft_skills": [
+    "Làm việc nhóm",
+    "Giao tiếp",
+    "Giải quyết vấn đề"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 2.0,
+  "salary": "Tới 40 triệu",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+  "benefits": [
+    "1.Cơ hội",
+    "Làm việc trong môi trường trẻ, minh bạch với cơ hội thăng tiến rõ ràng",
+    "Được tạo điều kiện tối đa để phát triển năng lực cá nhân, tập thể và năng suất làm việc",
+    "2. Lương thưởng",
+    "Lương thỏa thuận theo năng lực up to Package 500M/năm. Nhận 100% lương trong quá trình thử việc.",
+    "Lương tháng 13, định kỳ đánh giá hiệu quả công việc hàng năm. Thưởng khi có thành tích xuất sắc.",
+    "Chăm sóc sức khỏe định kỳ hàng năm",
+    "Ngoài các gói bảo hiểm cơ bản theo quy định của Luật Lao Động, bạn còn được tham gia gói bảo hiểm sức khỏe của PTI sau thời gian thử việc",
+    "Được cấp laptop, máy tính làm việc",
+    "Tiền lương làm thêm giờ theo quy định của nhà nước",
+    "Cách thức ứng tuyển: Ứng viên gửi 1 bản CV Tiếng Anh kèm link các dự án đã làm.",
+    "Ngày làm việc: Làm việc từ T2-T6; nghỉ T7, CN, Lễ Tết.",
+    "Thời gian làm việc linh hoạt: 8 tiếng/ngày, trong khoảng 8h00 - 9h00 và kết thúc trong khoảng 17h00 đến 18h00",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm, Thưởng tháng 13",
+    "Được cấp Máy tính, Tai nghe"
+  ],
+  "description": "1. Tổng quan vai trò\n* Chúng tôi tìm kiếm một AI Engineer chịu trách nhiệm thiết kế giải pháp và điều phối các dự án AI. Vai trò này tập trung vào:\n* Chuyển yêu cầu kinh doanh thành bài toán kỹ thuật\n* Định hướng giải pháp và kiến trúc hệ thống\n* Đảm bảo hệ thống AI hoạt động hiệu quả trong production\nTrọng tâm cốt lõi:\n* System Thinking: Thiết kế hệ thống tổng thể\n* Technical Leadership: Ra quyết định kỹ thuật\n* Project Orchestration: Điều phối dự án AI\n2. Trách nhiệm chính\n2.1. Quản trị & Điều phối Chiến lược Dự án\n* Chuyển hóa bài toán: Phân tích yêu cầu từ stakeholders → bài toán kỹ thuật có giá trị\n* Lập lộ trình (Roadmap): Ước lượng thời gian, nhân sự, chi phí, rủi ro\n* Điều phối đa chức năng: Làm việc với Data, Backend, MLOps, Product\n* Quản trị Stakeholder: Báo cáo tiến độ, rủi ro, kết quả\nỨng dụng AI trong quản lý:\n* Sử dụng công cụ AI để:\n* Lập kế hoạch và estimation\n* Theo dõi tiến độ, phát hiện bottleneck\n* Tự động hóa tài liệu, báo cáo, quản lý tri thức\n2.2. Thiết kế Hệ thống & Ra quyết định Kỹ thuật\n* Thiết kế kiến trúc AI end-to-end (Data → Training → Serving → Monitoring)\n* Đưa ra quyết định dựa trên trade-off:\n* Accuracy – Cost – Latency – Scalability\n* Review thiết kế, code, đảm bảo tiêu chuẩn kỹ thuật\n2.3. Đảm bảo Chất lượng & Vận hành Production\n* Thiết lập framework đánh giá model và data quality\n* Đảm bảo hệ thống:\n* Ổn định, scalable, maintainable\n* Xây dựng feedback loop để cải tiến liên tục",
+  "requirements_text": "Tốt nghiệp đại học chuyên ngành Khoa học Máy tính, Công nghệ Thông tin, Toán Tin hoặc các ngành liên quan.\nTư duy & Năng lực Lãnh đạo\n* Systems Thinking mạnh\n* Khả năng breakdown bài toán phức tạp\n* 2–5 năm kinh nghiệm trong các dự án AI/Data\n* Ra quyết định dựa trên metrics và trade-offs\nNăng lực Kỹ thuật & Hạ tầng\n* Hiểu sâu:\n* Backend, Distributed Systems, Data Pipeline\n* Có kinh nghiệm với:\n* Cloud (AWS/GCP/Azure) hoặc On-prem\n* MLOps, CI/CD cho ML\n* Có khả năng:\n* Thiết kế và giám sát hệ thống\nĐiểm cộng\n* Kinh nghiệm với:\n* LLM / Agent systems hoặc ML/DL production\n* Đã triển khai hệ thống AI quy mô lớn\n* Có kinh nghiệm sử dụng AI tools để:\n* Hỗ trợ quản lý dự án\n* Tăng năng suất phát triển\n* Tối ưu quy trình làm việc.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nAI, Tiếng Anh giao tiếp, Big Data, LLM\nKỹ năng nên có\nLàm việc nhóm, Giao tiếp, Giải quyết vấn đề"
+}

@@ -1,0 +1,50 @@
+{
+  "job_title": "AI Engineer - Đãi Ngộ Hấp Dẫn - Đi Làm Ngay - Hà Nội",
+  "company_name": null,
+  "job_category": "AI",
+  "sub_category": "AI Engineer",
+  "industry": null,
+  "category": null,
+  "location": "609 Trương Định, Phường Hoàng Mai, Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-13",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer-dai-ngo-hap-dan-di-lam-ngay-ha-noi/2357866.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "API",
+    "Webhook",
+    "JSON",
+    "Git",
+    "n8n",
+    "Make",
+    "LLM API",
+    "AI Agent",
+    "prompt engineering"
+  ],
+  "soft_skills": [
+    "Tư duy logic",
+    "Chủ động tìm giải pháp",
+    "Làm việc độc lập"
+  ],
+  "languages_required": null,
+  "experience_required": 3.0,
+  "salary": "20 - 30 triệu",
+  "salary_min": 20.0,
+  "salary_max": 30.0,
+  "salary_avg": "25 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)\n* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)\nThứ 7 làm việc online",
+  "benefits": [
+    "Thu nhập thỏa thuận theo năng lực.",
+    "Trực tiếp tham gia triển khai hệ thống AI Agent phục vụ hoạt động kinh doanh thực tế.",
+    "Tiếp cận các mô hình, công nghệ và công cụ AI mới.",
+    "Được trao quyền đề xuất giải pháp và cải tiến hệ thống.",
+    "Các chế độ phúc lợi theo chính sách công ty."
+  ],
+  "description": "1. Triển khai AI Agent\n* Cài đặt, cấu hình và triển khai các AI Agent theo yêu cầu.\n* Tùy chỉnh workflow, prompt, công cụ và kết nối dữ liệu.\n* Tích hợp AI với Google Sheets, Drive, Zalo, các hệ thống bán hàng và nền tảng nội bộ thông qua kết nối được cấp quyền.\n* Xây dựng automation cho các bộ phận content\n2. Vận hành hệ thống\n* Theo dõi, quản lý và duy trì hoạt động của các AI Agent.\n* Kiểm tra log, phát hiện và xử lý lỗi phát sinh.\n* Thiết lập lịch chạy, cảnh báo và cơ chế tự khởi động lại khi có sự cố.\n* Quản lý API, dữ liệu, môi trường chạy và tài nguyên hệ thống.\n* Phối hợp với các phòng ban xử lý những tình huống Agent chưa thực hiện được.\n3. Tối ưu và phát triển\n* Nghiên cứu, thử nghiệm các công cụ AI/Automation mới.\n* Cải tiến chất lượng xử lý, tốc độ và độ ổn định của Agent.\n* Tối ưu chi phí sử dụng API và tài nguyên.\n* Đề xuất giải pháp tự động hóa giúp giảm công việc thủ công.\n* Viết tài liệu hướng dẫn, báo cáo tình trạng hệ thống và kết quả triển khai.",
+  "requirements_text": "* Có 2–3 năm kinh nghiệm về lập trình, Automation, Backend hoặc AI Application.\n* Sử dụng tốt Python, hiểu API, Webhook, JSON và Git.\n* Có kinh nghiệm với n8n, Make hoặc nền tảng tự động hóa tương đương.\n* Hiểu cách sử dụng LLM API, AI Agent và prompt engineering.\n* Có khả năng cài đặt, cấu hình, chạy và debug các tác vụ tự động.\n* Tư duy logic, chủ động tìm giải pháp, có khả năng làm việc độc lập."
+}

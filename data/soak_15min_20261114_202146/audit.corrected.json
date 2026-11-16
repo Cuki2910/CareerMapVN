@@ -1,0 +1,113 @@
+{
+  "records": 15,
+  "structurally_valid": 15,
+  "source_sections_preserved": 15,
+  "records_needing_review": 0,
+  "checks": [
+    {
+      "index": 1,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-tai-ha-noi/2353068.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 2,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-tong-hop-du-lieu-va-bao-cao-quan-tri-thu-nhap-18-25m/2353914.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 3,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-data-governance/2339053.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 4,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-master-data-and-reference-data-management/2354873.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 5,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-ly-chat-luong-du-lieu/2354874.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 6,
+      "url": "https://www.topcv.vn/viec-lam/senior-data-analyst/2349104.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 7,
+      "url": "https://www.topcv.vn/viec-lam/data-analyst/2180185.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 8,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kiem-thu-du-lieu-data-tester/2349045.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 9,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-ban-le/2321660.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 10,
+      "url": "https://www.topcv.vn/viec-lam/truong-nhom-data-analyst/2297124.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 11,
+      "url": "https://www.topcv.vn/viec-lam/data-analyst-leader/2272110.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 12,
+      "url": "https://www.topcv.vn/viec-lam/nhan-vien-phan-tich-kinh-te/805570.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 13,
+      "url": "https://www.topcv.vn/viec-lam/tro-ly-du-an-mang-xu-ly-du-lieu/2354683.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 14,
+      "url": "https://www.topcv.vn/viec-lam/senior-team-leader-business-intelligence-eda-division-hn-ta174/2308458.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    },
+    {
+      "index": 15,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-gia-phan-tich-bong-da/2348206.html",
+      "structural_checks": "passed",
+      "source_sections": "passed",
+      "issues": []
+    }
+  ]
+}

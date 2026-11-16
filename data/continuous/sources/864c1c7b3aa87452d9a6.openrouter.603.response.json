@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kinh Doanh Kênh MT - Đi Làm Ngay - Thu Nhập Upto 20M++\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN CASAVI\",\n  \"job_category\": \"Kinh doanh\",\n  \"sub_category\": \"Kinh doanh kênh MT\",\n  \"industry\": \"Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-kenh-mt-di-lam-ngay-thu-nhap-upto-20m/2305779.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Đàm phán\",\n    \"Xây dựng mối quan hệ\",\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Chịu khó di chuyển theo tuyến phụ trách\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thu nhập khi đạt 100% KPI: 10 - 20 triệu VND; Thu nhập tính theo tỷ lệ đạt KPI; Lương cứng: 8 - 12 triệu VND; Lương cứng không phụ thuộc doanh số\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00); Nghỉ Thứ 7 cách tuần.\",\n  \"benefits\": [\n    \"Thu nhập cạnh tranh và cấu trúc hoa hồng hấp dẫn.\",\n    \"Cơ hội phát triển nghề nghiệp và thăng tiến lên các vị trí Giám sát/ Quản lý kinh doanh trong vòng 1-2 năm.\",\n    \"Môi trường làm việc hỗ trợ và hợp tác.\",\n    \"Xét tăng lương theo năng lực hằng năm.\",\n    \"Chế độ đãi ngộ đầy đủ: phụ cấp, thưởng sản phẩm, thưởng nóng, thưởng lễ tết, quà sinh nhật, du lịch, teambuilding,... đặc biệt thưởng năm không giới hạn theo kết quả kinh doanh.\"\n  ],\n  \"description\": \"Quản lý & Chăm sóc điểm bán: Ghé thăm hệ thống siêu thị/chuỗi cửa hàng theo tuyến; đảm bảo trưng bày đúng quy chuẩn, kiểm tra tồn kho và hình ảnh sản phẩm.\\nThúc đẩy doanh số & Thương lượng: Làm việc trực tiếp với Quản lý/Trưởng ngành hàng siêu thị để đàm phán đơn hàng, đề xuất vị trí trưng bày đẹp và triển khai các chương trình khuyến mại/activation/POSM.\\nQuản lý đơn hàng & Công nợ: Đề xuất đơn hàng tối ưu tồn kho; phối hợp theo dõi giao hàng, doanh thu và công nợ tại tuyến phụ trách.\\nXử lý phát sinh & Báo cáo: Giải quyết sự cố đơn hàng, hàng hóa tại điểm bán và cập nhật nhanh thông tin thị trường/đối thủ.\",\n  \"requirements_text\": \"Yêu cầu:\\n- Dưới 1 năm kinh nghiệm chuyên môn\\n- Tuổi 23 - 30\\n- Trung cấp trở lên\\n\\nYêu cầu ứng viên:\\n- Có kinh nghiệm ở vị trí NVKD kênh MT / Sales Thị trường (Ưu tiên ngành Mẹ & Bé, Điện máy, Gia dụng hoặc FMCG) là một lợi thế.\\n- Kỹ năng: Giao tiếp, đàm phán và xây dựng mối quan hệ tốt với ngành hàng/siêu thị.\\n- Tố chất: Nhanh nhẹn, trung thực, chịu khó di chuyển theo tuyến phụ trách.\\n\\nKiến thức ngành:\\nBán lẻ - Hàng tiêu dùng - FMCG, Thực phẩm / Đồ uống\"\n}",
+  "usage": {
+    "input_tokens": 5185,
+    "output_tokens": 7444,
+    "total_tokens": 12629,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 6212
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

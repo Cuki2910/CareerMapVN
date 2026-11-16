@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Lái Xe Giao Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Lái Xe\",\n  \"sub_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/lai-xe-giao-hang/2349684.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Có bằng lái xe hạng C trở lên\"\n  ],\n  \"soft_skills\": [\n    \"tác phong nghiêm túc\",\n    \"Sức Khỏe Tốt\",\n    \"Có trách nhiệm trong công việc\",\n    \"Thông thạo các tuyến đường khu vực miền Bắc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"18 - 21 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n Làm việc theo chuyến\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\"\n  ],\n  \"description\": \"Lái xe vận chuyển ống nhựa Tiền Phong đến các đại lý và khách hàng khu vực miền Bắc.\\nThực hiện giao nhận hàng hóa đúng lịch trình, đảm bảo an toàn cho người và phương tiện.\\nKiểm tra tình trạng phương tiện trước và sau mỗi chuyến đi, thực hiện bảo quản xe theo quy định.\\nChỉ thực hiện công việc lái xe, không tham gia bốc xếp hàng hóa.\",\n  \"requirements_text\": \"Nam, có hộ khẩu tại Hải Phòng.\\nCó bằng lái xe hạng C trở lên (hoặc ghi đúng hạng bằng yêu cầu).\\nSức khỏe tốt, tác phong nghiêm túc, có trách nhiệm trong công việc.\\nThông thạo các tuyến đường khu vực miền Bắc, chấp hành tốt Luật Giao thông đường bộ.\\nƯu tiên ứng viên có kinh nghiệm lái xe giao hàng, xe tải.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4797,
+    "output_tokens": 599,
+    "total_tokens": 5396,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

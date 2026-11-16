@@ -1,0 +1,268 @@
+{
+  "started_at": "2026-11-14T20:21:46.185682+07:00",
+  "planned_seconds": 900,
+  "max_jobs": 15,
+  "model": "gemini-3.5-flash-lite",
+  "events": [
+    {
+      "index": 1,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-tai-ha-noi/2353068.html",
+      "started_at": "2026-11-14T20:21:55.087692+07:00",
+      "source_characters": 177534,
+      "prompt_characters": 185128,
+      "usage": {
+        "input_tokens": 72772,
+        "output_tokens": 2176,
+        "total_tokens": 74948,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Phân Tích Dữ Liệu / Data Analyst",
+      "elapsed_seconds": 11.671
+    },
+    {
+      "index": 2,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-tong-hop-du-lieu-va-bao-cao-quan-tri-thu-nhap-18-25m/2353914.html",
+      "started_at": "2026-11-14T20:22:46.189247+07:00",
+      "source_characters": 172462,
+      "prompt_characters": 180067,
+      "usage": {
+        "input_tokens": 71128,
+        "output_tokens": 1198,
+        "total_tokens": 72326,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Tổng Hợp Dữ Liệu Và Báo Cáo Quản Trị Thu Nhập 18 - 25M",
+      "elapsed_seconds": 8.691
+    },
+    {
+      "index": 3,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-data-governance/2339053.html",
+      "started_at": "2026-11-14T20:23:46.187276+07:00",
+      "source_characters": 174534,
+      "prompt_characters": 182119,
+      "usage": {
+        "input_tokens": 71840,
+        "output_tokens": 1357,
+        "total_tokens": 73197,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Quản Trị Dữ Liệu (Data Governance)",
+      "elapsed_seconds": 10.97
+    },
+    {
+      "index": 4,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-master-data-and-reference-data-management/2354873.html",
+      "started_at": "2026-11-14T20:24:46.189043+07:00",
+      "source_characters": 175019,
+      "prompt_characters": 182630,
+      "usage": {
+        "input_tokens": 71876,
+        "output_tokens": 1296,
+        "total_tokens": 73172,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Quản Trị Dữ Liệu (Master Data And Reference Data Management)",
+      "elapsed_seconds": 10.305
+    },
+    {
+      "index": 5,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-ly-chat-luong-du-lieu/2354874.html",
+      "started_at": "2026-11-14T20:25:46.186680+07:00",
+      "source_characters": 174546,
+      "prompt_characters": 182125,
+      "usage": {
+        "input_tokens": 71749,
+        "output_tokens": 1396,
+        "total_tokens": 73145,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Quản Lý Chất Lượng Dữ Liệu",
+      "elapsed_seconds": 9.539
+    },
+    {
+      "index": 6,
+      "url": "https://www.topcv.vn/viec-lam/senior-data-analyst/2349104.html",
+      "started_at": "2026-11-14T20:26:46.178595+07:00",
+      "source_characters": 174263,
+      "prompt_characters": 181823,
+      "usage": {
+        "input_tokens": 71221,
+        "output_tokens": 1020,
+        "total_tokens": 72241,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Senior Data Analyst",
+      "elapsed_seconds": 13.278
+    },
+    {
+      "index": 7,
+      "url": "https://www.topcv.vn/viec-lam/data-analyst/2180185.html",
+      "started_at": "2026-11-14T20:27:46.159903+07:00",
+      "source_characters": 171894,
+      "prompt_characters": 179447,
+      "usage": {
+        "input_tokens": 70756,
+        "output_tokens": 1025,
+        "total_tokens": 71781,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Data Analyst",
+      "elapsed_seconds": 9.687
+    },
+    {
+      "index": 8,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kiem-thu-du-lieu-data-tester/2349045.html",
+      "started_at": "2026-11-14T20:28:46.158004+07:00",
+      "source_characters": 172659,
+      "prompt_characters": 180240,
+      "usage": {
+        "input_tokens": 71147,
+        "output_tokens": 927,
+        "total_tokens": 72074,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Kiểm Thử Dữ Liệu - Data Tester",
+      "elapsed_seconds": 8.921
+    },
+    {
+      "index": 9,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-ban-le/2321660.html",
+      "started_at": "2026-11-14T20:29:46.157575+07:00",
+      "source_characters": 173723,
+      "prompt_characters": 181300,
+      "usage": {
+        "input_tokens": 71611,
+        "output_tokens": 1147,
+        "total_tokens": 72758,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Viên Phân Tích Dữ Liệu Bán Lẻ",
+      "elapsed_seconds": 10.857
+    },
+    {
+      "index": 10,
+      "url": "https://www.topcv.vn/viec-lam/truong-nhom-data-analyst/2297124.html",
+      "started_at": "2026-11-14T20:30:46.157914+07:00",
+      "source_characters": 174751,
+      "prompt_characters": 182316,
+      "usage": {
+        "input_tokens": 71695,
+        "output_tokens": 1673,
+        "total_tokens": 73368,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Trưởng Nhóm Data Analyst",
+      "elapsed_seconds": 11.024
+    },
+    {
+      "index": 11,
+      "url": "https://www.topcv.vn/viec-lam/data-analyst-leader/2272110.html",
+      "started_at": "2026-11-14T20:31:46.157554+07:00",
+      "source_characters": 173737,
+      "prompt_characters": 181297,
+      "usage": {
+        "input_tokens": 71505,
+        "output_tokens": 1364,
+        "total_tokens": 72869,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Data Analyst Leader",
+      "elapsed_seconds": 10.476
+    },
+    {
+      "index": 12,
+      "url": "https://www.topcv.vn/viec-lam/nhan-vien-phan-tich-kinh-te/805570.html",
+      "started_at": "2026-11-14T20:32:46.157223+07:00",
+      "source_characters": 170208,
+      "prompt_characters": 177775,
+      "usage": {
+        "input_tokens": 70401,
+        "output_tokens": 743,
+        "total_tokens": 71144,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Nhân Viên Phân Tích Kinh Tế",
+      "elapsed_seconds": 11.674
+    },
+    {
+      "index": 13,
+      "url": "https://www.topcv.vn/viec-lam/tro-ly-du-an-mang-xu-ly-du-lieu/2354683.html",
+      "started_at": "2026-11-14T20:33:46.156888+07:00",
+      "source_characters": 172897,
+      "prompt_characters": 180469,
+      "usage": {
+        "input_tokens": 71694,
+        "output_tokens": 764,
+        "total_tokens": 72458,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Trợ Lý Dự Án ( Mảng Xử Lý Dữ Liệu )",
+      "elapsed_seconds": 10.242
+    },
+    {
+      "index": 14,
+      "url": "https://www.topcv.vn/viec-lam/senior-team-leader-business-intelligence-eda-division-hn-ta174/2308458.html",
+      "started_at": "2026-11-14T20:34:46.156236+07:00",
+      "source_characters": 178921,
+      "prompt_characters": 186524,
+      "usage": {
+        "input_tokens": 72556,
+        "output_tokens": 2280,
+        "total_tokens": 74836,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Senior/ Team Leader Business Intelligence (EDA Division) - HN - TA174",
+      "elapsed_seconds": 14.357
+    },
+    {
+      "index": 15,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-gia-phan-tich-bong-da/2348206.html",
+      "started_at": "2026-11-14T20:35:46.156165+07:00",
+      "source_characters": 170393,
+      "prompt_characters": 177962,
+      "usage": {
+        "input_tokens": 70466,
+        "output_tokens": 710,
+        "total_tokens": 71176,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "job_title": "Chuyên Gia Phân Tích Bóng Đá",
+      "elapsed_seconds": 8.783
+    }
+  ],
+  "discovered_jobs": 15,
+  "elapsed_seconds": 900.006,
+  "finished_at": "2026-11-14T20:36:46.159195+07:00",
+  "successes": 15,
+  "failures": 0
+}

@@ -1,0 +1,51 @@
+{
+  "job_title": "Chuyên Viên Quản Lý Chất Lượng Dữ Liệu",
+  "company_name": "Công ty Tài chính tín dụng tiêu dùng TNHH MB SHINSEI (Mcredit)",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Phân tích dữ liệu",
+  "industry": "Tài chính / Ngân hàng",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-10",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-quan-ly-chat-luong-du-lieu/2354874.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học trở lên các chuyên ngành CNTT, Hệ thống thông tin, Khoa học dữ liệu, Toán tin, Tài chính – Ngân hàng hoặc chuyên ngành liên quan."
+  ],
+  "technical_skills": [
+    "SQL",
+    "Excel"
+  ],
+  "soft_skills": [
+    "Phân tích nguyên nhân",
+    "Trình bày rõ vấn đề",
+    "Phối hợp nhiều đơn vị"
+  ],
+  "languages_required": null,
+  "experience_required": 2.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* 5 ngày / tuần",
+  "benefits": [
+    "1. Chính sách Thưởng cạnh tranh và linh hoạt:",
+    "Thưởng các dịp lễ tết, ngày thành lập công ty, thưởng tháng lương thứ 13",
+    "Thưởng các kỳ đánh giá 6 tháng, cuối năm...",
+    "2. Phúc lợi toàn diện:",
+    "Bảo hiểm chăm sóc sức khỏe MIC cho CBNV/người thân với các đặc quyền độc đáo",
+    "Du lịch/nghỉ dưỡng hằng năm trong nước",
+    "Được vay ưu đãi theo chính sách tạp đoàn MB từng thời kỳ",
+    "Các chế độ khác (khám sức khỏe định kỳ hàng năm, nghỉ mát, thăm hỏi ốm đau, chế độ ưu tiên cho mẹ mới sinh, mẹ có con nhỏ...) theo quy định của MC từng thời kỳ",
+    "Được tư vấn, hỗ trợ tài chính & trải nghiệm các sản phẩm tài chính cá nhân, bảo hiểm... theo các tệp sản phẩm của tập đoàn MB",
+    "3. Cơ hội phát triển nghề nghiệp vượt trội:",
+    "Lộ trình phát triển nghề nghiệp minh bạch, nhiều cơ hội mở rộng chuyên môn cùng các nhóm ngành trong lĩnh vực Tài chính Số.",
+    "Được dẫn dắt bởi Ban lãnh đạo giàu uy tín, đồng hành cùng những quản lý và đồng nghiệp ưu tú trong quá trình học hỏi và phát triển qua công việc thực tiễn.",
+    "Cơ hội tham gia các chương trình đào tạo theo tiêu chuẩn quốc tế, tích lũy trải nghiệm thực tế trong môi trường doanh nghiệp số hiện đại, năng động.",
+    "Làm việc trong môi trường trẻ trung, chuyên nghiệp, áp dụng linh hoạt các phương pháp làm việc hiện đại cùng hệ thống công nghệ tiên tiến"
+  ],
+  "description": "* Xây dựng tiêu chuẩn và quy tắc kiểm soát chất lượng dữ liệu (Data Quality Rules), đảm bảo dữ liệu đầy đủ, chính xác, hợp lệ, nhất quán và kịp thời.\n* Sử dụng SQL để kiểm tra dữ liệu thiếu, trùng lặp, sai logic; đối soát dữ liệu giữa hệ thống nguồn, kho dữ liệu và báo cáo.\n* Xây dựng, vận hành báo cáo/dashboard giám sát chất lượng dữ liệu; cảnh báo sai lệch và đánh giá phạm vi ảnh hưởng.\n* Phối hợp với đơn vị sở hữu dữ liệu, nghiệp vụ và CNTT xác định nguyên nhân lỗi, thống nhất phương án khắc phục; theo dõi tiến độ và kiểm tra kết quả sau xử lý.\n* Tham gia xác định dữ liệu trọng yếu (CDE), cập nhật từ điển dữ liệu, định nghĩa nghiệp vụ và thông tin nguồn gốc dữ liệu phục vụ kiểm soát chất lượng.\n* Tham gia các dự án dữ liệu với vai trò xây dựng yêu cầu, kiểm tra và nghiệm thu chất lượng dữ liệu; đề xuất giải pháp ngăn ngừa lỗi tái diễn.\n* Trọng tâm vị trí: kiểm soát và cải thiện độ tin cậy của dữ liệu. Phân tích và dashboard phục vụ giám sát chất lượng dữ liệu; không phụ trách chính phân tích kinh doanh, xây dựng mô hình AI/ML, phát triển hạ tầng dữ liệu hoặc vận hành danh mục Master Data.",
+  "requirements_text": "* Tốt nghiệp Đại học trở lên các chuyên ngành CNTT, Hệ thống thông tin, Khoa học dữ liệu, Toán tin, Tài chính – Ngân hàng hoặc chuyên ngành liên quan.\n* Tối thiểu 02 năm kinh nghiệm làm việc với dữ liệu , đã trực tiếp kiểm tra, đối soát, phát hiện và phối hợp xử lý lỗi dữ liệu. Chấp nhận nền tảng Data Quality, Data Governance, DA, BI/MIS, DWH hoặc BA nếu đáp ứng yêu cầu thực hành này.\n* Thành thạo SQL: kết hợp nhiều bảng, tổng hợp và đối chiếu dữ liệu; tự viết truy vấn phát hiện dữ liệu thiếu, trùng, sai logic hoặc chênh lệch giữa các nguồn. Sử dụng tốt Excel.\n* Hiểu các tiêu chí chất lượng dữ liệu; có khả năng chuyển yêu cầu nghiệp vụ thành quy tắc kiểm tra, ngưỡng chấp nhận và chỉ số đo lường cụ thể.\n* Hiểu cấu trúc bảng, khóa, quan hệ dữ liệu và luồng dữ liệu từ hệ thống nguồn đến kho dữ liệu, báo cáo.\n* Có khả năng phân tích nguyên nhân, trình bày rõ vấn đề và phối hợp nhiều đơn vị để theo dõi xử lý đến khi hoàn tất.\n* Ưu tiên kinh nghiệm ngân hàng, tài chính tiêu dùng, fintech; từng làm việc với CDE, Data Dictionary, Data Lineage hoặc công cụ BI.\n* Đối với Chuyên viên cao cấp: có khả năng chủ trì kiểm soát chất lượng một miền dữ liệu, đề xuất bộ quy tắc và điều phối xử lý vấn đề xuyên hệ thống.\nKiến thức ngành\nIT - Phần mềm, Tài chính"
+}

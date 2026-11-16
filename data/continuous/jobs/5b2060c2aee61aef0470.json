@@ -1,0 +1,67 @@
+{
+  "job_title": "Trưởng Bộ Phận Dữ Liệu (Head Of Data) - Hội Sở Hà Đông",
+  "company_name": "NGÂN HÀNG TMCP VIỆT Á - VIETABANK",
+  "job_category": "Ngân hàng",
+  "sub_category": "Chuyên môn Ngân hàng khác",
+  "industry": "Ngân hàng",
+  "category": null,
+  "location": "105 Chu Văn An, Phường Hà Đông, Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-20",
+  "url": "https://www.topcv.vn/brand/tuyendungvietabank/tuyen-dung/truong-bo-phan-du-lieu-head-of-data-hoi-so-ha-dong-j2335602.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học trở lên chuyên ngành Công nghệ thông tin, Khoa học dữ liệu, Toán – Thống kê hoặc liên quan.",
+    "Chứng chỉ Databricks, Azure/AWS Data, DAMA-DMBOK hoặc tương đương."
+  ],
+  "technical_skills": [
+    "DWH",
+    "MIS/BI",
+    "Data Lakehouse",
+    "Data Governance",
+    "ETL",
+    "ELT",
+    "Kimball",
+    "Data Vault",
+    "Power BI",
+    "CDC",
+    "replication",
+    "GoldenGate",
+    "Debezium",
+    "Delta/Iceberg",
+    "Spark",
+    "cloud hybrid",
+    "feature engineering",
+    "feature store",
+    "Customer 360",
+    "MLOps"
+  ],
+  "soft_skills": [
+    "Dẫn dắt đội ngũ",
+    "Phối hợp và thuyết phục",
+    "Quản trị theo tiến độ và ngân sách"
+  ],
+  "languages_required": [
+    "Vietnamese"
+  ],
+  "experience_required": 8.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)",
+  "benefits": [
+    "1. Thu nhập thỏa thuận theo năng lực, cạnh tranh với thị trường.",
+    "2. Cấp bậc tương đương Phó Giám đốc Khối; chủ trì các sáng kiến dữ liệu phạm vi toàn hàng: nền tảng dữ liệu, Data Lakehouse, AI/ML.",
+    "3. Xây dựng và phát triển đội ngũ Data Engineering/BI/Analytics.",
+    "4. Chế độ phúc lợi theo quy định của VietABank: nghỉ hưởng nguyên lương ngày sinh nhật, bảo hiểm sức khỏe VietABank Care dành cho CBNV,...",
+    "5. Môi trường cởi mở, thân thiện và chân thành.",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Team building, Khám sức khỏe định kỳ, Thưởng tháng 13, Du lịch hàng năm, Thưởng hiệu quả làm việc",
+    "Phụ cấp",
+    "Ăn trưa, Cước điện thoại",
+    "Được cấp Máy tính"
+  ],
+  "description": "I. MỤC TIÊU VỊ TRÍ\n1. Xây dựng và vận hành nền tảng dữ liệu toàn hàng: DWH, MIS/BI, Data Lakehouse.\n2. Thiết lập và vận hành khung Quản trị dữ liệu (Data Governance) của VietABank.\n3. Cung cấp dữ liệu cho quản trị điều hành, phân tích kinh doanh và các chương trình A-Score/B-Score, CRM, PFM & Loyalty.\nII. TRÁCH NHIỆM CHÍNH\n1. Xây dựng mô hình dữ liệu dùng chung và triển khai DataMart theo Ban/Khối; hoàn thiện DWH bao phủ các nguồn dữ liệu trọng yếu (Core Banking, thẻ, eBanking, NAPAS/CITAD, FTP, AML).\n2. Thay cơ chế ETL DBLink/job bằng CDC/replication; rút độ trễ nhóm dữ liệu ưu tiên từ T-1 xuống trong ngày.\n3. Triển khai MIS/Power BI làm công cụ điều hành; chuẩn hóa bộ báo cáo lãnh đạo và ĐVKD trên một nguồn số liệu.\n4. Tự động hóa báo cáo thủ công và báo cáo định kỳ NHNN/CIC.\n5. Xây dựng khung Quản trị dữ liệu: Data Dictionary, DQ rules, đối soát với hệ thống nguồn, mô hình data owner/steward, phân loại và bảo vệ dữ liệu cá nhân.\n6. Xây dựng lộ trình và triển khai Data Lakehouse theo phê duyệt; tách tải phân tích khỏi hệ thống vận hành.\n7. Đề xuất và thực hiện lộ trình đưa MIS/BI/DWH lên cloud theo mô hình hybrid.\n8. Cung cấp dữ liệu, feature theo yêu cầu các khối nghiệp vụ cho A-Score, B-Score, Customer 360, phân khúc khách hàng và các mô hình phân tích.\n9. Chuẩn hóa dịch vụ dữ liệu qua API/self-service, có SLA và danh mục báo cáo chuẩn.\n10. Điều hành Squad Data/Lakehouse: lập kế hoạch, ước lượng, phối hợp PMO và các squad liên quan; tuyển dụng và phát triển đội ngũ.\n11. Quản lý ngân sách, nhà cung cấp nền tảng dữ liệu; báo cáo tiến độ và rủi ro cho Ban Giám đốc Khối.\nIII. PHẠM VI\n1. Chủ trì kiến trúc và nền tảng dữ liệu toàn hàng: DWH, DataMart, Lakehouse, BI/MIS.\n2. Chủ trì xây dựng và trình ban hành chuẩn mô hình dữ liệu, chuẩn báo cáo và quy tắc chất lượng dữ liệu.\n3. Phối hợp các đơn vị nghiệp vụ xác định data owner/steward, trình Ban lãnh đạo phê duyệt.\n4. Kiểm soát việc khai thác dữ liệu theo chuẩn và thẩm quyền truy cập đã ban hành.\n5. Chịu trách nhiệm về nền tảng, chất lượng và tính nhất quán của dữ liệu; logic nghiệp vụ và nội dung báo cáo thuộc đơn vị nghiệp vụ.\n6. Được Ban lãnh đạo Khối và Ban điều hành hỗ trợ trong phối hợp với các đơn vị nghiệp vụ.",
+  "requirements_text": "I. YÊU CẦU ỨNG VIÊN\n1. Bắt buộc\n* Tốt nghiệp Đại học trở lên chuyên ngành Công nghệ thông tin, Khoa học dữ liệu, Toán – Thống kê hoặc liên quan.\n* Tối thiểu 8 năm kinh nghiệm dữ liệu, trong đó 3 năm quản lý đội data engineering/BI tại ngân hàng, TCTD, fintech hoặc tổ chức quy mô tương đương.\n* Đã dẫn dắt xây dựng hoặc nâng cấp DWH/DataMart và ETL/ELT; nắm vững mô hình dữ liệu DWH (Kimball hoặc Data Vault).\n* Đã triển khai BI/MIS quy mô toàn tổ chức (Power BI hoặc tương đương).\n* Đã vận hành Data Governance thực tế: data catalog, DQ rules, đối soát, data owner/steward.\n* Am hiểu dữ liệu core banking, thẻ, thanh toán, tín dụng, huy động.\n2. Năng lực quản lý\n* Dẫn dắt đội ngũ chuyên gia cấp cao.\n* Phối hợp và thuyết phục các khối nghiệp vụ tham gia quản trị dữ liệu.\n* Quản trị theo tiến độ và ngân sách.\n3. Ưu tiên\n* Kinh nghiệm CDC/replication (GoldenGate, Debezium hoặc tương đương).\n* Kinh nghiệm kiến trúc Lakehouse (Delta/Iceberg, Spark) hoặc đưa nền tảng dữ liệu lên cloud hybrid.\n* Kinh nghiệm dữ liệu phục vụ scoring/analytics: feature engineering, feature store, Customer 360.\n* Kinh nghiệm báo cáo NHNN/CIC; MLOps.\n* Chứng chỉ Databricks, Azure/AWS Data, DAMA-DMBOK hoặc tương đương.\nII. CHỈ TIÊU ĐÁNH GIÁ (KPI)\n1. DWH phủ 100% nguồn dữ liệu trọng yếu; DataMart theo Ban; Data Dictionary; MIS/Power BI go-live.\n2. Báo cáo định kỳ (gồm NHNN/CIC) được tự động hóa.\n3. Độ trễ nhóm dữ liệu ưu tiên giảm từ T-1 xuống trong ngày; chất lượng dữ liệu đạt chuẩn DQ rules.\n4. Dữ liệu/feature cho A-Score sẵn sàng trong 2026 – đầu 2027; Lakehouse go-live đúng kế hoạch; dữ liệu cho B-Score và personalization sẵn sàng.\n5. Tỷ trọng yêu cầu dữ liệu ad-hoc giảm thông qua self-service/API.\n6. Số đơn vị/người dùng MIS/BI và số use-case phân tích đưa vào vận hành tăng theo kế hoạch.\nKiến thức ngành\nNgân hàng"
+}

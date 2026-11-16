@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Giáo Viên Tiếng Anh Mầm Non (Nói Được Tiếng Anh) - (Giáo Viên Người Việt Và Giáo Viên Nước Ngoài) - Thu Nhập 9 - 12 Triệu - Tại Long Biên, Hà Nội\",\"company_name\":\"CÔNG TY CỔ PHẦN FLYING KITES\",\"job_category\":\"Giáo dục / Đào tạo\",\"sub_category\":\"Giáo viên tiếng Anh\",\"industry\":\"Giáo dục nhà trẻ\",\"category\":null,\"location\":\"Số 319 Hồng Tiến, Phường Bồ Đề, Long Biên, Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/giao-vien-tieng-anh-mam-non-noi-duoc-tieng-anh-giao-vien-nguoi-viet-va-giao-vien-nuoc-ngoai-thu-nhap-9-12-trieu-tai-long-bien-ha-noi/2351472.html\",\"qualifications\":[\"Cao Đẳng trở lên\",\"Tốt nghiệp Cao Đẳng/Đại học chuyên ngành Sư phạm Tiếng Anh\",\"Đối với chuyên ngành Tiếng Anh thương mại cần có chứng chỉ sư phạm\"],\"technical_skills\":[\"Tiếng Anh\",\"Giáo viên\",\"Tiếng Anh giao tiếp\",\"Dạy Tiếng Anh\"],\"soft_skills\":[\"Ngoại hình ưa nhìn, phát âm chuẩn, giọng nói truyền cảm\",\"Yêu thích trẻ em, am hiểu tâm lý lứa tuổi\",\"Chủ động, chịu được áp lực cao trong công việc\"],\"languages_required\":[\"Tiếng Anh\"],\"experience_required\":0,\"salary\":\"9 - 12 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\",\"benefits\":[\"Đóng bảo hiểm xã hội ngay sau 2 tháng thử việc\",\"Thưởng lễ theo quy định của nhà trường\",\"Chính sách thưởng thâm niên hấp dẫn\",\"Môi trường làm việc quốc tế chuyên nghiệp, trẻ trung và năng động\",\"Chính sách ăn trưa tại trường từ thực phẩm lành mạnh, an toàn, đủ chất dinh dưỡng từ đầu bếp chuyên nghiệp\",\"Chính sách đào tạo miễn phí, phát triển năng lực để làm việc lâu dài và gắn bó với trường\",\"Được tham gia du lịch hàng năm của công ty\",\"Chính sách xét tăng lương hàng năm theo năng lực\",\"Thưởng tháng lương thứ 13 theo chính sách của công ty\",\"Hỗ trợ học phí cho con của giáo viên khi tham gia học tại trường.\",\"Lương, thưởng và các đãi ngộ tốt.\",\"Nghỉ phép có hưởng lương.\",\"Được đào tạo và cơ hội thăng tiến cao.\"],\"description\":\"- Hỗ trợ giáo viên nước ngoài trong việc giảng dạy\\n- Hỗ trợ giáo viên mầm non trong hoạt động trên lớp\\n- Chia sẻ, hợp tác với đồng nghiệp trong quá trình xây dựng chương trình.\\n- Chăm sóc, trả lời thắc mắc của phụ huynh\\n- Đảm bảo đúng, đủ nội dung chương trình theo quy định của tổ bộ môn, nhà trường\\n- Chủ động tìm kiếm, nghiên cứu, tiếp cận và áp dụng các phương pháp, tài liệu giảng dạy hiện đại để nâng hiệu quả dạy và học trong nhà trường.\\n- Hỗ trợ giáo viên mầm non trong hoạt động trên lớp\",\"requirements_text\":\"- Tốt nghiệp Cao Đẳng/Đại học chuyên ngành Sư phạm Tiếng Anh, đối với chuyên ngành Tiếng Anh thương mại cần có chứng chỉ sư phạm.\\n- Ngoại hình ưa nhìn, phát âm chuẩn, giọng nói truyền cảm.\\n- Yêu thích trẻ em, am hiểu tâm lý lứa tuổi.\\n- Chủ động, chịu được áp lực cao trong công việc.\\n- Nói được tiếng Anh\\n- Giáo viên nữ.\\n- Ứng viên vui lòng gửi CV tiếng Anh hoặc song ngữ\"}",
+  "usage": {
+    "input_tokens": 5373,
+    "output_tokens": 5644,
+    "total_tokens": 11017,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4412
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

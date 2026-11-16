@@ -1,0 +1,63 @@
+{
+  "job_title": "Fullstack Developer (NodeJS/PHP/Go) – E-Commerce",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Fullstack Developer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-02",
+  "url": "https://www.topcv.vn/viec-lam/fullstack-developer-nodejs-php-go-e-commerce/2314097.html",
+  "qualifications": [
+    "Trung cấp trở lên"
+  ],
+  "technical_skills": [
+    "Golang",
+    "Node.js",
+    "Python",
+    "PHP",
+    "ReactJS",
+    "RESTful APIs",
+    "GraphQL APIs",
+    "MySQL",
+    "PostgreSQL",
+    "NoSQL",
+    "MongoDB",
+    "DynamoDB",
+    "Redis",
+    "Memcached"
+  ],
+  "soft_skills": [
+    "Giao tiếp",
+    "Làm việc nhóm",
+    "Giải quyết vấn đề",
+    "Học hỏi nhanh"
+  ],
+  "languages_required": null,
+  "experience_required": 5.0,
+  "salary": "Thoả thuận theo năng lực;",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Thu nhập: Thoả thuận theo năng lực;",
+    "Thời gian làm việc: Thứ Hai – Thứ Sáu, từ 8:00 – 17:00, không OT.",
+    "Chính sách làm việc linh hoạt: 01 ngày remote mỗi quý",
+    "Thưởng hiệu suất, thưởng các ngày lễ/tết: 30/4, 1/5, 2/9, 1/1; thưởng Nhân viên xuất sắc và Team xuất sắc.",
+    "Đóng đầy đủ BHXH, BHYT, BHTN và bảo hiểm sức khỏe Bảo Việt Care.",
+    "Đánh giá hiệu quả công việc định kỳ.",
+    "14 ngày phép/ năm",
+    "Khám sức khỏe định kỳ hằng năm.",
+    "Nghỉ phép năm, nghỉ sinh nhật, nghỉ Family Day.",
+    "Ngân sách học tập lên tới 25 triệu VNĐ/năm.",
+    "Company trip hằng năm, year-end party, các câu lạc bộ thể thao.",
+    "Các hoạt động Men’s Day, Women’s Day và các phúc lợi khác theo chính sách công ty.",
+    "Làm việc trong môi trường phát triển sản phẩm, được tham gia vào quá trình xây dựng ý tưởng, cải tiến và đổi mới sản phẩm."
+  ],
+  "description": "* Thiết kế, phát triển và bảo trì các tính năng fullstack cho sản phẩm E-commerce, trong đó trọng tâm là backend service và hệ thống xử lý dữ liệu có khả năng mở rộng.\n* Xây dựng và tối ưu backend service sử dụng Golang/Node.js/ Python, PHP.\n* Phát triển frontend sử dụng ReactJS , đảm bảo trải nghiệm người dùng mượt mà, dễ sử dụng và dễ bảo trì.\n* Thiết kế và tích hợp RESTful APIs, GraphQL APIs và API của các nền tảng E-commerce như Shopify, Amazon, Etsy, Google Places, Alibaba...\n* Xây dựng và duy trì hệ thống thu thập, xử lý và lưu trữ dữ liệu review từ nhiều nguồn khác nhau.\n* Tham gia thiết kế và cải tiến các quy trình data crawling, ETL pipeline, data cleaning, data synchronization.\n* Làm việc với dữ liệu quy mô lớn; tối ưu cấu trúc database, câu query, caching và hiệu suất truy xuất dữ liệu.\n* Tối ưu hiệu năng website/app, đặc biệt với các trang hiển thị lượng lớn dữ liệu.\n* Phối hợp với Product Owner, Designer, QA và các Developer khác để triển khai tính năng đúng tiến độ và đảm bảo chất lượng.\n* Hỗ trợ triển khai A/B testing và đánh giá tính khả thi kỹ thuật cho các thử nghiệm sản phẩm.\n* Nghiên cứu và ứng dụng AI tools hoặc AI-assisted workflow để nâng cao hiệu suất phát triển, xử lý dữ liệu hoặc cải thiện tính năng sản phẩm.\n* Tham gia code review, thảo luận kỹ thuật, viết tài liệu và đóng góp vào các hoạt động cải tiến hệ thống.",
+  "requirements_text": "* Có ít nhất 5năm kinh nghiệm phát triển phần mềm.\n* Có kinh nghiệm backend vững với ít nhất một trong các ngôn ngữ/công nghệ: Golang, Node.js, Python, PHP.\n* Có kinh nghiệm làm việc thực tế với ReactJS hoặc các frontend framework hiện đại.\n* Có kinh nghiệm tối ưu Database/speedload/performance\n* Hiểu tốt về cơ sở dữ liệu quan hệ như MySQL, PostgreSQL.\n* Có kinh nghiệm với NoSQL hoặc các công nghệ lưu trữ/cache như MongoDB, DynamoDB, Redis hoặc tương đương.\n* Có kinh nghiệm thiết kế và phát triển RESTful APIs và/hoặc GraphQL APIs.\n* Hiểu cơ chế caching như Redis, Memcached để tối ưu hiệu năng hệ thống.\n* Có kinh nghiệm domain E-commerce\n* Có khả năng viết code sạch, dễ bảo trì và có khả năng mở rộng.\n* Tư duy giải quyết vấn đề tốt, có khả năng phân tích và xử lý các vấn đề kỹ thuật phức tạp một cách độc lập.\n* Có kỹ năng giao tiếp và làm việc nhóm tốt, phối hợp hiệu quả với Product, Design, QA và Engineering team.\n* Học hỏi nhanh, sẵn sàng tiếp cận công nghệ mới và phù hợp với môi trường phát triển sản phẩm.\nKiến thức ngành\nIT - Phần mềm"
+}

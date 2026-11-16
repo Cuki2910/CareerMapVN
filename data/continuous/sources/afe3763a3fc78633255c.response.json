@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thiết Kế Xây Dựng (Hạ Tầng & Cầu Đường)\",\n  \"company_name\": null,\n  \"job_category\": \"Thiết kế / Kiến trúc\",\n  \"sub_category\": \"Xây dựng\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke-xay-dung-ha-tang-cau-duong-ha-noi-muc-luong-upto-20-trieu-khong-yeu-cau-kinh-nghiem-duoc-dao-tao/2318256.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp hoặc sắp tốt nghiệm Đại học các chuyên ngành xây dựng, cầu đường, thủy lợi, công trình giao thông...\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\",\n    \"phần mềm văn phòng\",\n    \"Đọc hiểu bản vẽ\"\n  ],\n  \"soft_skills\": [\n    \"Tư duy hình học\",\n    \"Cẩn thận\",\n    \"Có trách nhiệm\",\n    \"Tinh thần học hỏi\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Nhật\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"10 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\",\n    \"Thưởng lương tháng 13\",\n    \"Tăng lương 1-2 lần/năm\",\n    \"Các ngày nghỉ theo lịch của nhà nước\",\n    \"BHXH, BHYT, BHTN theo quy định\",\n    \"Khám sức khỏe định kỳ 1 lần/năm\",\n    \"Được đào tạo từ đầu về thiết kế, tiếng Nhật sơ cấp\",\n    \"Được làm việc trong môi trường chuyên nghiệp\",\n    \"Tham gia các hoạt động thường niên: du lịch nghỉ mát, team building,... cùng công ty\"\n  ],\n  \"description\": \"Thiết kế bản vẽ công trình hạ tầng.\\n  * Thiết kế bản vẽ mặt bằng, mặt đứng, mặt cắt điển hình, mặt cắt chi tiết.\\n  * Tính toán, lập bảng khối lượng và các tài liệu liên quan đến bản vẽ.\\n  * Thực hiện các công trình hạ tầng tại Nhật bản như công trình thoát nước, tường chắn, đê biển...\",\n  \"requirements_text\": \"  * Tốt nghiệp hoặc sắp tốt nghiệm Đại học các chuyên ngành xây dựng, cầu đường, thủy lợi, công trình giao thông...\\n  * Không yêu cầu kinh nghiệm, được đào tạo khi mới vào công ty\\n  * Sử dụng được AutoCAD và các phần mềm văn phòng.\\n  * Có tư duy hình học và khả năng đọc hiểu bản vẽ tốt.\\n  * Cẩn thận, có trách nhiệm và tinh thần học hỏi.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5063,
+    "output_tokens": 818,
+    "total_tokens": 5881,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

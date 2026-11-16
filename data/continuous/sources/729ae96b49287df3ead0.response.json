@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Kỹ Sư Thiết Kế Máy - Cơ Khí - Quận 12 - Biết Autocad/Solidworks\",\"company_name\":\"CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TECH GARDEN\",\"job_category\":\"Cơ khí\",\"sub_category\":\"Kỹ sư thiết kế cơ khí\",\"industry\":\"Bán buôn máy móc, thiết bị và phụ tùng máy khác\",\"category\":null,\"location\":\"Quận 12, TP.HCM\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-20\",\"url\":\"https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-co-khi-quan-12-biet-autocad-solidworks/2095444.html\",\"qualifications\":[\"Đại Học trở lên\",\"Tốt nghiệp chuyên ngành Cơ khí Chế tạo Máy tại các trường: Bách Khoa, Sư Phạm Kỹ Thuật, Đại học Công nghiệp TP.HCM,...\"],\"technical_skills\":[\"Sử dụng thành thạo Autocad 2D, Solidworks 3D trong thiết kế và dựng bản vẽ\",\"Sử Dụng Phần Mềm Cad (autocad, Solidworks, Inventor,...)\",\"Nắm vững các nguyên lý cơ khí, kết cấu máy, vật liệu Inox 304, an toàn thực phẩm\"],\"soft_skills\":null,\"languages_required\":null,\"experience_required\":1,\"salary\":\"10 - 15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Lương thỏa thuận tùy năng lực và kinh nghiệm (xem xét tăng nhanh theo hiệu quả công việc)\",\"Được đóng đầy đủ BHXH, BHYT, BHTN theo quy định.\",\"Môi trường làm việc chuyên nghiệp, có cơ hội nâng cao kỹ năng.\"],\"description\":\"- Thiết kế, triển khai bản vẽ chi tiết, bản vẽ lắp cho máy chế biến thực phẩm & nông sản theo yêu cầu khách hàng.\\n- Nghiên cứu, cải tiến, phát triển sản phẩm theo yêu cầu kỹ thuật.\\n- Tính toán, lựa chọn vật liệu, chi tiết tiêu chuẩn, phương án gia công.\\n- Phối hợp với bộ phận sản xuất, QC, R&D để triển khai và hoàn thiện sản phẩm.\",\"requirements_text\":\"Yêu cầu:\\n- 1 năm kinh nghiệm chuyên môn\\n- Đại Học trở lên\\n\\nYêu cầu ứng viên:\\n- Tốt nghiệp chuyên ngành Cơ khí Chế tạo Máy tại các trường: Bách Khoa, Sư Phạm Kỹ Thuật, Đại học Công nghiệp TP.HCM,...\\n- Sử dụng thành thạo Autocad 2D, Solidworks 3D trong thiết kế và dựng bản vẽ.\\n- Ưu tiên số 1: Có kinh nghiệm thiết kế máy thực phẩm, nông sản.\\n- Nắm vững các nguyên lý cơ khí, kết cấu máy, vật liệu Inox 304, an toàn thực phẩm.\\n\\nKiến thức ngành:\\nCơ khí / Tự động hóa\\n\\nKỹ năng cần có:\\nSử Dụng Phần Mềm Cad (autocad, Solidworks, Inventor,...)\\n\\nKỹ năng nên có:\\nAn Toàn Thực Phẩm, Kiến Thức Về Vật Liệu Inox, Nguyên Lý Cơ Khí, Kinh Nghiệm Thiết Kế Máy, Kết cấu máy\"}",
+  "usage": {
+    "input_tokens": 4861,
+    "output_tokens": 3831,
+    "total_tokens": 8692,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2812
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

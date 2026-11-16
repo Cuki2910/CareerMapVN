@@ -1,0 +1,47 @@
+{
+  "job_title": "Chuyên Viên Kiểm Thử Dữ Liệu - Data Tester",
+  "company_name": "Công ty Cổ phần The First One",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Tester",
+  "industry": "Ngân hàng",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-04",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kiem-thu-du-lieu-data-tester/2349045.html",
+  "qualifications": [
+    "Tốt nghiệp chuyên ngành Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin, Khoa học dữ liệu hoặc ngành công nghệ liên quan.",
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "SQL",
+    "ETL/ELT",
+    "Data Warehouse",
+    "data migration",
+    "API"
+  ],
+  "soft_skills": [
+    "Đọc hiểu yêu cầu",
+    "Phân tích lỗi",
+    "Giao tiếp",
+    "Cẩn thận",
+    "Có trách nhiệm"
+  ],
+  "languages_required": null,
+  "experience_required": 3.0,
+  "salary": "31 - 38 triệu",
+  "salary_min": 31.0,
+  "salary_max": 38.0,
+  "salary_avg": "34.5 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)\n* Nghỉ Thứ Bảy, Chủ Nhật",
+  "benefits": [
+    "Mức lương cạnh tranh, thỏa thuận theo năng lực và kinh nghiệm.",
+    "Thưởng và xét tăng lương theo hiệu quả công việc/chính sách Công ty.",
+    "Tham gia đầy đủ BHXH, BHYT, BHTN và các chế độ theo quy định.",
+    "Môi trường làm việc chuyên nghiệp, đề cao năng lực kỹ thuật, chất lượng sản phẩm và tính chủ động."
+  ],
+  "description": "* Đọc hiểu yêu cầu nghiệp vụ, tài liệu thiết kế và quy tắc xử lý dữ liệu; xác định phạm vi, kịch bản và dữ liệu cần kiểm thử.\n* Xây dựng test case, checklist và câu truy vấn SQL phù hợp với từng luồng dữ liệu.\n* Dùng SQL để đối soát dữ liệu nguồn–đích; kiểm tra tính đầy đủ, chính xác, nhất quán và logic chuyển đổi dữ liệu.\n* Kiểm thử dữ liệu trong các luồng tích hợp, đồng bộ, chuyển đổi hoặc báo cáo theo phạm vi được giao.\n* Ghi nhận lỗi kèm bằng chứng, phối hợp với BA, Developer và các thành viên liên quan để xác định nguyên nhân; kiểm thử lại sau khi lỗi được xử lý.\n* Theo dõi kết quả, báo cáo tiến độ và cảnh báo kịp thời các rủi ro ảnh hưởng đến chất lượng dữ liệu.",
+  "requirements_text": "Bắt buộc\n* Tốt nghiệp chuyên ngành Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin, Khoa học dữ liệu hoặc ngành công nghệ liên quan.\n* Có kinh nghiệm kiểm thử phần mềm hoặc kiểm thử dữ liệu phù hợp với level Middle/Senior; có thể chủ động thiết kế và thực hiện test case.\n* Sử dụng tốt SQL để truy vấn, đối chiếu và phân tích dữ liệu; hiểu cơ sở dữ liệu quan hệ.\n* Có khả năng đọc hiểu yêu cầu, phân tích lỗi và trao đổi rõ ràng với các nhóm nghiệp vụ, kỹ thuật.\n* Cẩn thận, có trách nhiệm với công việc.\nƯu tiên\n* Có kinh nghiệm trong dự án ngân hàng, tài chính hoặc các hệ thống có nhiều luồng dữ liệu và quy tắc nghiệp vụ.\n* Từng kiểm thử ETL/ELT, Data Warehouse, data migration hoặc đối soát dữ liệu giữa nhiều hệ thống.\n* Có kinh nghiệm sử dụng công cụ quản lý lỗi, test case hoặc kiểm thử API.\nKiến thức ngành\nIT - Phần mềm, Ngân hàng"
+}

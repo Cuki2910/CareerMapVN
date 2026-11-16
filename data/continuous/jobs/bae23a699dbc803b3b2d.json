@@ -1,0 +1,64 @@
+{
+  "job_title": "Data Engineer",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "Điện toán đám mây (Cloud)",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-31",
+  "url": "https://www.topcv.vn/viec-lam/data-engineer/2296084.html",
+  "qualifications": [
+    "Bachelor’s degree in information technology, or related fields."
+  ],
+  "technical_skills": [
+    "Git",
+    "Python",
+    "AWS",
+    "Jira",
+    "CI/CD",
+    "confluence",
+    "Spark",
+    "python development",
+    "data analytics pipelines",
+    "data analysis tools",
+    "data storage formats",
+    "memory optimization",
+    "data pipeline visibility",
+    "RDBMS (MySQL) SQL"
+  ],
+  "soft_skills": [
+    "Korean communication",
+    "Team leading"
+  ],
+  "languages_required": [
+    "Korean"
+  ],
+  "experience_required": 3.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Attractive salary and bonus will be discussed after going through CV & Interview.",
+    "Topik allowance.",
+    "Review capacity annually and adjust salary increases according to work performance.",
+    "Health care: Premium health insurance, Annual health check-up.",
+    "Young working environment.",
+    "Good career development opportunities with interesting and challenging projects.",
+    "English, Korean, technical, soft skills training courses.",
+    "Opportunity to learn special courses from LG CNS, new technology and security.",
+    "Gifts on holidays (April 30th - May 1st, September 2nd, Tet, etc.).",
+    "Outdoor activities with company support: sports clubs, team building, happy hour parties, birthdays, travel, employee and family events, etc.",
+    "Benefits",
+    "Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm",
+    "Allowances",
+    "Ăn trưa"
+  ],
+  "description": "* Design and build cloud based data pipelines with scalability and reliability in mind.\n* Develop robust modules, functions, and production ready code for ETL/ELT workflows.\n* Perform static & dynamic analysis, execute end to end pipeline testing to ensure accuracy and performance.\n* Commit to delivery quality and task completion, meeting technical and timeline expectations.\n* Create clear documentation covering design, implementation, and testing processes.",
+  "requirements_text": "[Required]\n* Bachelor’s degree in information technology, or related fields.\n* More than 3 years of experience in python development.\n* Experience designing data analytics pipelines.\n* Experience in using various data analysis tools.\n* Experience storing data in various formats (Parquet, CSV, Iceberg, etc.).\n* Memory Optimization Experience.\n* Experience in gaining visibility/traceability of data analytics pipelines.\n* Experience analyzing data in Python, Spark environments.\n* Experience using data analytics services such as Spark.\n* Experience in developing cloud (AWS) environments.\n* Experience in developing with RDBMS (MySQL) SQL.\n* Experience with collaboration tools such as Git, Jira, Confluence, etc.\n* Understand and leverage CI/CD.\n[Preferred]\n* Team leading experience.\n* Able to communicate in Korean.\nKiến thức ngành\nIT - Phần mềm, Điện toán đám mây (Cloud)\nKỹ năng cần có\nGit, Python, AWS, Jira, CI/CD, confluence, Spark, python development, data analytics pipelines, data analysis tools, data storage formats, memory optimization, data pipeline visibility, RDBMS (MySQL) SQL\nKỹ năng nên có\nKorean communication, Team leading"
+}

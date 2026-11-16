@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Nhóm Theo Dõi Đơn Hàng (Tracking)\",\n  \"company_name\": null,\n  \"job_category\": \"Theo dõi đơn hàng\",\n  \"sub_category\": null,\n  \"industry\": \"May mặc / Thời trang, Sản xuất\",\n  \"category\": null,\n  \"location\": \"Đồng Tháp\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-nhom-theo-doi-don-hang-tracking/2336654.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Theo Dõi Đơn Hàng\",\n    \"thu mua\"\n  ],\n  \"soft_skills\": [\n    \"Quản lý nhóm\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 3.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp thâm niên\",\n    \"Phụ cấp: Ăn trưa, Xăng xe\",\n    \"Mức lương cao và ổn định, thỏa thuận trong quá trình phỏng vấn.\",\n    \"Tham gia Bảo hiểm theo quy định.\",\n    \"Thưởng Lễ, Tết\",\n    \"Nghỉ Lễ, Tết, Nghỉ hàng năm theo Luật lao động\",\n    \"Phụ cấp, hỗ trợ: Trách nhiệm, chuyên cần, xăng, thâm niên, con nhỏ....\"\n  ],\n  \"description\": \"- Đặt hàng và theo dõi đơn hàng nhằm đảm bảo tiến độ sản xuất của nhà máy.\\n- Kiểm tra theo dõi, đôn đốc nhân viên trong nhóm.\\n- Hoàn thành các báo cáo theo yêu cầu của cấp trên.\\n- Báo cáo kịp thời đến cấp trên các vấn đề phát sinh nhằm đưa ra hướng giải quyết\",\n  \"requirements_text\": \"- Ít nhất 3 năm kinh nghiệm trong lĩnh vực thu mua, theo dõi đơn hàng\\n- Tiếng Anh giao tiếp 4 kỹ năng\\n- Tốt nghiệp từ cao đẳng trở lên các chuyên ngành\"\n}\n```",
+  "usage": {
+    "input_tokens": 4654,
+    "output_tokens": 617,
+    "total_tokens": 5271,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

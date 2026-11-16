@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kế Toán Tổng Hợp - Đi Làm Ngay\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán\",\n  \"sub_category\": \"Kế toán tổng hợp\",\n  \"industry\": \"Kế toán / Thuế / Kiểm toán\",\n  \"category\": null,\n  \"location\": \"53 Triều Khúc, Phường Thanh Liệt, Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-tong-hop-di-lam-ngay-ha-noi/2357359.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"Hàm excel\",\n    \"Excel VBA\",\n    \"Excel tốt\",\n    \"Word Excel\",\n    \"Thạo Excel\",\n    \"Phần mềm kế toán\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Làm việc độc lập\",\n    \"Có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 5.0,\n  \"salary\": \"15 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Khám sức khỏe định kỳ\",\n    \"Khám sức khỏe định kỳ hàng năm\",\n    \"Nghỉ mát\",\n    \"Thưởng lễ tết\",\n    \"Tháng lương 13\",\n    \"Phúc lợi công ty: hỗ trợ ăn trưa\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"• Thực hiện báo cáo tài chính quý, năm.\\n• Theo dõi công nợ, chi phí, doanh thu; quản lý chứng từ, sổ sách.  \\n• Kê khai, nộp các loại thuế và làm việc với cơ quan thuế khi cần.  \\n• Tư vấn, tham mưu cho lãnh đạo về tài chính – kế toán.\",\n  \"requirements_text\": \"• Có kinh nghiệm làm kế toán tổng hợp, đã từng tham gia quyết toán thuế.\\n• Am hiểu luật thuế, sử dụng tốt Excel và phần mềm kế toán.\\n• Cẩn thận, trung thực, làm việc độc lập và có trách nhiệm.\\n• Đi làm luôn\"\n}\n```",
+  "usage": {
+    "input_tokens": 4661,
+    "output_tokens": 680,
+    "total_tokens": 5341,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

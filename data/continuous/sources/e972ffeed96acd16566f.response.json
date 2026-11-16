@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân - Thu Ngân Salon Cao Cấp Parttime / Fulltime (Nữ)\",\n  \"company_name\": null,\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": null,\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-thu-ngan-salon-cao-cap-parttime-fulltime-nu-thu-nhap-15-19-trieu/2218827.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"thân thiện\",\n    \"có trách nhiệm với công việc\",\n    \"đạo đức tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\",\n    \"Tiếng Hàn\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"15 - 19 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 09:00 đến 17:30); Thứ 2 - Chủ nhật (từ 17:30 đến 21:00); Fulltime: 9h00 đến 17h30 Parttime: 17h30 đến 21h00; Thời gian làm việc/ngày: 9h-21h\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Tham gia BHXH, BHYT, BHTN sau 02 tháng làm việc.\",\n    \"Xét tăng lương định kỳ hằng năm theo năng lực và hiệu quả công việc.\",\n    \"Làm việc trong môi trường salon cao cấp với khách hàng quốc tế, chuyên nghiệp và hiện đại.\",\n    \"Có cơ hội nâng cao kỹ năng giao tiếp ngoại ngữ (Tiếng Anh/Tiếng Hàn) và phát triển nghiệp vụ dịch vụ khách hàng.\",\n    \"Được đào tạo, hướng dẫn trong quá trình làm việc.\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Trực quầy lễ tân, đón tiếp khách vào salon, phiên dịch (cho đa phần khách Hàn và Âu)\\n- Nhận và cập nhật lịch đặt hẹn của khách.\\n- Thu tiền và nộp doanh thu\\n- Quay + chụp ảnh với những khách cho phép\\n- Quản lý sản phẩm tại salon\\n- Các công việc khác theo yêu cầu từ quản lý (nếu có)\",\n  \"requirements_text\": \"- Tiếng Anh trôi chảy – ưu tiên biết thêm Tiếng Trung hoặc tiếng Hàn\\n- Trung thực, thân thiện, có trách nhiệm với công việc, đạo đức tốt;\\n- Tháng nghỉ 3-5 ngày/tháng;\\n- Thời gian làm việc/ngày: 9h-21h\"\n}\n```",
+  "usage": {
+    "input_tokens": 5612,
+    "output_tokens": 802,
+    "total_tokens": 6414,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

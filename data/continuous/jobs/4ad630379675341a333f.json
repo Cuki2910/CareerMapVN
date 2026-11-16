@@ -1,0 +1,55 @@
+{
+  "job_title": "AI Engineer Lead",
+  "company_name": null,
+  "job_category": "AI Engineer",
+  "sub_category": null,
+  "industry": "Ngân hàng",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-02",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer-lead/2178330.html",
+  "qualifications": [
+    "Cao Đẳng trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "OpenAI",
+    "LangChain",
+    "LangGraph",
+    "Vector Database",
+    "TensorRT",
+    "AWS",
+    "Azure",
+    "GCP",
+    "API"
+  ],
+  "soft_skills": [
+    "Tư duy phân tích",
+    "Giao tiếp",
+    "Tư duy dự án",
+    "Khả năng thích ứng"
+  ],
+  "languages_required": [
+    "Tiếng Việt",
+    "Tiếng Anh"
+  ],
+  "experience_required": 2.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Lương cạnh tranh, xứng đáng với năng lực đóng góp. Lương tháng 13.",
+    "Được tham gia BHXH Hưởng các chế độ, phúc lợi như: Thưởng lễ tết, thưởng dự án, thưởng thâm niên; 12 ngày phép năm;",
+    "Du lịch hàng năm, teambuilding hàng tháng.",
+    "Môi trường làm việc trẻ và năng động, tôn trọng phát triển cá nhân, công bằng và luôn khuyến khích sáng tạo để tạo nên những giá trị \"awesome\" cho công ty & cho thế giới"
+  ],
+  "description": "* Tham gia triển khai các giải pháp trí tuệ nhân tạo trong lĩnh vực Ngân hàng.\n* Vị trí này kết hợp giữa phát triển kỹ thuật và triển khai giải pháp, bao gồm phát triển và tối ưu hóa các mô hình AI, phân tích yêu cầu nghiệp vụ, đánh giá các giải pháp từ bên thứ ba và điều phối với các phòng ban liên quan để đưa các sáng kiến AI vào vận hành một cách hiệu quả nhất.\n* Phát triển và tối ưu giải pháp AI\n* Triển khai giải pháp AI và điều phối dự án",
+  "requirements_text": "1. Trình độ & Kinh nghiệm\n* Có từ 2 năm kinh nghiệm trong vai trò AI Engineer, Data Scientist hoặc Solution Engineer.\n2. Kỹ năng chuyên môn (Technical Skills)\n* Thành thạo ngôn ngữ lập trình Python và am hiểu sâu sắc các bộ công cụ Học máy / Trí tuệ Nhân tạo (_PyTorch, TensorFlow_).\n* Có kinh nghiệm làm việc với hệ sinh thái LLM (OpenAI, LangChain, LangGraph, Vector Database…)\n* Có kinh nghiệm deploy và tối ưu mô hình (TensorRT, …) là lợi thế.\n* Có kiến thức về các dịch vụ Điện toán Đám mây (AWS / Azure / GCP) và kỹ năng tích hợp API.\n3. Kỹ năng triển khai & kỹ năng mềm\n* Tư duy phân tích:\nCó khả năng phân tích bài toán nghiệp vụ ngân hàng và đề xuất giải pháp AI phù hợp.\n* Giao tiếp:\nKỹ năng giao tiếp tốt (Tiếng Việt & Tiếng Anh), có khả năng làm việc với nhiều bộ phận và báo cáo quản lý.\n* Tư duy dự án:\nCó kinh nghiệm điều phối công việc, quản lý tiến độ, làm việc với vendor là lợi thế.\n* Khả năng thích ứng:\nCó khả năng nghiên cứu nhanh các công nghệ mới và ứng dụng ngay vào các bài toán thực tế của ngân hàng (Phát hiện gian lận - Fraud Detection, Trợ lý ảo - Chatbots, Hệ thống gợi ý sản phẩm - Recommendation Systems)."
+}

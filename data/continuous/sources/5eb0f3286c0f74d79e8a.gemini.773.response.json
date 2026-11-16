@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Tư Vấn Tài Chính\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn tài chính\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Cần Thơ\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-tai-chinh/2337999.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"kỹ năng giao tiếp\",\n    \"lắng nghe\",\n    \"đàm phán\",\n    \"thuyết phục\",\n    \"kỹ năng quản trị\",\n    \"làm việc nhóm\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 1.0,\n  \"salary\": \"7 - 30 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Được hưởng mức hoa hồng hấp dẫn và thưởng hiệu suất.\",\n    \"Có lộ trình thăng tiến rõ ràng.\",\n    \"Được đào tạo nâng cao kỹ năng mềm và tham gia các khóa học nghiệp vụ.\",\n    \"Vinh danh, khen thưởng hàng tháng theo kết quả kinh doanh.\",\n    \"Được tham gia các hoạt động ngoại khóa, team building, du lịch định kỳ của công ty.\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Tìm kiếm và phát triển khách hàng tiềm năng.\\n- Tư vấn sản phẩm phù hợp theo nhu cầu khách hàng.\\n- Xây dựng niềm tin và hình ảnh chuyên nghiệp với khách hàng.\\n- Phát triển thương hiệu cá nhân trên các nền tảng số (Facebook, Zalo, Tiktok...)\\n- Chăm sóc khách hàng trước và sau khi tham gia hợp đồng.\\n- Tham gia tổ chức hội thảo, workshop để thu hút và duy trì mối quan hệ khách hàng.\\n- Xây dựng và phát triển đội nhóm, đóng góp vào tăng trưởng chung của công ty.\\n\\nThu nhập:\\n- Thu nhập khi đạt 100% KPI: 7 - 30 triệu VND\\n- Thu nhập tính theo tỷ lệ đạt KPI\\n- Lương cứng phụ thuộc vào doanh số\",\n  \"requirements_text\": \"- Nam, Nữ tuổi từ 20 – 45.\\n- Ít nhất 1 năm kinh nghiệm, ưu tiên các lĩnh vực: Ngân hàng, Tài chính, Giáo viên, Bất động sản, Tư vấn dịch vụ, Bán hàng.\\n- Có kỹ năng giao tiếp - lắng nghe, đàm phán - thuyết phục tốt, kỹ năng quản trị và làm việc nhóm.\\n- Tinh thần làm việc cầu tiến, chịu được áp lực, ham học hỏi và trách nhiệm công việc cao.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4675,
+    "output_tokens": 755,
+    "total_tokens": 5430,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

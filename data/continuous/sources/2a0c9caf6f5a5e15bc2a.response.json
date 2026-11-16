@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Tài Xế - Lái Xe Tải\",\n  \"company_name\": \"CÔNG TY CP TM ĐẦU TƯ PHÁT TRIỂN HỒNG QUÝ\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Tài xế xe tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"389/11 Tỉnh lộ 10, Phường Bình Tân, Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tai-xe-lai-xe-tai/2357574.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\",\n    \"Giấy phép lái xe loại C trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"Siêng năng\",\n    \"Hòa đồng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:45 đến 16:30); Sáng: 7h45 -> 11h45, Chiều: 12h30 -> 16h30\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"BHXH\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Thưởng lễ, Tết\",\n    \"Các quyền lợi khác theo chính sách của công ty\",\n    \"Môi trường làm việc thân thiện, chuyên nghiệp, ổn định lâu dài\"\n  ],\n  \"description\": \"Mô tả công việc:\\n* Lái xe để giao kính đến các cửa hàng hoặc địa điểm theo sự phân công của Trưởng kho.\\n* Kiểm tra hàng hóa trước khi xuất kho để đảm bảo không có hàng hư hỏng, thiếu sót.\\n* Thường xuyên kiểm tra, bảo trì xe đúng định kỳ để đảm bảo phương tiện luôn trong tình trạng hoạt động tốt và an toàn.\\n* Hoàn thành các giấy tờ liên quan đến việc giao nhận hàng.\\n* Tuân thủ các quy định an toàn giao thông và quy định của công ty.\",\n  \"requirements_text\": \"Yêu cầu ứng viên:\\n* Tốt nghiệp trung học phổ thông và có giấy phép lái xe bằng C trở lên.\\n* Thông thạo các tuyến đường ở TP.HCM và các tỉnh lân cận (Miền Đông, Miền Tây)\\n* Nắm rõ và am hiểu luật giao thông đường bộ.\\n* Có ít nhất 01 năm kinh nghiệm trong lĩnh vực giao nhận hàng hóa.\\n* Có sức khỏe tốt, trung thực, siêng năng, hòa đồng.\"\n}",
+  "usage": {
+    "input_tokens": 4380,
+    "output_tokens": 1836,
+    "total_tokens": 6216,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1150
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

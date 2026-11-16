@@ -1,0 +1,1346 @@
+{
+  "started_at": "2026-11-15T08:27:07.649628+00:00",
+  "request_interval_seconds": 15,
+  "gate": "All 12 pages valid, exact source title, schema-valid job records, source sections preserved, no field differences versus successful baseline, and either fewer failures or at least 20% lower median fetch latency.",
+  "results": [
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 4.133,
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Kỹ Sư Thiết Kế Phần Cơ (Dự Án Nhật) Tại Hồ Chí Minh",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 423,
+        "description": 341,
+        "requirements_text": 723,
+        "working_hours": 116
+      },
+      "fields": {
+        "job_title": "Kỹ Sư Thiết Kế Phần Cơ (Dự Án Nhật) Tại Hồ Chí Minh",
+        "qualifications": [
+          "Tốt nghiệp ĐH liên quan ngành Kỹ thuật."
+        ],
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "- Phụ trách thiết kế và triển khai bản vẽ kỹ thuật cho các dự án từ phía Nhật Bản.\n- Bao gồm các hạng mục: hệ thống điện, điều hòa không khí, cấp thoát nước, thiết bị vệ sinh, khí đốt, v.v.\n* Ưu tiên: Có kinh nghiệm trong lĩnh vực điều hòa, vệ sinh, cấp thoát nước, phòng cháy chữa cháy\n- Các công việc khác sẽ được trao đổi rõ khi phỏng vấn",
+        "requirements_text": "* Nam/Nữ (20 đến 45t).\n* Tốt nghiệp ĐH liên quan ngành Kỹ thuật.\n* Ngoại ngữ: tiếng Anh hoặc Nhật. Biết nhật là một lợi thế\n* Có kinh nghiệm vẽ bản vẽ kỹ thuật cho doanh nghiệp Nhật hoặc khách hàng Nhật- Biết sử dụng các phần mềm thiết kế liên quan: CAD, TFAS, REBRO\n* Khả năng làm việc độc lập và làm việc nhóm tốt\n* Có định hướng phát triển cùng Công ty.\n* Có khả năng sáng tạo, tư duy logic\n* Có tinh thần trách nhiệm cao trong công việc\nKiến thức ngành\nXây dựng, Điện / Điện tử / Điện lạnh, Công nghệ kỹ thuật\nKỹ năng cần có\nLàm việc độc lập, Làm việc nhóm, Cad, Tư duy logic, Sáng tạo, Vẽ Bản Vẽ Kỹ Thuật, Rebro, Trách nhiệm cao, TFAS\nKỹ năng nên có\nCấp Thoát Nước, Pccc, Vệ Sinh, Biết tiếng Nhật, kinh nghiệm điều hòa",
+        "benefits": [
+          "Được nghỉ phép năm, lễ tết, lương tháng 13,.... theo quy định chung của công ty.",
+          "Được hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định của nhà nước hiện hành.",
+          "Được làm việc trong môi trường trẻ trung, năng động.",
+          "Cơ hội phát triển kỹ năng làm việc trong một môi trường làm việc năng động và thân thiện.",
+          "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13"
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)\n* Nghỉ thứ 7 tuần đầu tiên và tuần thứ 3 của tháng"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 21.483,
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Kỹ Sư Thiết Kế Phần Cơ (Dự Án Nhật) Tại Hồ Chí Minh",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 423,
+        "description": 341,
+        "requirements_text": 723,
+        "working_hours": 116
+      },
+      "fields": {
+        "job_title": "Kỹ Sư Thiết Kế Phần Cơ (Dự Án Nhật) Tại Hồ Chí Minh",
+        "qualifications": [
+          "Tốt nghiệp ĐH liên quan ngành Kỹ thuật."
+        ],
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "- Phụ trách thiết kế và triển khai bản vẽ kỹ thuật cho các dự án từ phía Nhật Bản.\n- Bao gồm các hạng mục: hệ thống điện, điều hòa không khí, cấp thoát nước, thiết bị vệ sinh, khí đốt, v.v.\n* Ưu tiên: Có kinh nghiệm trong lĩnh vực điều hòa, vệ sinh, cấp thoát nước, phòng cháy chữa cháy\n- Các công việc khác sẽ được trao đổi rõ khi phỏng vấn",
+        "requirements_text": "* Nam/Nữ (20 đến 45t).\n* Tốt nghiệp ĐH liên quan ngành Kỹ thuật.\n* Ngoại ngữ: tiếng Anh hoặc Nhật. Biết nhật là một lợi thế\n* Có kinh nghiệm vẽ bản vẽ kỹ thuật cho doanh nghiệp Nhật hoặc khách hàng Nhật- Biết sử dụng các phần mềm thiết kế liên quan: CAD, TFAS, REBRO\n* Khả năng làm việc độc lập và làm việc nhóm tốt\n* Có định hướng phát triển cùng Công ty.\n* Có khả năng sáng tạo, tư duy logic\n* Có tinh thần trách nhiệm cao trong công việc\nKiến thức ngành\nXây dựng, Điện / Điện tử / Điện lạnh, Công nghệ kỹ thuật\nKỹ năng cần có\nLàm việc độc lập, Làm việc nhóm, Cad, Tư duy logic, Sáng tạo, Vẽ Bản Vẽ Kỹ Thuật, Rebro, Trách nhiệm cao, TFAS\nKỹ năng nên có\nCấp Thoát Nước, Pccc, Vệ Sinh, Biết tiếng Nhật, kinh nghiệm điều hòa",
+        "benefits": [
+          "Được nghỉ phép năm, lễ tết, lương tháng 13,.... theo quy định chung của công ty.",
+          "Được hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định của nhà nước hiện hành.",
+          "Được làm việc trong môi trường trẻ trung, năng động.",
+          "Cơ hội phát triển kỹ năng làm việc trong một môi trường làm việc năng động và thân thiện.",
+          "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13"
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)\n* Nghỉ thứ 7 tuần đầu tiên và tuần thứ 3 của tháng"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 5.091,
+      "url": "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dien-tu-tu-dong-hoa-12-15tr-thang-nghi-t7-cn/2351369.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Nhân Viên Kỹ Thuật Điện/ Điện Tử/ Tự Động Hóa, 12-15tr/Tháng, Nghỉ T7+CN",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 545,
+        "requirements_text": 1026,
+        "benefits": 1122,
+        "working_hours": 36
+      },
+      "fields": {
+        "job_title": "Nhân Viên Kỹ Thuật Điện/ Điện Tử/ Tự Động Hóa, 12-15tr/Tháng, Nghỉ T7+CN",
+        "qualifications": [
+          "Tốt nghiệp Đại học chuyên ngành, Cơ điện tử, Điện – Điện tử -Tự động hóa hoặc các ngành liên quan"
+        ],
+        "salary": "12 - 15 triệu",
+        "salary_min": 12.0,
+        "salary_max": 15.0,
+        "description": "* Thiết kế và triển khai hệ thống\n* Lắp đặt bảo trì xử lý sự cố hệ thống dây chuyền sản xuất, máy móc thiết bị\n* Lập trình và tích hợp hệ thống PLC, Robot công nghiệp, hệ thống cảm biến, servo, biến tần ...\n* Tối ưu hóa quy trình SX bằng tự động hóa, chuyển đổi số\n* Kiểm tra đánh giá chất lượng sản phẩm cuối cùng\n* Phối hợp cùng phòng kinh doanh tham gia khảo sát các dự án kỹ thuật\n* Quản lý dự án: lập kế hoạch quản lý tiến độ, hiệu suất của các dự án\n* Tư vấn kỹ thuật: Cung cấp và tư vấn cho khách hàng về cách vận hành và sử dụng thiết bị",
+        "requirements_text": "1. Kiến thức chuyên môn\n- Tốt nghiệp Đại học chuyên ngành, Cơ điện tử, Điện – Điện tử -Tự động hóa hoặc các ngành liên quan\n- Sử dụng thành thạo các chương trình vi tính văn phòng như Word, Excel, Internet ...\n- Am hiểu bản vẽ kỹ thuật\n- Hiểu và sử dụng một số phần mềm thiết kế\n- Lập trình và sử dụng được một số loại như: PLC (Siemens, Mitsubishi, Omron...); Biến tần, servo; HMI, SCADA\n- Thành thạo các phần mềm thiết kế kỹ thuật như: AutoCAD, SolidWorks, Altium\n2. Kinh nghiệm\n- Có ít nhất 1 năm kinh nghiệm trở lên (đã từng làm việc trong KCN các công ty của Nhật ,Hàn là một lợi thế )\n3. Kỹ năng\n- Đọc hiểu bản vẽ, lắp ráp, kiểm tra sản phẩm.\n- Có kinh nghiệm làm việc với máy móc, thiết bị, dây chuyền sản xuất, tự động hóa\n- Hiểu biết về bảo trì, sửa chữa thiết bị\n- Kỹ năng giao tiếp, làm việc nhóm.\n- Kỹ năng quản lý thời gian, giải quyết vấn đề.\n4. Phẩm chất cá nhân\n- Có phẩm chất đạo đức tốt, chăm chỉ, trách nhiệm với công việc\nKiến thức ngành\nĐiện / Điện tử / Điện lạnh, Cơ khí / Tự động hóa, Công nghệ kỹ thuật",
+        "benefits": [
+          "1. Chế độ",
+          "Lương cơ bản: 12-15 triệu đồng/tháng. Thanh toán lương vào m1 hàng tháng, không bao giờ chậm lương.",
+          "Công ty chi trả 100% Bảo hiểm sức khỏe của Manulife, PVI Care, Bảo Việt",
+          "BHXH công ty đóng toàn bộ phí (NLĐ không phải đóng), được đóng khi hết thử việc.",
+          "Khám sức khỏe định kỳ hằng năm tại Bệnh Viện Thu Cúc",
+          "Chế độ lễ tết, sinh nhật, hiếu hỉ, ốm đau,...",
+          "Quà giỗ tứ thân phụ mẫu",
+          "Du lịch, teambuilding 2 lần/năm",
+          "Được đào tạo trực tiếp từ các chuyên gia của hãng.",
+          "Phụ cấp ăn trưa 50k/ngày",
+          "Được thưởng chuyên cần 300k/tháng",
+          "Phụ cấp công tác phí, xăng xe, điện thoại",
+          "Thâm niên từ 2 năm trở lên: 200k/tháng",
+          "Môi trường làm việc năng động, chuyên nghiệp, minh bạch.",
+          "Làm từ 8:00 đến 17:00 từ Thứ 2 đến Thứ 6",
+          "Nghỉ thứ 7 và CN",
+          "2. Đề xuất",
+          "Tham gia đề xuất giải pháp thực hiện công việc có hiệu quả nhất",
+          "3. Quyền hạn khác",
+          "Tham gia đóng góp ý kiến trong các cuộc họp trong trường hợp được triệu tập;",
+          "Tham gia các họat động xây dựng văn hoá doanh nghiệp",
+          "Được đào huấn luyện kỹ năng, chuyên môn để phục vụ công việc.",
+          "Có cơ hội đi công tác, học tập, phát triển sự nghiệp trong và ngoài nước."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.655,
+      "url": "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dien-tu-tu-dong-hoa-12-15tr-thang-nghi-t7-cn/2351369.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Nhân Viên Kỹ Thuật Điện/ Điện Tử/ Tự Động Hóa, 12-15tr/Tháng, Nghỉ T7+CN",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 545,
+        "requirements_text": 1026,
+        "benefits": 1122,
+        "working_hours": 36
+      },
+      "fields": {
+        "job_title": "Nhân Viên Kỹ Thuật Điện/ Điện Tử/ Tự Động Hóa, 12-15tr/Tháng, Nghỉ T7+CN",
+        "qualifications": [
+          "Tốt nghiệp Đại học chuyên ngành, Cơ điện tử, Điện – Điện tử -Tự động hóa hoặc các ngành liên quan"
+        ],
+        "salary": "12 - 15 triệu",
+        "salary_min": 12.0,
+        "salary_max": 15.0,
+        "description": "* Thiết kế và triển khai hệ thống\n* Lắp đặt bảo trì xử lý sự cố hệ thống dây chuyền sản xuất, máy móc thiết bị\n* Lập trình và tích hợp hệ thống PLC, Robot công nghiệp, hệ thống cảm biến, servo, biến tần ...\n* Tối ưu hóa quy trình SX bằng tự động hóa, chuyển đổi số\n* Kiểm tra đánh giá chất lượng sản phẩm cuối cùng\n* Phối hợp cùng phòng kinh doanh tham gia khảo sát các dự án kỹ thuật\n* Quản lý dự án: lập kế hoạch quản lý tiến độ, hiệu suất của các dự án\n* Tư vấn kỹ thuật: Cung cấp và tư vấn cho khách hàng về cách vận hành và sử dụng thiết bị",
+        "requirements_text": "1. Kiến thức chuyên môn\n- Tốt nghiệp Đại học chuyên ngành, Cơ điện tử, Điện – Điện tử -Tự động hóa hoặc các ngành liên quan\n- Sử dụng thành thạo các chương trình vi tính văn phòng như Word, Excel, Internet ...\n- Am hiểu bản vẽ kỹ thuật\n- Hiểu và sử dụng một số phần mềm thiết kế\n- Lập trình và sử dụng được một số loại như: PLC (Siemens, Mitsubishi, Omron...); Biến tần, servo; HMI, SCADA\n- Thành thạo các phần mềm thiết kế kỹ thuật như: AutoCAD, SolidWorks, Altium\n2. Kinh nghiệm\n- Có ít nhất 1 năm kinh nghiệm trở lên (đã từng làm việc trong KCN các công ty của Nhật ,Hàn là một lợi thế )\n3. Kỹ năng\n- Đọc hiểu bản vẽ, lắp ráp, kiểm tra sản phẩm.\n- Có kinh nghiệm làm việc với máy móc, thiết bị, dây chuyền sản xuất, tự động hóa\n- Hiểu biết về bảo trì, sửa chữa thiết bị\n- Kỹ năng giao tiếp, làm việc nhóm.\n- Kỹ năng quản lý thời gian, giải quyết vấn đề.\n4. Phẩm chất cá nhân\n- Có phẩm chất đạo đức tốt, chăm chỉ, trách nhiệm với công việc\nKiến thức ngành\nĐiện / Điện tử / Điện lạnh, Cơ khí / Tự động hóa, Công nghệ kỹ thuật",
+        "benefits": [
+          "1. Chế độ",
+          "Lương cơ bản: 12-15 triệu đồng/tháng. Thanh toán lương vào m1 hàng tháng, không bao giờ chậm lương.",
+          "Công ty chi trả 100% Bảo hiểm sức khỏe của Manulife, PVI Care, Bảo Việt",
+          "BHXH công ty đóng toàn bộ phí (NLĐ không phải đóng), được đóng khi hết thử việc.",
+          "Khám sức khỏe định kỳ hằng năm tại Bệnh Viện Thu Cúc",
+          "Chế độ lễ tết, sinh nhật, hiếu hỉ, ốm đau,...",
+          "Quà giỗ tứ thân phụ mẫu",
+          "Du lịch, teambuilding 2 lần/năm",
+          "Được đào tạo trực tiếp từ các chuyên gia của hãng.",
+          "Phụ cấp ăn trưa 50k/ngày",
+          "Được thưởng chuyên cần 300k/tháng",
+          "Phụ cấp công tác phí, xăng xe, điện thoại",
+          "Thâm niên từ 2 năm trở lên: 200k/tháng",
+          "Môi trường làm việc năng động, chuyên nghiệp, minh bạch.",
+          "Làm từ 8:00 đến 17:00 từ Thứ 2 đến Thứ 6",
+          "Nghỉ thứ 7 và CN",
+          "2. Đề xuất",
+          "Tham gia đề xuất giải pháp thực hiện công việc có hiệu quả nhất",
+          "3. Quyền hạn khác",
+          "Tham gia đóng góp ý kiến trong các cuộc họp trong trường hợp được triệu tập;",
+          "Tham gia các họat động xây dựng văn hoá doanh nghiệp",
+          "Được đào huấn luyện kỹ năng, chuyên môn để phục vụ công việc.",
+          "Có cơ hội đi công tác, học tập, phát triển sự nghiệp trong và ngoài nước."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 4.994,
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352470.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Kỹ Sư Thiết Kế Máy - Từ 2 Năm Kinh Nghiệm - Thu Nhập UpTo 25 Triệu - Làm Việc Tại Đà Nẵng",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 797,
+        "requirements_text": 402,
+        "benefits": 445,
+        "working_hours": 36
+      },
+      "fields": {
+        "job_title": "Kỹ Sư Thiết Kế Máy - Từ 2 Năm Kinh Nghiệm - Thu Nhập UpTo 25 Triệu - Làm Việc Tại Đà Nẵng",
+        "qualifications": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Cơ khí, Cơ điện tử, Thiết kế máy hoặc liên quan."
+        ],
+        "salary": "15 – 25 triệu/tháng (tùy năng lực).",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "* Tham gia thiết kế cơ khí 2D, 3D cho các máy móc tự động hóa, máy kiểm tra (Testing Machine), máy lắp ráp tự động (Automatic Assembly Machine) và dây chuyền sản xuất tự động (Automatic Production Line).\n* Thiết kế tổng thể máy (Machine Layout), kết cấu khung máy, cơ cấu truyền động, cơ cấu cấp phôi, cơ cấu định vị, kẹp giữ và các cơ cấu chuyển động tự động.\n* Thiết kế các hệ thống phụ trợ và module chức năng: Jig, Fixture, Conveyor, Robot Integration, Enclosure, Safety Cover...\n* Triển khai bản vẽ chế tạo chi tiết, bản vẽ lắp ráp (Assembly Drawing), bản vẽ gia công và BOM vật tư.\n* Phối hợp với bộ phận điện, điều khiển và lập trình PLC để tích hợp cơ khí, điện, khí nén, servo, robot và cảm biến thành hệ thống máy hoàn chỉnh.\n* Đảm bảo thiết kế an toàn, tối ưu chi phí, chuẩn hóa module.",
+        "requirements_text": "* Tốt nghiệp Cao đẳng/Đại học chuyên ngành Cơ khí, Cơ điện tử, Thiết kế máy hoặc liên quan.\n* Thành thạo phần mềm thiết kế 3D, CAD (SolidWorks hoặc Inventor, AutoCAD...).\n* Yêu cầu có kinh nghiệm thiết kế từ 02 năm trở lên. Ưu tiên có kinh nghiệm thiết kế máy công nghiệp, máy tự động, jig, băng tải, tủ điện công nghiệp.\n* Tư duy sáng tạo, chủ động, có thể đi công\nKiến thức ngành\nCơ khí / Tự động hóa",
+        "benefits": [
+          "Thu nhập: 15 – 25 triệu/tháng (tùy năng lực).",
+          "Tổng thu nhập năm hấp dẫn (bao gồm lương, thưởng tháng 13 và thưởng dự án).",
+          "Cơ hội phát triển nhanh trong môi trường công nghệ cao, tham gia trực tiếp dự án lớn về thị trường công nghiệp xe điện Electric Vehicle (VinFast, VinES, EMS FDI), EV Charging, BESS, Humanoid Robot.",
+          "Được tạo điều kiện nâng cao kỹ năng, tiếp xúc công nghệ mới.",
+          "Bảo hiểm, phúc lợi đầy đủ theo Luật Lao động Việt Nam."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 10.07,
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352470.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Kỹ Sư Thiết Kế Máy - Từ 2 Năm Kinh Nghiệm - Thu Nhập UpTo 25 Triệu - Làm Việc Tại Đà Nẵng",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 797,
+        "requirements_text": 402,
+        "benefits": 445,
+        "working_hours": 36
+      },
+      "fields": {
+        "job_title": "Kỹ Sư Thiết Kế Máy - Từ 2 Năm Kinh Nghiệm - Thu Nhập UpTo 25 Triệu - Làm Việc Tại Đà Nẵng",
+        "qualifications": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Cơ khí, Cơ điện tử, Thiết kế máy hoặc liên quan."
+        ],
+        "salary": "15 – 25 triệu/tháng (tùy năng lực).",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "* Tham gia thiết kế cơ khí 2D, 3D cho các máy móc tự động hóa, máy kiểm tra (Testing Machine), máy lắp ráp tự động (Automatic Assembly Machine) và dây chuyền sản xuất tự động (Automatic Production Line).\n* Thiết kế tổng thể máy (Machine Layout), kết cấu khung máy, cơ cấu truyền động, cơ cấu cấp phôi, cơ cấu định vị, kẹp giữ và các cơ cấu chuyển động tự động.\n* Thiết kế các hệ thống phụ trợ và module chức năng: Jig, Fixture, Conveyor, Robot Integration, Enclosure, Safety Cover...\n* Triển khai bản vẽ chế tạo chi tiết, bản vẽ lắp ráp (Assembly Drawing), bản vẽ gia công và BOM vật tư.\n* Phối hợp với bộ phận điện, điều khiển và lập trình PLC để tích hợp cơ khí, điện, khí nén, servo, robot và cảm biến thành hệ thống máy hoàn chỉnh.\n* Đảm bảo thiết kế an toàn, tối ưu chi phí, chuẩn hóa module.",
+        "requirements_text": "* Tốt nghiệp Cao đẳng/Đại học chuyên ngành Cơ khí, Cơ điện tử, Thiết kế máy hoặc liên quan.\n* Thành thạo phần mềm thiết kế 3D, CAD (SolidWorks hoặc Inventor, AutoCAD...).\n* Yêu cầu có kinh nghiệm thiết kế từ 02 năm trở lên. Ưu tiên có kinh nghiệm thiết kế máy công nghiệp, máy tự động, jig, băng tải, tủ điện công nghiệp.\n* Tư duy sáng tạo, chủ động, có thể đi công\nKiến thức ngành\nCơ khí / Tự động hóa",
+        "benefits": [
+          "Thu nhập: 15 – 25 triệu/tháng (tùy năng lực).",
+          "Tổng thu nhập năm hấp dẫn (bao gồm lương, thưởng tháng 13 và thưởng dự án).",
+          "Cơ hội phát triển nhanh trong môi trường công nghệ cao, tham gia trực tiếp dự án lớn về thị trường công nghiệp xe điện Electric Vehicle (VinFast, VinES, EMS FDI), EV Charging, BESS, Humanoid Robot.",
+          "Được tạo điều kiện nâng cao kỹ năng, tiếp xúc công nghệ mới.",
+          "Bảo hiểm, phúc lợi đầy đủ theo Luật Lao động Việt Nam."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 5.065,
+      "url": "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Trưởng Bộ Phận QHSE (Quản Lý Chất Lượng, Sức Khỏe, An Toàn Và Môi Trường) |Kho Lạnh - Logistics/Xuất Nhập Khẩu/Vận Tải|Thu Nhập Hấp Dẫn",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 2216,
+        "requirements_text": 1051,
+        "benefits": 1132,
+        "working_hours": 94
+      },
+      "fields": {
+        "job_title": "Trưởng Bộ Phận QHSE (Quản Lý Chất Lượng, Sức Khỏe, An Toàn Và Môi Trường) |Kho Lạnh - Logistics/Xuất Nhập Khẩu/Vận Tải|Thu Nhập Hấp Dẫn",
+        "qualifications": [
+          "Tốt nghiệp Đại học trở lên, ưu tiên các chuyên ngành An toàn lao động, Môi trường, Kỹ thuật, QHSE hoặc các ngành liên quan."
+        ],
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "CÔNG TY CỔ PHẦN KHO LẠNH KỶ NGUYÊN MỚI (NECS) hoạt động trong lĩnh vựcLogistics, kho lạnh, vận tải và lưu trữ hàng hóa , môi trường vận hành nhà máy – kho vận chuyên nghiệp.\nTRƯỞNG BỘ PHẬN QHSE chịu trách nhiệm quản lý An toàn – Sức khỏe nghề nghiệp – Môi trường – Chất lượng , xây dựng hệ thống QHSE và dẫn dắt văn hóa an toàn toàn Công ty.\nĐịa điểm: KCN Phú An Thạnh, Bến Lức, Tây Ninh (Long An Cũ)\n* _Quản lý hệ thống QHSE\n- Xây dựng, triển khai và duy trì hệ thống QHSE/HSE phù hợp với hoạt động Công ty.\n- Xây dựng, cập nhật quy trình, quy định, tiêu chuẩn An toàn – Sức khỏe – Môi trường – Chất lượng.\n- Theo dõi KPI, đánh giá rủi ro và đề xuất các chương trình cải tiến QHSE.\n* _Quản lý An toàn lao động:\n- Nhận diện mối nguy, đánh giá rủi ro và đưa ra biện pháp kiểm soát.\n- Kiểm tra, giám sát việc tuân thủ an toàn lao động tại nhà máy, kho lạnh, kho bãi và khu vực vận hành.\n- Điều tra sự cố, tai nạn lao động và triển khai biện pháp phòng ngừa.\n* _Quản lý Môi trường:\n- Giám sát việc tuân thủ các quy định về bảo vệ môi trường, chất thải, nước thải, khí thải.\n- Quản lý hồ sơ, báo cáo môi trường và phối hợp làm việc với cơ quan chức năng.\n- Đề xuất các giải pháp giảm thiểu rủi ro và tác động môi trường.\n* _PCCC & Ứng phó khẩn cấp\n- Xây dựng và triển khai phương án PCCC, cứu nạn cứu hộ và ứng phó tình huống khẩn cấp.\n- Tổ chức kiểm tra, huấn luyện và diễn tập định kỳ.\n- Đảm bảo hệ thống PCCC được vận hành và kiểm soát hiệu quả.\n* _Quản lý Chất lượng\n- Xây dựng và giám sát hệ thống Quản lý chất lượng (Quality Management).\n- Theo dõi KPI chất lượng, kiểm tra sự phù hợp và xử lý các vấn đề phát sinh.\n- Phân tích nguyên nhân, đề xuất cải tiến liên tục và nâng cao chất lượng vận hành.\n* _Quản lý đội ngũ QHSE\n- Quản lý, đào tạo và phát triển đội ngũ nhân sự HSE/QHSE.\n- Phân công công việc, đánh giá hiệu quả và xây dựng năng lực đội ngũ.\n- Xây dựng văn hóa an toàn và nâng cao nhận thức QHSE cho toàn Công ty.\n* _Báo cáo & phối hợp\n- Báo cáo định kỳ về tình hình QHSE, an toàn lao động, môi trường và chất lượng cho Ban Điều hành.\n- Phối hợp với các phòng ban, khách hàng, đơn vị đánh giá và cơ quan quản lý nhà nước.\n- Đại diện Công ty trong các hoạt động thanh tra, kiểm tra, audit/đánh giá QHSE.",
+        "requirements_text": "- Tốt nghiệp Đại học trở lên, ưu tiên các chuyên ngành An toàn lao động, Môi trường, Kỹ thuật, QHSE hoặc các ngành liên quan.\n- Có tối thiểu 03 năm kinh nghiệm ở vị trí tương đương, ưu tiên ứng viên từng giữ vai tròHSE Manager, QHSE Manager, Trưởng bộ phận HSE/QHSE, Trưởng phòng An toàn – Môi trường.\n- Có kinh nghiệm quản lý QHSE tại nhà máy, sản xuất, kho vận, Logistics hoặc môi trường công nghiệp.\n- Am hiểu An toàn vệ sinh lao động, Luật Môi trường, PCCC và các quy định pháp luật liên quan.\n- Có kiến thức về ISO 14001, ISO 45001 , quản lý rủi ro, điều tra sự cố/tai nạn và ứng phó khẩn cấp.\n- Bắt buộc tiếng Anh tốt, có khả năng giao tiếp, đọc hiểu tài liệu và làm việc với khách hàng/đối tác nước ngoài.\n- Có kỹ năng lãnh đạo, quản lý đội ngũ, xây dựng hệ thống, phân tích rủi ro và giải quyết vấn đề.\n- Sẵn sàng làm việc toàn thời gian tại Bến Lức.\n- Báo cáo Cho Giám đốc Phòng Hành chính Nhân sự\nKiến thức ngành\nLogistic / Vận tải\nKỹ năng cần có\nGiám Sát An Toàn Lao Động, Kiến Thức Về Hệ Thống Quản Lý Qhse (iso 9001, Iso 14001, Iso 45001)",
+        "benefits": [
+          "Lương thỏa thuận theo năng lực và kinh nghiệm.",
+          "Xe đưa đón từ TP.HCM đến nơi làm việc.",
+          "Thưởng tháng 13 theo chính sách Công ty.",
+          "Thưởng Lễ/Tết và các khoản thưởng khác theo chính sách Công ty",
+          "(Trên 6 tháng: 1 triệu/kỳ lễ, dưới 6 tháng 500k/kỳ lễ)",
+          "Tham gia BHXH đầy đủ theo quy định (70%).",
+          "Khám sức khỏe định kỳ hằng năm.",
+          "12 ngày phép/năm và hưởng đầy đủ các chế độ nghỉ Lễ/Tết theo quy định.",
+          "Hưởng đầy đủ chế độ ốm đau, hiếu hỉ, sinh con và các chính sách phúc lợi dành cho người lao động.",
+          "Cấp phát đồng phục, máy tính và công cụ làm việc phục vụ công việc.",
+          "Hưởng các chế độ phúc lợi từ Công đoàn: thưởng Lễ, quà Tết, quà Trung thu và các dịp đặc biệt.",
+          "Hưởng công tác phí khi đi công tác theo quy định.",
+          "Được tham gia các chương trình đào tạo, huấn luyện nâng cao chuyên môn QHSE, An toàn lao động, Môi trường, PCCC và ISO.",
+          "Môi trường làm việc ổn định, chuyên nghiệp, đề cao tính chủ động và trách nhiệm.",
+          "Cơ hội phát triển nghề nghiệp trong lĩnh vực Logistics – Kho lạnh – Kho vận – Nhà máy.",
+          "Có cơ hội xây dựng và phát triển hệ thống QHSE, nâng cao năng lực quản lý và tạo dấu ấn chuyên môn trong tổ chức."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)\n* Sáng thứ 7 làm việc online"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.455,
+      "url": "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Trưởng Bộ Phận QHSE (Quản Lý Chất Lượng, Sức Khỏe, An Toàn Và Môi Trường) |Kho Lạnh - Logistics/Xuất Nhập Khẩu/Vận Tải|Thu Nhập Hấp Dẫn",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 2212,
+        "requirements_text": 1051,
+        "benefits": 1134,
+        "working_hours": 94
+      },
+      "fields": {
+        "job_title": "Trưởng Bộ Phận QHSE (Quản Lý Chất Lượng, Sức Khỏe, An Toàn Và Môi Trường) |Kho Lạnh - Logistics/Xuất Nhập Khẩu/Vận Tải|Thu Nhập Hấp Dẫn",
+        "qualifications": [
+          "Tốt nghiệp Đại học trở lên, ưu tiên các chuyên ngành An toàn lao động, Môi trường, Kỹ thuật, QHSE hoặc các ngành liên quan."
+        ],
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "*CÔNG TY CỔ PHẦN KHO LẠNH KỶ NGUYÊN MỚI (NECS) hoạt động trong lĩnh vực Logistics, kho lạnh, vận tải và lưu trữ hàng hóa, môi trường vận hành nhà máy – kho vận chuyên nghiệp.*\n*TRƯỞNG BỘ PHẬN QHSE chịu trách nhiệm quản lý An toàn – Sức khỏe nghề nghiệp – Môi trường – Chất lượng, xây dựng hệ thống QHSE và dẫn dắt văn hóa an toàn toàn Công ty.*\nĐịa điểm: KCN Phú An Thạnh, Bến Lức, Tây Ninh (Long An Cũ)\n* Quản lý hệ thống QHSE\n- Xây dựng, triển khai và duy trì hệ thống QHSE/HSE phù hợp với hoạt động Công ty.\n- Xây dựng, cập nhật quy trình, quy định, tiêu chuẩn An toàn – Sức khỏe – Môi trường – Chất lượng.\n- Theo dõi KPI, đánh giá rủi ro và đề xuất các chương trình cải tiến QHSE.\n* Quản lý An toàn lao động:\n- Nhận diện mối nguy, đánh giá rủi ro và đưa ra biện pháp kiểm soát.\n- Kiểm tra, giám sát việc tuân thủ an toàn lao động tại nhà máy, kho lạnh, kho bãi và khu vực vận hành.\n- Điều tra sự cố, tai nạn lao động và triển khai biện pháp phòng ngừa.\n* Quản lý Môi trường:\n- Giám sát việc tuân thủ các quy định về bảo vệ môi trường, chất thải, nước thải, khí thải.\n- Quản lý hồ sơ, báo cáo môi trường và phối hợp làm việc với cơ quan chức năng.\n- Đề xuất các giải pháp giảm thiểu rủi ro và tác động môi trường.\n* PCCC & Ứng phó khẩn cấp\n- Xây dựng và triển khai phương án PCCC, cứu nạn cứu hộ và ứng phó tình huống khẩn cấp.\n- Tổ chức kiểm tra, huấn luyện và diễn tập định kỳ.\n- Đảm bảo hệ thống PCCC được vận hành và kiểm soát hiệu quả.\n* Quản lý Chất lượng\n- Xây dựng và giám sát hệ thống Quản lý chất lượng (Quality Management).\n- Theo dõi KPI chất lượng, kiểm tra sự phù hợp và xử lý các vấn đề phát sinh.\n- Phân tích nguyên nhân, đề xuất cải tiến liên tục và nâng cao chất lượng vận hành.\n* Quản lý đội ngũ QHSE\n- Quản lý, đào tạo và phát triển đội ngũ nhân sự HSE/QHSE.\n- Phân công công việc, đánh giá hiệu quả và xây dựng năng lực đội ngũ.\n- Xây dựng văn hóa an toàn và nâng cao nhận thức QHSE cho toàn Công ty.\n* Báo cáo & phối hợp\n- Báo cáo định kỳ về tình hình QHSE, an toàn lao động, môi trường và chất lượng cho Ban Điều hành.\n- Phối hợp với các phòng ban, khách hàng, đơn vị đánh giá và cơ quan quản lý nhà nước.\n- Đại diện Công ty trong các hoạt động thanh tra, kiểm tra, audit/đánh giá QHSE.",
+        "requirements_text": "- Tốt nghiệp Đại học trở lên, ưu tiên các chuyên ngành An toàn lao động, Môi trường, Kỹ thuật, QHSE hoặc các ngành liên quan.\n- Có tối thiểu 03 năm kinh nghiệm ở vị trí tương đương, ưu tiên ứng viên từng giữ vai trò HSE Manager, QHSE Manager, Trưởng bộ phận HSE/QHSE, Trưởng phòng An toàn – Môi trường.\n- Có kinh nghiệm quản lý QHSE tại nhà máy, sản xuất, kho vận, Logistics hoặc môi trường công nghiệp.\n- Am hiểu An toàn vệ sinh lao động, Luật Môi trường, PCCC và các quy định pháp luật liên quan.\n- Có kiến thức về ISO 14001, ISO 45001, quản lý rủi ro, điều tra sự cố/tai nạn và ứng phó khẩn cấp.\n- Bắt buộc tiếng Anh tốt, có khả năng giao tiếp, đọc hiểu tài liệu và làm việc với khách hàng/đối tác nước ngoài.\n- Có kỹ năng lãnh đạo, quản lý đội ngũ, xây dựng hệ thống, phân tích rủi ro và giải quyết vấn đề.\n- Sẵn sàng làm việc toàn thời gian tại Bến Lức.\n- Báo cáo Cho Giám đốc Phòng Hành chính Nhân sự\nKiến thức ngành\nLogistic / Vận tải\nKỹ năng cần có\nGiám Sát An Toàn Lao Động, Kiến Thức Về Hệ Thống Quản Lý Qhse (iso 9001, Iso 14001, Iso 45001)",
+        "benefits": [
+          "Lương thỏa thuận theo năng lực và kinh nghiệm.",
+          "Xe đưa đón từ TP.HCM đến nơi làm việc.",
+          "Thưởng tháng 13 theo chính sách Công ty.",
+          "Thưởng Lễ/Tết và các khoản thưởng khác theo chính sách Công ty",
+          "(Trên 6 tháng: 1 triệu/kỳ lễ, dưới 6 tháng 500k/kỳ lễ)*",
+          "Tham gia BHXH đầy đủ theo quy định (70%).",
+          "Khám sức khỏe định kỳ hằng năm.",
+          "12 ngày phép/năm và hưởng đầy đủ các chế độ nghỉ Lễ/Tết theo quy định.",
+          "Hưởng đầy đủ chế độ ốm đau, hiếu hỉ, sinh con và các chính sách phúc lợi dành cho người lao động.",
+          "Cấp phát đồng phục, máy tính và công cụ làm việc phục vụ công việc.",
+          "Hưởng các chế độ phúc lợi từ Công đoàn: thưởng Lễ, quà Tết, quà Trung thu và các dịp đặc biệt.",
+          "Hưởng công tác phí khi đi công tác theo quy định.",
+          "Được tham gia các chương trình đào tạo, huấn luyện nâng cao chuyên môn QHSE, An toàn lao động, Môi trường, PCCC và ISO.",
+          "Môi trường làm việc ổn định, chuyên nghiệp, đề cao tính chủ động và trách nhiệm.",
+          "Cơ hội phát triển nghề nghiệp trong lĩnh vực Logistics – Kho lạnh – Kho vận – Nhà máy.",
+          "Có cơ hội xây dựng và phát triển hệ thống QHSE, nâng cao năng lực quản lý và tạo dấu ấn chuyên môn trong tổ chức."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)\n* Sáng thứ 7 làm việc online"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 4.237,
+      "url": "https://www.topcv.vn/viec-lam/ky-su-co-dien-mep-engineer-chap-nhan-sinh-vien-moi-ra-truong-chua-co-kinh-nghiem/2352360.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Kỹ Sư Cơ Điện ( MEP Engineer ) - Chấp Nhận Sinh Viên Mới Ra Trường - Chưa Có Kinh Nghiệm",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 519,
+        "description": 406,
+        "requirements_text": 700,
+        "working_hours": 65
+      },
+      "fields": {
+        "job_title": "Kỹ Sư Cơ Điện ( MEP Engineer ) - Chấp Nhận Sinh Viên Mới Ra Trường - Chưa Có Kinh Nghiệm",
+        "qualifications": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Điện, Điện công nghiệp, Cơ điện, Tự động hóa hoặc các ngành liên quan.",
+          "Chấp nhận ứng viên mới tốt nghiệp hoặc chưa có kinh nghiệm; được công ty hướng dẫn và đào tạo chuyên môn."
+        ],
+        "salary": "9.000.000 – 15.000.000 đồng/tháng, thỏa thuận theo năng lực và kinh nghiệm.",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "• Tham gia triển khai, lắp đặt, vận hành và bảo trì các hệ thống, thiết bị cơ điện.\n• Khảo sát, kiểm tra và đánh giá tình trạng kỹ thuật của thiết bị, hệ thống.\n• Hỗ trợ tư vấn, đề xuất giải pháp kỹ thuật phù hợp với yêu cầu của khách hàng.\n• Phối hợp với các bộ phận liên quan để xử lý các vấn đề phát sinh trong quá trình thực hiện công việc.\n• Thực hiện các công việc khác theo sự phân công của quản lý.",
+        "requirements_text": "• Tốt nghiệp Cao đẳng/Đại học chuyên ngành Điện, Điện công nghiệp, Cơ điện, Tự động hóa hoặc các ngành liên quan.\n• Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực cơ điện, thiết bị công nghiệp.\n• Chấp nhận ứng viên mới tốt nghiệp hoặc chưa có kinh nghiệm; được công ty hướng dẫn và đào tạo chuyên môn.\n• Có tinh thần trách nhiệm, chủ động, ham học hỏi và mong muốn phát triển lâu dài.\n• Có khả năng làm việc nhóm, sẵn sàng đi công tác khi có yêu cầu.\nKiến thức ngành\nĐiện / Điện tử / Điện lạnh, Công nghệ kỹ thuật, Cơ khí / Tự động hóa\nKỹ năng cần có\nLàm việc nhóm, Bảo Trì Thiết Bị Cơ Điện, Lắp Đặt Hệ Thống Cơ Điện\nKỹ năng nên có\nKinh Nghiệm Trong Lĩnh Vực Cơ Điện, Kinh nghiệm thiết bị công nghiệp",
+        "benefits": [
+          "Mức lương: 9.000.000 – 15.000.000 đồng/tháng, thỏa thuận theo năng lực và kinh nghiệm.",
+          "Được đào tạo, hướng dẫn chuyên môn đối với ứng viên chưa có kinh nghiệm.",
+          "Được làm việc trong môi trường chuyên nghiệp, thân thiện, có cơ hội học hỏi và phát triển.",
+          "Tham gia BHXH, BHYT, BHTN theo quy định.",
+          "Hưởng các chế độ thưởng, nghỉ lễ, nghỉ phép và phúc lợi theo chính sách công ty.",
+          "Được hỗ trợ các khoá học liên quan tới công việc",
+          "Bảo hiểm xã hội, Thưởng tháng 13, Thưởng hiệu quả làm việc"
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.592,
+      "url": "https://www.topcv.vn/viec-lam/ky-su-co-dien-mep-engineer-chap-nhan-sinh-vien-moi-ra-truong-chua-co-kinh-nghiem/2352360.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Kỹ Sư Cơ Điện ( MEP Engineer ) - Chấp Nhận Sinh Viên Mới Ra Trường - Chưa Có Kinh Nghiệm",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 519,
+        "description": 406,
+        "requirements_text": 700,
+        "working_hours": 65
+      },
+      "fields": {
+        "job_title": "Kỹ Sư Cơ Điện ( MEP Engineer ) - Chấp Nhận Sinh Viên Mới Ra Trường - Chưa Có Kinh Nghiệm",
+        "qualifications": [
+          "Tốt nghiệp Cao đẳng/Đại học chuyên ngành Điện, Điện công nghiệp, Cơ điện, Tự động hóa hoặc các ngành liên quan.",
+          "Chấp nhận ứng viên mới tốt nghiệp hoặc chưa có kinh nghiệm; được công ty hướng dẫn và đào tạo chuyên môn."
+        ],
+        "salary": "9.000.000 – 15.000.000 đồng/tháng, thỏa thuận theo năng lực và kinh nghiệm.",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "• Tham gia triển khai, lắp đặt, vận hành và bảo trì các hệ thống, thiết bị cơ điện.\n• Khảo sát, kiểm tra và đánh giá tình trạng kỹ thuật của thiết bị, hệ thống.\n• Hỗ trợ tư vấn, đề xuất giải pháp kỹ thuật phù hợp với yêu cầu của khách hàng.\n• Phối hợp với các bộ phận liên quan để xử lý các vấn đề phát sinh trong quá trình thực hiện công việc.\n• Thực hiện các công việc khác theo sự phân công của quản lý.",
+        "requirements_text": "• Tốt nghiệp Cao đẳng/Đại học chuyên ngành Điện, Điện công nghiệp, Cơ điện, Tự động hóa hoặc các ngành liên quan.\n• Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực cơ điện, thiết bị công nghiệp.\n• Chấp nhận ứng viên mới tốt nghiệp hoặc chưa có kinh nghiệm; được công ty hướng dẫn và đào tạo chuyên môn.\n• Có tinh thần trách nhiệm, chủ động, ham học hỏi và mong muốn phát triển lâu dài.\n• Có khả năng làm việc nhóm, sẵn sàng đi công tác khi có yêu cầu.\nKiến thức ngành\nĐiện / Điện tử / Điện lạnh, Công nghệ kỹ thuật, Cơ khí / Tự động hóa\nKỹ năng cần có\nLàm việc nhóm, Bảo Trì Thiết Bị Cơ Điện, Lắp Đặt Hệ Thống Cơ Điện\nKỹ năng nên có\nKinh Nghiệm Trong Lĩnh Vực Cơ Điện, Kinh nghiệm thiết bị công nghiệp",
+        "benefits": [
+          "Mức lương: 9.000.000 – 15.000.000 đồng/tháng, thỏa thuận theo năng lực và kinh nghiệm.",
+          "Được đào tạo, hướng dẫn chuyên môn đối với ứng viên chưa có kinh nghiệm.",
+          "Được làm việc trong môi trường chuyên nghiệp, thân thiện, có cơ hội học hỏi và phát triển.",
+          "Tham gia BHXH, BHYT, BHTN theo quy định.",
+          "Hưởng các chế độ thưởng, nghỉ lễ, nghỉ phép và phúc lợi theo chính sách công ty.",
+          "Được hỗ trợ các khoá học liên quan tới công việc",
+          "Bảo hiểm xã hội, Thưởng tháng 13, Thưởng hiệu quả làm việc"
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 4.023,
+      "url": "https://www.topcv.vn/brand/altiuslink/tuyen-dung/nhan-vien-cham-soc-khach-hang-dich-vu-van-chuyen-san-tmdt-khong-yeu-cau-kinh-nghiem-thu-viec-100-luong-cung-co-phu-cap-dao-tao-tai-ho-chi-minh-j2349385.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 522,
+        "requirements_text": 300,
+        "benefits": 555,
+        "working_hours": 136
+      },
+      "fields": {
+        "job_title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh",
+        "qualifications": [
+          "Trung cấp trở lên"
+        ],
+        "salary": "7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "* Tiếp nhận thông tin của khách hàng thắc mắc về dịch vụ vận chuyển của sàn thương mại điện tử qua kênh Call và Chat\n* Tư vấn, phản hồi kết quả, đưa ra hướng xử lý phù hợp cho các vấn đề khách hàng liên hệ nhờ hỗ trợ.\n* Xử lý các khiếu nại phát sinh liên quan đến dịch vụ vận chuyển dựa trên nhận định cá nhân cho mỗi tình huống và quy trình hiện hành của sàn thương mại điện tử.\n* Thực hiện gọi ra đối với một số tình huống cần thiết theo quy trình hiện hành.\n* Thực hiện các công việc theo sắp xếp, điều phối từ cấp trên",
+        "requirements_text": "* Có kinh nghiệm CSKH là lợi thế, không có kinh nghiệm sẽ được đào tạo\n* Nhanh nhẹn, chăm chỉ, cẩn thận và có trách nhiệm trong công việc\n* Xử lý tình huống và nắm bắt thông tin nhanh\n* Đáp ứng thời gian làm việc xoay ca linh động, làm việc trực tiếp tại văn phòng công ty\n* Không còn vướng lịch học.",
+        "benefits": [
+          "Thu nhập: 7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+          "Hưởng 100% LCB ở giai đoạn thử việc.",
+          "Phụ cấp ăn được áp dụng sau khi kí HĐLĐ",
+          "Thưởng ngay 1.000.000 khi hoàn tất 2 tháng thử việc và kí HĐLĐ.",
+          "Đào tạo trong vòng 5 ngày, phụ cấp 200.000 VNĐ/ngày.",
+          "Phụ cấp đào tạo được chi trả khi ký hợp đồng lao động chính thức.",
+          "Môi trường làm việc công ty nước ngoài chuyên nghiệp, hiện đại, trang thiết bị làm việc công ty cung cấp khi làm tại văn phòng.",
+          "Cơ hội thăng tiến trong công việc rõ ràng.",
+          "Nhận lương cuối tháng"
+        ],
+        "working_hours": "* Xoay ca trong khung giờ 07:00-21:00, ca 8 tiếng/ngày, 6 ngày/tuần, nghỉ 1 ngày bất kỳ không cố định. Lịch làm việc do quản lý sắp xếp."
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.302,
+      "url": "https://www.topcv.vn/brand/altiuslink/tuyen-dung/nhan-vien-cham-soc-khach-hang-dich-vu-van-chuyen-san-tmdt-khong-yeu-cau-kinh-nghiem-thu-viec-100-luong-cung-co-phu-cap-dao-tao-tai-ho-chi-minh-j2349385.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 522,
+        "requirements_text": 300,
+        "benefits": 555,
+        "working_hours": 136
+      },
+      "fields": {
+        "job_title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh",
+        "qualifications": [
+          "Trung cấp trở lên"
+        ],
+        "salary": "7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "* Tiếp nhận thông tin của khách hàng thắc mắc về dịch vụ vận chuyển của sàn thương mại điện tử qua kênh Call và Chat\n* Tư vấn, phản hồi kết quả, đưa ra hướng xử lý phù hợp cho các vấn đề khách hàng liên hệ nhờ hỗ trợ.\n* Xử lý các khiếu nại phát sinh liên quan đến dịch vụ vận chuyển dựa trên nhận định cá nhân cho mỗi tình huống và quy trình hiện hành của sàn thương mại điện tử.\n* Thực hiện gọi ra đối với một số tình huống cần thiết theo quy trình hiện hành.\n* Thực hiện các công việc theo sắp xếp, điều phối từ cấp trên",
+        "requirements_text": "* Có kinh nghiệm CSKH là lợi thế, không có kinh nghiệm sẽ được đào tạo\n* Nhanh nhẹn, chăm chỉ, cẩn thận và có trách nhiệm trong công việc\n* Xử lý tình huống và nắm bắt thông tin nhanh\n* Đáp ứng thời gian làm việc xoay ca linh động, làm việc trực tiếp tại văn phòng công ty\n* Không còn vướng lịch học.",
+        "benefits": [
+          "Thu nhập: 7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+          "Hưởng 100% LCB ở giai đoạn thử việc.",
+          "Phụ cấp ăn được áp dụng sau khi kí HĐLĐ",
+          "Thưởng ngay 1.000.000 khi hoàn tất 2 tháng thử việc và kí HĐLĐ.",
+          "Đào tạo trong vòng 5 ngày, phụ cấp 200.000 VNĐ/ngày.",
+          "Phụ cấp đào tạo được chi trả khi ký hợp đồng lao động chính thức.",
+          "Môi trường làm việc công ty nước ngoài chuyên nghiệp, hiện đại, trang thiết bị làm việc công ty cung cấp khi làm tại văn phòng.",
+          "Cơ hội thăng tiến trong công việc rõ ràng.",
+          "Nhận lương cuối tháng"
+        ],
+        "working_hours": "* Xoay ca trong khung giờ 07:00-21:00, ca 8 tiếng/ngày, 6 ngày/tuần, nghỉ 1 ngày bất kỳ không cố định. Lịch làm việc do quản lý sắp xếp."
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 4.117,
+      "url": "https://www.topcv.vn/brand/ipa/tuyen-dung/chuyen-vien-cao-cap-phan-tich-tai-chinh-kinh-doanh-j2198361.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Chuyên Viên Cao Cấp Phân Tích Tài Chính Kinh Doanh",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 1468,
+        "requirements_text": 1328,
+        "benefits": 898,
+        "working_hours": 36
+      },
+      "fields": {
+        "job_title": "Chuyên Viên Cao Cấp Phân Tích Tài Chính Kinh Doanh",
+        "qualifications": [
+          "1. Trình độ học vấn/Chứng chỉ",
+          "Tốt nghiệp Đại học trở lên các chuyên ngành Tài chính, Kế toán, Kiểm toán, Phân tích dữ liệu.",
+          "Sở hữu chứng chỉ nghề nghiệp (ACCA, CPA, CFA)."
+        ],
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "VAI TRÒ VỊ TRÍ\nChịu trách nhiệm tổ chức dữ liệu, xây dựng báo cáo quản trị và phân tích hiệu quả tài chính – kinh doanh\nMÔ TẢ CÔNG VIỆC\n1. Kiến trúc dữ liệu\n* Quy hoạch và làm chủ cấu trúc luồng dữ liệu tài chính – kinh doanh, phục vụ toàn diện cho hệ thống báo cáo và phân tích quản trị.\n* Thiết lập chuẩn mực dữ liệu, đảm bảo tính toàn vẹn và khả năng truy xuất nguồn gốc của mọi chỉ số tài chính.\n* Hoạch định các giải pháp tối ưu hóa cách thức ghi nhận, tổ chức và khai thác dữ liệu nhằm nâng cấp chất lượng thông tin điều hành.\n2. Hệ thống báo cáo quản trị\n* Thiết kế cơ chế và làm chủ hệ thống báo cáo quản trị tự động hóa (Dashboards).\n* Lập các báo cáo quản trị định kỳ và đột xuất.\n* Thiết lập hệ thống cảnh báo sớm thông qua việc theo dõi các chỉ số sức khỏe tài chính - kinh doanh để nhận diện trước rủi ro.\n3. Phân tích hiệu suất kinh doanh\n* Xây dựng mô hình và phân tích chuyên sâu hiệu quả tài chính (P&L.\n* Đánh giá và phân tích biến động giữa thực tế vận hành với kế hoạch/ngân sách hoặc giữa các mô hình kinh doanh.\n* Cố vấn và đề xuất các giải pháp tối ưu hóa.\n4. Hoạch định tài chính\n* Hoạch định ngân sách (Budgeting) và xây dựng các kịch bản dự báo tài chính (Forecasting).\n* Theo dõi thực thi ngân sách, phân tích chênh lệch và nhận diện các rủi ro tác động trực tiếp đến kết quả tài chính.\n* Thẩm định và đánh giá hiệu quả P&L của các phương án đầu tư, chính sách và cơ chế kinh doanh trước - sau khi triển khai thông qua các mô hình tài chính.",
+        "requirements_text": "1. Trình độ học vấn/Chứng chỉ\n* Tốt nghiệp Đại học trở lên các chuyên ngành Tài chính, Kế toán, Kiểm toán, Phân tích dữ liệu.\n* Sở hữu chứng chỉ nghề nghiệp (ACCA, CPA, CFA).\n2. Kinh nghiệm làm việc\n* Từ 4 – 5 năm kinh nghiệm trong lĩnh vực phân tích dữ liệu, các mảng Financial Analysis, FP&A, Business Finance,...\n* Có kinh nghiệm phân tích kết quả kinh doanh, xây dựng cơ chế kinh doanh và báo cáo quản trị.\n* Có hiểu biết về mô hình kinh doanh bán lẻ, F&B, FMCG hoặc các mô hình kinh doanh có hệ thống dữ liệu phức tạp.\n3. Chân dung ứng viên\n* Đam mê với dữ liệu và có khả năng nhìn ra câu chuyện kinh doanh phía sau các con số.\n* Cẩn trọng, logic và có trách nhiệm cao với chất lượng dữ liệu, báo cáo và nhận định phân tích.\n* Bản lĩnh, linh hoạt và chịu được áp lực trong môi trường vận hành tốc độ cao, dữ liệu lớn, nhiều biến động và yêu cầu cao về tính kịp thời của thông tin quản trị.\n4. Kiến thức/Năng lực chuyên môn/Kỹ năng\n* Thành thạo các công cụ phân tích dữ liệu (SQL, Power BI, Financial Model) và lập mô hình tài chính.\n* Hiểu nguyên tắc kế toán/ tài chính quản trị, cấu trúc P&L, ngân sách, forecast và phân tích chênh lệch.\n* Kỹ năng mềm: Năng lực giải quyết vấn đề, nhận diện rủi ro và diễn giải số liệu/trình bày báo cáo trực quan, logic.\n* Kỹ năng sử dụng AI.\nKiến thức ngành\nTài chính, Kế toán, Kiểm toán",
+        "benefits": [
+          "Thu nhập linh hoạt & Cạnh tranh: Nhận mức lương cố định tương xứng với năng lực và các khoản thưởng hấp dẫn dựa trên hiệu suất đóng góp thực tế tại các dự án.",
+          "Lộ trình phát triển sự nghiệp rõ ràng",
+          "Phúc lợi & điều kiện làm việc: Cơ chế chuyển đổi trạng thái (Active Cool-down): Sau các chiến dịch hoặc dự án dài hạn liên tục, công ty ưu tiên tạo không gian và thời gian để bạn chuyển đổi trạng thái sang nghỉ ngơi, đào tạo và phục hồi năng lượng, chuẩn bị cho những nấc thang tiếp theo.",
+          "Đầy đủ các chế độ bảo hiểm, y tế, phúc lợi theo quy định của Nhà nước và các chính sách ưu việt riêng của Tập đoàn.",
+          "Môi trường làm việc cởi mở, minh bạch và số hóa toàn diện.",
+          "Gói bảo hiểm sức khỏe cao cấp và bảo hiểm tai nạn 24/24 ngoài chính sách BHXH, BHYT theo quy định của nhà nước BHTN.",
+          "Các chương trình đào tạo phát triển năng lực cá nhân, chương trình gắn kết đội ngũ, retreat, teambuilding."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.439,
+      "url": "https://www.topcv.vn/brand/ipa/tuyen-dung/chuyen-vien-cao-cap-phan-tich-tai-chinh-kinh-doanh-j2198361.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Chuyên Viên Cao Cấp Phân Tích Tài Chính Kinh Doanh",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "description": 1468,
+        "requirements_text": 1328,
+        "benefits": 898,
+        "working_hours": 36
+      },
+      "fields": {
+        "job_title": "Chuyên Viên Cao Cấp Phân Tích Tài Chính Kinh Doanh",
+        "qualifications": [
+          "1. Trình độ học vấn/Chứng chỉ",
+          "Tốt nghiệp Đại học trở lên các chuyên ngành Tài chính, Kế toán, Kiểm toán, Phân tích dữ liệu.",
+          "Sở hữu chứng chỉ nghề nghiệp (ACCA, CPA, CFA)."
+        ],
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "VAI TRÒ VỊ TRÍ\nChịu trách nhiệm tổ chức dữ liệu, xây dựng báo cáo quản trị và phân tích hiệu quả tài chính – kinh doanh\nMÔ TẢ CÔNG VIỆC\n1. Kiến trúc dữ liệu\n* Quy hoạch và làm chủ cấu trúc luồng dữ liệu tài chính – kinh doanh, phục vụ toàn diện cho hệ thống báo cáo và phân tích quản trị.\n* Thiết lập chuẩn mực dữ liệu, đảm bảo tính toàn vẹn và khả năng truy xuất nguồn gốc của mọi chỉ số tài chính.\n* Hoạch định các giải pháp tối ưu hóa cách thức ghi nhận, tổ chức và khai thác dữ liệu nhằm nâng cấp chất lượng thông tin điều hành.\n2. Hệ thống báo cáo quản trị\n* Thiết kế cơ chế và làm chủ hệ thống báo cáo quản trị tự động hóa (Dashboards).\n* Lập các báo cáo quản trị định kỳ và đột xuất.\n* Thiết lập hệ thống cảnh báo sớm thông qua việc theo dõi các chỉ số sức khỏe tài chính - kinh doanh để nhận diện trước rủi ro.\n3. Phân tích hiệu suất kinh doanh\n* Xây dựng mô hình và phân tích chuyên sâu hiệu quả tài chính (P&L.\n* Đánh giá và phân tích biến động giữa thực tế vận hành với kế hoạch/ngân sách hoặc giữa các mô hình kinh doanh.\n* Cố vấn và đề xuất các giải pháp tối ưu hóa.\n4. Hoạch định tài chính\n* Hoạch định ngân sách (Budgeting) và xây dựng các kịch bản dự báo tài chính (Forecasting).\n* Theo dõi thực thi ngân sách, phân tích chênh lệch và nhận diện các rủi ro tác động trực tiếp đến kết quả tài chính.\n* Thẩm định và đánh giá hiệu quả P&L của các phương án đầu tư, chính sách và cơ chế kinh doanh trước - sau khi triển khai thông qua các mô hình tài chính.",
+        "requirements_text": "1. Trình độ học vấn/Chứng chỉ\n* Tốt nghiệp Đại học trở lên các chuyên ngành Tài chính, Kế toán, Kiểm toán, Phân tích dữ liệu.\n* Sở hữu chứng chỉ nghề nghiệp (ACCA, CPA, CFA).\n2. Kinh nghiệm làm việc\n* Từ 4 – 5 năm kinh nghiệm trong lĩnh vực phân tích dữ liệu, các mảng Financial Analysis, FP&A, Business Finance,...\n* Có kinh nghiệm phân tích kết quả kinh doanh, xây dựng cơ chế kinh doanh và báo cáo quản trị.\n* Có hiểu biết về mô hình kinh doanh bán lẻ, F&B, FMCG hoặc các mô hình kinh doanh có hệ thống dữ liệu phức tạp.\n3. Chân dung ứng viên\n* Đam mê với dữ liệu và có khả năng nhìn ra câu chuyện kinh doanh phía sau các con số.\n* Cẩn trọng, logic và có trách nhiệm cao với chất lượng dữ liệu, báo cáo và nhận định phân tích.\n* Bản lĩnh, linh hoạt và chịu được áp lực trong môi trường vận hành tốc độ cao, dữ liệu lớn, nhiều biến động và yêu cầu cao về tính kịp thời của thông tin quản trị.\n4. Kiến thức/Năng lực chuyên môn/Kỹ năng\n* Thành thạo các công cụ phân tích dữ liệu (SQL, Power BI, Financial Model) và lập mô hình tài chính.\n* Hiểu nguyên tắc kế toán/ tài chính quản trị, cấu trúc P&L, ngân sách, forecast và phân tích chênh lệch.\n* Kỹ năng mềm: Năng lực giải quyết vấn đề, nhận diện rủi ro và diễn giải số liệu/trình bày báo cáo trực quan, logic.\n* Kỹ năng sử dụng AI.\nKiến thức ngành\nTài chính, Kế toán, Kiểm toán",
+        "benefits": [
+          "Thu nhập linh hoạt & Cạnh tranh: Nhận mức lương cố định tương xứng với năng lực và các khoản thưởng hấp dẫn dựa trên hiệu suất đóng góp thực tế tại các dự án.",
+          "Lộ trình phát triển sự nghiệp rõ ràng",
+          "Phúc lợi & điều kiện làm việc: Cơ chế chuyển đổi trạng thái (Active Cool-down): Sau các chiến dịch hoặc dự án dài hạn liên tục, công ty ưu tiên tạo không gian và thời gian để bạn chuyển đổi trạng thái sang nghỉ ngơi, đào tạo và phục hồi năng lượng, chuẩn bị cho những nấc thang tiếp theo.",
+          "Đầy đủ các chế độ bảo hiểm, y tế, phúc lợi theo quy định của Nhà nước và các chính sách ưu việt riêng của Tập đoàn.",
+          "Môi trường làm việc cởi mở, minh bạch và số hóa toàn diện.",
+          "Gói bảo hiểm sức khỏe cao cấp và bảo hiểm tai nạn 24/24 ngoài chính sách BHXH, BHYT theo quy định của nhà nước BHTN.",
+          "Các chương trình đào tạo phát triển năng lực cá nhân, chương trình gắn kết đội ngũ, retreat, teambuilding."
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 5.205,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Chuyên Viên Kinh Doanh/ Sales Bất Động Sản Tại Hà Nội (DATA NÓNG - Lương Cứng Upto 21tr - Hỗ Trợ Marketing 100%)",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 1082,
+        "description": 653,
+        "requirements_text": 554,
+        "working_hours": 114
+      },
+      "fields": {
+        "job_title": "Chuyên Viên Kinh Doanh/ Sales Bất Động Sản Tại Hà Nội (DATA NÓNG - Lương Cứng Upto 21tr - Hỗ Trợ Marketing 100%)",
+        "qualifications": [
+          "Tốt nghiệp cao đẳng trở lên"
+        ],
+        "salary": "70 - 200 triệu",
+        "salary_min": 70.0,
+        "salary_max": 200.0,
+        "description": "Quét sạch rào cản - Đón sóng thị trường cùng Đại lý chiến lược TOP 1 Sun Group!\nSRT MIỀN BẮC đang tìm kiếm những \"\"mắt xích\"\" bản lĩnh nhất để cùng đội ngũ chinh phục các dự án siêu phẩm 2026.\nNếu bạn mong muốn gia tăng thu nhập – nâng tầm vị thế – phát triển sự nghiệp lâu dài thì SRT Miền Bắc chính là môi trường dành cho bạn.\n* Tiếp nhận Data khách hàng tiềm năng từ hệ thống Marketing công ty đồng thời chủ động tìm kiếm, phát triển khách hàng mới\n* Tư vấn giải pháp đầu tư tại các siêu dự án của Sun Group .\n* Hỗ trợ khách hàng thực hiện các thủ tục giao dịch và ký kết hợp đồng.\n* Chăm sóc, duy trì mối quan hệ, xây dựng tệp khách hàng thân thiết.",
+        "requirements_text": "* Có kinh nghiệm từ 1 năm trong lĩnh vực bán hàng, có kinh nghiệm biết chạy Marketing trên các nền tảng facebook, google là một lợi thế. _Tuy nhiên nếu chưa có kinh nghiệm mà máu lửa_ , chăm chỉ, thái độ tốt, mong muốn có thu nhập đột phá, ham học hỏi thì SRT luôn luôn chào đón và dẫn đường cho các nhân sự mới bắt đầu\n* Tốt nghiệp cao đẳng trở lên\n* Có Laptop và phương tiện di chuyển cá nhân\n* Có mục tiêu trong công việc. Khát khao thành công\n* Chăm chỉ, thái độ tốt, không ngừng học hỏi và nỗ lực.\nKiến thức ngành\nBất động sản, Marketing / Quảng cáo",
+        "benefits": [
+          "Lương cứng 6 – 21 Triệu + Hoa hồng cao nhất thị trường.",
+          "Hỗ trợ MKT lên tới 100%",
+          "Data khách hàng tiềm năng dồi dào có sẵn",
+          "Đào tạo bài bản, hỗ trợ hướng dẫn chốt deal 24/7",
+          "Giỏ hàng độc quyền pháp lý chuẩn",
+          "Đào tạo thực chiến 1:1, biến người mới thành chuyên gia BĐS cao cấp.",
+          "Được đào tạo 1:1 kỹ năng tìm kiếm khách hàng tiềm năng thông qua các kênh đa dạng (Chạy Facebook, Google Ads, Đăng tin, telesale, trực dự án, network cá nhân...)",
+          "Cầm tay chỉ việc ngay từ đầu vào làm. Hỗ trợ tới 100% chi phí Marketting. Môi trường năng động, chuyên nghiệp và làm việc hiệu quả cao",
+          "Nắm trọn trong tay Bí kíp trở thành Best Sales, chăm sóc khách hàng tuyệt đỉnh. Được đạo tào trực tiếp từ đội ngũ lãnh đạo kinh nghiệm hơn 12 năm trên thị trường.",
+          "Hoa hồng bán hàng 100-200tr/ căn. Thưởng nóng 30-100tr/ giao dịch",
+          "Phúc lợi đi kèm: Du lịch nước ngoài tối thiểu 1 lần/năm, du lịch trong nước không giới hạn, đóng bảo hiểm hàng tháng, thưởng Lễ/tết/sinh nhật, hỗ trợ 100% chi phí biệt phái công tác.",
+          "Du lịch hàng năm, Bảo hiểm xã hội, Bảo hiểm sức khỏe"
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)\n* Sáng từ 08h30 – 12h00. Chiều từ 13h30 – 17h30."
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.446,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Chuyên Viên Kinh Doanh/ Sales Bất Động Sản Tại Hà Nội (DATA NÓNG - Lương Cứng Upto 21tr - Hỗ Trợ Marketing 100%)",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 1082,
+        "description": 653,
+        "requirements_text": 553,
+        "working_hours": 114
+      },
+      "fields": {
+        "job_title": "Chuyên Viên Kinh Doanh/ Sales Bất Động Sản Tại Hà Nội (DATA NÓNG - Lương Cứng Upto 21tr - Hỗ Trợ Marketing 100%)",
+        "qualifications": [
+          "Tốt nghiệp cao đẳng trở lên"
+        ],
+        "salary": "70 - 200 triệu",
+        "salary_min": 70.0,
+        "salary_max": 200.0,
+        "description": "Quét sạch rào cản - Đón sóng thị trường cùng Đại lý chiến lược TOP 1 Sun Group!\nSRT MIỀN BẮC đang tìm kiếm những \"\"mắt xích\"\" bản lĩnh nhất để cùng đội ngũ chinh phục các dự án siêu phẩm 2026.\nNếu bạn mong muốn gia tăng thu nhập – nâng tầm vị thế – phát triển sự nghiệp lâu dài thì SRT Miền Bắc chính là môi trường dành cho bạn.\n* Tiếp nhận Data khách hàng tiềm năng từ hệ thống Marketing công ty đồng thời chủ động tìm kiếm, phát triển khách hàng mới\n* Tư vấn giải pháp đầu tư tại các siêu dự án của Sun Group .\n* Hỗ trợ khách hàng thực hiện các thủ tục giao dịch và ký kết hợp đồng.\n* Chăm sóc, duy trì mối quan hệ, xây dựng tệp khách hàng thân thiết.",
+        "requirements_text": "* Có kinh nghiệm từ 1 năm trong lĩnh vực bán hàng, có kinh nghiệm biết chạy Marketing trên các nền tảng facebook, google là một lợi thế. *Tuy nhiên nếu chưa có kinh nghiệm mà máu lửa*, chăm chỉ, thái độ tốt, mong muốn có thu nhập đột phá, ham học hỏi thì SRT luôn luôn chào đón và dẫn đường cho các nhân sự mới bắt đầu\n* Tốt nghiệp cao đẳng trở lên\n* Có Laptop và phương tiện di chuyển cá nhân\n* Có mục tiêu trong công việc. Khát khao thành công\n* Chăm chỉ, thái độ tốt, không ngừng học hỏi và nỗ lực.\nKiến thức ngành\nBất động sản, Marketing / Quảng cáo",
+        "benefits": [
+          "Lương cứng 6 – 21 Triệu + Hoa hồng cao nhất thị trường.",
+          "Hỗ trợ MKT lên tới 100%",
+          "Data khách hàng tiềm năng dồi dào có sẵn",
+          "Đào tạo bài bản, hỗ trợ hướng dẫn chốt deal 24/7",
+          "Giỏ hàng độc quyền pháp lý chuẩn",
+          "Đào tạo thực chiến 1:1, biến người mới thành chuyên gia BĐS cao cấp.",
+          "Được đào tạo 1:1 kỹ năng tìm kiếm khách hàng tiềm năng thông qua các kênh đa dạng (Chạy Facebook, Google Ads, Đăng tin, telesale, trực dự án, network cá nhân...)",
+          "Cầm tay chỉ việc ngay từ đầu vào làm. Hỗ trợ tới 100% chi phí Marketting. Môi trường năng động, chuyên nghiệp và làm việc hiệu quả cao",
+          "Nắm trọn trong tay Bí kíp trở thành Best Sales, chăm sóc khách hàng tuyệt đỉnh. Được đạo tào trực tiếp từ đội ngũ lãnh đạo kinh nghiệm hơn 12 năm trên thị trường.",
+          "Hoa hồng bán hàng 100-200tr/ căn. Thưởng nóng 30-100tr/ giao dịch",
+          "Phúc lợi đi kèm: Du lịch nước ngoài tối thiểu 1 lần/năm, du lịch trong nước không giới hạn, đóng bảo hiểm hàng tháng, thưởng Lễ/tết/sinh nhật, hỗ trợ 100% chi phí biệt phái công tác.",
+          "Du lịch hàng năm, Bảo hiểm xã hội, Bảo hiểm sức khỏe"
+        ],
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Thứ 7 (từ 08:00 đến 12:00)\n* Sáng từ 08h30 – 12h00. Chiều từ 13h30 – 17h30."
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 6.44,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-khach-hang-ca-nhan-tu-van-the-tin-dung-tai-q10-ho-chi-minh-luong-cung-tu-12-den-22-trieu-phu-cap-hoa-hong-tong-thu-nhap-tu-40-den-50-trieu/2340386.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Chuyên Viên Khách Hàng Cá Nhân Tư Vấn Thẻ Tín Dụng Tại Q10 Hồ Chí Minh (Lương Cứng Từ 12 Đến 22 Triệu + Phụ Cấp + Hoa Hồng) Tổng Thu Nhập Từ 40 Đến 50 Triệu",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 643,
+        "description": 655,
+        "requirements_text": 410,
+        "working_hours": 16
+      },
+      "fields": {
+        "job_title": "Chuyên Viên Khách Hàng Cá Nhân Tư Vấn Thẻ Tín Dụng Tại Q10 Hồ Chí Minh (Lương Cứng Từ 12 Đến 22 Triệu + Phụ Cấp + Hoa Hồng) Tổng Thu Nhập Từ 40 Đến 50 Triệu",
+        "qualifications": [
+          "Tốt nghiệp Cao Đẳng trở lên"
+        ],
+        "salary": "40 - 50 triệu",
+        "salary_min": 40.0,
+        "salary_max": 50.0,
+        "description": "* Tìm kiếm khách hàng có nhu cầu mở thẻ tín dụng (khách hàng ở tỉnh vẫn hỗ trợ online được)\n* Lập kế hoạch kinh doanh theo ngày/tuần/tháng\n* Cùng đội nhóm tham gia các hoạt động bán hàng để phát triển nguồn khách hàng mới liên tục\n* Có thể bán chéo thêm các sản phẩm khác của ngân hàng để gia tăng nguồn thu nhập (Bảo hiểm sức khỏe, tài khoản CASA)\n* Tham gia đầy đủ các buổi đào tạo/huấn luyện về sản phẩm, kỹ năng tư vấn, đối tượng khách hàng, quy trình mở thẻ, quản trị rủi ro...\n* Tuân thủ các quy định hiện hành tại ngân hàng ( về thời gian làm việc, chứng từ hồ sơ khách hàng)\n* Báo cáo kết quả làm việc theo quy định của đơn vị và quản lý trực tiếp",
+        "requirements_text": "* Tuổi: 23 - 33\n* Tốt nghiệp Cao Đẳng trở lên\n* Có kinh nghiệm sales ngành tài chính – ngân hàng là 1 lợi thế (từ 1 năm trở lên)\n* Chấp nhận kinh nghiệm sales trái ngành\n* Có sẵn nguồn khách hàng đa dạng để khai thác\n* Có định hướng gắn bó lâu dài với ngân hàng\nKiến thức ngành\nBảo hiểm, Ngân hàng, Tài chính\nKỹ năng cần có\nSales, Tư vấn, Kinh Doanh\nKỹ năng nên có\nkinh nghiệm sales ngành tài chính – ngân hàng",
+        "benefits": [
+          "Lương cơ bản: 12 – 22 triệu",
+          "Phụ cấp thêm: (tiên cơm trưa, điện thoại, đi lại): 1,5 triệu",
+          "Lương tháng 13 + thưởng cuối năm",
+          "Thưởng các ngày lễ, Tết (theo chính sách ngân hàng từng thời kỳ)",
+          "Được vay ưu đãi, cấp thẻ tín dụng, vay thấu chi sau thời gian thử việc",
+          "Bảo hiểm sức khỏe VPBank care theo cấp bậc và thời gian công tác",
+          "Được tham gia các khóa đào tạo nội bộ tại VP Bank",
+          "Được Leader hỗ trợ đồng hành trong suốt quá trình làm việc",
+          "Định hướng phát triển lên Trưởng Bộ Phận sau 1 năm làm việc",
+          "Bảo hiểm sức khỏe, Bảo hiểm sức khỏe ngưởi thân, Thưởng tháng 13",
+          "Phụ cấp",
+          "Ăn trưa, Xăng xe, Cước điện thoại"
+        ],
+        "working_hours": "* Giờ Hành Chính"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.809,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-khach-hang-ca-nhan-tu-van-the-tin-dung-tai-q10-ho-chi-minh-luong-cung-tu-12-den-22-trieu-phu-cap-hoa-hong-tong-thu-nhap-tu-40-den-50-trieu/2340386.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Chuyên Viên Khách Hàng Cá Nhân Tư Vấn Thẻ Tín Dụng Tại Q10 Hồ Chí Minh (Lương Cứng Từ 12 Đến 22 Triệu + Phụ Cấp + Hoa Hồng) Tổng Thu Nhập Từ 40 Đến 50 Triệu",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 643,
+        "description": 655,
+        "requirements_text": 410,
+        "working_hours": 16
+      },
+      "fields": {
+        "job_title": "Chuyên Viên Khách Hàng Cá Nhân Tư Vấn Thẻ Tín Dụng Tại Q10 Hồ Chí Minh (Lương Cứng Từ 12 Đến 22 Triệu + Phụ Cấp + Hoa Hồng) Tổng Thu Nhập Từ 40 Đến 50 Triệu",
+        "qualifications": [
+          "Tốt nghiệp Cao Đẳng trở lên"
+        ],
+        "salary": "40 - 50 triệu",
+        "salary_min": 40.0,
+        "salary_max": 50.0,
+        "description": "* Tìm kiếm khách hàng có nhu cầu mở thẻ tín dụng (khách hàng ở tỉnh vẫn hỗ trợ online được)\n* Lập kế hoạch kinh doanh theo ngày/tuần/tháng\n* Cùng đội nhóm tham gia các hoạt động bán hàng để phát triển nguồn khách hàng mới liên tục\n* Có thể bán chéo thêm các sản phẩm khác của ngân hàng để gia tăng nguồn thu nhập (Bảo hiểm sức khỏe, tài khoản CASA)\n* Tham gia đầy đủ các buổi đào tạo/huấn luyện về sản phẩm, kỹ năng tư vấn, đối tượng khách hàng, quy trình mở thẻ, quản trị rủi ro...\n* Tuân thủ các quy định hiện hành tại ngân hàng ( về thời gian làm việc, chứng từ hồ sơ khách hàng)\n* Báo cáo kết quả làm việc theo quy định của đơn vị và quản lý trực tiếp",
+        "requirements_text": "* Tuổi: 23 - 33\n* Tốt nghiệp Cao Đẳng trở lên\n* Có kinh nghiệm sales ngành tài chính – ngân hàng là 1 lợi thế (từ 1 năm trở lên)\n* Chấp nhận kinh nghiệm sales trái ngành\n* Có sẵn nguồn khách hàng đa dạng để khai thác\n* Có định hướng gắn bó lâu dài với ngân hàng\nKiến thức ngành\nBảo hiểm, Ngân hàng, Tài chính\nKỹ năng cần có\nSales, Tư vấn, Kinh Doanh\nKỹ năng nên có\nkinh nghiệm sales ngành tài chính – ngân hàng",
+        "benefits": [
+          "Lương cơ bản: 12 – 22 triệu",
+          "Phụ cấp thêm: (tiên cơm trưa, điện thoại, đi lại): 1,5 triệu",
+          "Lương tháng 13 + thưởng cuối năm",
+          "Thưởng các ngày lễ, Tết (theo chính sách ngân hàng từng thời kỳ)",
+          "Được vay ưu đãi, cấp thẻ tín dụng, vay thấu chi sau thời gian thử việc",
+          "Bảo hiểm sức khỏe VPBank care theo cấp bậc và thời gian công tác",
+          "Được tham gia các khóa đào tạo nội bộ tại VP Bank",
+          "Được Leader hỗ trợ đồng hành trong suốt quá trình làm việc",
+          "Định hướng phát triển lên Trưởng Bộ Phận sau 1 năm làm việc",
+          "Bảo hiểm sức khỏe, Bảo hiểm sức khỏe ngưởi thân, Thưởng tháng 13",
+          "Phụ cấp",
+          "Ăn trưa, Xăng xe, Cước điện thoại"
+        ],
+        "working_hours": "* Giờ Hành Chính"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 5.704,
+      "url": "https://www.topcv.vn/viec-lam/quan-ly-fb-chuoi-cafe-cao-cap-thu-nhap-tu-15-trieu/2348552.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Quản Lý F&B (Chuỗi Café Cao Cấp) - Thu Nhập Từ 15 Triệu +++",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 430,
+        "description": 818,
+        "requirements_text": 917,
+        "working_hours": 31
+      },
+      "fields": {
+        "job_title": "Quản Lý F&B (Chuỗi Café Cao Cấp) - Thu Nhập Từ 15 Triệu +++",
+        "qualifications": [
+          "Tốt nghiệp Đại học/Cao đẳng hệ chính quy, chuyên ngành Quản trị Nhà hàng và Dịch vụ ăn uống hoặc các chuyên ngành liên quan."
+        ],
+        "salary": "từ 15.000.000 VNĐ/tháng hoặc thỏa thuận trực tiếp theo năng lực và kinh nghiệm.",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "- Quản lý và điều hành hoạt động vận hành của chuỗi Café theo tiêu chuẩn dịch vụ cao cấp.\n- Đảm bảo chất lượng sản phẩm, dịch vụ và trải nghiệm khách hàng tại các cửa hàng.\n- Quản lý, phân công và đào tạo đội ngũ nhân viên tại các cửa hàng trong chuỗi.\n- Theo dõi doanh thu, chi phí, tồn kho và hiệu quả hoạt động của từng cửa hàng.\n- Kiểm soát việc thực hiện các quy trình về vận hành, phục vụ, vệ sinh an toàn thực phẩm và hình ảnh thương hiệu.\n- Đề xuất các giải pháp nhằm nâng cao doanh thu, chất lượng dịch vụ và hiệu quả kinh doanh.\n- Phối hợp với các bộ phận liên quan để triển khai các chương trình marketing, khuyến mãi và hoạt động kinh doanh.\n- Giải quyết các vấn đề phát sinh trong quá trình vận hành và chăm sóc khách hàng.\n- Báo cáo tình hình hoạt động và kết quả kinh doanh theo yêu cầu của Ban quản lý.",
+        "requirements_text": "- Tốt nghiệp Đại học/Cao đẳng hệ chính quy, chuyên ngành Quản trị Nhà hàng và Dịch vụ ăn uống hoặc các chuyên ngành liên quan.\n- Kinh nghiệm ít nhất là 3 năm đã từng làm cho các thương hiệu như sau:\n+ Highlands Coffee\n+ Starbucks Coffee\n+ Trung Nguyên Legend\n+ The Coffee House\n+ Phúc Long Coffee and Tea\n+ Cộng Cà Phê\n- Có khả năng quản lý, điều hành và phát triển đội ngũ nhân sự.\n- Có tư duy kinh doanh, khả năng kiểm soát doanh thu, chi phí và hiệu quả vận hành.\n- Kỹ năng giao tiếp, xử lý tình huống và giải quyết vấn đề tốt.\n- Có tinh thần trách nhiệm, chủ động, nhiệt tình và định hướng gắn bó lâu dài.\nKiến thức ngành\nNhà hàng / Khách sạn\nKỹ năng cần có\nXử lý tình huống, Giao tiếp, Quản Lý, điều hành, Kiểm Soát Chi Phí, Giải quyết vấn đề, Kiểm Soát Doanh Thu, Tư duy kinh doanh, hiệu quả vận hành, phát triển đội ngũ nhân sự\nKỹ năng nên có\nKinh nghiệm quản lý chuỗi Café/nhà hàng, Phân khúc trung và cao cấp",
+        "benefits": [
+          "Mức lương: từ 15.000.000 VNĐ/tháng hoặc thỏa thuận trực tiếp theo năng lực và kinh nghiệm.",
+          "Chế độ thưởng theo chính sách của Công ty.",
+          "Được tham gia BHXH, BHYT, BHTN theo quy định của Nhà nước.",
+          "Môi trường làm việc chuyên nghiệp, năng động trong lĩnh vực F&B cao cấp.",
+          "Có cơ hội phát triển và đảm nhận các vị trí quản lý cao hơn trong hệ thống.",
+          "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13"
+        ],
+        "working_hours": "* Trao đổi trong buổi Phỏng vẫn"
+      }
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 9.382,
+      "url": "https://www.topcv.vn/viec-lam/quan-ly-fb-chuoi-cafe-cao-cap-thu-nhap-tu-15-trieu/2348552.html",
+      "kind": "job",
+      "valid": true,
+      "title": "Quản Lý F&B (Chuỗi Café Cao Cấp) - Thu Nhập Từ 15 Triệu +++",
+      "title_exact": true,
+      "schema_valid": true,
+      "source_preserved": {
+        "description": true,
+        "requirements_text": true,
+        "benefits": true,
+        "working_hours": true
+      },
+      "section_lengths": {
+        "benefits": 430,
+        "description": 818,
+        "requirements_text": 917,
+        "working_hours": 31
+      },
+      "fields": {
+        "job_title": "Quản Lý F&B (Chuỗi Café Cao Cấp) - Thu Nhập Từ 15 Triệu +++",
+        "qualifications": [
+          "Tốt nghiệp Đại học/Cao đẳng hệ chính quy, chuyên ngành Quản trị Nhà hàng và Dịch vụ ăn uống hoặc các chuyên ngành liên quan."
+        ],
+        "salary": "từ 15.000.000 VNĐ/tháng hoặc thỏa thuận trực tiếp theo năng lực và kinh nghiệm.",
+        "salary_min": null,
+        "salary_max": null,
+        "description": "- Quản lý và điều hành hoạt động vận hành của chuỗi Café theo tiêu chuẩn dịch vụ cao cấp.\n- Đảm bảo chất lượng sản phẩm, dịch vụ và trải nghiệm khách hàng tại các cửa hàng.\n- Quản lý, phân công và đào tạo đội ngũ nhân viên tại các cửa hàng trong chuỗi.\n- Theo dõi doanh thu, chi phí, tồn kho và hiệu quả hoạt động của từng cửa hàng.\n- Kiểm soát việc thực hiện các quy trình về vận hành, phục vụ, vệ sinh an toàn thực phẩm và hình ảnh thương hiệu.\n- Đề xuất các giải pháp nhằm nâng cao doanh thu, chất lượng dịch vụ và hiệu quả kinh doanh.\n- Phối hợp với các bộ phận liên quan để triển khai các chương trình marketing, khuyến mãi và hoạt động kinh doanh.\n- Giải quyết các vấn đề phát sinh trong quá trình vận hành và chăm sóc khách hàng.\n- Báo cáo tình hình hoạt động và kết quả kinh doanh theo yêu cầu của Ban quản lý.",
+        "requirements_text": "- Tốt nghiệp Đại học/Cao đẳng hệ chính quy, chuyên ngành Quản trị Nhà hàng và Dịch vụ ăn uống hoặc các chuyên ngành liên quan.\n- Kinh nghiệm ít nhất là 3 năm đã từng làm cho các thương hiệu như sau:\n+ Highlands Coffee\n+ Starbucks Coffee\n+ Trung Nguyên Legend\n+ The Coffee House\n+ Phúc Long Coffee and Tea\n+ Cộng Cà Phê\n- Có khả năng quản lý, điều hành và phát triển đội ngũ nhân sự.\n- Có tư duy kinh doanh, khả năng kiểm soát doanh thu, chi phí và hiệu quả vận hành.\n- Kỹ năng giao tiếp, xử lý tình huống và giải quyết vấn đề tốt.\n- Có tinh thần trách nhiệm, chủ động, nhiệt tình và định hướng gắn bó lâu dài.\nKiến thức ngành\nNhà hàng / Khách sạn\nKỹ năng cần có\nXử lý tình huống, Giao tiếp, Quản Lý, điều hành, Kiểm Soát Chi Phí, Giải quyết vấn đề, Kiểm Soát Doanh Thu, Tư duy kinh doanh, hiệu quả vận hành, phát triển đội ngũ nhân sự\nKỹ năng nên có\nKinh nghiệm quản lý chuỗi Café/nhà hàng, Phân khúc trung và cao cấp",
+        "benefits": [
+          "Mức lương: từ 15.000.000 VNĐ/tháng hoặc thỏa thuận trực tiếp theo năng lực và kinh nghiệm.",
+          "Chế độ thưởng theo chính sách của Công ty.",
+          "Được tham gia BHXH, BHYT, BHTN theo quy định của Nhà nước.",
+          "Môi trường làm việc chuyên nghiệp, năng động trong lĩnh vực F&B cao cấp.",
+          "Có cơ hội phát triển và đảm nhận các vị trí quản lý cao hơn trong hệ thống.",
+          "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13"
+        ],
+        "working_hours": "* Trao đổi trong buổi Phỏng vẫn"
+      }
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 5.378,
+      "url": "https://www.topcv.vn/tim-viec-lam-data-analyst",
+      "kind": "listing",
+      "valid": true,
+      "job_count": 50,
+      "job_urls": [
+        "https://www.topcv.vn/brand/concentrixservices/tuyen-dung/campaign-operations-coordinator-j2354818.html",
+        "https://www.topcv.vn/brand/congtycophangsm/tuyen-dung/data-analyst-van-hanh-cho-thue-xe-4-banh-lam-viec-tai-oecan-park-ha-noi-j2354827.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-ke-hoach-manh-so-lieu-bao-cao-khoi-hoc-thuat-j2350297.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-nhan-su-cap-cao-senior-cb-specialist-chinh-sach-luong-thuong-phan-tich-du-lieu-luong-tu-22-35-trieu-j2342344.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-phan-tich-kinh-doanh-bi-analyst-business-intelligence-j2327052.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/lead-data-analyst-scientist-truong-nhom-phan-tich-du-lieu-luong-up-to-40m-thuong-j2336503.html",
+        "https://www.topcv.vn/brand/ipa/tuyen-dung/chuyen-vien-cao-cap-phan-tich-tai-chinh-kinh-doanh-j2198361.html",
+        "https://www.topcv.vn/brand/kamereo/tuyen-dung/data-analyst-j2356509.html",
+        "https://www.topcv.vn/brand/misa/tuyen-dung/data-business-analyst-credit-rating-j2348915.html",
+        "https://www.topcv.vn/brand/misa/tuyen-dung/growth-data-analyst-ban-tang-truong-nguoi-dung-j2348417.html",
+        "https://www.topcv.vn/brand/thanhtoanvietnam/tuyen-dung/nhan-vien-phan-tich-du-lieu-san-pham-data-analyst-j2354703.html",
+        "https://www.topcv.vn/brand/transcosmoshochiminh/tuyen-dung/data-analyst-workforce-management-analyst-ecomerce-project-j2334603.html",
+        "https://www.topcv.vn/viec-lam/business-intelligence-lead/2318491.html",
+        "https://www.topcv.vn/viec-lam/business-intelligence-lead/2345681.html",
+        "https://www.topcv.vn/viec-lam/chuyen-gia-phan-tich-bong-da/2348206.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-kiem-thu-du-lieu-data-tester/2349045.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-ban-le/2321660.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-tai-ha-noi/2353068.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-tai-chinh-ho-chi-minh-thu-nhap-canh-tranh-lam-viec-tai-doanh-nghiep-top-dau-viet-nam/2333695.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-quan-ly-chat-luong-du-lieu/2354874.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-data-governance/2339053.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-master-data-and-reference-data-management/2354873.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-tong-hop-du-lieu-va-bao-cao-quan-tri-thu-nhap-18-25m/2353914.html",
+        "https://www.topcv.vn/viec-lam/cv-phan-tich-chat-luong-collection/2227853.html",
+        "https://www.topcv.vn/viec-lam/data-analysis-specialist/2309444.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-data-science-track/2343312.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-intern/2343283.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-leader/2272110.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-mobile-game-app-sign-on-bonus-01-thang-luong/2293431.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-tieng-anh-tot/2313002.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2180185.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2329187.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2335015.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2344396.html",
+        "https://www.topcv.vn/viec-lam/data-consultant-data-solution-engineer-analyst/2353811.html",
+        "https://www.topcv.vn/viec-lam/finance-data-senior/2226144.html",
+        "https://www.topcv.vn/viec-lam/giam-sat-phan-tich-du-lieu-nhan-su-workforce-business-intelligence-supervisor/2333372.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-phan-mem-quan-ly-trang-trai/2343993.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-phan-tich-kinh-te/805570.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-phan-tich-va-xu-ly-du-lieu-data-analyst-tu-1-nam-kinh-nghiem-tai-tay-ninh/2333349.html",
+        "https://www.topcv.vn/viec-lam/quan-tri-du-lieu-mis-hieu-suat-kinh-doanh-bfm/2198057.html",
+        "https://www.topcv.vn/viec-lam/sales-operations-executive/2337546.html",
+        "https://www.topcv.vn/viec-lam/senior-data-analyst-analytics-engineer/2340794.html",
+        "https://www.topcv.vn/viec-lam/senior-data-analyst/2349104.html",
+        "https://www.topcv.vn/viec-lam/senior-team-leader-business-intelligence-eda-division-hn-ta174/2308458.html",
+        "https://www.topcv.vn/viec-lam/thuc-tap-sinh-phan-tich-dau-tu/1865273.html",
+        "https://www.topcv.vn/viec-lam/tro-ly-du-an-mang-xu-ly-du-lieu/2354683.html",
+        "https://www.topcv.vn/viec-lam/truong-nhom-data-analyst/2182327.html",
+        "https://www.topcv.vn/viec-lam/truong-nhom-data-analyst/2297124.html",
+        "https://www.topcv.vn/viec-lam/truong-phong-phan-tich-du-lieu-va-cung-ung/2345484.html"
+      ]
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 10.625,
+      "url": "https://www.topcv.vn/tim-viec-lam-data-analyst",
+      "kind": "listing",
+      "valid": true,
+      "job_count": 50,
+      "job_urls": [
+        "https://www.topcv.vn/brand/concentrixservices/tuyen-dung/campaign-operations-coordinator-j2354818.html",
+        "https://www.topcv.vn/brand/congtycophangsm/tuyen-dung/data-analyst-van-hanh-cho-thue-xe-4-banh-lam-viec-tai-oecan-park-ha-noi-j2354827.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-ke-hoach-manh-so-lieu-bao-cao-khoi-hoc-thuat-j2350297.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-nhan-su-cap-cao-senior-cb-specialist-chinh-sach-luong-thuong-phan-tich-du-lieu-luong-tu-22-35-trieu-j2342344.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-phan-tich-kinh-doanh-bi-analyst-business-intelligence-j2327052.html",
+        "https://www.topcv.vn/brand/educa/tuyen-dung/lead-data-analyst-scientist-truong-nhom-phan-tich-du-lieu-luong-up-to-40m-thuong-j2336503.html",
+        "https://www.topcv.vn/brand/ipa/tuyen-dung/chuyen-vien-cao-cap-phan-tich-tai-chinh-kinh-doanh-j2198361.html",
+        "https://www.topcv.vn/brand/kamereo/tuyen-dung/data-analyst-j2356509.html",
+        "https://www.topcv.vn/brand/misa/tuyen-dung/data-business-analyst-credit-rating-j2348915.html",
+        "https://www.topcv.vn/brand/misa/tuyen-dung/growth-data-analyst-ban-tang-truong-nguoi-dung-j2348417.html",
+        "https://www.topcv.vn/brand/thanhtoanvietnam/tuyen-dung/nhan-vien-phan-tich-du-lieu-san-pham-data-analyst-j2354703.html",
+        "https://www.topcv.vn/brand/transcosmoshochiminh/tuyen-dung/data-analyst-workforce-management-analyst-ecomerce-project-j2334603.html",
+        "https://www.topcv.vn/viec-lam/business-intelligence-lead/2318491.html",
+        "https://www.topcv.vn/viec-lam/business-intelligence-lead/2345681.html",
+        "https://www.topcv.vn/viec-lam/chuyen-gia-phan-tich-bong-da/2348206.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-kiem-thu-du-lieu-data-tester/2349045.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-ban-le/2321660.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-tai-ha-noi/2353068.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-tai-chinh-ho-chi-minh-thu-nhap-canh-tranh-lam-viec-tai-doanh-nghiep-top-dau-viet-nam/2333695.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-quan-ly-chat-luong-du-lieu/2354874.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-data-governance/2339053.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-quan-tri-du-lieu-master-data-and-reference-data-management/2354873.html",
+        "https://www.topcv.vn/viec-lam/chuyen-vien-tong-hop-du-lieu-va-bao-cao-quan-tri-thu-nhap-18-25m/2353914.html",
+        "https://www.topcv.vn/viec-lam/cv-phan-tich-chat-luong-collection/2227853.html",
+        "https://www.topcv.vn/viec-lam/data-analysis-specialist/2309444.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-data-science-track/2343312.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-intern/2343283.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-leader/2272110.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-mobile-game-app-sign-on-bonus-01-thang-luong/2293431.html",
+        "https://www.topcv.vn/viec-lam/data-analyst-tieng-anh-tot/2313002.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2180185.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2329187.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2335015.html",
+        "https://www.topcv.vn/viec-lam/data-analyst/2344396.html",
+        "https://www.topcv.vn/viec-lam/data-consultant-data-solution-engineer-analyst/2353811.html",
+        "https://www.topcv.vn/viec-lam/finance-data-senior/2226144.html",
+        "https://www.topcv.vn/viec-lam/giam-sat-phan-tich-du-lieu-nhan-su-workforce-business-intelligence-supervisor/2333372.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-phan-mem-quan-ly-trang-trai/2343993.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-phan-tich-kinh-te/805570.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-phan-tich-va-xu-ly-du-lieu-data-analyst-tu-1-nam-kinh-nghiem-tai-tay-ninh/2333349.html",
+        "https://www.topcv.vn/viec-lam/quan-tri-du-lieu-mis-hieu-suat-kinh-doanh-bfm/2198057.html",
+        "https://www.topcv.vn/viec-lam/sales-operations-executive/2337546.html",
+        "https://www.topcv.vn/viec-lam/senior-data-analyst-analytics-engineer/2340794.html",
+        "https://www.topcv.vn/viec-lam/senior-data-analyst/2349104.html",
+        "https://www.topcv.vn/viec-lam/senior-team-leader-business-intelligence-eda-division-hn-ta174/2308458.html",
+        "https://www.topcv.vn/viec-lam/thuc-tap-sinh-phan-tich-dau-tu/1865273.html",
+        "https://www.topcv.vn/viec-lam/tro-ly-du-an-mang-xu-ly-du-lieu/2354683.html",
+        "https://www.topcv.vn/viec-lam/truong-nhom-data-analyst/2182327.html",
+        "https://www.topcv.vn/viec-lam/truong-nhom-data-analyst/2297124.html",
+        "https://www.topcv.vn/viec-lam/truong-phong-phan-tich-du-lieu-va-cung-ung/2345484.html"
+      ]
+    },
+    {
+      "engine": "crawl4ai",
+      "status": 200,
+      "error": "",
+      "transport_ok": true,
+      "seconds": 6.966,
+      "url": "https://www.topcv.vn/tim-viec-lam-san-xuat-cr417",
+      "kind": "listing",
+      "valid": true,
+      "job_count": 50,
+      "job_urls": [
+        "https://www.topcv.vn/brand/brother/tuyen-dung/nhan-vien-thiet-ke-co-khi-j2322717.html",
+        "https://www.topcv.vn/viec-lam/chu-quan-san-xuat/2217749.html",
+        "https://www.topcv.vn/viec-lam/cong-nhan-van-hanh-may-kcn-long-thanh/1833146.html",
+        "https://www.topcv.vn/viec-lam/ke-toan-tong-hop-cong-ty-san-xuat-va-thuong-mai-dien-tu/2353268.html",
+        "https://www.topcv.vn/viec-lam/ke-toan-tong-hop-linh-vuc-san-xuat-20-25-trieu/2348434.html",
+        "https://www.topcv.vn/viec-lam/ky-su-co-dien-mep-engineer-chap-nhan-sinh-vien-moi-ra-truong-chua-co-kinh-nghiem/2352360.html",
+        "https://www.topcv.vn/viec-lam/ky-su-dien-co-dien/2347548.html",
+        "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa-co-khi-che-tao-may-thu-nhap-15-20tr-thang-di-lam-ngay/2328221.html",
+        "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa/2351897.html",
+        "https://www.topcv.vn/viec-lam/ky-su-du-an-thu-nhap-15-20-trieu-du-an-svd-vf-trong-dong/2350923.html",
+        "https://www.topcv.vn/viec-lam/ky-su-me-cong-trinh-thu-nhap-16m-25m-tai-ho-chi-minh-dong-nai/2344378.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-co-dien-hvac/2355483.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-co-khi-co-dien-mep-thu-nhap-tu-20-trieu-lam-viec-tai-cu-chi-hcm/2347225.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-dien-mat-troi-solar-design-engineer-di-lam-ngay-tai-ha-noi/2355073.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-co-khi-quan-12-biet-autocad-solidworks/2095444.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352470.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+        "https://www.topcv.vn/viec-lam/ky-su-tu-dong-hoa-lap-trinh-plc-hmi-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352472.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-ky-su-san-xuat-binh-dinh-cu-open-fresher/2354113.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-bao-tri-sua-chua-cu-chi-xoay-ca/2348876.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-tai-nang/2357309.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-trien-khai-lap-dat-thu-nhap-upto-15-trieu/2347959.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-van-hanh-may-ep-nhua-nhan-viec-ngay/2351081.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-hse-dien-cong-nghiep-xay-dung-an-toan-tai-kcn-amata-dong-nai/2347778.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-khong-yeu-cau-kinh-nghiem/2347519.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-online-va-offline-thu-nhap-len-den-50-trieu-thang/2349521.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-1-nam-kinh-nghiem-thu-nhap-15-20-trieu-tai-ho-chi-minh-di-lam-ngay/2345616.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-bao-tri-dien-sua-chua-khong-yeu-cau-kinh-nghiem-tai-ho-chi-minh/2352758.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-khi-bao-tri-lam-dong-binh-thuan-cu/2341747.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-khi-sua-chua-may-xuc-ui-xe-nang-thu-nhap-tu-16-21m-thang-van-phong-tai-hung-yen/2307266.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-co-khi-co-dien-khong-yeu-cau-kinh-nghiem-luong-10-13-trieu-du-an-svd-trong-dong/2348029.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dien-tu-tu-dong-hoa-12-15tr-thang-nghi-t7-cn/2351369.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-tai-ho-chi-minh/2352589.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-pccc-co-dien-khong-yeu-cau-kinh-nghiem-nhan-sv-moi-ra-truong-thu-nhap-12-18-trieu/1923255.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-qa-nhon-trach-co-xe-dua-ruoc/2348512.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-qa-qc-thuc-pham-do-uong-kiem-soat-chat-luong-kiem-nghiem-nuoc-thu-nhap-15-trieu/2354178.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-qc-bao-bi-giay/2351933.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-quan-ly-chat-luong-qc-qa-thuc-pham-lam-viec-tai-bao-loc-lam-dong/2346857.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-rd-vat-lieu-bao-bi-pe-pet-opp-cpp-tai-ha-noi-luong-15-18m/2320458.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-san-xuat/2288863.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke-co-khi-uu-tien-sinh-vien-moi-ra-truong-thu-nhap-tren-10-trieu-go-vap-tp-hcm/2355232.html",
+        "https://www.topcv.vn/viec-lam/quan-ly-don-hang/2346914.html",
+        "https://www.topcv.vn/viec-lam/sales-engineer-thiet-bi-tu-dong-hoa-long-bien-hn-thu-nhap-khong-gioi-han/2323125.html",
+        "https://www.topcv.vn/viec-lam/senior-mechanical-engineer-hvac-autodesk-inventor-good-english-required-3-years/2349258.html",
+        "https://www.topcv.vn/viec-lam/senior-sales-engineer-air-compressor-pump/2343554.html",
+        "https://www.topcv.vn/viec-lam/thiet-ke-co-khi-theo-dien-phai-cu-khong-yeu-cau-kinh-nghiem-nghi-t7cn/2353116.html",
+        "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+        "https://www.topcv.vn/viec-lam/truong-nhom-bo-phan-kim-loai-nha-may-noi-that/2325398.html",
+        "https://www.topcv.vn/viec-lam/truong-phong-co-dien-tai-dong-anh-ha-noi-thu-nhap-len-den-30-trieu/2338402.html",
+        "https://www.topcv.vn/viec-lam/xuong-truong-san-xuat-yeu-cau-2-nam-kinh-nghiem-vinh-long-tay-ninh/2352797.html"
+      ]
+    },
+    {
+      "engine": "scrapling",
+      "status": 200,
+      "transport_ok": true,
+      "seconds": 11.603,
+      "url": "https://www.topcv.vn/tim-viec-lam-san-xuat-cr417",
+      "kind": "listing",
+      "valid": true,
+      "job_count": 50,
+      "job_urls": [
+        "https://www.topcv.vn/brand/brother/tuyen-dung/nhan-vien-thiet-ke-co-khi-j2322717.html",
+        "https://www.topcv.vn/viec-lam/chu-quan-san-xuat/2217749.html",
+        "https://www.topcv.vn/viec-lam/cong-nhan-van-hanh-may-kcn-long-thanh/1833146.html",
+        "https://www.topcv.vn/viec-lam/ke-toan-tong-hop-cong-ty-san-xuat-va-thuong-mai-dien-tu/2353268.html",
+        "https://www.topcv.vn/viec-lam/ke-toan-tong-hop-linh-vuc-san-xuat-20-25-trieu/2348434.html",
+        "https://www.topcv.vn/viec-lam/ky-su-co-dien-mep-engineer-chap-nhan-sinh-vien-moi-ra-truong-chua-co-kinh-nghiem/2352360.html",
+        "https://www.topcv.vn/viec-lam/ky-su-dien-co-dien/2347548.html",
+        "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa-co-khi-che-tao-may-thu-nhap-15-20tr-thang-di-lam-ngay/2328221.html",
+        "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa/2351897.html",
+        "https://www.topcv.vn/viec-lam/ky-su-du-an-thu-nhap-15-20-trieu-du-an-svd-vf-trong-dong/2350923.html",
+        "https://www.topcv.vn/viec-lam/ky-su-me-cong-trinh-thu-nhap-16m-25m-tai-ho-chi-minh-dong-nai/2344378.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-co-dien-hvac/2355483.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-co-khi-co-dien-mep-thu-nhap-tu-20-trieu-lam-viec-tai-cu-chi-hcm/2347225.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-dien-mat-troi-solar-design-engineer-di-lam-ngay-tai-ha-noi/2355073.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-co-khi-quan-12-biet-autocad-solidworks/2095444.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352470.html",
+        "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+        "https://www.topcv.vn/viec-lam/ky-su-tu-dong-hoa-lap-trinh-plc-hmi-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352472.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-ky-su-san-xuat-binh-dinh-cu-open-fresher/2354113.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-bao-tri-sua-chua-cu-chi-xoay-ca/2348876.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-tai-nang/2357309.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-trien-khai-lap-dat-thu-nhap-upto-15-trieu/2347959.html",
+        "https://www.topcv.vn/viec-lam/ky-thuat-vien-van-hanh-may-ep-nhua-nhan-viec-ngay/2351081.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-hse-dien-cong-nghiep-xay-dung-an-toan-tai-kcn-amata-dong-nai/2347778.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-khong-yeu-cau-kinh-nghiem/2347519.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-online-va-offline-thu-nhap-len-den-50-trieu-thang/2349521.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-1-nam-kinh-nghiem-thu-nhap-15-20-trieu-tai-ho-chi-minh-di-lam-ngay/2345616.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-bao-tri-dien-sua-chua-khong-yeu-cau-kinh-nghiem-tai-ho-chi-minh/2352758.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-khi-bao-tri-lam-dong-binh-thuan-cu/2341747.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-khi-sua-chua-may-xuc-ui-xe-nang-thu-nhap-tu-16-21m-thang-van-phong-tai-hung-yen/2307266.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-co-khi-co-dien-khong-yeu-cau-kinh-nghiem-luong-10-13-trieu-du-an-svd-trong-dong/2348029.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dien-tu-tu-dong-hoa-12-15tr-thang-nghi-t7-cn/2351369.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-tai-ho-chi-minh/2352589.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-pccc-co-dien-khong-yeu-cau-kinh-nghiem-nhan-sv-moi-ra-truong-thu-nhap-12-18-trieu/1923255.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-qa-nhon-trach-co-xe-dua-ruoc/2348512.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-qa-qc-thuc-pham-do-uong-kiem-soat-chat-luong-kiem-nghiem-nuoc-thu-nhap-15-trieu/2354178.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-qc-bao-bi-giay/2351933.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-quan-ly-chat-luong-qc-qa-thuc-pham-lam-viec-tai-bao-loc-lam-dong/2346857.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-rd-vat-lieu-bao-bi-pe-pet-opp-cpp-tai-ha-noi-luong-15-18m/2320458.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-san-xuat/2288863.html",
+        "https://www.topcv.vn/viec-lam/nhan-vien-thiet-ke-co-khi-uu-tien-sinh-vien-moi-ra-truong-thu-nhap-tren-10-trieu-go-vap-tp-hcm/2355232.html",
+        "https://www.topcv.vn/viec-lam/quan-ly-don-hang/2346914.html",
+        "https://www.topcv.vn/viec-lam/sales-engineer-thiet-bi-tu-dong-hoa-long-bien-hn-thu-nhap-khong-gioi-han/2323125.html",
+        "https://www.topcv.vn/viec-lam/senior-mechanical-engineer-hvac-autodesk-inventor-good-english-required-3-years/2349258.html",
+        "https://www.topcv.vn/viec-lam/senior-sales-engineer-air-compressor-pump/2343554.html",
+        "https://www.topcv.vn/viec-lam/thiet-ke-co-khi-theo-dien-phai-cu-khong-yeu-cau-kinh-nghiem-nghi-t7cn/2353116.html",
+        "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+        "https://www.topcv.vn/viec-lam/truong-nhom-bo-phan-kim-loai-nha-may-noi-that/2325398.html",
+        "https://www.topcv.vn/viec-lam/truong-phong-co-dien-tai-dong-anh-ha-noi-thu-nhap-len-den-30-trieu/2338402.html",
+        "https://www.topcv.vn/viec-lam/xuong-truong-san-xuat-yeu-cau-2-nam-kinh-nghiem-vinh-long-tay-ninh/2352797.html"
+      ]
+    }
+  ],
+  "llm_calls": 0,
+  "worker_modified": false,
+  "tasks": [
+    [
+      "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dien-dien-tu-tu-dong-hoa-12-15tr-thang-nghi-t7-cn/2351369.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-may-tu-2-nam-kinh-nghiem-thu-nhap-upto-25-trieu-lam-viec-tai-da-nang/2352470.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/ky-su-co-dien-mep-engineer-chap-nhan-sinh-vien-moi-ra-truong-chua-co-kinh-nghiem/2352360.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/brand/altiuslink/tuyen-dung/nhan-vien-cham-soc-khach-hang-dich-vu-van-chuyen-san-tmdt-khong-yeu-cau-kinh-nghiem-thu-viec-100-luong-cung-co-phu-cap-dao-tao-tai-ho-chi-minh-j2349385.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/brand/ipa/tuyen-dung/chuyen-vien-cao-cap-phan-tich-tai-chinh-kinh-doanh-j2198361.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/chuyen-vien-khach-hang-ca-nhan-tu-van-the-tin-dung-tai-q10-ho-chi-minh-luong-cung-tu-12-den-22-trieu-phu-cap-hoa-hong-tong-thu-nhap-tu-40-den-50-trieu/2340386.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/viec-lam/quan-ly-fb-chuoi-cafe-cao-cap-thu-nhap-tu-15-trieu/2348552.html",
+      "job"
+    ],
+    [
+      "https://www.topcv.vn/tim-viec-lam-data-analyst",
+      "listing"
+    ],
+    [
+      "https://www.topcv.vn/tim-viec-lam-san-xuat-cr417",
+      "listing"
+    ]
+  ],
+  "summary": {
+    "crawl4ai": {
+      "attempts": 12,
+      "valid": 12,
+      "median_seconds": 5.078
+    },
+    "scrapling": {
+      "attempts": 12,
+      "valid": 12,
+      "median_seconds": 9.623
+    }
+  },
+  "field_differences": [
+    {
+      "url": "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+      "field": "benefits"
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/truong-bo-phan-qhse-quan-ly-chat-luong-suc-khoe-an-toan-va-moi-truong-kho-lanh-logistics-xuat-nhap-khau-van-tai-thu-nhap-hap-dan/2349933.html",
+      "field": "description"
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+      "field": "requirements_text"
+    }
+  ],
+  "replacement_gate_passed": false,
+  "finished_at": "2026-11-15T08:33:21.870469+00:00",
+  "tested_configuration": {
+    "scrapling_version": "0.5.1",
+    "headless": true,
+    "solve_cloudflare": true,
+    "wait_ms": 2000,
+    "persistent_session": true,
+    "max_pages": 1,
+    "proxy": false,
+    "minimum_request_interval_seconds": 15,
+    "paired_order": "alternating"
+  },
+  "validation_notes": [
+    "Final validation is recomputed from saved HTML and Markdown snapshots, without additional network requests.",
+    "Initial live validation treated Markdown list markers as content differences. The final DOM completeness check ignores whitespace and punctuation and requires all source alphanumeric content in each extracted section.",
+    "Cross-engine field comparison is stricter than DOM completeness and retains inline emphasis differences. Three field differences across two jobs were manually inspected and are Markdown emphasis artifacts, not missing words.",
+    "These are deterministic source normalization/schema checks, not fresh LLM extraction calls or a long-running reliability guarantee."
+  ],
+  "challenge_observations": {
+    "scrapling_no_challenge_log_count": 12,
+    "active_challenge_solving_demonstrated": false
+  },
+  "unit_tests": {
+    "command": ".venv/bin/python -m unittest discover -s crawling -p 'test_*.py' -q",
+    "passed": 52,
+    "log": "unit_tests.log"
+  },
+  "decision": "Keep Crawl4AI. Both fetched 12/12 pages; Scrapling median was 9.623s versus 5.078s. No active Cloudflare challenge occurred. The tested Scrapling configuration has not demonstrated better availability or latency.",
+  "replacement_applied": false,
+  "finalized_at": "2026-11-15T08:34:09.589140+00:00"
+}

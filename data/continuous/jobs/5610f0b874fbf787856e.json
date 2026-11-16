@@ -1,0 +1,52 @@
+{
+  "job_title": "Trưởng Nhóm Data Engineer",
+  "company_name": "CÔNG TY CỔ PHẦN CMC OPENAI",
+  "job_category": "Data Engineer",
+  "sub_category": null,
+  "industry": "Xuất bản phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-30",
+  "url": "https://www.topcv.vn/viec-lam/truong-nhom-data-engineer/2129811.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "kafka",
+    "Apache Spark",
+    "Airflow",
+    "databricks",
+    "Snowflake",
+    "Vector Database",
+    "RAG architecture",
+    "Cloud ecosystem"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Problem Solving",
+    "logical thinking",
+    "Independent work"
+  ],
+  "languages_required": null,
+  "experience_required": 4.0,
+  "salary": "Tới 40 triệu",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\n* Thứ 2- Thứ 6, nghỉ trưa từ 12h – 13h30\nLinh động chấm công theo chính sách của công ty",
+  "benefits": [
+    "Thu nhập hấp dẫn theo năng lực (upto 40tr/tháng – Gross)",
+    "Bảo hiểm sức khỏe và các chương trình, chế độ phúc lợi của Tập đoàn CMC (ngày nghỉ sinh nhật, thưởng các dịp lễ/tết/sinh nhật Tập đoàn,…) cùng các chế độ BHXH, BHYT,v.v theo quy định Pháp luật",
+    "Thưởng hiệu quả công việc, đánh giá năng lực, review lương hàng năm",
+    "Cơ hội học hỏi, tham gia đào tạo và phát triển bản thân tại một Tập đoàn công nghệ lớn hàng đầu Việt Nam, với lộ trình thăng tiến nghề nghiệp rõ ràng",
+    "Môi trường làm việc trẻ trung, năng động, cởi mở, sáng tạo, đồng nghiệp vui vẻ và luôn được tạo cơ hội tiếp cận những công nghệ mới, tiên tiến nhất",
+    "Bảo hiểm sức khỏe, Bảo hiểm xã hội, Thưởng hiệu quả làm việc"
+  ],
+  "description": "* Thiết kế, xây dựng và tối ưu hóa kiến trúc Data Platform đảm bảo tính mở rộng và hiệu năng cao.\n* Xây dựng và quản lý các luồng dữ liệu (Data Pipelines/ETL/ELT) từ nhiều nguồn khác nhau (cấu trúc và phi cấu trúc).\n* Xử lý, làm sạch và phân mảnh dữ liệu (chunking) từ các tài liệu phức tạp để xây dựng Knowledge Base cho hệ thống AI.\n* Thiết kế và duy trì các luồng dữ liệu cho hệ thống tìm kiếm ngữ nghĩa và RAG: xử lý, chuẩn hóa và chuyển đổi dữ liệu thành embeddings, nạp và quản lý trên vector database. Triển khai, vận hành và quản trị các cơ sở dữ liệu vector (Vector Databases) để lưu trữ embeddings.\n* Phát triển các API/service phục vụ dữ liệu cho các nhóm sản phẩm.\n* Đảm bảo chất lượng, tính nhất quán và khả năng tái lập của dữ liệu trong toàn bộ pipeline.\n* Phối hợp với các nhóm AI, sản phẩm và hạ tầng để triển khai giải pháp dữ liệu đáp ứng yêu cầu nghiệp vụ.\n* Làm việc chặt chẽ với các kỹ sư AI/ML để cung cấp dữ liệu sạch, nhanh chóng và tối ưu cho quy trình huấn luyện hoặc truy xuất của các mô hình LLMs.\n* Đảm bảo tính bảo mật, chất lượng dữ liệu và tuân thủ các tiêu chuẩn quản trị dữ liệu của hệ thống.",
+  "requirements_text": "* Từ 4 năm kinh nghiệm data engineering với Python ở mức production.\n* Lập trình thành thạo với Python và SQL.\n* Có kinh nghiệm làm việc với các hệ thống Vector Database như Milvus, Qdrant, Pinecone, hoặc ChromaDB.\n* Kỹ năng xử lý dữ liệu phân tán (Spark hoặc tương đương).\n* Kinh nghiệm với orchestration (Dagster/Airflow) và pipeline incremental/idempotent.\n* Thành thạo Git và CI/CD; làm việc tốt với các container/Kubernetes ở mức vận hành dịch vụ.\n* Có kinh nghiệm thực tế với hệ sinh thái Cloud (AWS, GCP, hoặc Azure) và các công cụ xử lý dữ liệu hiện đại (Apache Spark, Kafka, Airflow, Databricks, Snowflake).\n* Kỹ năng giải quyết vấn đề tốt, tư duy logic và khả năng làm việc độc lập cũng như làm việc nhóm.\nKỹ năng cần có\nPython, SQL, Teamwork, kafka, Apache Spark , Problem Solving, logical thinking, Airflow, databricks, Snowflake, Vector Database, Independent work, RAG architecture, Cloud ecosystem"
+}

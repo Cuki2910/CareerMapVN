@@ -1,0 +1,35 @@
+{
+  "started_at": "2026-11-14T20:27:17.410570+07:00",
+  "events": [
+    {
+      "index": 1,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-tai-ha-noi/2353068.html",
+      "source_characters": 177881,
+      "prompt_characters": 18907,
+      "usage": {
+        "input_tokens": 6263,
+        "output_tokens": 2234,
+        "total_tokens": 8497,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "elapsed_seconds": 13.024
+    },
+    {
+      "index": 2,
+      "url": "https://www.topcv.vn/viec-lam/chuyen-vien-tong-hop-du-lieu-va-bao-cao-quan-tri-thu-nhap-18-25m/2353914.html",
+      "source_characters": 172809,
+      "prompt_characters": 15044,
+      "usage": {
+        "input_tokens": 5053,
+        "output_tokens": 1247,
+        "total_tokens": 6300,
+        "input_token_details": {},
+        "output_token_details": {}
+      },
+      "status": "success",
+      "elapsed_seconds": 7.23
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Quay Chụp Tại Hà Nội (Thu Nhập Hấp Dẫn)\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing / Quảng cáo\",\n  \"sub_category\": \"Photographer/Video Editor\",\n  \"industry\": \"Marketing / Quảng cáo\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-24\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-quay-chup-tai-ha-noi-thu-nhap-hap-dan/2330250.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Quay Phim\",\n    \"Chỉnh Sửa Ảnh\",\n    \"Chụp Ảnh\",\n    \"Dựng Video\",\n    \"Sử Dụng Phần Mềm Dựng Phim\"\n  ],\n  \"soft_skills\": [\n    \"Sáng tạo\",\n    \"Tinh Thần Trách Nhiệm\",\n    \"Tư Duy Hình Ảnh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm giờ hành chính\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\"\n  ],\n  \"description\": \"- Quay phim, chụp ảnh sản phẩm, công trình, sự kiện của Công ty.\\n- Chỉnh sửa ảnh, dựng video phục vụ hoạt động Marketing và bán hàng.\\n- Phối hợp với các thành viên trong Phòng Marketing triển khai các nội dung truyền thông.\\n- Quản lý và bảo quản thiết bị quay chụp được giao.\\n- Thực hiện các công việc khác theo phân công của Trưởng phòng Marketing.\",\n  \"requirements_text\": \"- Có kinh nghiệm quay phim, chụp ảnh và dựng video.\\n- Sử dụng thành thạo các phần mềm dựng phim, chỉnh sửa ảnh.\\n- Có tư duy hình ảnh, sáng tạo và tinh thần trách nhiệm.\\n- Chủ động trong công việc, sẵn sàng đi công tác khi cần.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4742,
+    "output_tokens": 574,
+    "total_tokens": 5316,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

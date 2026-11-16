@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giáo Viên Tiếng Anh - English Teacher\",\n  \"company_name\": null,\n  \"job_category\": \"Giáo dục / Đào tạo\",\n  \"sub_category\": \"Giáo viên tiếng Anh\",\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giao-vien-tieng-anh-english-teacher/2353415.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Cao đẳng, Đại học chuyên ngành tiếng Anh\"\n  ],\n  \"technical_skills\": [\n    \"Giảng Dạy Tiếng Anh\",\n    \"Chuẩn Bị Bài Giảng\"\n  ],\n  \"soft_skills\": [\n    \"chủ động\",\n    \"tự giác\",\n    \"nhanh nhẹn\",\n    \"hoạt bát\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"full-time / part-time\",\n  \"working_hours\": \"Buổi tối từ Thứ 2- thứ 7. Sáng T7- Sáng CN\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Các chế độ lễ, Tết, nghỉ phép, BHXH, BHYT...\"\n  ],\n  \"description\": \"• Giảng dạy tiếng Anh theo giáo trình với các cấp độ Starters - Movers - Flyers - KET- PET\\n• Chuẩn bị bài giảng, tài liệu, học cụ theo phân phối chương trình có sẵn.\\n• Loại hình làm việc: Full-time / Part-time\",\n  \"requirements_text\": \"• Nam/Nữ độ tuổi: từ 22-30, ham học hỏi, nhanh nhẹn, hoạt bát\\n• Trình độ: Cao đẳng, Đại học chuyên ngành tiếng Anh.\\n• Chủ động, tự giác trong công việc. Yêu thích trẻ em.\\n• Ưu tiên những ứng viên đã có kinh nghiệm giảng dạy tiếng Anh ở các trung tâm Anh ngữ; có chứng chỉ nghiệp vụ sư phạm; có CC IELTS 6.5 trở lên\"\n}\n```",
+  "usage": {
+    "input_tokens": 4670,
+    "output_tokens": 628,
+    "total_tokens": 5298,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

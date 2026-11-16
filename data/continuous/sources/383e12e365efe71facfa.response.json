@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Lao Động Bán Thời Gian - 200 Ngàn/Buổi. Làm Việc Tại Phú Nhuận\",\n  \"company_name\": null,\n  \"job_category\": \"Photographer/Video Editor\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/lao-dong-ban-thoi-gian-200-ngan-buoi-lam-viec-tai-phu-nhuan-ho-chi-minh/2355330.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Gọi điện\",\n    \"nấu ăn\",\n    \"Quay phim đơn giản bằng ĐTDĐ\",\n    \"coi xe\",\n    \"trực đêm coi văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"vui vẻ\",\n    \"cẩn thận\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Việc làm theo buổi, tùy công việc, thời gian làm việc sẽ trao đổi khi phỏng vấn.\",\n  \"benefits\": [\n    \"Thu nhập 120.000đ – 200.000đ/buổi, tùy công việc.\",\n    \"Trả lương theo ngày, tuần.\",\n    \"Công việc đơn giản, môi trường văn phòng lịch sự.\"\n  ],\n  \"description\": \"Phụ giúp ngắn hạn các công việc văn phòng theo giờ, theo buổi (Quay phim đơn giản bằng ĐTDĐ, gọi điện, coi xe, trực đêm coi văn phòng, nấu ăn ...).\\nChi tiết trao đổi khi phỏng vấn.\",\n  \"requirements_text\": \"Nam nữ 25 – 50 tuổi, PTTH\\nNhanh nhẹn, vui vẻ, cẩn thận.\\nChi tiết trao đổi khi phỏng vấn.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4740,
+    "output_tokens": 592,
+    "total_tokens": 5332,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Quản Lý Dữ Liệu - Tủ Bếp\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": \"Trợ lý/Thư ký sản xuất\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-du-lieu-tu-bep/2354324.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"quản lý dữ liệu\",\n    \"Microsoft D365\",\n    \"Power BI\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 16:30) hoặc đi ca sản xuất\",\n  \"benefits\": [\n    \"Cơm giữa ca tại Nhà máy.\",\n    \"Thử việc 100% lương.\",\n    \"Tham gia BHXH full lương + BH sức khoẻ PVI.\",\n    \"Có xe đưa đón: SG - Dĩ An - Thuận An - TDM.\"\n  ],\n  \"description\": \"1. Quản lý dữ liệu sản xuất\\n- Cập nhật và kiểm soát dữ liệu sản xuất trên hệ thống D365.\\n- Theo dõi và ghi nhận kết quả sản xuất theo kế hoạch.\\n- Đảm bảo dữ liệu chính xác, đầy đủ và kịp thời phục vụ báo cáo vận hành.\\n\\n2. Hỗ trợ kế hoạch & điều độ sản xuất\\n- Hỗ trợ gom lệnh sản xuất và theo dõi tiến độ các công đoạn.\\n- Phối hợp với các bộ phận/xưởng để đảm bảo dữ liệu và tiến độ được đồng bộ.\\n\\n3. Quản lý BOM & dữ liệu vật tư\\n- Hỗ trợ cập nhật BOM sơn và theo dõi tình hình sử dụng theo định mức.\\n- Theo dõi dữ liệu tiêu hao và các thông tin liên quan phục vụ kiểm soát sản xuất.\\n\\n4. Báo cáo & cải tiến\\n- Tổng hợp, phân tích và lập các báo cáo sản xuất theo yêu cầu.\\n- Hỗ trợ xây dựng biểu mẫu, dashboard hoặc công cụ theo dõi dữ liệu.\\n- Tham gia các hoạt động cải tiến quy trình và 5S tại nhà máy.\\n\\n5. Các công việc khác được giao từ cấp trên.\",\n  \"requirements_text\": \"- Có thể làm việc tại môi trường Nhà máy\\n- Có khả năng OT\\n- Ưu tiên các bạn có kỹ năng Power BI và Tiếng Anh hoặc Tiếng Trung\"\n}\n```",
+  "usage": {
+    "input_tokens": 4592,
+    "output_tokens": 751,
+    "total_tokens": 5343,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

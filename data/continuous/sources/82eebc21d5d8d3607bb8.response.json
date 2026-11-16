@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Giáo Viên Tiếng Anh Fulltime/Parttime (Lương 11 - 15 Triệu)\",\"company_name\":\"CÔNG TY TNHH ĐẦU TƯ GIÁO DỤC VÀ ĐÀO TẠO MAY SCHOOL\",\"job_category\":\"Giáo dục / Đào tạo\",\"sub_category\":\"Giáo viên tiếng Anh\",\"industry\":\"Giáo dục / Đào tạo\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-12\",\"url\":\"https://www.topcv.vn/viec-lam/giao-vien-tieng-anh-fulltime-parttime-luong-11-15-trieu/2356450.html\",\"qualifications\":[\"Tốt nghiệp Cao đẳng, Đại học chuyên ngành tiếng Anh hoặc tương đương\",\"Ưu tiên có chứng chỉ giảng dạy\"],\"technical_skills\":[\"Kỹ năng sư phạm\",\"Kỹ năng giảng dạy\",\"Kiến thức về ngôn ngữ học\"],\"soft_skills\":[\"Kỹ năng giao tiếp\"],\"languages_required\":[\"Tiếng Anh\"],\"experience_required\":1,\"salary\":\"11 - 15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian, Bán thời gian\",\"working_hours\":\"Thời gian làm việc linh hoạt, Giáo viên đăng ký giờ dạy theo lịch cá nhân\",\"benefits\":[\"Parttime: Mức lương trả theo năng lực giáo viên, 240.000 đến 310.000VND/ca/1,5h - lên đến 10.000.000/tháng\",\"Fulltime: Up to 15tr/tháng\",\"12 ngày phép/năm theo giờ văn phòng.\",\"Nghỉ lễ tết và nghỉ việc riêng theo quy định của pháp luật được hưởng nguyên lương.\",\"Thưởng cuối năm theo tình hình kinh doanh của công ty.\",\"Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp: được công ty đóng cho người lao động dựa trên mức lương cơ bản.\",\"Thưởng các ngày lễ tết (Tết dương lịch, âm lịch, các ngày lễ trong năm...) và nhiều hình thức thưởng hấp dẫn khác (Thưởng ý tưởng, thưởng nóng đột xuất...).\",\"Miễn, giảm học phí khi con theo học tại MaySchool theo chính sách hiện hành của công ty\",\"Tham gia các buổi team building, du lịch cùng Công ty\",\"Cơ hội thăng tiến rõ ràng\",\"Bảo hiểm xã hội\",\"Khám sức khỏe định kỳ\",\"Du lịch hàng năm\",\"Team building\"],\"description\":\"Giảng dạy tiếng Anh cho học sinh\\nTheo dõi, đánh giá và báo cáo kết quả học tập\\nPhối hợp quản lý lớp và trao đổi với phụ huynh Hỗ trợ các hoạt động, sự kiện tại trung tâm\",\"requirements_text\":\"Tốt nghiệp Cao đẳng, Đại học chuyên ngành tiếng Anh hoặc tương đương.\\nƯu tiên có chứng chỉ giảng dạy.\\nTiếng Anh thành thạo.\\nKinh nghiệm giảng dạy từ 1 năm trở lên.\"}",
+  "usage": {
+    "input_tokens": 5213,
+    "output_tokens": 4881,
+    "total_tokens": 10094,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3988
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

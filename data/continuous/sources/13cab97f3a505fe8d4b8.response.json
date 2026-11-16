@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vật Tư - Thông Thạo Tiếng Trung - 1 Năm Kinh Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Thu mua/Mua hàng\",\n  \"sub_category\": null,\n  \"industry\": \"Xuất nhập khẩu / Hải quan\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-vat-tu-thong-thao-tieng-trung-1-nam-kinh-nghiem/2351238.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên chuyên ngành ngôn ngữ Trung hoặc kinh tế\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"13 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Thử việc 2 tháng ( học việc nhanh thì sẽ đặc cách tiếp nhận sớm hơn quy định)\",\n    \"Ký hợp đồng lao đông dài hạn\",\n    \"Hưởng chế độ BHXH, BHYT, BHTN..., theo quy định của nhà nước đầy đủ\",\n    \"Đi du lịch hàng năm\",\n    \"Tham gia công đoàn: hưởng chế độ tặng sinh nhật, 20/10, 01/06( có con nhỏ), 08/03, thăm hỏi ốm đau, thai sản, tai nạn, quà tết, quà trung thu nghỉ lễ đầy đủ theo quy định của nhà nước\",\n    \"Lương tăng theo quy định của Tập Đoàn Hòa Phát\",\n    \"Hưởng chế độ nghỉ phép năm theo quy định, cứ làm 5 năm nghỉ thêm 1 ngày\",\n    \"Tết thưởng tháng lương 13 theo quy định nhà nước, thưởng ABC theo quy chế của Tập Đoàn Hòa Phát\"\n  ],\n  \"description\": \"- Mua hàng hóa nội địa , mua hàng với các nhà cung cấp nước ngoài - Trung Quốc   \\n- Khi công ty có lắp máy hoặc sửa chữa mà nhà cung cấp máy cho CBNV sang cty xử lý thì làm phiên dịch để cbnv của nhà cung cấp thiết bị trao đổi với kỹ sư của nhà máy   \\n- Công việc khác của phòng khi được trưởng phòng yêu cầu .\",\n  \"requirements_text\": \"Tốt nghiệp đại học chuyên ngành ngôn ngữ Trung hoặc kinh tế nhưng nghe - nói thông thạo tiếng trung quốc\\nCó kinh nghiệm 1 năm trở lên\\nĐộ tuổi : 35 tuổi trở xuống\"\n}\n```",
+  "usage": {
+    "input_tokens": 4874,
+    "output_tokens": 746,
+    "total_tokens": 5620,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

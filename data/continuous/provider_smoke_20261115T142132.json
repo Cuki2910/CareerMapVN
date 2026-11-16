@@ -1,0 +1,54 @@
+{
+  "tested_at": "2026-11-15T14:21:32.245477+07:00",
+  "source": "data/continuous/sources/0009377296c2a86497e7.markdown",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-tai-ha-noi-data-nong-luong-cung-upto-21tr-ho-tro-marketing-100/2336314.html",
+  "results": [
+    {
+      "provider": "GROQ",
+      "ok": false,
+      "model": "openai/gpt-oss-120b",
+      "models_http_status": 200,
+      "actual_model": "openai/gpt-oss-120b",
+      "usage": {
+        "input_tokens": 5629,
+        "output_tokens": 3564,
+        "total_tokens": 9193,
+        "input_token_details": {},
+        "output_token_details": {
+          "reasoning": 1503
+        }
+      },
+      "finish_reason": "stop",
+      "error_type": "ValueError",
+      "error": "Salary wording is not present in the source",
+      "http_status": null,
+      "elapsed_seconds": 9.31
+    },
+    {
+      "provider": "OPENROUTER",
+      "ok": false,
+      "model": "particle-ai/particle-1:free",
+      "models_http_status": 200,
+      "actual_model": "particle-ai/particle-1:free",
+      "usage": {
+        "input_tokens": 6423,
+        "output_tokens": 4102,
+        "total_tokens": 10525,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 6400,
+          "cache_creation": 0
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 2602
+        }
+      },
+      "finish_reason": "stop",
+      "error_type": "ValueError",
+      "error": "Salary wording is not present in the source",
+      "http_status": null,
+      "elapsed_seconds": 20.54
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-11-14T16:35:11.372433+00:00",
+  "event": "cached_source_smoketest",
+  "url": "https://www.topcv.vn/brand/congtycophangsm/tuyen-dung/data-analyst-van-hanh-cho-thue-xe-4-banh-lam-viec-tai-oecan-park-ha-noi-j2354827.html",
+  "completed_total": 48,
+  "source": "Previously fetched live brand page",
+  "discovery_resume_at": "2026-11-14T17:05:11.369584+00:00",
+  "reason": "Live pagination returned HTTP 403; respect cooldown before resuming with --pages 1"
+}

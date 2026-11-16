@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Quản Lý Đơn Hàng\",\n  \"company_name\": \"LX PANTOS VIETNAM\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Giám sát/Điều phối vận tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/brand/lxpantos/tuyen-dung/nhan-vien-quan-ly-don-hang-j2050756.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"MS Office\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"tiếng Anh\"\n  ],\n  \"experience_required\": 2.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8:00 - 17:00, từ thứ 2 - thứ 6. Một tháng làm 2 thứ 7.\",\n  \"benefits\": [\n    \"Mức lương cạnh tranh\",\n    \"Đồng nghiệp thân thiện\",\n    \"Thời gian làm việc: 8:00 - 17:00, từ thứ 2 - thứ 6. Một tháng làm 2 thứ 7.\",\n    \"Tăng lương đều hằng năm\",\n    \"Thưởng tháng lương 13, thưởng lợi nhuận kinh doanh\",\n    \"BHXH, BHYT, BHTN đầy đủ theo luật LĐ\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"Khám sức khỏe định kì\",\n    \"15 ngày nghỉ phép/năm (12 ngày phép + 3 ngày nghỉ hè)\"\n  ],\n  \"description\": \"- Liên hệ khách hàng, quản lý đơn hàng bán online đến các người tiêu dùng\\n- Quản lý xe giao hàng của đơn hàng trực tuyến\\n- Quản lý các đơn hàng cho thuê đồ gia dụng (Tivi, máy giặt, tủ lạnh, điều hòa...). Trong quá trình sử dụng khách gặp vấn đề gì, phối hợp xử lý với các bộ phận liên quan, bố trí thu hồi hoặc đổi khi khách có nhu cầu đổi hoặc hết hạn thuê\\n- Quản lý các loại chứng từ giao hàng (quản lý vận tải giao hàng, đóng đơn hàng IOD/POD khi hoàn thành giao hàng), tổng hợp các chi phí phát sinh nếu có\\n- Theo dõi và làm các báo cáo giao hàng, báo cáo sự cố liên quan đến quá trình giao hàng, thu hồi hàng.\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học\\n- Có 2 năm kinh nghiệm làm dịch vụ khách hàng hoặc vị trí tương đương. Làm trong ngành logistics là một lợi thế.\\n- Ưu tiên ở Bắc Ninh; tự bố trí việc đi lại\\n- Thành thạo MS Office, biết tiếng Anh là một lợi thế\\n- Có thể làm thêm giờ khi có yêu cầu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4485,
+    "output_tokens": 773,
+    "total_tokens": 5258,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

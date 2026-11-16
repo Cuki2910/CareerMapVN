@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kinh Doanh Ô Tô\",\n  \"company_name\": \"CÔNG TY TNHH MTV BCAR HÀ NỘI\",\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Kinh doanh ô tô\",\n  \"industry\": \"Automotive\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-o-to-da-qua-su-dung-sale-tu-van-ban-hang-tai-ha-noi/2348332.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"Chăm chỉ\",\n    \"Cầu thị\",\n    \"Giao tiếp lưu loát\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h00 - 11h30 + 13h - 17h30 từ thứ Hai đến thứ Bảy\",\n  \"benefits\": [\n    \"Lương cứng 6.000.000 không phụ thuộc doanh số\",\n    \"Thưởng xe bán tối thiểu 3tr đến ko giới hạn\",\n    \"Thưởng xe mua + thưởng khai thác ngân hàng, bảo hiểm\",\n    \"Thu nhập tính theo tỷ lệ đạt KPI\"\n  ],\n  \"description\": \"Vì sao bạn nên chọn Bcar?\\n• Kho xe siêu dồi dào: từ xăng, dầu đến điện – đủ phân khúc, đủ lựa chọn để bạn dễ bán.\\n• Xe chất lượng đồng đều, tiêu chuẩn kiểm định thuộc top thị trường.\\n• Giá cực cạnh tranh → dễ gặp khách, dễ chốt deal!\\nMô tả công việc:\\n- Tìm kiếm, tư vấn; khai thác thị trường, khách hàng tiềm năng để giới thiệu và tư vấn bán xe, mua xe ô tô đã qua sử dụng\\n- Sắp xếp và triển khai hoàn thành chỉ tiêu được giao theo tuần/quý/tháng\\n- Thời gian làm việc: 8h00 - 11h30 + 13h -17h30 từ thứ Hai đến thứ Bảy\",\n  \"requirements_text\": \"###  Yêu cầu:\\nDưới 1 năm kinh nghiệm chuyên môn  Trung cấp trở lên\\n###  Chuyên môn:\\nKinh doanh ô tô/xe máy/xe điện, Logistic / Vận tải, B2C, Direct Sales\\n##  Yêu cầu ứng viên\\n• Trung thực – Chăm chỉ – Cầu thị (3 điều bắt buộc).\\n• Ngoại hình ưa nhìn, giao tiếp lưu loát.\\n• Có bằng lái ô tô là một lợi thế lớn.\\n###  Kiến thức ngành\\nLogistic / Vận tải\"\n}",
+  "usage": {
+    "input_tokens": 4426,
+    "output_tokens": 2163,
+    "total_tokens": 6589,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1467
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

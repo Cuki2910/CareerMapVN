@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Cơ Điện\",\n  \"company_name\": null,\n  \"job_category\": \"Kỹ sư cơ điện\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hưng Yên\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-dien-muc-luong-hap-dan-theo-nang-luc/2336184.html\",\n  \"qualifications\": [\n    \"Trung cấp nghề\",\n    \"Cao đẳng\",\n    \"Đại học\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 – thứ 7\",\n  \"benefits\": [\n    \"Được hưởng mức lương cạnh tranh theo năng lực\",\n    \"Đánh giá xét lương định kì hàng năm theo năng lực và hiệu quả làm việc\",\n    \"Thưởng theo các dịp lễ tết lớn, thưởng cuối năm theo quy chế.\",\n    \"Tham gia các chương trình đào tạo, huấn luyện để trau dồi kiến thức.\",\n    \"Hưởng chế độ phúc lợi đầy đủ, đóng BHXH, BHYT, BHTN đầy đủ\",\n    \"Du lịch 3N, 2Đ hàng năm\"\n  ],\n  \"description\": \"• Thực hiện các công việc bảo trì bảo dưỡng theo kế hoạch \\n• Thực hiện việc kiểm tra máy móc thiết bị định kỳ hàng ngày, tuần, tháng ( Check sheet).\\n• Phụ trách việc sửa chữa, thay thế các hạng mục máy móc, thiết bị, cơ sở hạ tầng của nhà máy và công ty.\\n• Đề xuất các cải tiến liên quan đến vận hành, thay thế thiết bị nhằm tăng năng suất và hiệu quả công việc.\\n• Các công việc khác theo sự phân công của Trưởng phòng.\",\n  \"requirements_text\": \"• Tốt nghiệp trung cấp nghề, cao đẳng, Đại học chuyên nghành cơ khí/ điện công nghiệp/ điện tự động hóa hoặc người có kinh nghiệm làm việc tại vị trí tương đương.\\n• Có tối thiểu 2 năm kinh nghiệm làm việc tại các nhà máy sản xuất\\n• Độ tuổi từ 25 đến 45 tuổi.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4539,
+    "output_tokens": 638,
+    "total_tokens": 5177,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -2,8 +2,7 @@ HUGGINGFACE_API.py
 .env
 .venv/
 __pycache__/
-/data/continuous/
+/data/continuous/**/*.html
+/data/continuous/worker.lock
 ._*
 .DS_Store
-/data/smoke_verified/
-/data/soak_15min_*/

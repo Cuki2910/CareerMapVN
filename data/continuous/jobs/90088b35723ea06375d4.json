@@ -1,0 +1,54 @@
+{
+  "job_title": "AI Engineer",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Tòa nhà TMA - Lô số 17, đường số 10, Khu Công viên phần mềm Quang Trung, Phường Trung Mỹ Tây, Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-19",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer/2336054.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "Go",
+    "C/C++",
+    "Rust",
+    "LLM",
+    "MLOps",
+    "YOLO",
+    "OCR"
+  ],
+  "soft_skills": [
+    "communication",
+    "teamwork"
+  ],
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)",
+  "benefits": [
+    "Benefits/ Opportunity:",
+    "Working in an international, dynamic and professional environment with many opportunities to develop career",
+    "Having opportunities of being trained oversea and working directly with oversea customer",
+    "A stable and rewarding position where your long-term commitment will be highly valued",
+    "Technical & Soft skills internal training courses",
+    "Many company activities (Sport and music festival, TMA Futsal league …) are held annually",
+    "Competitive salary and bonus",
+    "Total Health Care Insurance",
+    "Loan Fund",
+    "Team Building Fund"
+  ],
+  "description": "Overview:\nWe are looking for a talented AI Engineer to build and optimize AI-powered products, with a focus on LLMbased applications and agentic systems.\nResponsibilities:\n• Design and develop LLM-powered features and products across the full lifecycle — from prototyping to production deployment.\n• Implement agentic patterns including tool use, planning, and memory for AI systems.\n• Build and maintain data pipelines for synthetic data generation used in training, fine-tuning, and evaluation.\n• Deploy, monitor, and maintain ML models in production using MLOps best practices.\n• Integrate embedding models and vector databases into product workflows.\n• Own features end-to-end, working independently from scoping through delivery.",
+  "requirements_text": "Requirements:\n• Hands-on experience building products powered by LLMs.\n• Strong understanding of agentic patterns — tool use, planning, memory.\n• Strong backend engineering and proficiency in Python.\n• Experience with synthetic data generation for training, fine-tuning, or evaluation.\n• Experience with MLOps — model deployment, monitoring, and infrastructure.\n• Experience with embedding models and vector databases.\n• Ability to work independently and own features end-to-end.\n• Intermediate English skills.\nNice to have:\n• Proficiency in Go, C/C++, or Rust.\n• Experience with computer vision — object detection (YOLO), OCR, and deployment on edge devices.\nKiến thức ngành\nIT - Phần mềm"
+}

@@ -1,0 +1,67 @@
+{
+  "job_title": "AI Engineer - Dự Án CNTT",
+  "company_name": "Ngân hàng SHB",
+  "job_category": "AI Engineer",
+  "sub_category": null,
+  "industry": "Ngân hàng, Tài chính",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-13",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer-du-an-cntt/2315254.html",
+  "qualifications": [
+    "Tốt nghiệp đại học chính quy chuyên ngành CNTT, Khoa học máy tính, Trí tuệ nhân tạo hoặc lĩnh vực liên quan (xếp loại Khá trở lên)"
+  ],
+  "technical_skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "OpenAI",
+    "LangChain",
+    "LangGraph",
+    "Vector Database",
+    "TensorRT",
+    "AWS",
+    "Azure",
+    "GCP",
+    "API"
+  ],
+  "soft_skills": [
+    "Tư duy phân tích",
+    "Giao tiếp",
+    "Tư duy dự án",
+    "Khả năng thích ứng",
+    "Quản lý thời gian",
+    "Quản Lý Ngân Sách",
+    "Quản Lý Rủi Ro",
+    "Lập Kế Hoạch Dự Án",
+    "Quản Lý Nguồn Lực"
+  ],
+  "languages_required": [
+    "Tiếng Việt",
+    "Tiếng Anh"
+  ],
+  "experience_required": 4.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "1. Chế độ đãi ngộ hấp dẫn, xứng tầm",
+    "Lương hàng tháng và các chế độ phụ cấp cạnh tranh trên thị trường",
+    "Thưởng cuối năm hấp dẫn theo đánh giá hiệu quả công việc",
+    "Thưởng sinh nhật, Lễ/Tết,Chế độ thăm hỏi ốm đau...",
+    "Chăm sóc sức khoẻ toàn diện: Khám sức khoẻ hàng năm, gói bảo hiểm SHB care",
+    "Các hoạt động teambuilding, nhiều chương trình văn hóa - thể thao gắn kết nội bộ",
+    "Du lịch định kì 2 lần trong năm",
+    "2. Môi trường làm việc hiện đại, tiên phong đổi mới",
+    "Không gian làm việc trẻ trung, hiện đại, đề cao sự sáng tạo",
+    "Làm việc với tinh thần tự chủ, linh hoạt và tiên phong",
+    "Các chương trình đào tạo, phát triển năng lực chuyên môn đa dạng"
+  ],
+  "description": "1. Phát triển và tối ưu giải pháp AI\n* Xây dựng và tối ưu hóa mô hình:\nTinh chỉnh (_fine-tune_) và tối ưu hóa các mô hình Học máy (_Machine Learning_) và Học sâu (_Deep Learning_) nhằm tối đa hóa hiệu suất (độ chính xác, độ trễ) trong khi vẫn đảm bảo tính ổn định và tối ưu chi phí hạ tầng.\n* Triển khai đa nền tảng:\nTriển khai và ứng dụng các mô hình AI trên nhiều môi trường (cloud, on-premise), chuyển đổi mô hình để tương thích với phần cứng chuyên dụng (GPU, AI accelerator).\n* Phát triển ứng dụng mô hình ngôn ngữ lớn (LLM) & RAG:\nThiết kế và xây dựng các ứng dụng sử dụng Mô hình Ngôn ngữ Lớn (như _Claude_ , _GPT_) cùng các nền tảng điều phối (_LangChain, LangGraph_); triển khai kiến trúc RAG (_Retrieval-Augmented Generation_) kết hợp với cơ sở dữ liệu vector để truy xuất thông tin với độ chính xác cao.\n* Giám sát và cải tiến mô hình:\nXây dựng cơ chế theo dõi, đánh giá hiệu năng mô hình và ứng dụng AI; liên tục cải tiến chất lượng ứng dụng trong môi trường doanh nghiệp\n2. Triển khai giải pháp AI và điều phối dự án\n* Phân tích yêu cầu nghiệp vụ:\nPhối hợp trực tiếp cùng các khối nghiệp vụ để thu thập yêu cầu và chuyển hóa thành các tài liệu đặc tả kỹ thuật AI.\n* Đánh giá giải pháp bên ngoài:\nĐánh giá các giải pháp AI từ các đối tác hoặc nhà cung cấp bên ngoài; thẩm định tính khả thi về mặt kỹ thuật, mức độ bảo mật và khả năng mở rộng để phù hợp với hệ sinh thái công nghệ của ngân hàng.\n* Tích hợp hệ thống AI:\nDẫn dắt quá trình tích hợp các mô hình AI (phát triển nội bộ hoặc từ bên thứ ba) vào các phần mềm và hạ tầng công nghệ hiện có của ngân hàng nhằm đảm bảo vận hành xuyên suốt.\n* Điều phối và báo cáo dự án:\nĐóng vai trò cầu nối giữa đội ngũ kỹ thuật và các bộ phận nghiệp vụ; quản lý tiến độ dự án, báo cáo tình hình thực hiện và điều phối nguồn lực để bàn giao sản phẩm thành công.",
+  "requirements_text": "1. Trình độ & Kinh nghiệm\n* Tốt nghiệp đại học chính quy chuyên ngành CNTT, Khoa học máy tính, Trí tuệ nhân tạo hoặc lĩnh vực liên quan (xếp loại Khá trở lên)\n* Có tối thiểu 4 năm kinh nghiệm trong vai trò AI Engineer.\n2. Kỹ năng chuyên môn (Technical Skills)\n* Thành thạo ngôn ngữ lập trình Python và am hiểu sâu sắc các bộ công cụ Học máy / Trí tuệ Nhân tạo (_PyTorch, TensorFlow_).\n* Có kinh nghiệm làm việc với hệ sinh thái LLM (OpenAI, LangChain, LangGraph, Vector Database…)\n* Có kinh nghiệm deploy và tối ưu mô hình (TensorRT, …) là lợi thế.\n* Có kiến thức về các dịch vụ Điện toán Đám mây (AWS / Azure / GCP) và kỹ năng tích hợp API.\n3. Kỹ năng triển khai & kỹ năng mềm\n* Tư duy phân tích:\nCó khả năng phân tích bài toán nghiệp vụ ngân hàng và đề xuất giải pháp AI phù hợp.\n* Giao tiếp:\nKỹ năng giao tiếp tốt (Tiếng Việt & Tiếng Anh), có khả năng làm việc với nhiều bộ phận và báo cáo quản lý.\n* Tư duy dự án:\nCó kinh nghiệm điều phối công việc, quản lý tiến độ, làm việc với vendor là lợi thế.\n* Khả năng thích ứng:\nCó khả năng nghiên cứu nhanh các công nghệ mới và ứng dụng ngay vào các bài toán thực tế của ngân hàng (Phát hiện gian lận - Fraud Detection, Trợ lý ảo - Chatbots).\nKiến thức ngành\nNgân hàng, Tài chính\nKỹ năng cần có\nQuản lý thời gian, Quản Lý Ngân Sách, Quản Lý Rủi Ro, Lập Kế Hoạch Dự Án, Quản Lý Nguồn Lực"
+}

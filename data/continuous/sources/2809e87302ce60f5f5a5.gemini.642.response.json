@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Biên Tập Nội Dung & Phụ Trách Quảng Cáo (Chỉ Chọn Ứng Viên Từ 30 Đến 55 Tuổi)\",\n  \"company_name\": null,\n  \"job_category\": \"Báo chí\",\n  \"sub_category\": \"Biên tập viên\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/bien-tap-noi-dung-phu-trach-quang-cao-chi-chon-ung-vien-tu-30-den-55-tuoi/2347070.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp Đại học chuyên ngành Văn, Ngôn ngữ, Văn hóa, Truyền thông, Báo chí ...\"\n  ],\n  \"technical_skills\": [\n    \"Biên tập\",\n    \"Viết Kịch Bản\",\n    \"Viết Nội Dung\",\n    \"Chỉnh Sửa\",\n    \"Phân Tích Hiệu Quả Quảng Cáo\"\n  ],\n  \"soft_skills\": [\n    \"Hiểu tâm lý khách hàng\",\n    \"Tư duy quảng cáo\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0.0,\n  \"salary\": \"Tới 17 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Sáng: 8:00 – 12:00\\nChiều: 13:30 – 17:30\\nMỗi tuần nghỉ 1 ngày.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Tham gia BHXH, BHYT, BHTN theo quy định\"\n  ],\n  \"description\": \"Viết nội dung cho website, Facebook, TikTok, YouTube ...\\nViết kịch bản cho video ngắn và video giới thiệu dịch vụ.\\nBiên tập, chỉnh sửa và kiểm tra chất lượng sản phẩm.\\nXây dựng kho nội dung bài viết, kịch bản video, mẫu quảng cáo ...\\nThiết lập, theo dõi, phân tích hiệu quả quảng cáo trên Facebook, Youtube, Tiktok ...\\nCác công việc phát sinh trong quá trình hoạt động của công ty, các công việc nằm trong khả năng xử lý của cá nhân.\\n\\nCÁC SẢN PHẨM CỦA CÔNG TY\\nVideo giới thiệu doanh nghiệp.\\nVideo sản phẩm, review, unboxing.\\nVideo quảng cáo và mạng xã hội.\\nChuyển bài viết thành video.\\nSản xuất nội dung YouTube.\\nChỉnh sửa, nâng cấp video có sẵn.\\nThiết kế đồ họa.\\nLịch.\\nQuà tặng doanh nghiệp.\\nCác sản phẩm sáng tạo khác.\",\n  \"requirements_text\": \"Tốt nghiệp Đại học chuyên ngành Văn, Ngôn ngữ, Văn hóa, Truyền thông, Báo chí ...\\n30 đến 55 tuổi.\\nGiỏi tiếng Việt.\\nCó tư duy quảng cáo và hiểu tâm lý khách hàng.\\nCó khả năng viết nhiều dạng nội dung khác nhau.\\nTHƯỜNG XUYÊN ĐỀ XUẤT Ý TƯỞNG MỚI.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5095,
+    "output_tokens": 847,
+    "total_tokens": 5942,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Điều Dưỡng Nha Khoa (Thu Nhập 8 - 12 Triệu + % Hoa Hồng)\",\n  \"company_name\": null,\n  \"job_category\": \"Y tế / Dược phẩm\",\n  \"sub_category\": \"Y tá/Điều dưỡng\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-01\",\n  \"url\": \"https://www.topcv.vn/viec-lam/dieu-duong-nha-khoa-thu-nhap-8-12-trieu-hoa-hong/2346786.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Có bằng hoặc chứng chỉ điều dưỡng phù hợp\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm soát nhiễm khuẩn\",\n    \"Chuẩn Bị Dụng Cụ\",\n    \"Hỗ Trợ Bác Sĩ\",\n    \"vô khuẩn\",\n    \"bảo quản dụng cụ\",\n    \"Kiểm kê dụng cụ\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 3 - Chủ nhật (từ 08:30 đến 11:30), Thứ 3 - Chủ nhật (từ 13:30 đến 19:00)\",\n  \"benefits\": [\n    \"Thời gian làm việc: sáng từ 8h30 đến 11h30, chiều từ 13h30 đến 19h00\",\n    \"Nghỉ thứ 2 hàng tuần\",\n    \"Thu nhập: Thỏa thuận theo năng lực. Từ 8-12 Triệu + % hoa hồng trên từng ca phụ dịch vụ\",\n    \"Được đào tạo nghiệp vụ và môi trường làm việc chuyên nghiệp\",\n    \"Hưởng đầy đủ chế độ theo chính sách của phòng khám\"\n  ],\n  \"description\": \"Chuẩn bị phòng, dụng cụ và vật tư phục vụ quá trình điều trị.\\nHỗ trợ bác sĩ trong quá trình thăm khám và thực hiện thủ thuật nha khoa.\\nThực hiện vệ sinh, khử khuẩn và tiệt trùng dụng cụ theo quy định.\\nHướng dẫn, chăm sóc và hỗ trợ khách hàng trước, trong và sau điều trị.\\nTheo dõi, kiểm kê và bảo quản vật tư, dụng cụ y tế.\",\n  \"requirements_text\": \"- Có bằng hoặc chứng chỉ điều dưỡng phù hợp.\\n- Ưu tiên từng làm tại phòng khám nha khoa; nếu chưa có kinh nghiệm, chúng tôi sẽ đào tạo.\\n- Biết chuẩn bị dụng cụ và hỗ trợ bác sĩ trong điều trị.\\n- Thực hiện kiểm soát nhiễm khuẩn và vô khuẩn.\\n- Cẩn thận, giao tiếp tốt với bệnh nhân.\\n- Có trách nhiệm trong việc bảo quản và kiểm kê dụng cụ.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4675,
+    "output_tokens": 771,
+    "total_tokens": 5446,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

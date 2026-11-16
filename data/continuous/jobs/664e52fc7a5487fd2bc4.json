@@ -1,0 +1,52 @@
+{
+  "job_title": "Nhân Viên Forward Deployed Engineer (FDE)",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-27",
+  "url": "https://www.topcv.vn/viec-lam/nhan-vien-forward-deployed-engineer-fde/2334961.html",
+  "qualifications": [
+    "Trung cấp trở lên"
+  ],
+  "technical_skills": [
+    "Odoo",
+    "ERPNext",
+    "SAP B1",
+    "Microsoft Dynamics",
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "Java",
+    "C#",
+    "SQL"
+  ],
+  "soft_skills": [
+    "Giao tiếp tốt với người không làm kỹ thuật",
+    "Tự chủ"
+  ],
+  "languages_required": [
+    "Tiếng Việt",
+    "Tiếng Anh"
+  ],
+  "experience_required": 3.0,
+  "salary": "15 - 50 triệu",
+  "salary_min": 15.0,
+  "salary_max": 50.0,
+  "salary_avg": "32.5 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)\n* Nghỉ thứ 7 CN",
+  "benefits": [
+    "Lương cạnh tranh, thỏa thuận theo năng lực, kèm thưởng theo dự án triển khai thành công.",
+    "Được dùng các model AI mới nhất cho lập trình.",
+    "Nắm quy trình phát triển phần mềm mới nhất dựa trên AI.",
+    "Lộ trình lên Lead FDE / Solutions Architect.",
+    "Được đóng BHXH, có chế độ lễ tết đầy đủ, nghỉ T7 CN, có phép, có du lịch hàng năm...."
+  ],
+  "description": "Khảo sát và tư vấn quy trình\n* Làm discovery với khách hàng: phỏng vấn các phòng ban, vẽ lại quy trình hiện tại (order-to-cash, procure-to-pay, quản lý kho, phê duyệt, báo cáo), tìm điểm nghẽn và dữ liệu đang nằm ở đâu.\n* Đề xuất quy trình mới và kiến trúc giải pháp: module nào, dữ liệu nào, phân quyền và luồng phê duyệt ra sao.\n* Ước lượng phạm vi, timeline và rủi ro, rồi trình bày phương án cho cả ban lãnh đạo lẫn đội kỹ thuật của khách hàng.\nPhát triển và triển khai ERP\n* Phát triển, tuỳ biến và cấu hình các module ERP/CRM theo nghiệp vụ của khách hàng (Odoo, ERPNext hoặc hệ thống tương tự).\n* Thiết kế dữ liệu, workflow, form, báo cáo và luồng phê duyệt.\n* Migrate dữ liệu và tích hợp ERP với các hệ thống sẵn có (kế toán, ngân hàng, thương mại điện tử, Google Workspace, email) qua API và webhook.\n* Đưa các bước có thể tự động hoá vào quy trình bằng nền tảng AI của dự án. Team sẽ hướng dẫn phần này.\nBàn giao và vận hành\n* Viết tài liệu bàn giao, hướng dẫn vận hành và đào tạo người dùng phía khách hàng.\n* Hỗ trợ sau go-live: xử lý lỗi, tinh chỉnh quy trình theo phản hồi thực tế.\nPhản hồi cho sản phẩm\n* Ghi nhận yêu cầu, lỗi và pattern nghiệp vụ lặp lại, chuyển thành đề xuất cụ thể cho team và đội sản phẩm của nền tảng.\n* Tham gia pre-sales kỹ thuật: demo, POC, trả lời câu hỏi về nghiệp vụ, bảo mật và kiến trúc.",
+  "requirements_text": "Từ 3 năm kinh nghiệm phát triển phần mềm, trong đó có kinh nghiệm phát triển hoặc triển khai ERP/CRM cho doanh nghiệp (Odoo, ERPNext, SAP B1, Microsoft Dynamics hoặc hệ thống tự xây).\nHiểu nghiệp vụ doanh nghiệp: bán hàng, mua hàng, kho, kế toán, nhân sự. Đọc và vẽ được quy trình (BPMN hoặc flowchart).\nThành thạo ít nhất một ngôn ngữ backend (Python, TypeScript/Node.js, Java hoặc C#). Vững SQL và thiết kế cơ sở dữ liệu.\nGiao tiếp tốt với người không làm kỹ thuật. Tự chủ. Tiếng Việt thành thạo. Tiếng Anh đọc hiểu tài liệu kỹ thuật tốt, giao tiếp được với đối tác Mỹ.\nKiến thức ngành\nIT - Phần mềm"
+}

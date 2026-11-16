@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Chứng Từ Xuất Nhập Khẩu\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Chứng từ xuất nhập khẩu\",\n  \"industry\": \"Xuất nhập khẩu / Hải quan\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-chung-tu-xuat-nhap-khau-8-10-trieu/2351821.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"phần mềm ECUS\",\n    \"Vi tính văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Sắp xếp và xử lý công việc tốt\",\n    \"Nhanh nhẹn\",\n    \"cẩn thận\",\n    \"Tinh thần trách nhiệm cao\",\n    \"Thái độ làm việc nhiệt tình, vui vẻ, trung thực và yêu việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"8-10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Được hưởng đầy đủ chế độ theo quy định nhà nước\",\n    \"Môi trường năng động vui vẻ\",\n    \"Lương thưởng đầy đủ\",\n    \"Được du lịch nước ngoài khi đạt thành tích tốt\",\n    \"Chế độ khen thưởng hàng quý, năm\",\n    \"Team building\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"Phát hành bộ chứng từ hàng xuất bao gồm hàng không và đường biển (B/L, Invoice, Packing list)\\nTheo dõi quá trình vận chuyển của lô hàng\\nXử lý ngay các trường hợp bị sự cố như : chậm trễ thời gian giao hàng, hư hỏng, mất mác, bị hải quan giữ kiểm tra hay trễ chuyến bay\\nCập nhật lịch trình hàng hóa lên website công ty\\nBooking lệnh pick up hàng ngày của công ty\",\n  \"requirements_text\": \"Nghe nói, đọc hiểu tiếng anh trình độ khá trở lên.\\nYêu cầu 1 năm kinh nghiệm trở lên\\nBiết sử dụng phần mêm khai báo hải quan Ecus\\nVi tính văn phòng\\nTuổi từ 23- 35 tuổi.\\nSắp xếp và xử lý công việc tốt\\nNhanh nhẹn, cẩn thận\\nTinh thần trách nhiệm cao.\\nThái độ làm việc nhiệt tình, vui vẻ, trung thực và yêu việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4928,
+    "output_tokens": 755,
+    "total_tokens": 5683,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

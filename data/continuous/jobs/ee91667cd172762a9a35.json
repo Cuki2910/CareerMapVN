@@ -1,0 +1,48 @@
+{
+  "job_title": "Data Engineer",
+  "company_name": "Công ty TNHH Vietnam Concentrix Services",
+  "job_category": "Data Engineer",
+  "sub_category": null,
+  "industry": null,
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-21",
+  "url": "https://www.topcv.vn/brand/concentrixservices/tuyen-dung/data-engineer-j2337491.html",
+  "qualifications": [
+    "Cao Đẳng trở lên"
+  ],
+  "technical_skills": [
+    "SQL",
+    "ETL",
+    "ELT",
+    "Python"
+  ],
+  "soft_skills": [
+    "Tư duy phân tích",
+    "Chủ động học hỏi",
+    "Cẩn thận",
+    "Tinh thần trách nhiệm cao"
+  ],
+  "languages_required": null,
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Lương cứng cạnh tranh + thưởng hiệu quả hàng tháng",
+    "Lương Tháng 13 + Thử việc 100% lương + 14 ngày phép năm",
+    "Chế độ bảo hiểm full lương + Bảo hiểm sức khoẻ Aon",
+    "Hỗ trợ gửi xe, ăn trưa",
+    "Cơ hội thăng tiến và phát triển nghề nghiệp tại môi trường chuyên nghiệp và năng động",
+    "Cơ hội làm việc với các chuyên gia hàng đầu trong lĩnh vực và các cộng sự tài năng.",
+    "Làm việc trong môi trường minh bạch, tin cậy và truyền cảm hứng.",
+    "Tham gia các hoạt động gắn kết và well-being: Company events, Happy day, best sales...."
+  ],
+  "description": "• Xây dựng và vận hành các pipeline ETL/ELT để đưa dữ liệu từ hệ thống nguồn vào Data Warehouse.\n• Phát triển, tối ưu SQL và Stored Procedure phục vụ xử lý dữ liệu quy mô lớn.\n• Thiết lập và giám sát các job xử lý dữ liệu định kỳ, đảm bảo tính ổn định và khả năng khôi phục khi có sự cố.\n• Xây dựng cơ chế xử lý dữ liệu gia tăng (Incremental Load/CDC), đảm bảo không mất hoặc trùng dữ liệu.\n• Thiết kế và phát triển mô hình dữ liệu cho Data Warehouse (Staging, Core, Data Mart).\n• Thực hiện kiểm tra chất lượng dữ liệu, đối soát số liệu giữa các hệ thống và hỗ trợ xử lý sai lệch dữ liệu.\n• Phối hợp với các đội ngũ Backend, BI, Business... để xây dựng bộ dữ liệu phục vụ báo cáo và phân tích.\n• Xây dựng và cập nhật tài liệu dữ liệu, bao gồm Data Dictionary và Data Lineage.",
+  "requirements_text": "• Có kinh nghiệm trong lĩnh vực Data Engineering, Data Analytics hoặc các ngành liên quan.\n• Thành thạo SQL và có kiến thức về cơ sở dữ liệu quan hệ.\n• Hiểu biết cơ bản về ETL/ELT, Data Warehouse hoặc Data Modeling.\n• Có khả năng làm việc với dữ liệu lớn và tư duy phân tích tốt.\n• Có kiến thức nền tảng về Python là lợi thế.\n• Chủ động học hỏi, cẩn thận và có tinh thần trách nhiệm cao."
+}

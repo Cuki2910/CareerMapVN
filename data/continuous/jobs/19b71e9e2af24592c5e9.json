@@ -1,0 +1,60 @@
+{
+  "job_title": "Data Engineer (Sen/Lead)",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-26",
+  "url": "https://www.topcv.vn/viec-lam/data-engineer-sen-lead/2341683.html",
+  "qualifications": [
+    "Cloud or Data-related certifications.",
+    "MLOps, DataOps, AI/ML projects, Data Platforms, Data Lakehouse architectures, Cloud or Data-related certifications",
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "kafka",
+    "Airflow",
+    "Spark",
+    "databricks",
+    "Cloud Platforms (aws, Azure, Gcp)",
+    "ETL/ELT pipelines",
+    "Data Warehouse technologies",
+    "MLOps",
+    "DataOps",
+    "AI/ML projects",
+    "Data Platforms",
+    "Data Lakehouse architectures"
+  ],
+  "soft_skills": [
+    "Problem-solving",
+    "Analytical thinking"
+  ],
+  "languages_required": null,
+  "experience_required": 5.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Competitive salary package + project-based bonuses.",
+    "Bonuses on four major holidays each year: Reunification Day (April 30), National Day (September 2), Lunar New Year, and New Year’s Day.",
+    "Annual company trips and retreats, monthly/quarterly team-building activities, and various cultural events at the office.",
+    "Full Social Insurance, Health Insurance, and Unemployment Insurance in accordance with Vietnamese labor law.",
+    "Comprehensive BSH healthcare insurance package covering medical examination and treatment expenses. Annual health check-ups",
+    "Trade Union benefits, including birthday gifts, wedding/funeral support, and other welfare programs.",
+    "A strong, dynamic, and open-minded engineering environment that encourages knowledge sharing, seminars, and sustainable career growth.",
+    "Opportunities to work on large-scale projects utilizing cutting-edge technologies.",
+    "Benefits",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm"
+  ],
+  "description": "Design, develop, and optimize large-scale data pipelines (Batch & Streaming).\nBuild and maintain ETL/ELT processes, Data Lakes, and Data Warehouses.\nDesign robust data models to support analytics, reporting, and business intelligence.\nEnsure data quality, reliability, security, and governance across the platform.\nOptimize data processing performance and query efficiency.\nCollaborate closely with Data Analysts, Data Scientists, and cross-functional stakeholders to deliver impactful data solutions.\nMentor team members, conduct technical reviews, and contribute to engineering best practices.",
+  "requirements_text": "5 years of experience as a Data Engineer or in a similar role.\nStrong proficiency in SQL and Python.\nHands-on experience building and managing ETL/ELT pipelines.\nExpertise in at least one major cloud platform: AWS, Azure, or GCP.\nExperience with Data Warehouse technologies such as BigQuery, Snowflake, Redshift, or Synapse.\nFamiliarity with Spark, Kafka, or Databricks.\nExperience with Airflow or other workflow orchestration tools.\nStrong analytical thinking, problem-solving skills, and the ability to work independently.\nNice to have\nExperience implementing Data Platforms or Data Lakehouse architectures.\nExposure to AI/ML projects, MLOps, or DataOps practices.\nCloud or Data-related certifications.\nKiến thức ngành\nIT - Phần mềm, Điện toán đám mây (Cloud)\nKỹ năng cần có\nPython, SQL, kafka, Problem-solving, Analytical thinking, Airflow, Spark, databricks, Cloud Platforms (aws, Azure, Gcp), ETL/ELT pipelines, Data Warehouse technologies\nKỹ năng nên có\nMLOps, DataOps, AI/ML projects, Data Platforms, Data Lakehouse architectures, Cloud or Data-related certifications"
+}

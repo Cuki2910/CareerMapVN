@@ -1,0 +1,67 @@
+{
+  "job_title": "Fullstack AI Leader",
+  "company_name": "Techcom Life",
+  "job_category": "AI Engineer",
+  "sub_category": null,
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-22",
+  "url": "https://www.topcv.vn/viec-lam/fullstack-ai-leader/2231942.html",
+  "qualifications": [
+    "Cao Đẳng trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "Flask",
+    "React",
+    "TypeScript",
+    "REST",
+    "GraphQL",
+    "WebSockets",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "RAG",
+    "Pinecone",
+    "FAISS",
+    "Weaviate",
+    "OpenAI",
+    "Llama",
+    "Kafka",
+    "RabbitMQ",
+    "AWS",
+    "GCP",
+    "Azure"
+  ],
+  "soft_skills": [
+    "giao tiếp"
+  ],
+  "languages_required": [
+    "Tiếng Việt"
+  ],
+  "experience_required": 2.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Lương tháng 13",
+    "Hưởng các chế độ, phúc lợi như: Thưởng lễ tết, thưởng thâm niên; 12 ngày phép năm; Phúc lợi và phụ cấp khác",
+    "Du lịch hàng năm, teambuilding hàng tháng",
+    "Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo luật bảo hiểm.",
+    "Môi trường làm việc trẻ và năng động, tôn trọng phát triển cá nhân, công bằng và luôn khuyến khích sáng tạo để tạo nên những giá trị \"awesome\" cho công ty & cho thế giới",
+    "Trang thiết bị hiện đại, sẵn sàng phục vụ nhân viên mọi lúc mọi nơi"
+  ],
+  "description": "* Tham gia phát triển, triển khai và vận hành các sản phẩm, nền tảng nội bộ và dịch vụ hướng tới khách hàng tại Techcom Life.\n* Xây dựng API backend bằng Python (FastAPI/Django/Flask), thiết kế database và tối ưu hóa hiệu năng.\n* Phát triển giao diện web/ứng dụng front-end bằng React (TypeScript được ưu tiên), đảm bảo UX, responsiveness và khả năng mở rộng.\n* Hợp tác chặt chẽ với đội Data/ML và Product để tích hợp các mô-đun AI: mô hình, hệ thống Retrieval-Augmented Generation (RAG), và các agent tự động hóa (agentic workflows).\n* Thiết kế kiến trúc, triển khai pipelines dữ liệu, và hỗ trợ tích hợp với các dịch vụ bên thứ ba (vector DB, LLMs, message queues, authentication).\n* Đảm bảo chất lượng mã nguồn: code review, viết unit/integration tests, CI/CD và theo dõi runtime (logging, monitoring, alerting).\n* Tham gia đánh giá công nghệ, đề xuất cải tiến để tối ưu hiệu suất, chi phí và độ an toàn của hệ thống.",
+  "requirements_text": "* Kinh nghiệm từ 2 năm phát triển fullstack với Python (backend) và ReactJS (frontend).\n* Thành thạo phát triển API REST/GraphQL; hiểu rõ WebSockets.\n* Kinh nghiệm làm việc với hệ quản trị cơ sở dữ liệu quan hệ (Postgres/MySQL) và NoSQL (MongoDB, Redis).\n* Kinh nghiệm triển khai ứng dụng production, CI/CD, containerization (Docker, Kubernetes cơ bản).\n* Kỹ năng giải quyết vấn đề tốt, chủ động trong team, và giao tiếp bằng tiếng Việt tốt.\n* Ưu tiên (nice-to-have)\n* Có kinh nghiệm phát triển, tích hợp hoặc vận hành hệ thống AI, bao gồm RAG, retrieval (vector DB như Pinecone/FAISS/Weaviate), và kết nối LLMs (OpenAI, Llama, v.v.).\n* Hiểu biết về agentic systems (tool-using agents, orchestration), prompt engineering và evaluation pipelines.\n* Kinh nghiệm triển khai/scale inference, batching, caching cho mô hình ML.\n* Kinh nghiệm xử lý dữ liệu lớn, pipeline ETL hoặc streaming (Kafka, RabbitMQ).\n* Kinh nghiệm cloud (AWS/GCP/Azure) và kiến thức về bảo mật ứng dụng."
+}

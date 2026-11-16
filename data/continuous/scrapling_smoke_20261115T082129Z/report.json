@@ -1,0 +1,63 @@
+{
+  "started_at": "2026-11-15T08:21:29.695675+00:00",
+  "library": "scrapling 0.5.1",
+  "headless": true,
+  "solve_cloudflare": true,
+  "worker_modified": false,
+  "llm_calls": 0,
+  "results": [
+    {
+      "url": "https://example.com",
+      "name": "control",
+      "status": 200,
+      "final_url": "https://example.com/",
+      "h1": [],
+      "markdown_characters": 974,
+      "requirements_present": false,
+      "description_present": false,
+      "challenge_present": false,
+      "passed": true,
+      "elapsed_seconds": 7.341
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+      "name": "blocked_job",
+      "status": 200,
+      "final_url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+      "h1": [
+        "<h1 class=\"box-header-job__title\">\n                    <a href=\"https://www.topcv.vn/tim-viec-lam-ky-su-thiet-ke\" title=\"Việc làm Kỹ Sư Thiết Kế\" class=\"text-highlight\" target=\"_blank\">Kỹ Sư Thiết Kế</a> Phần Cơ (<a href=\"https://www.topcv.vn/tim-viec-lam-du-an\" title=\"Việc làm Dự Án\" class=\"text-highlight\" target=\"_blank\">Dự Án</a> Nhật) Tại <a href=\"https://www.topcv.vn/tim-viec-lam-moi-nhat-tai-ho-chi-minh-l2\" title=\"Việc làm tại Hồ Chí Minh\" class=\"text-highlight\" target=\"_blank\">Hồ Chí Minh</a>\n                                    </h1>"
+      ],
+      "markdown_characters": 206754,
+      "requirements_present": true,
+      "description_present": true,
+      "challenge_present": false,
+      "passed": true,
+      "elapsed_seconds": 11.705
+    },
+    {
+      "url": "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa/2351897.html",
+      "name": "second_job",
+      "status": 200,
+      "final_url": "https://www.topcv.vn/viec-lam/ky-su-dien-tu-dong-hoa/2351897.html",
+      "h1": [
+        "<h1 class=\"box-header-job__title\">\n                    <a href=\"https://www.topcv.vn/tim-viec-lam-ky-su-dien\" title=\"Việc làm Kỹ Sư Điện\" class=\"text-highlight\" target=\"_blank\">Kỹ Sư Điện</a> - Tự <a href=\"https://www.topcv.vn/tim-viec-lam-moi-nhat-tai-dong-hoa-l49d4909\" title=\"Việc làm tại Động Hóa\" class=\"text-highlight\" target=\"_blank\">Động Hóa</a>\n                    <span class=\"icon-verified-employer level-five\">\n<i class=\"fa-solid fa-circle-check icon-verified-employer-tooltip\" data-toggle=\"tooltip\" data-container=\"body\" data-html=\"true\" title=\"\" data-placement=\"top\" data-original-title=\"\n  &lt;b&gt;Nhà tuyển dụng&lt;/b&gt;&lt;span&gt; đã được xác thực:&lt;/span&gt;&lt;br&gt;\n  &lt;span&gt;&lt;i class='fa-solid fa-circle-check color-green'&gt;&lt;/i&gt; Đã xác thực email tên miền công ty&lt;/span&gt;&lt;br&gt;\n  &lt;span&gt;&lt;i class='fa-solid fa-circle-check color-green'&gt;&lt;/i&gt; Đã xác thực số điện thoại&lt;/span&gt;&lt;br&gt;\n  &lt;span&gt;&lt;i class='fa-solid fa-circle-check color-green'&gt;&lt;/i&gt; Đã được duyệt Giấy phép kinh doanh&lt;/span&gt;&lt;br&gt;\n  &lt;span&gt;&lt;i class='fa-solid fa-circle-check color-green'&gt;&lt;/i&gt; Tài khoản NTD được tạo tối thiểu 6 tháng&lt;/span&gt;&lt;br&gt;\n  &lt;span&gt;&lt;i class='fa-solid fa-circle-check color-green'&gt;&lt;/i&gt; Chưa có lịch sử bị báo cáo tin đăng&lt;/span&gt;&lt;br&gt;\"></i></span>\n                </h1>"
+      ],
+      "markdown_characters": 206128,
+      "requirements_present": true,
+      "description_present": true,
+      "challenge_present": false,
+      "passed": true,
+      "elapsed_seconds": 9.39
+    }
+  ],
+  "finished_at": "2026-11-15T08:22:19.629323+00:00",
+  "comparison": {
+    "url": "https://www.topcv.vn/viec-lam/ky-su-thiet-ke-phan-co-du-an-nhat-tai-ho-chi-minh/2348613.html",
+    "tested_at": "2026-11-15T08:22:24.042112+00:00",
+    "fetcher": "existing Crawl4AI",
+    "passed": true,
+    "markdown_characters": 173924,
+    "elapsed_seconds": 5.938
+  },
+  "conclusion": "Scrapling fetched both job pages, including the previously blocked URL. No active Cloudflare challenge was detected during these requests. Crawl4AI also fetched that URL successfully immediately afterward. This test does not demonstrate challenge solving or sustained throughput."
+}

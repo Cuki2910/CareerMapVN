@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư EHS\",\n  \"company_name\": null,\n  \"job_category\": \"Năng lượng / Môi trường\",\n  \"sub_category\": \"Kỹ sư môi trường\",\n  \"industry\": \"Năng lượng / Môi trường\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-ehs/2357889.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên các chuyên ngành có liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Kiến Thức Về Luật An Toàn Lao Động Và Môi Trường\",\n    \"Xử Lý Sự Cố Môi Trường Và Tai Nạn Lao Động\",\n    \"Lập Và Triển Khai Kế Hoạch Ehs\",\n    \"Tin học văn phòng\",\n    \"Chứng Chỉ An Toàn Lao Động (nghị Định 44)\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Được hưởng đầy đủ các chế độ và quyền lợi theo luật lao động\",\n    \"Được nghỉ các ngày lễ Tết theo quy định\",\n    \"Nâng lương hàng năm\",\n    \"Được tham gia BHXH, BHYT, BHTN đầy đủ theo quy định của Nhà nước.\"\n  ],\n  \"description\": \"- Chuyên trách về môi trường\\n- Đảm nhiệm công tác phòng cháy chữa cháy \\n- Đảm nhiệm về an toàn lao động\",\n  \"requirements_text\": \"- Có chuyên môn về an toàn lao động và môi trường\\n- Tốt nghiệp từ trung cấp trở lên các chuyên ngành có liên quan\\n- Ưu tiên những người có kinh nghiệm\"\n}\n```",
+  "usage": {
+    "input_tokens": 5361,
+    "output_tokens": 560,
+    "total_tokens": 5921,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

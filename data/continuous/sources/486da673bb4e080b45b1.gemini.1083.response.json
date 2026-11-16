@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Quản Lý Xe Đầu Kéo - Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Giám sát/Điều phối vận tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-xe-dau-keo-khong-yeu-cau-kinh-nghiem/2311100.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp cao đẳng trở lên các ngành: Logistics, Vận tải hoặc có liên quan…\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 12:00)\\nT2 – T6: Từ 8h00 – 17h30. Nghỉ trưa 12h00 – 13h30  \\nThứ Bảy: Từ 8h00 – 12h00 (Dành cho Thực tập sinh và Thử việc)\",\n  \"benefits\": [\n    \"Mức lương chính thức: 12.000.000 VNĐ - 15.000.000 VNĐ(Thỏa thuận theo năng lực) + PC (Ăn trưa, hoa quả (57.000 VNĐ; cafe, vé xe)\",\n    \"Lương thử việc: 85% lương chính thức\",\n    \"Xét tăng lương định kỳ 2 lần/năm (tháng 6 & tháng 12)\",\n    \"Đóng BHXH, BHYT, BHTN theo quy định của Nhà nước\",\n    \"Thưởng: Lương thứ 13, Thưởng Kết quả Kinh doanh, Thưởng hiệu suất công việc, Thưởng/Tặng quà các dịp lễ tết (Tết Dương, Tết Nguyên Đán, 30/4, Trung thu, 2/9)\",\n    \"Quà trung thu cho con CBNV, chế độ hiếu/ hỉ đầy đủ\",\n    \"Chế độ khám sức khỏe chuyên sâu định kỳ hàng năm\"\n  ],\n  \"description\": \"Theo dõi tình trạng xe, đăng kiểm, bằng lái, lốp, dầu, định vị.\\nQuản lý bảo dưỡng, sửa chữa và xử lý sự cố phương tiện.\\nTheo dõi chi phí, vật tư, hồ sơ và chứng từ xe.\",\n  \"requirements_text\": \"Nam, dưới 35 tuổi, không yêu cầu kinh nghiệm. Ưu tiên ứng viên từng làm việc tại công ty vận tải, depot, cảng hoặc đơn vị khai thác xe đầu kéo/container.\\nƯu tiên ứng viên có kiến thức/thực tế về xe đầu kéo, container, đặc biệt là kiểm tra, bảo dưỡng, sửa chữa và xử lý các sự cố liên quan đến phương tiện. Có kinh nghiệm quản lý đội xe/ phương tiện vận tải là lợi thế.\\nTốt nghiệp cao đẳng trở lên các ngành: Logistics, Vận tải hoặc có liên quan…;\"\n}\n```",
+  "usage": {
+    "input_tokens": 5135,
+    "output_tokens": 929,
+    "total_tokens": 6064,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Compositing/ 3D Compositor\",\n  \"company_name\": null,\n  \"job_category\": \"Hậu kỳ sản xuất\",\n  \"sub_category\": \"Compositing\",\n  \"industry\": \"Mỹ thuật / Nghệ thuật / Điện ảnh\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-compositing-3d-compositor-luong-upto-15-trieu/1932112.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Nuke\",\n    \"After Effect\",\n    \"Adobe After Effects\",\n    \"Xử Lý Hình Ảnh\",\n    \"Kỹ Năng Về Màu Sắc\",\n    \"Kiến Thức Về Vfx\"\n  ],\n  \"soft_skills\": [\n    \"Có tinh thần trách nhiệm cao\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 18:00), Thứ 7 nghỉ luân phiên\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Ăn trưa\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"Thực hiện compositing từ file render 3D, đảm bảo hình ảnh hoàn thiện đạt chất lượng và kỹ thuật theo yêu cầu.\\nPhối hợp chặt chẽ với team 3D, lighting, và dựng phim để nắm rõ concept, đảm bảo thống nhất về phong cách hình ảnh.\\nĐảm bảo tiến độ và deadline của từng cảnh quay / dự án theo kế hoạch.\\nKhông ngừng trau dồi kỹ năng, cập nhật công nghệ và kỹ thuật compositing mới\",\n  \"requirements_text\": \"Sử dụng thành thạo Nuke hoặc After Effect.\\nCó kiến thức Lighting & Render là một lợi thế.\\nCó nền tảng thẩm mỹ tốt, cảm nhận chi tiết về màu sắc, ánh sáng.\\nCó tinh thần trách nhiệm cao.\\nƯu tiên những người có kinh nghiệm làm việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4932,
+    "output_tokens": 645,
+    "total_tokens": 5577,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

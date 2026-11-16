@@ -1,0 +1,66 @@
+{
+  "job_title": "Kỹ Sư Lập Trình Nhúng C/C++",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Embedded Engineer/Lập trình nhúng",
+  "industry": "Điện / Điện tử / Điện lạnh",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-11",
+  "url": "https://www.topcv.vn/viec-lam/ky-su-lap-trinh-nhung-c-c/2297755.html",
+  "qualifications": [
+    "Trình độ học vấn: Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan."
+  ],
+  "technical_skills": [
+    "C/C++",
+    "OOP",
+    "STL",
+    "Linux",
+    "process",
+    "thread",
+    "socket",
+    "IPC",
+    "TCP/UDP",
+    "Git",
+    "CMake",
+    "Makefile",
+    "GDB",
+    "Design Pattern",
+    "Clean Code",
+    "Multithreading",
+    "Memory Management",
+    "SIP/RTP/RTSP",
+    "VoIP",
+    "pjproject",
+    "Qt/QML"
+  ],
+  "soft_skills": [
+    "Kỹ năng làm việc nhóm",
+    "Kỹ năng làm việc độc lập",
+    "Tinh thần trách nhiệm cao",
+    "Đam mê học hỏi và sẵn sàng tiếp nhận công nghệ mới"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Nghỉ Thứ 7, Chủ nhật",
+  "benefits": [
+    "Mức lương thỏa thuận: hấp dẫn theo năng lực",
+    "Đóng BHXH sau 2 tháng thử việc thành công",
+    "Thưởng 6 tháng, thưởng cuối năm",
+    "Thời gian làm việc từ thứ 2 - thứ 6 (nghỉ thứ 7, chủ nhật)",
+    "Du lịch, khám sức khỏe hàng năm",
+    "Thưởng lễ tết, sinh nhật, ốm đau, hiếu hỉ",
+    "Môi trường làm việc chuyên nghiệp, thân thiện"
+  ],
+  "description": "* Phát triển và tối ưu các module C/C++ cho hệ thống điều khiển không lưu trên nền tảng Ubuntu/Linux.\n* Làm việc với các thành phần truyền thông real-time (SIP/RTP, pjproject) dưới sự hướng dẫn của kỹ sư senior.\n* Phát triển và tích hợp giao diện người dùng sử dụng Qt/QML.\n* Tham gia thiết kế kiến trúc, tối ưu hiệu năng, đảm bảo tính ổn định của hệ thống.\n* Tham gia code review, debug hệ thống, phân tích core dump.",
+  "requirements_text": "* Trình độ học vấn: Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành liên quan.\n* Ưu tiên ứng viên có thành tích học tập tốt tại các trường kỹ thuật hàng đầu hoặc từng tham gia các kỳ thi học sinh giỏi/thi quốc gia các môn tự nhiên.\n* Nắm vững C/C++ (OOP, STL).\n* Hiểu cơ bản về cơ chế Linux: process, thread, socket, IPC.\n* Có kiến thức nền tảng về mạng máy tính (TCP/UDP).\n* Biết sử dụng Git, CMake/Makefile, GDB.\n* Có tư duy thiết kế hệ thống, nắm vững cơ bản Clean Code, Design Pattern.\n* Có khả năng tìm kiếm, nghiên cứu tài liệu bằng tiếng Anh.\nLỢI THẾ:\n* Có kinh nghiệm sử dụng C/C++ trong các dự án phức tạp.\n* Có kiến thức hoặc từng làm việc với multithreading, memory management.\n* Có hiểu biết về SIP/RTP/RTSP, VoIP hoặc pjproject.\n* Có kinh nghiệm sử dụng Qt/QML.\n* Kỹ năng làm việc nhóm và làm việc độc lập tốt, tinh thần trách nhiệm cao, đam mê học hỏi và sẵn sàng tiếp nhận công nghệ mới.\nKiến thức ngành\nIT - Phần mềm, Điện / Điện tử / Điện lạnh\nKỹ năng cần có\nGit, Design Pattern, Clean code, Linux process, thread, socket, IPC, Mạng máy tính TCP/UDP, CMake/Makefile, GDB, Tìm kiếm tài liệu tiếng Anh, C/C++ (OOP, STL)\nKỹ năng nên có\nKỹ năng làm việc nhóm, Kỹ năng làm việc độc lập, voip, Multithreading, Memory Management, Qt/QML, SIP/RTP/RTSP, pjproject"
+}

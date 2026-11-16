@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Lái Xe - Tải Giao Hàng\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-lai-xe-tai-giao-hang/1935864.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Bằng B2\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"thật thà\",\n    \"nhiệt tình\",\n    \"tinh thần nghiêm túc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"12 - 15tr tùy năng lực, thỏa thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Mức lương: 12 - 15tr tùy năng lực, thỏa thuận\",\n    \"Đóng BHXH, có ngày nghỉ phép 12 ngày/năm\",\n    \"Được tham gia các buổi đào tạo nội bộ\",\n    \"Môi trường năng động, chuyên nghiệp\",\n    \"Hưởng các chế độ phúc lợi theo quy định của công ty: lương tháng 13, thưởng lễ, thưởng tết, sinh nhật, du lịch\"\n  ],\n  \"description\": \"##  Mô tả công việc \\n  * Giao hàng tới khách hàng theo đơn hàng được phân công\\n  * Bảo quản xe, định kỳ bảo dưỡng.\\n  * Thực hiện các công việc khác theo chỉ đạo của GĐ chi nhánh\\n\\n##  Quyền lợi ứng viên \\n  * Mức lương: 12 - 15tr tùy năng lực, thỏa thuận\\n  * Đóng BHXH, có ngày nghỉ phép 12 ngày/năm\\n  * Được tham gia các buổi đào tạo nội bộ\\n  * Môi trường năng động, chuyên nghiệp\\n  * Hưởng các chế độ phúc lợi theo quy định của công ty: lương tháng 13, thưởng lễ, thưởng tết, sinh nhật, du lịch\\n\\n##  Địa điểm và thời gian \\n###  Địa điểm làm việc \\n  * **Hà Nội:** Phường Thanh Liệt (Phường Thanh Liệt thuộc huyện Thanh Trì cũ) - _Phạm vi làm việc trên toàn khu vực trên._\\n\\n###  Thời gian làm việc \\n  * Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\n  * Thứ 7 (từ 08:00 đến 12:00)\",\n  \"requirements_text\": \"###  Yêu cầu: \\n1 năm kinh nghiệm chuyên môn  Trung cấp trở lên  Nam \\n##  Yêu cầu ứng viên \\n  * Nam: 24-42 tuổi, thật thà, nhiệt tình, có bằng B2 trở lên - lái xe tải 3.5T\\n  * Có tinh thần nghiêm túc trong công việc\"\n}",
+  "usage": {
+    "input_tokens": 4138,
+    "output_tokens": 1870,
+    "total_tokens": 6008,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1077
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

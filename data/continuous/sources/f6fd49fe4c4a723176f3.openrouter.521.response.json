@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kho Ở Long Biên - TUYỂN NAM - Thu Nhập 11-15tr - Đóng Gói Và Xuất Hàng Kho Thực Phẩm\",\"company_name\":\"CÔNG TY CỔ PHẦN THỰC PHẨM REVOFOOD\",\"job_category\":\"Kho vận\",\"sub_category\":\"Nhân viên kho / Đóng gói và xuất hàng\",\"industry\":\"Bán buôn thực phẩm\",\"category\":null,\"location\":\"Phúc Lợi, Phường Long Biên, Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-05\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-kho-o-long-bien-tuyen-nam-thu-nhap-11-15tr-dong-goi-va-xuat-hang-kho-thuc-pham/2350700.html\",\"qualifications\":[\"Cao Đẳng trở lên\",\"Không yêu cầu bằng cấp chuyên ngành\"],\"technical_skills\":[\"Sử dụng máy tính cơ bản\",\"Sử dụng phần mềm quản lý đơn hàng và kho\"],\"soft_skills\":[\"Cẩn thận\",\"Trung thực\",\"Nhanh nhẹn\",\"Có trách nhiệm\",\"Phối hợp nhóm\",\"Chủ động xử lý công việc\",\"Tuân thủ quy trình\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"11 – 15 triệu đồng/tháng\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"13h00 – 21h45, nghỉ 01 ngày/tuần theo lịch sắp xếp của bộ phận.\",\"benefits\":[\"Thu nhập: 11 – 15 triệu đồng/tháng, theo năng lực và hiệu quả công việc.\",\"Hỗ trợ ăn uống theo ca làm việc.\",\"Được đóng đầy đủ BHXH, BHYT, BHTN theo quy định.\",\"Hưởng các chế độ nghỉ phép, thưởng và phúc lợi theo chính sách Công ty.\",\"Được hướng dẫn quy trình làm việc, sử dụng phần mềm và các tiêu chuẩn quản lý kho thực phẩm.\",\"Được trang bị đầy đủ công cụ, thiết bị và bảo hộ lao động phục vụ công việc.\",\"Môi trường làm việc ổn định, chuyên nghiệp, có cơ hội phát triển lên các vị trí phụ trách và quản lý kho theo năng lực.\",\"Bảo hiểm xã hội\",\"Phụ cấp thâm niên\",\"Thưởng tháng 13\",\"Thưởng hiệu quả làm việc\",\"Ăn trưa\"],\"description\":\"Tiếp nhận, kiểm đếm, phân loại và sắp xếp hàng hóa trong kho thực phẩm.\\nSoạn hàng, đóng gói và chuẩn bị hàng hóa theo đơn đặt hàng.\\nKiểm tra số lượng, quy cách đóng gói, tem nhãn và chất lượng sản phẩm trước khi xuất kho.\\nThực hiện xuất hàng, bàn giao hàng hóa theo đúng đơn hàng và kế hoạch giao nhận.\\nSử dụng máy tính và phần mềm quản lý để tra cứu đơn hàng, cập nhật thông tin xuất nhập kho.\\nPhối hợp với bộ phận đơn hàng, sản xuất và vận chuyển nhằm đảm bảo tiến độ xuất hàng.\\nThực hiện vệ sinh, sắp xếp khu vực làm việc và tuân thủ các quy định về an toàn vệ sinh thực phẩm.\\nThực hiện các công việc khác liên quan đến hoạt động kho theo phân công của quản lý.\\nĐặc thù công việc: Làm việc tại khu vực đóng gói có điều hòa; có ra vào kho mát, kho đông để lấy và sắp xếp hàng hóa. Công ty trang bị bảo hộ lao động phù hợp.\",\"requirements_text\":\"Có sức khỏe tốt, đáp ứng được công việc kho, đóng gói và xuất hàng.\\nBiết sử dụng máy tính cơ bản, có khả năng tiếp cận phần mềm quản lý đơn hàng và kho.\\nCẩn thận, trung thực, nhanh nhẹn và có trách nhiệm trong công việc.\\nCó khả năng phối hợp nhóm, chủ động xử lý công việc và tuân thủ quy trình.\\nƯu tiên ứng viên có kinh nghiệm làm kho, đóng gói, xuất hàng hoặc làm việc trong lĩnh vực thực phẩm.\\nKhông yêu cầu bằng cấp chuyên ngành; ứng viên chưa có kinh nghiệm phù hợp sẽ được hướng dẫn công việc.\"}",
+  "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 5648,
+    "total_tokens": 11061,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4343
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

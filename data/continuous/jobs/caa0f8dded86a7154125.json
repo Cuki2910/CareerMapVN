@@ -1,0 +1,51 @@
+{
+  "job_title": "Chuyên Viên Data Engineer - Hà Nội - Thu Nhập Lên Tới 25 Triệu",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "IT - Phần mềm",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-02",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-data-engineer-ha-noi-thu-nhap-len-toi-25-trieu/2347033.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Phân tích dữ liệu hoặc các ngành liên quan."
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "Database",
+    "ETL",
+    "Data Engineer",
+    "BI",
+    "Data Modeling",
+    "Data Lakehouse",
+    "Database tuning"
+  ],
+  "soft_skills": [
+    "Tinh thần trách nhiệm",
+    "Chủ động tìm tòi và cập nhật công nghệ mới"
+  ],
+  "languages_required": null,
+  "experience_required": 2.0,
+  "salary": "15.000.000đ - 25.000.000đ.",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\n* Thứ 7 tuần 01 và 03",
+  "benefits": [
+    "Thu nhập: 15.000.000đ - 25.000.000đ.",
+    "Được hưởng mức lương cạnh tranh theo năng lực làm việc, được review lương định kỳ.",
+    "Nghỉ phép 12 ngày/năm.",
+    "Được cung cấp đồ ngủ trưa nhân viên (thảm, gối, chăn).",
+    "Các chế độ BHXH, BHYT, BHTN đầy đủ khi ký HĐLĐ chính thức.",
+    "Cơ hội tham gia gắn kết với tập thể với các hoạt động team building thú vị.",
+    "Làm việc trong môi trường thân thiện, khuyến khích nhân viên phát triển tiềm năng.",
+    "Bảo hiểm xã hội, Du lịch hàng năm, Thưởng hiệu quả làm việc, Team building"
+  ],
+  "description": "- Tìm hiểu, phân tích nguồn dữ liệu từ các dự án của Công ty, đánh giá cấu trúc và chất lượng dữ liệu.\n- Thiết kế, xây dựng, nâng cấp và tối ưu hệ thống Data Warehouse, Data Lakehouse phục vụ lưu trữ, khai thác và phân tích dữ liệu.\n- Phát triển và tối ưu Data Pipeline, các giải pháp ETL bằng Python hoặc ngôn ngữ tương đương, đảm bảo dữ liệu được thu thập, xử lý và chuyển đổi chính xác, ổn định.\n- Phân tích các vấn đề liên quan đến chất lượng dữ liệu; nghiên cứu và đề xuất phương pháp tối ưu quá trình trích xuất, chuyển đổi và lưu trữ dữ liệu.\n- Thiết kế Data Model, tối ưu truy vấn SQL và hiệu năng cơ sở dữ liệu.\n- Nghiên cứu, đề xuất và triển khai các giải pháp công nghệ phù hợp với mục tiêu, định hướng của dự án.\n- Phối hợp với các bộ phận liên quan trong quá trình triển khai, vận hành và cải tiến hệ thống dữ liệu.\n- Tham gia xây dựng tài liệu kỹ thuật, hướng dẫn và hỗ trợ nhân sự mới khi cần.\n- Các công việc khác theo yêu cầu của quản lý.",
+  "requirements_text": "- Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Phân tích dữ liệu hoặc các ngành liên quan.\n- Có từ 2–3 năm kinh nghiệm trong lĩnh vực Data Engineering hoặc các vị trí tương đương.\n- Có kinh nghiệm thiết kế, xây dựng và tối ưu hệ thống Data Warehouse, Data Lakehouse.\n- Thành thạo Python hoặc ngôn ngữ lập trình tương đương; có kinh nghiệm xây dựng và phát triển Data Pipeline.\n- Có kinh nghiệm làm việc với các công cụ ETL và BI.\n- Sử dụng tốt SQL, có khả năng thiết kế Data Model, tối ưu truy vấn và cải thiện hiệu năng cơ sở dữ liệu.\n- Hiểu biết về quy trình xử lý dữ liệu: thu thập, làm sạch, chuẩn hóa, chuyển đổi và lưu trữ dữ liệu.\n- Ưu tiên ứng viên từng tham gia thiết kế, triển khai hệ thống dữ liệu từ đầu đến cuối hoặc có kinh nghiệm Database Tuning trong môi trường thực tế.\n- Có tinh thần trách nhiệm, chú trọng chất lượng sản phẩm, chủ động tìm tòi và cập nhật công nghệ mới.\nKiến thức ngành\nIT - Phần mềm, IT - Phần cứng và máy tính, An ninh mạng\nKỹ năng cần có\nSQL, Database, ETL, data engineer, BI, Data Modeling, Data Lakehouse., Database tuning"
+}

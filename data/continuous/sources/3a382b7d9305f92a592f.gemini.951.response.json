@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Huấn Luyện An Toàn Hóa Chất Và An Toàn\",\n  \"company_name\": null,\n  \"job_category\": \"Kỹ sư an toàn lao động (HSE)\",\n  \"sub_category\": \"An Toàn Vệ Sinh Lao Động\",\n  \"industry\": \"Năng lượng / Môi trường\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-huan-luyen-an-toan-hoa-chat-va-an-toan/2358337.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp Đại học chuyên ngành Hoá, Bảo hộ lao động, Môi Trường\"\n  ],\n  \"technical_skills\": [\n    \"An Toàn Vệ Sinh Lao Động\",\n    \"Huấn luyện an toàn hóa chất\",\n    \"Cập nhật tài liệu đào tạo\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 5.0,\n  \"salary\": \"17 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Được đóng đầy đủ BHXH và các chế độ khác theo luật lao động.\",\n    \"Tăng lương và phụ cấp theo số năm làm việc\",\n    \"Thăng tiến chức vụ, lương theo năng lực làm việc\"\n  ],\n  \"description\": \"- Huấn luyện An toàn hóa chất, An toàn vệ sinh lao động\\n- Cập nhật tài liệu đào tạo an toàn hóa chất\\n- Thời gian làm việc: Thứ 2 đến Thứ 7\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học chuyên ngành Hoá, Bảo hộ lao động, Môi Trường\\n- Có đủ tối thiểu 5 năm (căn cứ số năm đóng BHXH) công việc liên quan đến hoá chất, an toàn\"\n}\n```",
+  "usage": {
+    "input_tokens": 4884,
+    "output_tokens": 603,
+    "total_tokens": 5487,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

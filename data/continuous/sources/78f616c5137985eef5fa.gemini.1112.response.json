@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Kho - Lái Xe Nâng\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Tài xế lái xe nâng\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-kho-lai-xe-nang/2347555.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\",\n    \"Chứng chỉ lái xe nâng\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm Kê Kho\",\n    \"Vận Hành Xe Nâng\",\n    \"Chứng chỉ lái xe nâng\"\n  ],\n  \"soft_skills\": [\n    \"chịu khó\",\n    \"trung thực\",\n    \"có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.0,\n  \"salary\": \"11 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\",\n  \"benefits\": [\n    \"Được làm việc trong môi trường chuyên nghiệp.\",\n    \"Có cơ hội phát triển nghề nghiệp.\",\n    \"Được đồng hành và phát triển lâu dài cùng công ty.\"\n  ],\n  \"description\": \"- Sắp xếp hàng hóa trong kho một cách khoa học, hợp lý, đảm bảo dễ tìm, dễ lấy, dễ kiểm tra, tuân thủ các nguyên tắc bảo quản hàng hóa.\\n- Đảm bảo an toàn lao động, vệ sinh sạch sẽ khu vực kho bãi, tuân thủ các quy định về phòng cháy chữa cháy.\\n- Vận hành lái xe nâng vận chuyển hàng hóa ở khu vực được phân công\",\n  \"requirements_text\": \"- Độ tuổi: Từ 18 – 40 tuổi.\\n- Biết đọc, biết viết.\\n- Có chứng chỉ lái xe nâng.\\n- Ưu tiên ứng viên có kinh nghiệm làm việc trong kho.\\n- Có sức khỏe tốt, chịu khó, trung thực và có trách nhiệm trong công việc.\\n- Chấp nhận làm việc theo ca.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4760,
+    "output_tokens": 595,
+    "total_tokens": 5355,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

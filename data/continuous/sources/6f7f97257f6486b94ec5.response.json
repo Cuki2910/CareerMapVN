@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kế Toán Thuế - Ứng Viên Nữ\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán / Kiểm toán / Thuế\",\n  \"sub_category\": \"Kế toán thuế\",\n  \"industry\": \"Kế toán, Kiểm toán, Thuế\",\n  \"category\": null,\n  \"location\": \"Liền kề VL14, FLC Garden City, Phường Đại Mỗ, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-thue-ung-vien-nu/2335909.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán, Tài chính\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"Phần mềm MISA\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Chịu được áp lực thời hạn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"12 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Từ Thứ 2 - Thứ 6; Từ 7h50 - 17h30, nghỉ trưa 1.5 tiếng\",\n  \"benefits\": [\n    \"Được đóng đầy đủ BHXH, BHYT, BHTN\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định\",\n    \"Nghỉ lễ Tết, thưởng theo quy định của Nhà nước\"\n  ],\n  \"description\": \"- Kê khai thuế GTGT, TNCN, nhà thầu, môn bài; \\n- Quản lý hóa đơn điện tử đầu ra, đầu vào;\\n- Lập BCTC, quyết toán TNDN, TNCN;\\n- Làm việc với cơ quan thuế khi thanh tra, kiểm tra\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán, Tài chính\\n- Tối thiểu 03 năm làm kế toán thuế, đã tự lập BCTC và quyết toán thuế; ưu tiên từng làm doanh nghiệp dịch vụ, giáo dục hoặc có nhiều chi nhánh\\n- Nắm vững Luật thuế GTGT, TNDN, TNCN, thuế nhà thầu; hóa đơn điện tử; chế độ kế toán TT99/2025, TT133\\n- Sử dụng thành thạo phần mềm MISA, Excel; cẩn thận, trung thực, chịu được áp lực thời hạn\"\n}\n```",
+  "usage": {
+    "input_tokens": 4626,
+    "output_tokens": 674,
+    "total_tokens": 5300,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

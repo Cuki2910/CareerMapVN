@@ -1,0 +1,32 @@
+{
+  "pid": 39220,
+  "started_at": "2026-11-15T11:40:57.764490+00:00",
+  "command": [
+    "/Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/.venv/bin/python",
+    "-u",
+    "/Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/run_continuous.py",
+    "--pages",
+    "1",
+    "--interval",
+    "10",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-data-analyst",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-data-analyst-cr257cb261cl145",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-phan-tich-du-lieu-cr750cb751cl764",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-data-analyst-cr92cb98cl145",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-data-science-cr257cb261",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-data-engineer-cr257cb261cl285",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-data-scientist-cr257cb261cl286",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-business-intelligence-cr92cb98cl143",
+    "--search-url",
+    "https://www.topcv.vn/tim-viec-lam-artificial-intelligence-ai-cr257cb260"
+  ],
+  "reason": "Prioritize Data/BI/AI search sources; retain existing queue and cooldowns"
+}

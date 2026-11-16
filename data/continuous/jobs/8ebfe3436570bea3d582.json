@@ -1,0 +1,47 @@
+{
+  "job_title": "Senior Data Engineer | Thưởng Sign On, Thử Việc 100% Lương",
+  "company_name": null,
+  "job_category": "Data Engineer",
+  "sub_category": "IT - Phần mềm",
+  "industry": "Tài chính",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-26",
+  "url": "https://www.topcv.vn/viec-lam/senior-data-engineer-thuong-sign-on-thu-viec-100-luong/2356211.html",
+  "qualifications": [
+    "Trình độ học vấn: Tốt nghiệp Đại học chuyên ngành Khoa học Máy tính, Hệ thống Thông tin, Kỹ thuật Dữ liệu hoặc các lĩnh vực liên quan."
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "ETL/ELT",
+    "Apache Airflow",
+    "AWS Data Stack",
+    "Power BI",
+    "Metabase",
+    "DBT",
+    "DuckDB",
+    "bigquery"
+  ],
+  "soft_skills": null,
+  "languages_required": null,
+  "experience_required": 5.0,
+  "salary": "Tới 50 triệu",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)",
+  "benefits": [
+    "Lương cạnh tranh, thưởng sign on, thưởng hiệu suất, bảo hiểm sức khỏe, thử việc 100% lương và các phúc lợi khác.",
+    "Công việc tạo ra tác động: Trở thành một phần của công ty fintech hướng đến sứ mệnh biến đổi khả năng tiếp cận tài chính cho hàng triệu lao động Việt Nam còn gặp nhiều khó khăn. Dữ liệu do bạn kỹ thuật hóa sẽ trực tiếp cung cấp năng lượng cho các quyết định tín dụng, giải ngân và tương tác khách hàng.",
+    "Ngăn xếp dữ liệu hiện đại (Modern Data Stack): Làm việc trên một lakehouse production thực tế tích hợp định dạng bảng mở (Open-table format), dbt, DuckDB, Redshift, SageMaker và sở hữu các phần quan trọng của nền tảng.",
+    "Cơ hội phát triển: Làm việc trong môi trường tăng trưởng nhanh, đề cao tính tự chủ, tinh thần trách nhiệm và trao quyền cho cá nhân chủ động đưa ra quyết định.",
+    "Văn hóa đổi mới: Gia nhập đội ngũ luôn đón nhận sự thử nghiệm, dữ liệu và công nghệ để thúc đẩy các giải pháp, khuyến khích sự hợp tác để phá vỡ các giới hạn hiện tại.",
+    "Bảo hiểm sức khỏe, Signing bonus, Thưởng hiệu quả làm việc"
+  ],
+  "description": "* Thu thập & CDC: Xây dựng và vận hành các luồng dữ liệu (data pipelines) thu thập từ nhiều nguồn khác nhau (Amazon Aurora, AWS RDS, GCP BigQuery, SharePoint, Jira và các dịch vụ của bên thứ ba khác).\n* Lưu trữ Lakehouse: Quản lý các tầng lakehouse trên Amazon S3.\n* Chuyển đổi & Mô hình hóa: Phát triển các mô hình dbt dựa trên Kỹ thuật Mô hình hóa Chiều của Kimball (Kimball's Dimensional Modeling Techniques).\n* Điều phối (Orchestration): Lập trình và duy trì các luồng Apache Airflow trên cụm EC2 tự quản lý, sử dụng mẫu DAG factory nội bộ để tạo ra các DAG thu thập, chuyển đổi và xuất dữ liệu. Phối hợp các phụ thuộc giữa Lambda, ECS dbt, DuckDB, Redshift và SageMaker; quản lý việc thử lại (retries), SLA và khả năng khôi phục.\n* Kho dữ liệu (Data Warehouse): Vận hành mô hình kho dữ liệu kép. Amazon Redshift cho phân tích quy mô lớn và báo cáo Power BI; DuckDB cho các bảng điều khiển vận hành gần thời gian thực (near real-time) trên Metabase. Tối ưu hóa khối lượng công việc trên cả Redshift và DuckDB để đạt hiệu suất và chi phí tối ưu.\n* Phục vụ & Tiêu thụ Dữ liệu: Cung cấp các tập dữ liệu đã qua xử lý cho các công cụ BI hạ nguồn (Metabase, Power BI), các dịch vụ cảnh báo và báo cáo (Lark, Teams và Email), cũng như các dịch vụ bên ngoài (MoEngage).\n* Quản trị & Danh mục Dữ liệu: Duy trì Danh mục Dữ liệu (AWS Glue Data Catalog, DataHub).\n* Độ tin cậy, Chi phí & Khả năng quan sát (Observability): Giám sát tính mới, dung lượng và chất lượng dữ liệu của các đường ống; thiết lập cảnh báo thông qua Lark; thực hiện phân tích sự cố (postmortems); xác định và loại bỏ các điểm lỗi đơn lẻ (SPOF); tối ưu hóa chi phí S3, Lambda, Redshift và các dịch vụ liên quan khác.\n* Tối ưu hóa Nền tảng: Không ngừng cải thiện độ chính xác, khả năng mở rộng, hiệu suất và độ tin cậy của nền tảng; đóng góp vào các nỗ lực hiện đại hóa.",
+  "requirements_text": "* Trình độ học vấn: Tốt nghiệp Đại học chuyên ngành Khoa học Máy tính, Hệ thống Thông tin, Kỹ thuật Dữ liệu hoặc các lĩnh vực liên quan.\n* SQL: SQL nâng cao như hàm cửa sổ (window functions), CTE, MERGE/UPSERT, tối ưu hóa câu lệnh truy vấn (query tuning), v.v. Thành thạo ít nhất một cú pháp kho dữ liệu dạng cột (Redshift, BigQuery, Snowflake hoặc DuckDB).\n* Lập trình: Python vững chắc phục vụ cho kỹ thuật dữ liệu. Có kinh nghiệm viết mã ETL/ELT đạt chuẩn môi trường production, không chỉ là các đoạn mã notebook đơn thuần.\n* AWS Data Stack: Có kinh nghiệm thực tế với Amazon S3, AWS Lambda, Amazon Redshift, IAM và CloudWatch. Thoải mái vận hành các luồng serverless và hiểu rõ các giới hạn của Lambda.\n* Điều phối (Orchestration): Có kinh nghiệm thực tế với Apache Airflow như viết DAG, Operators, XCom, cơ chế thử lại, SLA và xử lý sự cố liên quan đến scheduler/worker.\n* Thiết kế Đường ống (Pipeline Design): Có kinh nghiệm thực chứng trong việc thiết kế và xây dựng các luồng ETL/ELT, thu thập CDC và các mô hình dữ liệu chiều.\n* Khái niệm Kho Dữ liệu: Hiểu vững về lưu trữ dạng cột, phân vùng (partitioning), khóa phân phối/sắp xếp (distribution/sort keys), và mô hình lakehouse (Raw / Standardized / Curated).\n* Quản trị Dữ liệu & Bảo mật: Có kiến thức làm việc về các nguyên tắc bảo mật thông tin, xử lý dữ liệu định danh cá nhân (PII), kiểm soát truy cập và chính sách lưu trữ dữ liệu.\n* Phương thức Làm việc: Thoải mái với quy trình làm việc dựa trên Git, đánh giá mã nguồn (code review), lịch trực kỹ thuật (on-call rotation), ứng phó sự cố và viết tài liệu rõ ràng.\nKiến thức ngành\nIT - Phần mềm, Tài chính\nKỹ năng cần có\nPython, SQL, ETL/ELT, Apache Airflow, AWS Data Stack\nKỹ năng nên có\nPower BI, Metabase, DBT, DuckDB, bigquery"
+}

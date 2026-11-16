@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên VIDEO EDITOR\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing / Quảng cáo\",\n  \"sub_category\": \"Photographer/Video Editor\",\n  \"industry\": \"Marketing / Quảng cáo\",\n  \"category\": null,\n  \"location\": \"Nghệ An\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-video-editor-luong-cung-upto-9-000-000-hoa-hong-hap-dan/2353971.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Capcut\",\n    \"Photoshop\",\n    \"Edit Video\"\n  ],\n  \"soft_skills\": [\n    \"tư duy kể chuyện\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"8 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\\n- Sáng: 8h00 - 11h45  \\n- Chiều: 14h00 - 17h30  \\nNghỉ 2 thứ 7 cách tuần và ngày Chủ nhật\",\n  \"benefits\": [\n    \"Lương cứng upto 9.000.000 + Hoa hồng hấp dẫn.\",\n    \"Mức lương cạnh tranh, thỏa thuận theo năng lực và kinh nghiệm làm việc.\",\n    \"Thưởng hiệu quả công việc, thưởng các dịp lễ, Tết theo quy định của công ty.\",\n    \"Được hưởng đầy đủ các chế độ phúc lợi theo Luật lao động (BHXH, BHYT, BHTN...).\",\n    \"Môi trường làm việc trẻ trung, năng động, sáng tạo, khuyến khích phát triển cá nhân.\",\n    \"Cơ hội được đào tạo, nâng cao nghiệp vụ chuyên môn và phát triển sự nghiệp trong ngành.\",\n    \"Tham gia các hoạt động teambuilding, du lịch, tiệc cuối năm và các sự kiện nội bộ khác.\"\n  ],\n  \"description\": \"- Cắt ghép chỉnh sửa nội dung video, thêm hiệu ứng hình ảnh cho các sản phẩm trên dự án Youtube của Công ty,\\n- Phối hợp với content, SEO để sản phẩm đạt hiệu quả tốt nhất.\\n- Thực hiện các công việc khác mà quản lý bộ phận giao.\",\n  \"requirements_text\": \"- Thành thạo các phần mềm Capcut, phần mềm Edit khác phù hợp với công việc\\n- Có tư duy kể chuyện và ưu tiên đã từng làm các video chủ đề Storytelling\\n- Có kinh nghiệm tại vị trí tương đương từ 6 tháng - 1 năm\"\n}\n```",
+  "usage": {
+    "input_tokens": 4645,
+    "output_tokens": 728,
+    "total_tokens": 5373,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

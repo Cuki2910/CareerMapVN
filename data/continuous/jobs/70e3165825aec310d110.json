@@ -1,0 +1,63 @@
+{
+  "job_title": "AI Engineering",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "Thương mại điện tử",
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-09",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineering/2353712.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Trí tuệ nhân tạo, Khoa học dữ liệu hoặc các ngành liên quan."
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "Tensorflow",
+    "Pytorch",
+    "Machine Learning",
+    "LLM",
+    "Generative AI",
+    "Deep learning",
+    "FastAPI",
+    "Celery",
+    "RAG",
+    "Vector DB",
+    "Qdrant",
+    "pgvector",
+    "CrewAI",
+    "AutoGen",
+    "LangChain",
+    "LangGraph",
+    "Git",
+    "Docker",
+    "MLOps"
+  ],
+  "soft_skills": [
+    "Tinh thần trách nhiệm",
+    "chú trọng chất lượng và hiệu quả thực tế của sản phẩm AI"
+  ],
+  "languages_required": null,
+  "experience_required": 3.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",
+  "benefits": [
+    "Thu nhập thỏa thuận theo năng lực và kinh nghiệm.",
+    "Tham gia phát triển các sản phẩm AI có tính ứng dụng thực tế trong lĩnh vực logistics, thương mại điện tử và fulfillment.",
+    "Có cơ hội tham gia từ giai đoạn nghiên cứu, thử nghiệm đến triển khai các giải pháp AI trong môi trường doanh nghiệp.",
+    "Được tiếp cận hệ thống dữ liệu và các bài toán thực tế về tự động hóa, tối ưu vận hành và nâng cao hiệu suất.",
+    "Môi trường làm việc khuyến khích nghiên cứu, đề xuất sáng kiến và ứng dụng công nghệ mới.",
+    "Hưởng đầy đủ chế độ BHXH, BHYT, BHTN và các chế độ phúc lợi theo quy định của công ty.",
+    "Các chế độ khác theo chính sách hiện hành của công ty.",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13"
+  ],
+  "description": "1. Tối ưu hóa và tự động hóa Vận hành (Fulfillment AI)\n- Ứng dụng công nghệ AI Agent vào luồng nghiệp vụ Fulfillment cốt lõi của Onflow (Lưu kho, Xử lý đơn hàng, Vận chuyển) nhằm tự động hóa các tác vụ lặp đi lặp lại.\n- Đưa các mô hình Machine Learning/LLM vào vận hành thực tế để dự báo tồn kho, tối ưu hóa quy trình lấy hàng (picking) và lộ trình luân chuyển hàng hóa.\n2. Phát triển Hệ thống RAG & Trợ lý Ảo (AI Assistants)\n- Thiết kế và xây dựng hệ thống RAG (Retrieval-Augmented Generation) kết hợp với các cơ sở dữ liệu véc-tơ (Vector DB) để xử lý lượng lớn dữ liệu nội bộ.\n- Tạo ra các AI Assistant giúp tự động hóa việc hỗ trợ các nhà bán hàng (Sellers/Merchants) tra\ncứu trạng thái đơn hàng, giải đáp về đối soát COD, chính sách bảo hành, và tình trạng lưu kho\n3. Điều phối Kiến trúc Multi-Agent\n- Thiết kế và triển khai luồng giao tiếp giữa các AI Agent (Multi-Agent Orchestration) để xử lý các nghiệp vụ chéo.\n- Ví dụ: Agent giám sát kho (WMS) tự động giao tiếp với Agent vận chuyển (TMS) để phát hiện và xử lý sự cố hàng kẹt, hoặc Agent chăm sóc khách hàng tự động tổng hợp thông tin phản hồi từ\nnhiều nguồn.\n4. Xây dựng & Tích hợp Backend AI (AI Integration)\n- Chịu trách nhiệm thiết kế, phát triển và đóng gói các API hiệu năng cao để tích hợp các model AI\nvào hệ thống in-house hiện tại của Onflow (WMS, OMS, TMS).\n- Đảm bảo hệ thống AI có khả năng mở rộng (scalable), xử lý tốt các tác vụ bất đồng bộ\n(asynchronous tasks) và hàng đợi (message queues) trong những mùa cao điểm Mega Sale của\nTMĐT",
+  "requirements_text": "* Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Trí tuệ nhân tạo, Khoa học dữ liệu hoặc các ngành liên quan.\n* Có kinh nghiệm thực tế từ 3 năm trở lên trong phát triển AI/ML, Machine Learning Engineering hoặc phát triển ứng dụng AI.\n* Có kinh nghiệm xây dựng, tích hợp hoặc triển khai mô hình AI vào các ứng dụng thực tế là lợi thế.\n* Ưu tiên ứng viên từng tham gia các dự án AI ứng dụng trong logistics, thương mại điện tử, bán lẻ, quản lý kho hoặc tối ưu vận hành.\n* Nắm vững những nền tảng kỹ thuật về Backend (Python, FastAPI, Celery) & kiến trúc AI Agent. Có Kiến thức chuyên sâu hệ thống RAG, Vector DB (Qdrant, pgvector) và điều phối Multi-Agent (CrewAI, AutoGen, LangChain, LangGraph).\n* Có tinh thần trách nhiệm, chú trọng chất lượng và hiệu quả thực tế của sản phẩm AI.\nKiến thức ngành\nIT - Phần mềm, Thương mại điện tử, Kho vận\nKỹ năng cần có\nPython, SQL, Tensorflow, Pytorch, Machine Learning, LLM, Generative AI, Deep learning\nKỹ năng nên có\nGit, Docker, Banking, Fintech, MLOps, RAG"
+}

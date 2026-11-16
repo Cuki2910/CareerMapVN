@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lái Xe Giao Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Bà Rịa Vũng Tàu, Phường Bà Rịa\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-lai-xe-giao-hang/2355561.html\",\n  \"qualifications\": [\n    \"Sơ cấp lái xe trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Giao Nhận Hàng Hóa\",\n    \"Thông Thạo Đường Phố\",\n    \"Thông Thạo Đường Xá\",\n    \"bằng lái xe B2\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp tốt\",\n    \"Nhanh nhẹn\",\n    \"Trung thực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00), Nghỉ T7, CN\",\n  \"benefits\": [\n    \"Thưởng doanh thu hàng tháng và thưởng tháng 13 và thưởng hiệu quả sản xuất kinh doanh\",\n    \"Môi trường làm việc chuyên nghiệp và thân thiện\",\n    \"Tham gia đầy đủ các chế độ BHXH, BHYT theo Luật lao động hiện hành.\",\n    \"Được tham gia các lớp đào tạo về kiến thức sản phẩm, kỹ năng bán hàng chuyên biệt và kỹ năng mềm để phát triển bản thân\"\n  ],\n  \"description\": \"- Chịu trách nhiệm thực hiện công việc lái xe ô tô / lái xe máy và giao nhận hàng hóa đến khách hàng đúng đối tượng khách hàng đã ghi trên hóa đơn, đúng thời gian và đầy đủ số lượng.\\n- Thực hiện thu tiền hàng nếu khách hàng có công nợ.  \\n- Đảm bảo hàng hóa không bị hư hỏng khi giao đến khách hàng  \\n- Phân biệt hàng bán, hàng khuyến mại, quà tặng,... để có thể giải thích hợp lý với khách hàng khi giao hàng.  \\n- Bảo quản phiếu xuất kho, hóa đơn giá trị gia tăng được nguyên vẹn, không thất lạc và có đầy đủ chữ ký khách hàng  \\n- Báo cáo lịch trình giao hàng và thu tiền hàng ngày cho Lãnh đạo, quản lý chi nhánh.  \\n- Nộp tiền, báo cáo danh sách thu tiền về chi nhánh cuối mỗi ngày làm việc.\",\n  \"requirements_text\": \"- Ứng viên tốt nghiệp Sơ cấp lái xe trở lên....\\n- Nhanh nhẹn, giao tiếp tốt\\n- Trung thực, có sức khỏe tốt và thông thạo đường phố\\n- Ưu tiên các ứng viên có bằng lái xe B2\\n- Công việc ổn định, ưu tiên các ứng viên muốn gắn bó lâu dài.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4762,
+    "output_tokens": 782,
+    "total_tokens": 5544,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

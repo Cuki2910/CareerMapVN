@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng thời trang\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-thu-nhap-den-hon-15tr-tai-ho-chi-minh/1602317.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên\",\n    \"THPT (nếu đã có kinh nghiệm bán hàng)\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng mạng xã hội\",\n    \"Thương Mại Điện Tử\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nThời gian làm việc  \\nlàm việc theo ca (8h30-17h30 hoặc 10h-19h30)\",\n  \"benefits\": [\n    \"Lương tháng 13 và thu nhập ngoài lương (hoa hồng - không áp KPI)\",\n    \"Bảo hiểm y tế quốc tế và du lịch nước ngoài (sau 1 năm làm việc)\",\n    \"Phép năm\",\n    \"Làm việc tại môi trường trẻ trung, năng động\"\n  ],\n  \"description\": \"Chịu trách nhiệm tư vấn, giới thiệu sản phẩm hàng hóa đến khách hàng\\nChụp sản phẩm, đăng tải trên các nền tảng mạng xã hội của cửa hàng\\nKiểm soát và sắp xếp, trưng bày hàng hóa tại cửa hàng \\nCác công việc khác phục vụ hoạt động của cửa hàng theo sự phân công của cấp trên\",\n  \"requirements_text\": \"Độ tuổi dưới 35\\nTốt nghiệp cao đẳng trở lên (nếu đã có kinh nghiệm bán hàng có thể chỉ cần tốt nghiệp THPT)\\nCó kinh nghiệm hoặc từng là nhân viên bán hàng là một ưu thế. Thành thạo và yêu thích sử dụng mạng xã hội.\\nHồ sơ bằng tiếng Việt\\nĐã làm kế toán, thu ngân, bán hàng trên sàn Thương Mại Điện Tử là một ưu thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 4866,
+    "output_tokens": 646,
+    "total_tokens": 5512,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

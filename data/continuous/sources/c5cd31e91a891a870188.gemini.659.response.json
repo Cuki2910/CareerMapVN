@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Biên Tập Show\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing / Quảng cáo\",\n  \"sub_category\": \"Biên tập viên\",\n  \"industry\": \"Phát thanh / Truyền hình\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/bien-tap-show/1730467.html\",\n  \"qualifications\": [\n    \"Cao Đẳng\",\n    \"Đại học\",\n    \"Truyền thông, giải trí, sản xuất hoặc chuyên ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Cap Cut\",\n    \"Photoshop\",\n    \"AI\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhạy\",\n    \"sáng tạo\",\n    \"có khả năng bắt trend\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)\",\n  \"benefits\": [\n    \"Thu nhập tương xứng với năng lực, kinh nghiệm\",\n    \"Ít nhất 12 ngày nghỉ phép/năm\",\n    \"Nhân viên chính thức được nghỉ 01 ngày trong tháng sinh nhật\",\n    \"Tham gia đầy đủ bảo hiểm bắt buộc theo quy định của pháp luật lao động\",\n    \"Được công ty tài trợ gói bảo hiểm sức khỏe cao cấp khi ký HĐLĐ\",\n    \"Khám sức khỏe định kỳ hàng năm\"\n  ],\n  \"description\": \"- Theo sát hiện trường để sản xuất BTS, hậu trường, viết outline dựng clip, đề xuất nội dung viral;\\n- Tự quay dựng nhanh các nội dung short mang tính thời sự, viral nhanh ngay tại hiện trường (bằng điện thoại);\\n- Phối hợp Content Lead & Production để lên kế hoạch, biên tập nội dung và tổ chức sản xuất các content phái sinh (mini talkshow, lifestyle, ...).\",\n  \"requirements_text\": \"- Tốt nghiệp Cao Đẳng, Đại học các chuyên ngành Truyền thông, giải trí, sản xuất hoặc chuyên ngành liên quan;\\n- Có kinh nghiệm tối thiểu 02 năm trong lĩnh vực truyền thông, sản xuất;\\n- Nhanh nhạy, sáng tạo, có khả năng bắt trend;\\n- Am hiểu quy trình sản xuất nội dung show;\\n- Khả năng sử dụng các phần mềm edit hình ảnh video như Cap Cut, Photoshop, AI, ...;\\n- Kỹ năng optimize nội dung tạo ra doanh thu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4932,
+    "output_tokens": 701,
+    "total_tokens": 5633,
+    "input_token_details": {
+      "cache_read": 2034
+    },
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

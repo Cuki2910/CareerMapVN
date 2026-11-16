@@ -1,0 +1,67 @@
+{
+  "job_title": "AI Engineer (LLM/RAG/AI Automation) Thủ Đức, Thu Nhập 15 - 25 Triệu",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "AI Engineer",
+  "industry": "IT - Phần mềm, Thương mại điện tử",
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-23",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer-llm-rag-ai-automation-thu-duc-thu-nhap-15-25-trieu/2236920.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "REST API",
+    "Database",
+    "API",
+    "Chatbot",
+    "LLM",
+    "Prompt Engineering",
+    "RAG",
+    "ML",
+    "Github",
+    "Docker",
+    "CI/CD",
+    "Computer Vision",
+    "Cloud",
+    "MLOps",
+    "FastAPI",
+    "langchain",
+    "Langgraph",
+    "Vector Database",
+    "LlamaIndex",
+    "Kaggle",
+    "hackathon",
+    "Platform APIs",
+    "Multimodal",
+    "Serving"
+  ],
+  "soft_skills": [
+    "Tinh thần trách nhiệm",
+    "giao tiếp rõ ràng"
+  ],
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 1.0,
+  "salary": "15 - 25 triệu",
+  "salary_min": 15.0,
+  "salary_max": 25.0,
+  "salary_avg": "20 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)\n* Thứ 7 làm việc cách tuần (được về sớm 30p).",
+  "benefits": [
+    "Lương 15-25tr (thỏa thuận theo năng lực)",
+    "Hỗ trợ cơm trưa, gửi xe.",
+    "Nghỉ phép năm, du lịch, khám sức khỏe định kỳ.",
+    "Thưởng Lễ - Tết, doanh thu, hiếu hỉ, ốm đau, thai sản,...",
+    "Tham gia BHXH, BHTN, BHYT sau 6 tháng chính thức.",
+    "Cơ hội phát triển nghề nghiệp, môi trường làm việc sáng tạo, được đào tạo thường xuyên."
+  ],
+  "description": "Nhiệm vụ chính\nVề vai trò: Bạn sẽ cùng team xây dựng các tính năng AI thật cho sản phẩm e-commerce/martech: chatbot RAG, AI agent tự động hóa quy trình, tích hợp LLM vào hệ thống quảng cáo & vận hành.\nCông việc hằng ngày:\n* Xây dựng và tối ưu workflow RAG/agent\n* Xử lý & chuẩn bị dữ liệu (parsing, embedding, vector search), gọi và tích hợp LLM API\n* Đánh giá chất lượng output và tối ưu prompt\n* Tham gia sprint & code review.",
+  "requirements_text": "Yêu cầu kinh nghiệm: 1+ năm kinh nghiệm\nKỹ năng\n* Thành thạo cơ bản Python, hiểu API, database ở mức đủ để viết và gọi service.\n* Nắm nền tảng ML/LLM: hiểu cách LLM hoạt động (prompt, loop, embedding, tokenization, context window).\n* Đã thử nghiệm hoặc làm 1–2 dự án nhỏ về RAG / Chatbot / prompt engineering, đặc biệt -> loop engineering (đồ án, cá nhân, freelance đều được).\n* Biết gọi & tích hợp REST API bên thứ ba.\n* Đọc hiểu tài liệu kỹ thuật tiếng Anh, chủ động tự học.\n* Tinh thần trách nhiệm, giao tiếp rõ ràng với người non-tech (Founder, Vận hành, Marketing), thoải mái trong môi trường thay đổi nhanh.\nĐiểm cộng:\n* Đã dùng LangChain,LlamaIndex,LangGraph, vector database (FAISS, Chroma, Pinecone, Qdrant).\n* FastAPI, Docker, CI/CD, Cloud (AWS/GCP/Azure).\n* Platform APIs (Meta, Google Ads, Shopify, ...).\n* Multimodal / Computer Vision (visual search, xử lý ảnh sản phẩm).\n* MLOps & Serving (MLflow, vLLM, Kubernetes)\n* Có Portfolio: GitHub, blog, demo AI. Từng tham gia Kaggle/hackathon.\nTính cách: Đọc hiểu tài liệu kỹ thuật tiếng Anh, chủ động tự học. Tinh thần trách nhiệm, giao tiếp rõ ràng với người non-tech.\nKiến thức ngành\nIT - Phần mềm, Thương mại điện tử\nKỹ năng cần có\nPython, REST API, Database, API, Chatbot, LLM, Prompt Engineering, RAG, ML, English technical reading\nKỹ năng nên có\nGithub, Docker, CI/CD, Computer Vision, Cloud, MLOps, FastAPI, langchain, Langgraph, Vector Database, LlamaIndex, Kaggle, hackathon, Platform APIs, Multimodal, Serving"
+}

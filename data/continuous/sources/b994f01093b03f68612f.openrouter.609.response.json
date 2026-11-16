@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Giám Sát/Supervisor/Quản Lý Cửa Hàng (Yêu Cầu Kinh Nghiệm F&B, Nhà Hàng, Bán Lẻ)-HCM, Bình Dương, Đồng Nai, Bà Rịa Vũng Tàu, Bình Phước, Nhơn Trạch\",\n  \"company_name\": \"Công ty TNHH Jollibee Việt Nam\",\n  \"job_category\": \"Quản lý cửa hàng/Cửa hàng trưởng\",\n  \"sub_category\": \"Giám sát/Quản lý cửa hàng F&B, Nhà hàng, Bán lẻ\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG, Thực phẩm / Đồ uống, Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-sat-supervisor-quan-ly-cua-hang-yeu-cau-kinh-nghiem-fb-nha-hang-ban-le-hcm-binh-duong-dong-nai-ba-ria-vung-tau-binh-phuoc-nhon-trach/2352605.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Có khả năng giao tiếp\",\n    \"Quản lý thời gian\",\n    \"Làm việc theo nhóm\",\n    \"Thân thiện, siêng năng & chịu khó\",\n    \"Nắm bắt và học hỏi nhanh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 11 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"6 ngày/ tuần, 8 tiếng/ngày. Làm việc theo ca\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Thu nhập: 10 - 11 triệu VND\",\n    \"Lương cứng không phụ thuộc doanh số\",\n    \"Thu nhập: Lương cơ bản + thưởng doanh thu\",\n    \"Được tham gia đầy đủ các chế độ bảo hiểm theo Luật(Bảo Hiểm Y Tế; Bảo Hiểm Xã Hội; Bảo Hiểm Thất Nghiệp)\",\n    \"Làm ngày lễ, Tết nhân hệ số theo Luật\",\n    \"Chính sách 12 ngày phép/ năm\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"Cơ hội thăng tiến lên Cửa Hàng Trưởng cùng nhiều vị trí cao hơn\",\n    \"Được đào tạo các khóa kỹ năng chuyên môn theo tiêu chuẩn tập đoàn JFC\",\n    \"Tham gia các sự kiện nội bộ của Cửa hàng\"\n  ],\n  \"description\": \"- Dẫn dắt cửa hàng để đạt được mục tiêu kinh doanh đã đề ra\\n- Theo dõi /giám sát toàn bộ đội ngũ nhân viên cửa hàng để thực hiện đầy đủ Hệ thống tiêu chuẩn chất lượng\\n- Giám sát Quy trình thanh toán , Kiểm soát các loài gây hại, Sửa chữa và Bảo dưỡng Thiết bị\\n- Kiểm soát ngân sách / kiểm kê hàng hóa một cách hiệu quả\\n- Sắp xếp lịch làm việc của nhân viên theo ca\\n- Hỗ trợ Cửa hàng trưởng trong việc kiểm soát chi phí, phân tích P & L của cửa hàng hàng tháng\\n- Thực hiện POSM theo hướng dẫn của bộ phận Marketing\\n- Phát triển và đào tạo nhân viên cửa hàng\\n- Tuyển dụng nhân viên cửa hàng\",\n  \"requirements_text\": \"- Ít nhất 1 năm kinh nghiệm trong lĩnh vực nhà hàng, bán lẻ, thực phẩm và kinh nghiệm tối thiểu 6 tháng trở lên ở vị trí tương đương.\\n- Có khả năng giao tiếp, quản lý thời gian và làm việc theo nhóm\\n- Sẵn sàng làm việc theo ca\\n- Thân thiện, siêng năng & chịu khó\\n- Nắm bắt và học hỏi nhanh\\n- Độ tuổi từ 20 - 33 tuổi\\nKiến thức ngành: Bán lẻ - Hàng tiêu dùng - FMCG, Thực phẩm / Đồ uống, Nhà hàng / Khách sạn\"\n}",
+  "usage": {
+    "input_tokens": 6548,
+    "output_tokens": 5691,
+    "total_tokens": 12239,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4416
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

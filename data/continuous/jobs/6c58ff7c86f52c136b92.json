@@ -1,0 +1,62 @@
+{
+  "job_title": "Data Engineer - SBSI - 3I159",
+  "company_name": "Ngân hàng TMCP Hàng Hải Việt Nam",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Engineer",
+  "industry": "Chứng khoán",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-04",
+  "url": "https://www.topcv.vn/brand/msbank/tuyen-dung/data-engineer-sbsi-3i159-j2349750.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Toán tin, Hệ thống thông tin hoặc các ngành liên quan."
+  ],
+  "technical_skills": [
+    "SQL",
+    "Python",
+    "Airflow",
+    "dbt",
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "CDC",
+    "ETL"
+  ],
+  "soft_skills": null,
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 3.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)",
+  "benefits": [
+    "Lương thưởng hấp dẫn:",
+    "Mức lương cạnh tranh so với thị trường và tương xứng với năng lực, sẽ được thương lượng khi ứng viên vượt qua vòng Phỏng vấn.",
+    "Chế độ thưởng incentive/KPI và hoa hồng hấp dẫn, chi trả theo tháng, thu nhập không giới hạn (đối với nhóm vị trí bán hàng và một số vị trí đặc thù).",
+    "Thưởng hiệu suất cuối năm từ 2 đến 5 tháng lương trung bình của năm, tùy theo kết quả đánh giá xếp loại.",
+    "Chính sách phúc lợi toàn diện:",
+    "Bảo hiểm theo quy định pháp luật và bảo hiểm sức khỏe riêng cho cán bộ nhân viên MSB.",
+    "Các chế độ phúc lợi đa dạng: giờ làm việc linh hoạt, nghỉ mát, nghỉ sinh nhật, nghỉ khai giảng năm học cho con,...",
+    "Có chương trình vay với lãi suất ưu đãi cho CBNV.",
+    "Đào tạo và thăng tiến:",
+    "Chương trình Đào tạo chuyên sâu, bài bản theo hướng chuyển đổi (Re_skill, Up_skill, New_skill), được biên tập tùy theo từng nhóm vị trí công việc.",
+    "Được hướng dẫn và kèm cặp tận tình bởi các lãnh đạo, quản lý trực tiếp và chuyên gia trong ngành.",
+    "Chương trình phát triển quản lý dành cho các nhân viên có tiềm năng, giúp họ chuẩn bị sẵn sàng cho các vị trí quản lý và lãnh đạo trong tương lai.",
+    "Ưu tiên tuyển dụng cấp quản lý từ nhân sự nội bộ, tạo cơ hội thăng tiến cho nhân viên.",
+    "Môi trường làm việc chuyên nghiệp và văn hóa doanh nghiệp năng động:",
+    "Thoải mái, thân thiện, đề cao tinh thần trách nhiệm, hỗ trợ lẫn nhau.",
+    "Năng động, sáng tạo, khuyến khích đổi mới và học hỏi liên tục.",
+    "Tôn trọng sự khác biệt, đề cao tinh thần làm việc nhóm và hợp tác hiệu quả.",
+    "Nhiều hoạt động văn hóa, thể thao, giải trí sôi nổi, tạo môi trường làm việc gắn kết và vui vẻ.",
+    "Nhiều năm liên tiếp được HR Asia vinh danh \"Nơi làm việc tốt nhất Châu Á\" và Anphabe vinh danh \"Doanh nghiệp có nguồn Nhân lực hạnh phúc\"."
+  ],
+  "description": "1. Phát triển data pipeline\n• Thiết kế, phát triển data pipeline (batch và streaming) để tích hợp dữ liệu từ hệ thống core và các hệ thống nghiệp vụ vào nền tảng dữ liệu.\n• Phát triển và tối ưu các bước transformation, đảm bảo dữ liệu đầy đủ, chính xác và cập nhật đúng hạn.\n• Xây dựng cơ chế orchestration, retry và cảnh báo lỗi cho các pipeline.\n2. Phát triển Data Warehouse và Data Mart\n• Tổ chức dữ liệu theo kiến trúc nhiều lớp trên nền tảng lakehouse.\n• Xây dựng Data Warehouse và Data Mart theo mô hình dữ liệu chung, phục vụ báo cáo quản trị, báo cáo tuân thủ, BI và phân tích.\n• Phối hợp với Data Analyst và các đơn vị nghiệp vụ để đáp ứng nhu cầu dữ liệu.\n3. Vận hành nền tảng dữ liệu\n• Tham gia triển khai, cấu hình và nâng cấp các thành phần của nền tảng dữ liệu theo kiến trúc chung của Team Data.\n• Monitoring hệ thống hằng ngày, xử lý sự cố, tìm nguyên nhân gốc và đề xuất phương án khắc phục.\n• Thực hiện backup, restore; tối ưu hiệu năng và chi phí vận hành.\n4. Chất lượng và bảo mật dữ liệu\n• Xây dựng các bước kiểm tra chất lượng dữ liệu (data quality) và đối soát với hệ thống nguồn.\n• Áp dụng các quy định về phân quyền, bảo mật và bảo vệ dữ liệu cá nhân trên nền tảng dữ liệu.\n• Cập nhật metadata, data lineage và tài liệu kỹ thuật cho các pipeline phụ trách.\n5. Cải tiến và chia sẻ kiến thức\n• Tuân thủ và đóng góp hoàn thiện các tiêu chuẩn kỹ thuật của Team Data.\n• Nghiên cứu, đề xuất cải tiến công cụ và quy trình để nâng cao hiệu quả xử lý dữ liệu.\n• Chia sẻ kiến thức, hỗ trợ các thành viên mới.",
+  "requirements_text": "1. Trình độ\n• Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Toán tin, Hệ thống thông tin hoặc các ngành liên quan.\n• Đọc hiểu tốt tài liệu kỹ thuật bằng tiếng Anh.\n2. Kinh nghiệm\n• Tối thiểu 3 năm kinh nghiệm ở vị trí Data Engineer hoặc ETL Developer.\n• Có kinh nghiệm thực tế xây dựng data pipeline từ cơ sở dữ liệu quan hệ vào Data Warehouse hoặc lakehouse.\n• Có kinh nghiệm thực tế với các công cụ orchestration và transformation (ví dụ Airflow, dbt).\n• Có kinh nghiệm thực tế với công nghệ xử lý dữ liệu phân tán, open table format và query engine trên object storage.\n• Có kinh nghiệm triển khai CDC (Change Data Capture).\n• Có kinh nghiệm làm việc với Linux, Docker/Kubernetes và Git.\n• Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực chứng khoán, ngân hàng hoặc tài chính.\n3. Kiến thức\n• Thành thạo SQL và Python.\n• Nắm vững data modeling cho Data Warehouse (dimensional modeling, SCD).\n• Có kiến thức về data quality, metadata và bảo mật dữ liệu.\n• Ưu tiên ứng viên hiểu nghiệp vụ chứng khoán.\nKiến thức ngành\nIT - Phần mềm, Chứng khoán"
+}

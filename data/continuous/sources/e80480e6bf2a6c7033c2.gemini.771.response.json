@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Dịch Vụ Tư Vấn Tiêu Chuẩn Về An Toàn Thông Tin, Thu Nhập 10- 20 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn CNTT/IT consultant\",\n  \"sub_category\": null,\n  \"industry\": \"IT - Phần cứng và máy tính, IT - Phần mềm\",\n  \"category\": null,\n  \"location\": \"3/25 Quang Tiến, Phường Tây Mỗ, Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-dich-vu-tu-van-tieu-chuan-ve-an-toan-thong-tin-thu-nhap-10-20-trieu-ha-noi/2348828.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên chuyên ngành kinh tế, quản trị kinh doanh hoặc CNTT\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"đàm phán\",\n    \"kết nối\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Lương 10- 20 Triệu + thưởng hấp dẫn theo doanh thu.\",\n    \"Môi trường làm việc năng động, linh hoạt.\",\n    \"Đầy đủ các chế độ theo quy định\",\n    \"Được đào tào nâng cao kinh nghiệm kinh doanh, phát triển các mối quan hệ khách hàng.\"\n  ],\n  \"description\": \"Tìm kiếm các doanh nghiệp có nhu cầu đạt các chứng nhận về bảo mật dữ liệu và an toàn thông tin (công ty Công nghệ, Ngân hàng, Tài chính, Bảo hiểm, Logistics, Thương mại điện tử) ... cung cấp dịch vụ tư vấn đạt các chứng nhận tiêu chuẩn an toàn thông tin, Bảo mật dữ liệu & Tuân thủ (ISO 9001, ISO 27001, SOC 2, PCI DSS...). Phối hợp với chuyên gia bảo mật của công ty để tư vấn cho khách hàng về lộ trình, quy trình xây dựng hệ thống quản lý an toàn thông tin theo chuẩn quốc tế. Thương thảo, ký hợp đồng và quản trị hợp đồng, khách hàng. Thực hiện các công việc khác theo sự phân công của lãnh đạo Công ty.\",\n  \"requirements_text\": \"Tốt nghiệp Đại học chuyên ngành kinh tế, quản trị kinh doanh hoặc CNTT. Đam mê kinh doanh, có khả năng kết nối. Kỹ năng giao tiếp, đàm phán tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4920,
+    "output_tokens": 741,
+    "total_tokens": 5661,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

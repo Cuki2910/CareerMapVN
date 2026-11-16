@@ -1,0 +1,57 @@
+{
+  "job_title": "AI Engineer (Telco/ ISP)",
+  "company_name": null,
+  "job_category": "AI Engineer",
+  "sub_category": null,
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-12",
+  "url": "https://www.topcv.vn/viec-lam/ai-engineer-telco-isp/2356985.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học chuyên ngành CNTT, Khoa học máy tính, Toán – Tin hoặc ngành liên quan"
+  ],
+  "technical_skills": [
+    "OpenCV",
+    "YOLO/DETR",
+    "segmentation",
+    "OCR",
+    "scikit-learn",
+    "XGBoost/LightGBM",
+    "NetworkX",
+    "Neo4j",
+    "Docker",
+    "REST API",
+    "GNN",
+    "Knowledge Graph",
+    "LLM/VLM",
+    "AI Agent",
+    "Claude Code",
+    "Cursor"
+  ],
+  "soft_skills": [
+    "tư duy phân tích tốt",
+    "làm việc hiệu quả với nhiều bên"
+  ],
+  "languages_required": null,
+  "experience_required": 2.0,
+  "salary": "Theo năng lực.",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",
+  "benefits": [
+    "Thu nhập: Theo năng lực.",
+    "Thưởng tháng 13 và thưởng hiệu quả kinh doanh.",
+    "12 ngày phép/năm, nghỉ lễ/Tết theo quy định.",
+    "Trợ cấp ăn trưa và hỗ trợ đồng phục.",
+    "Tham gia BHXH, BHYT, BHTN theo quy định.",
+    "Khám sức khỏe định kỳ, teambuilding và các chế độ phúc lợi khác.",
+    "Cơ hội tham gia các dự án Chuyển đổi số quy mô lớn của Chính phủ."
+  ],
+  "description": "* Làm rõ bài toán: làm việc với các phòng chức năng, bộ phận kỹ thuật và các phòng ban/trung tâm khác để nắm hiện trạng, làm rõ yêu cầu và thống nhất mục tiêu, chỉ số đo lường của bài toán\n* Đề xuất phương án kỹ thuật: đánh giá dữ liệu sẵn có, lựa chọn phương pháp, mô hình và kiến trúc giải pháp phù hợp; ước lượng nguồn lực và lộ trình thực hiện\n* Nghiên cứu, phát triển và tối ưu mô hình AI, tập trung vào ba nhóm bài toán:\n* Computer Vision: nhận diện, phân loại, phân vùng ảnh... Ví dụ: nghiệm thu thi công qua ảnh, nhận diện thiết bị và lỗi lắp đặt\n* Machine Learning: dự báo, phân loại, phát hiện bất thường trên dữ liệu vận hành (cảnh báo, log, ticket …). Ví dụ: dự báo lưu lượng, dự đoán lỗi thiết bị\n* Graph: mô hình hóa hạ tầng mạng thành đồ thị. Ví dụ: truy vết nguyên nhân gốc sự cố, xác định vùng ảnh hưởng, tối ưu tuyến cáp\n* Thử nghiệm (PoC/Pilot): triển khai thử nghiệm, đánh giá kết quả theo chỉ số đã thống nhất và hiệu chỉnh giải pháp cùng các bên liên quan\n* Triển khai production: đóng gói, tích hợp vào hệ thống nghiệp vụ; theo dõi hiệu quả sau go-live, cải tiến và mở rộng",
+  "requirements_text": "* Tốt nghiệp Đại học chuyên ngành CNTT, Khoa học máy tính, Toán – Tin hoặc ngành liên quan\n* Có tối thiểu 02 năm kinh nghiệm phát triển AI/ML\n* Có kinh nghiệm thực tế với:\n* Computer Vision: OpenCV, YOLO/DETR, segmentation, OCR\n* Machine Learning: scikit-learn, XGBoost/LightGBM; dự báo chuỗi thời gian, phát hiện bất thường\n* Graph: thuật toán đồ thị (shortest path, centrality, community detection…), NetworkX hoặc Neo4j\n* Có khả năng đóng gói và triển khai mô hình (Docker, REST API)\n* Có tư duy phân tích tốt, làm việc hiệu quả với nhiều bên\n* Ưu tiên:\n* Hiểu biết về hạ tầng và vận hành mạng Telco/ISP\n* Có kinh nghiệm với GNN, Knowledge Graph hoặc bài toán tối ưu\n* Có kinh nghiệm với LLM/VLM, AI Agent; sử dụng thành thạo coding agent (Claude Code, Cursor…)"
+}

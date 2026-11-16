@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân Sân Golf - Lương Đến 12 Triệu (Có Thể Xoay Ca)\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": \"Thu ngân\",\n  \"industry\": \"Kế toán, Kiểm toán\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-07\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan-san-golf-luong-den-12-trieu-co-the-xoay-ca/2290535.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Chăm chỉ\",\n    \"chịu được áp lực công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca làm việc xoay ca 8 tiếng: Ca sáng: 7h00-15h00, ca chiều: 16h00 -24h00, ca giữa: hành chính.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Thưởng tháng 13\",\n    \"Ăn trưa miễn phí tại công ty\",\n    \"Thưởng hiệu quả công việc hàng quý\",\n    \"Thưởng cuối năm 2 tháng lương trở lên\",\n    \"Thưởng các ngày Lễ, Tết: Tết dương lịch, âm lịch, 08/03, 30/04, 01/06, Trung thu, 02/09, 20/10...\",\n    \"Tham gia BHXH và quyền lợi khác theo Quy định của Nhà nước.\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định lâu dài.\",\n    \"Cơ hội được học tập nâng cao nghiệp vụ, chuyên môn.\",\n    \"Hỗ trợ chỗ ở tại Khu nhà tập thể của Công ty\",\n    \"Cung cấp trang thiết bị đầy đủ để phục vụ công việc.\",\n    \"Xét tăng lương 1 năm 1 lần.\"\n  ],\n  \"description\": \"Chào đón khách, xác định loại khách và làm thủ tục check out cho khách\\nXuất hóa đơn VAT\\nChốt số lượng tiền & bill tương ứng số khách thanh toán\\nTrao đổi chi tiết khi phỏng vấn\",\n  \"requirements_text\": \"Ưu tiên ứng viên có kinh nghiệm làm thu ngân 6 tháng trở lên\\nCẩn thận, chăm chỉ, chịu được áp lực công việc.\\nCa làm việc xoay ca 8 tiếng: Ca sáng: 7h00-15h00, ca chiều: 16h00 -24h00, ca giữa: hành chính.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4863,
+    "output_tokens": 782,
+    "total_tokens": 5645,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

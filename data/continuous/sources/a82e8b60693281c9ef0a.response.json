@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Sales Logistics ( LCL)\",\n  \"company_name\": null,\n  \"job_category\": \"Sales Logistics\",\n  \"sub_category\": \"Sales Logistics\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/sales-logistics-lcl/2355780.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Kĩ năng giao tiếp\",\n    \"đàm phán và thuyết phục\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"7.5 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30), Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Khám sức khỏe định kỳ\",\n    \"Bảo hiểm sức khoẻ 24h\",\n    \"Thưởng lương tháng 13\",\n    \"Thưởng các dịp lễ tết, sinh nhật...\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"- Tìm kiếm, chào bán, tư vấn chuỗi cung ứng, dịch vụ giao nhận vận tải trong nước và quốc tế, đặc biệt dịch vụ hàng lẻ đóng ghép (LCL, imp/exp) cho các doanh nghiệp có nhu cầu.\\n- Tiếp cận khách hàng tiềm năng mới, duy trì mở rộng cung cấp dịch vụ cho khách hàng cũ.\\n- Tiếp tục chăm sóc hậu mãi, phối hợp với các bộ phận khác của công ty để giải quyết thắc mắc, khiếu nại và đề xuất của khách hàng nếu có\\n- Báo cáo lộ trình và hiệu quả công việc hàng tuần, hàng tháng, hàng quý cho phụ trách và BGĐ\\n- Các công việc khác trong phạm vi chức năng do Trưởng phòng hoặc Ban Giám đốc phân công.\",\n  \"requirements_text\": \"- Kinh nghiệm : 1 năm tại vị trí tương đương là 1 lợi thế, Nếu chưa có KN chấp nhận cả các bạn đã qua các khóa đào tạo chuyên môn\\n- Kĩ năng giao tiếp tốt, đàm phán và thuyết phục tốt\\n- Yêu thích và có định hướng nghiêm túc về nghề sales logistics, sales hàng LCL, mong muốn thăng tiến và phát triển về vị trí cũng như thu nhập.\\n- Nhanh nhẹn, cầu tiến, ham học hỏi và chịu được áp lực công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4990,
+    "output_tokens": 715,
+    "total_tokens": 5705,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

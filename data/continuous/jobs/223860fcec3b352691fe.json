@@ -1,0 +1,46 @@
+{
+  "job_title": "Lead Data Engineer",
+  "company_name": null,
+  "job_category": "Data Engineer",
+  "sub_category": "Data Engineer",
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-15",
+  "url": "https://www.topcv.vn/viec-lam/lead-data-engineer/2332643.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "Version control",
+    "Web Scraping",
+    "Data Pipelines",
+    "Git",
+    "GitHub",
+    "Azure DevOps"
+  ],
+  "soft_skills": null,
+  "languages_required": null,
+  "experience_required": 3.0,
+  "salary": "Tới 50 triệu",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Salary: Up to 50M",
+    "Join a global team and work directly with many talents around the world.",
+    "Working & growing with a passionate, young, and talented team.",
+    "Premium Health Insurance TECHVIFY Care.",
+    "13 months’ salary per year.",
+    "Evaluate salary annually.",
+    "Sponsor and encourage staff to study courses by covering tuition fee, such as Udemy, Coursera."
+  ],
+  "description": "Responsibilities\nBuild ingestion workflows for APIs, web data, and files.\nHandle structured and semi-structured formats (JSON, XML, HTML, CSV).\nApply resilient scraping practices, including session handling, proxies, and request automation.\nEnsure compliance with security and access restrictions when integrating external data sources.\nOptimize SQL queries and transformations for analytics.\nDesign, build, and maintain robust Python-based data pipelines.\nImplement testing frameworks and good engineering practices for reliability.\nEnsure data quality, consistency, and scalability across workflows.",
+  "requirements_text": "Requirements\n3+ YoE Data Engineer\nMiddle-level Python for data engineering and workflow automation.\nKnowledge of web scraping, ingestion workflows, and handling varied data formats.\nExperience designing and maintaining production-grade data pipelines.\nFamiliarity with best practices in testing, monitoring, and pipeline reliability.\nProficiency with version control (Git/GitHub/Azure DevOps).\nStrong SQL skills for ETL and analytics.\nQualifications\nBSc or MSc in Computer Science, Data Engineering, Software Engineering, or related fields.\nEquivalent practical experience will also be considered.\nKỹ năng cần có\nPython, SQL, Version control, Web Scraping, Data Pipelines"
+}

@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Chứng Từ\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN GIAO HÀNG NHANH SPIDER\",\n  \"job_category\": \"Logistics\",\n  \"sub_category\": null,\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-chung-tu/2322558.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Cao đẳng/Đại học\"\n  ],\n  \"technical_skills\": [\n    \"Excel (cơ bản)\",\n    \"Công cụ văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Khả năng làm việc với số liệu\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": null,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Từ thứ 2 đến sáng thứ 7: 8h00 - 17h00  Sáng thứ 7: 8h00 - 12h00\",\n  \"benefits\": [\n    \"Tham gia BHXH, BHYT, BHTN theo quy định của pháp luật.\",\n    \"Thưởng hiệu quả công việc, thưởng lễ tết theo chính sách Công ty.\",\n    \"Lộ trình đào tạo và thăng tiến lên vị trí Trưởng nhóm/Quản lý điều hành.\",\n    \"Môi trường làm việc: Trẻ trung, năng động, có cơ hội học hỏi và phát triển trong lĩnh vực logistics.\",\n    \"Tham gia các chương trình team building, year-end party, sinh nhật, sự kiện kết nối nhân viên.\"\n  ],\n  \"description\": \"##  Mô tả công việc \\n1. Nhận các chứng từ giao hàng từ lái xe, phân loại chứng từ theo tuyến.\\n2. Hướng dẫn lái xe thu hồi chứng từ giao hàng.\\n3. Kiểm tra tính đầy đủ, hợp lệ, chữ ký xác nhận.\\n4. Cập nhật thông tin chứng từ vào hệ thống (Excel hoặc phần mềm nội bộ).\\n5. Lưu trữ, phân loại và bàn giao chứng từ cho các bộ phận liên quan (kế toán, CSKH...).\\n6. Phối hợp với kho và điều hành để xử lý các phát sinh về thiếu/nhầm hàng, sai lệch chứng từ hoặc giao nhận thất bại.\\n7. Theo dõi và đôn đốc việc hoàn chứng từ đúng thời hạn từ các tài xế.\",\n  \"requirements_text\": \"###  Yêu cầu: \\nDưới 1 năm kinh nghiệm chuyên môn  Cao Đẳng trở lên  Nữ \\n###  Yêu cầu ứng viên \\n- Tốt nghiệp Cao đẳng/Đại học chuyên ngành\\n- Ưu tiên biết Excel cơ bản và các công cụ văn phòng.\\n- Cẩn thận, trung thực, có khả năng làm việc với số liệu.\\n- Ưu tiên ứng viên có kinh nghiệm\"\n}",
+  "usage": {
+    "input_tokens": 4320,
+    "output_tokens": 2104,
+    "total_tokens": 6424,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1352
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

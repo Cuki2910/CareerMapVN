@@ -1,0 +1,45 @@
+{
+  "job_title": "Quantitative Researcher",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Scientist",
+  "industry": "Chứng khoán, Tài chính",
+  "category": null,
+  "location": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-04",
+  "url": "https://www.topcv.vn/viec-lam/quantitative-researcher/930504.html",
+  "qualifications": [
+    "Bachelor’s degree in mathematics, statistics, computer science, finance, or a related field."
+  ],
+  "technical_skills": [
+    "Python",
+    "Data Analysis",
+    "Lập Trình (python, R, Hoặc Matlab)",
+    "Phân Tích Dữ Liệu Định Lượng",
+    "Mô Hình Hóa Tài Chính Định Lượng"
+  ],
+  "soft_skills": [
+    "Kỹ năng giải quyết vấn đề",
+    "Strong analytical and problem-solving skills",
+    "Good communication skills"
+  ],
+  "languages_required": null,
+  "experience_required": 1.0,
+  "salary": "750 - 1,500 USD",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* T2-T6, 7:00-16:00",
+  "benefits": [
+    "WHY YOU WILL LOVE WORKING HERE",
+    "Competitive salary and reward programs",
+    "Insurance & healthcare",
+    "PC, monitors and anything you need",
+    "Professional and flexible working environment"
+  ],
+  "description": "Role Overview\nWe need researchers with a strong mathematical foundation and abstract thinking to design and build agentic research workflows, and to use them to develop and validate trading signals.\n* Design and build agentic research workflows (planning, tool use, memory, evaluation loops) that automate parts of the research cycle.\n* Develop autonomous or semi-autonomous agents that run experiments, validate ideas, and iterate on research outputs.\n* Integrate LLM-based agents into the quant research pipeline to automate repetitive modeling tasks.\n* Develop quantitative models, trading logic, and predictive signals.\n* Analyze backtesting results and refine logic to improve model and agent performance.\n* Create reusable research components, templates, and tools for agent-driven workflows.\n* Automate reporting, evaluation, and experiment tracking.\n* Work with traders and portfolio managers to convert research findings into deployable trading rules.\n* Report findings, insights, and limitations to the team and stakeholders.",
+  "requirements_text": "* Bachelor’s degree in mathematics, statistics, computer science, finance, or a related field.\n* Solid grounding in probability, statistics, linear algebra, and optimization.\n* Ability to break a vague problem into clear components, formalize it, and translate it into executable logic and agent behavior.\n* Python programming skills, with experience in quantitative logic or time-series analysis.\n* Experience with, or strong interest in, LLM agents, agentic workflows, AI-driven automation, or research agents.\n* Strong analytical and problem-solving skills.\n* Good communication skills and the ability to work in a fast-paced research environment.\nKiến thức ngành\nIT - Phần mềm, Chứng khoán, Tài chính\nKỹ năng cần có\nData Analysis, Kỹ năng giải quyết vấn đề, Hiểu Biết Về Thị Trường Tài Chính, Lập Trình (python, R, Hoặc Matlab), Phân Tích Dữ Liệu Định Lượng\nKỹ năng nên có\nMô Hình Hóa Tài Chính Định Lượng"
+}

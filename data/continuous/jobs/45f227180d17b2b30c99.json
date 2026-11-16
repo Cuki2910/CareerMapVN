@@ -1,0 +1,61 @@
+{
+  "job_title": "Chuyên Viên Kiểm Thử Phần Mềm",
+  "company_name": "Công ty Cổ Phần TTI",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Software Tester (Automation & Manual)",
+  "industry": "Công nghệ kỹ thuật",
+  "category": null,
+  "location": "370 Trường Chinh, Phường Tân Bình, Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-20",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-kiem-thu-phan-mem/2346041.html",
+  "qualifications": [
+    "Đại Học trở lên",
+    "Bằng kỹ sư hoặc cử nhân thuộc các chuyên ngành liên quan như Khoa Học Máy Tính, Công Nghệ Thông Tin"
+  ],
+  "technical_skills": [
+    "AI Agents",
+    "Manual Testing",
+    "Black-box Testing",
+    "Risk-based Testing",
+    "Exploratory Testing",
+    "Non-UI Testing",
+    "Web UI Testing",
+    "Mobile UI Testing",
+    "Postman",
+    "API Testing",
+    "Java",
+    "JavaScript",
+    "Git",
+    "IntelliJ IDEA",
+    "Tester",
+    "Phân tích"
+  ],
+  "soft_skills": [
+    "Kỹ năng tạo checklist",
+    "Kỹ năng làm việc nhóm",
+    "Kỹ năng giải quyết vấn đề"
+  ],
+  "languages_required": null,
+  "experience_required": 2.0,
+  "salary": "10 - 15 triệu",
+  "salary_min": 10.0,
+  "salary_max": 15.0,
+  "salary_avg": "12.5 triệu",
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\n* Thứ 7 (từ 08:00 đến 12:00)\n* - Thời gian làm việc:\n+ Thứ 2 - Thứ 6: từ 08h00 đến 17h30 (nghỉ trưa từ: 12h00-13h30)\n+ Thứ 7: từ 08:00 đến 12:00",
+  "benefits": [
+    "Mức lương cứng: 10 - 15 triệu / tháng (thoả thuận theo năng lực)",
+    "Tổng thu nhập ổn định từ: 15-20 triệu / tháng, bao gồm: Lương cứng + Thưởng KPI theo dự án, chiến dịch.",
+    "Được hưởng đầy đủ chế độ BHYT, BHXH theo quy định sau khi ký HĐLĐ chính thức.",
+    "Chế độ phúc lợi đầy đủ: Quà tặng sinh nhật, thưởng lễ, Tết, hiếu, hỉ, Trung thu, 8/3, 20/10 theo quy chế của Công ty và Công đoàn, khám sức khỏe định kỳ",
+    "Thưởng hàng năm từ 2-3 tháng lương tuỳ tình hình lợi nhuân công ty.",
+    "Đánh giá xem xét tăng lương định kỳ 2 lần 1 năm.",
+    "Làm việc trực tiếp với CTO có hơn 15 năm kinh nghiệm làm việc tại Hàn Quốc thuộc dự án AI của chính phủ. Được tham gia các khóa đào tạo nâng cao nghiệp vụ phục vụ cho công việc.",
+    "Môi trường làm việc năng động, trẻ trung, có nhiều cơ hội thăng tiến.",
+    "Phụ cấp: đồng phục, điện thoại."
+  ],
+  "description": "Chịu trách nhiệm phát triển các tính năng mới và bảo trì các tính năng đã phát triển\n* Thực hiện tất cả các hoạt động kiểm thử (thủ công và tự động) nhằm nâng cao chất lượng sản phẩm. Phối hợp chặt chẽ với các bộ phận liên quan (Lập trình viên, Chuyên viên phân tích nghiệp vụ, Chăm sóc khách hàng, Vận hành, v.v.) để đảm bảo triển khai sản phẩm thành công.\n* Phân tích và giải quyết các yêu cầu về kiểm thử tự động một cách có phương pháp, tỉ mỉ và có hệ thống, vận dụng kỹ năng phân tích và khả năng giải quyết vấn đề hiệu quả.\n* Tự động hóa các bài kiểm thử chức năng (Functional Testing), kiểm thử hồi quy (Regression Testing) và/hoặc kiểm thử chấp nhận về hiệu năng (Performance Acceptance Testing).\n* Chịu trách nhiệm toàn diện trong việc phát triển và mở rộng phạm vi kiểm thử tự động xuyên suốt hệ thống (End-to-End Automated Testing).\n* Tham gia với nhóm BA để lấy và phân tích yêu cầu từ khách hàng, bàn giao nghiệp vụ lại cho đội phát triển và đồng thời dựa vào đó đưa ra các đề xuất kiểm thử phù hợp, bao gồm kiểm thử tính năng (Feature Testing), kiểm thử nhanh (Smoke Testing) và kiểm thử hồi quy (Regression Testing), bằng cả phương pháp thủ công và tự động.",
+  "requirements_text": "● Kiến thức & Kinh nghiệm:\n* Có bằng kỹ sư hoặc cử nhân thuộc các chuyên ngành liên quan như Khoa Học Máy Tính, Công Nghệ Thông Tin.\n* Có ít nhất 2 năm kinh nghiệm thực tế trong lĩnh vực kiểm thử phần mềm.\n* Có khả năng sử dụng AI Agents để thực hiện các công việc kiểm thử. Cụ thể như sau:\n* Chuẩn bị ngữ cảnh tốt, rõ ràng, đầy đủ cho AI.\n* Định hướng, giao nhiệm vụ và điều phối AI Agent thực hiện công việc.\n* Kiểm tra, đánh giá kết quả kiểm thử do AI tạo ra.\n* Đảm bảo phần mềm đạt chất lượng sau quá trình kiểm thử.\n* Có kiến thức vững chắc về quy trình phát triển phần mềm, đặc biệt là quy trình kiểm thử phần mềm.\n* Có kinh nghiệm chuyên sâu về kiểm thử thủ công (Manual Testing), bao gồm:\n* Phân tích yêu cầu (Requirement Analysis).\n* Xây dựng chiến lược kiểm thử (Test Strategy).\n* Xác định phương pháp tiếp cận kiểm thử (Test Approach).\n* Lập kế hoạch kiểm thử (Test Plan).\n* Áp dụng các kỹ thuật kiểm thử như kiểm thử hộp đen (Black-box Testing), kiểm thử dựa trên rủi ro (Risk-based Testing), kiểm thử khám phá (Exploratory Testing), kiểm thử không thông qua giao diện người dùng (Non-UI Testing), v.v.\n* Có kinh nghiệm thực tế trong việc kiểm thử giao diện ứng dụng web (Web UI), ứng dụng Mobile (Mobile UI) và API bằng Postman hoặc các công cụ tương tự.\n* Có kiến thức và khả năng thực hiện kiểm thử tự động và có kỹ năng lập trình cơ bản với Java, JavaScript hoặc các ngôn ngữ tương tự là một lợi thế.\n* Có kinh nghiệm sử dụng các công cụ như Postman, Git, IntelliJ IDEA, v.v.\n* Kỹ năng tạo checklist.\n* Kỹ năng làm việc nhóm\n* Kỹ năng giải quyết vấn đề\n● Thái độ\n* Tinh thần tự hào về công ty và sản phẩm của TTI.\n* Tuân thủ văn hóa phục vụ khách hàng\n* Tuân thủ quy trình/ quy định của công ty\n* Nhiệt tình, chủ động sáng tạo, suy nghĩ tích cực\nKiến thức ngành\nIT - Phần mềm, Công nghệ kỹ thuật\nKỹ năng cần có\nGit, Java, Javascript, Tester, Phân tích, non-UI testing, kiểm thử phần mềm Black box, Risk-based Testing, IntelliJ IDEA, Exploratory Testing, Postman/API Testing"
+}

@@ -1,0 +1,53 @@
+{
+  "job_title": "Data Analyst",
+  "company_name": null,
+  "job_category": "Data Analyst",
+  "sub_category": null,
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-21",
+  "url": "https://www.topcv.vn/viec-lam/data-analyst/2329187.html",
+  "qualifications": [
+    "Tốt nghiệp Đại học các ngành liên quan: Công nghệ thông tin, Khoa học dữ liệu, Toán thống kê, Kinh tế lượng hoặc tương đương."
+  ],
+  "technical_skills": [
+    "SQL",
+    "PowerBI",
+    "Looker",
+    "Looker Studio"
+  ],
+  "soft_skills": [
+    "Kỹ năng thuyết trình"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 1.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Chế độ lương thưởng hấp dẫn,",
+    "Chế độ BHYT, BHXH, BHTN theo quy định,",
+    "Bảo hiểm sức khỏe cho Nhân viên chính thức,",
+    "Khám sức khỏe định kỳ,",
+    "Bếp ăn cho Nhân viên (công ty hỗ trợ chi phí),",
+    "Hỗ trợ người lao động các dịp: 30/4 – 1/5, ngày 2/9, tết dương lịch,",
+    "Quà sinh nhật cho người lao động,",
+    "Với nữ nhân viên: ngày 8/3, 20/10,",
+    "Với nhân viên có con dưới 15 tuổi: 1/6, trung thu,",
+    "Các chế độ nghỉ theo quy định của nhà nước,",
+    "Nghỉ mát một lần một năm, thường xuyên tổ chức các Event nội bộ,",
+    "Thường xuyên tổ chức các buổi đào tạo nâng cao kỹ năng nghiệp vụ, kỹ năng mềm,…,",
+    "Chính sách đào tạo mở, khuyến khích CBNV đề xuất khoá học nâng cao năng lực,",
+    "Môi trường làm việc thân thiện, năng động, có cơ hội thăng tiến cao."
+  ],
+  "description": "- Nhận nhiệm vụ và báo cáo trực tiếp cho trưởng nhóm.\n- Khảo sát – thu thập - phân tích – tài liệu hóa các nguồn dữ liệu từ các hệ thống nghiệp vụ. Đảm bảo Từ điển dữ liệu Nghiệp vụ (Data Business Glossary) và Từ điển dữ liệu Công nghệ (Data Dictionary).\n- Phối hợp với trưởng nhóm xây dựng và tối ưu các mô hình dữ liệu, dashboard/ báo cáo tự động bằng các công cụ BI.\n- Đưa ra khuyến nghị dựa trên dữ liệu để tối ưu luồng dữ liệu, tăng trải nghiệm người dùng.\n- Vận hành – kiểm thử - nghiệm thu – đào tạo cho các hệ thống BI triển khai.",
+  "requirements_text": "- Tốt nghiệp Đại học các ngành liên quan: Công nghệ thông tin, Khoa học dữ liệu, Toán thống kê, Kinh tế lượng hoặc tương đương.\n- Kinh nghiệm tối thiểu 1 năm về việc có tham gia làm Business Analyst hoặc Data Analyst cho những dự án sử dụng dữ liệu. Đặc biệt khuyến khích các ứng viên đã làm việc với Dữ liệu lớn (Big Data).\n- Có kinh nghiệm trong mảng Bank/ Fintech., ưu tiên có kinh nghiệm về Core Banking Systems.\n- Tiếng anh sử dụng thành thạo 4 kỹ năng (Ielts 6.0 trở lên).\n- Thành thạo một trong các công cụ BI: PowerBI, Looker, Looker Studio…\n- Nắm vững kiến thức về truy vấn dữ liệu SQL.\n- Kiến thức cơ bản về:\no Các mô hình dữ liệu Star schema, Snowflake schema.\no Quản trị dữ liệu (Data Governance).\no Siêu dữ liệu (Metadata).\no Thiết kế Phân loại dữ liệu nghiệp vụ: Taxonomy – Domain – Glossary – Dictionary.\no Quản trị dữ liệu Chủ (Master Data Management).\no Quản trị dữ liệu Tham chiếu (Reference Data Management)\n- Kiến thức cơ bản về công nghệ dữ liệu:\no Lake – House.\no Mô hình dịch vụ dữ liệu.\no Dữ liệu lịch sử.\no Dữ liệu Streaming.\n- Các kiến thức khuyến khích có:\no Thành thạo các công cụ quản trị dữ liệu.\no Kỹ năng thuyết trình."
+}

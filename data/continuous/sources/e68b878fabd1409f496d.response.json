@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Thiết Bị Điện - Thuận An, Bình Dương/ Hà Nội - Thu Nhập 12 - 17 Triệu/Tháng\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng kỹ thuật Điện/Điện tử/Viễn thông\",\n  \"sub_category\": \"B2B\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-thiet-bi-dien-thuan-an-binh-duong-ha-noi-thu-nhap-12-17-trieu-thang/2349457.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học các chuyên ngành kỹ thuật về Điện hoặc các ngành kinh tế\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 17 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Tham gia BHXH, BHYT và các chế độ theo quy định pháp luật.\",\n    \"Xét tăng lương hằng năm theo chính sách công ty.\",\n    \"Hỗ trợ cơm trưa; nước cam, cà phê miễn phí.\",\n    \"Được đào tạo kiến thức sản phẩm, giải pháp kỹ thuật và kỹ năng kinh doanh.\",\n    \"Có cơ hội phát triển chuyên môn, định hướng nghề nghiệp rõ ràng.\",\n    \"Hưởng các chế độ lương, thưởng và phúc lợi theo chính sách công ty.\",\n    \"Môi trường làm việc chuyên nghiệp, được hỗ trợ bởi đội ngũ kỹ thuật và kinh doanh.\"\n  ],\n  \"description\": \"• Tìm kiếm, tiếp cận và phát triển khách hàng có nhu cầu về thiết bị điện.\\n• Tư vấn, giới thiệu sản phẩm và giải pháp kỹ thuật phù hợp với nhu cầu khách hàng.\\n• Hỗ trợ báo giá, theo dõi đơn hàng và phối hợp với các bộ phận liên quan.\\n• Chăm sóc khách hàng hiện hữu, phát triển khách hàng mới.\\n• Tìm hiểu sản phẩm, thị trường và cập nhật kiến thức chuyên môn.\",\n  \"requirements_text\": \"• Tốt nghiệp Cao đẳng/Đại học các chuyên ngành kỹ thuật về Điện hoặc các ngành kinh tế.\\n• Kinh nghiệm từ 1 năm, nếu không có kinh nghiệm sẽ được đào tạo.\\n• Có tinh thần học hỏi, chủ động, giao tiếp tốt và yêu thích công việc kinh doanh.\\n• Mong muốn phát triển trong lĩnh vực kinh doanh kỹ thuật, thiết bị điện.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5020,
+    "output_tokens": 768,
+    "total_tokens": 5788,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

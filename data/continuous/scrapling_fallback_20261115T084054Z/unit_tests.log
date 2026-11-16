@@ -1,0 +1,27 @@
+Executing <Task finished name='Task-2' coro=<ContinuousChecks.test_ajax_block_is_detected_even_when_document_status_is_200() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:191> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 1.465 seconds
+Executing <Task finished name='Task-55' coro=<ContinuousChecks.test_router_all_errors_preserve_pending_job() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_continuous.py:107> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.620 seconds
+Failed https://example.com/blocked (attempt 1/3): HTTP 403
+Failed https://example.com/blocked (attempt 2/3): HTTP 403
+Failed https://example.com/blocked (attempt 3/3): HTTP 403
+Failed https://example.com/job (attempt 1/3): The model did not return a JSON object
+Failed https://example.com/job (attempt 2/3): The model did not return a JSON object
+Failed https://example.com/job (attempt 3/3): The model did not return a JSON object
+Executing <Task finished name='Task-172' coro=<CrawlerChecks.test_rate_limits_auth_and_ordinary_forbidden_do_not_use_fallback() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_llm_extract.py:63> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.153 seconds
+Executing <Task finished name='Task-204' coro=<CrawlerChecks.test_scrapling_rejects_errors_and_challenge_content() done, defined at /Volumes/CuKi/VinUni/Fall 2026/DSProg/DATA2010-Fall2026/CareerMapVN/crawling/test_llm_extract.py:93> result=None created at /Users/cuki2910/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/asyncio/runners.py:100> took 0.163 seconds
+----------------------------------------------------------------------
+Ran 58 tests in 18.909s
+
+OK
+Saved https://example.com/job -> /var/folders/kn/n36cb2ms21g485dsx4ffk0p80000gn/T/tmpipvokurk/results.json
+Completed 1/2 URLs; failed: 1
+Completed 0/1 URLs; failed: 1
+Saved https://example.com/job -> /var/folders/kn/n36cb2ms21g485dsx4ffk0p80000gn/T/tmpth7bt5np/results.json
+Completed 1/1 URLs; failed: 0
+Skipping completed URL: https://example.com/job
+Completed 1/1 URLs; failed: 0
+Skipping completed URL: https://example.com/job
+Completed 1/1 URLs; failed: 0
+Saved https://example.com/new -> /var/folders/kn/n36cb2ms21g485dsx4ffk0p80000gn/T/tmpe68ewav4/results.json
+Completed 1/1 URLs; failed: 0
+Skipping completed URL: https://example.com/new
+Completed 1/1 URLs; failed: 0

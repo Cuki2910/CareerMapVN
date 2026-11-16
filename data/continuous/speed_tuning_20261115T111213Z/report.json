@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-11-15T11:12:14.693625+00:00",
+  "event": "speed_tuning_enabled",
+  "interval_seconds": 10,
+  "website_backoff_seconds": [
+    300,
+    600,
+    1200,
+    1800
+  ],
+  "retry_after_respected": true,
+  "extra_discovery_refresh_removed": true,
+  "provider_deadlines_preserved": true,
+  "completed_before": 806,
+  "pid": 36527,
+  "measurement": {
+    "started_at": "2026-11-15T11:16:32.667794+00:00",
+    "finished_at": "2026-11-15T11:17:32.681070+00:00",
+    "elapsed_seconds": 60.01,
+    "jobs_before": 808,
+    "jobs_after": 814,
+    "new_jobs": 6,
+    "observed_jobs_per_minute": 6.0,
+    "status": "waiting",
+    "pending_total": 16
+  },
+  "unit_tests_passed": 64,
+  "active_pid": 37067
+}

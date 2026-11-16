@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Kế Toán Thuế - Thu Nhập 15- 20 Triệu [Đường Láng, Hà Nội]\",\"company_name\":\"CÔNG TY TNHH DỊCH VỤ KẾ TOÁN VÀ TƯ VẤN LUẬT AN KHANG\",\"job_category\":\"Kế toán\",\"sub_category\":\"Kế toán thuế\",\"industry\":\"Hoạt động tư vấn quản lý kinh doanh và hoạt động tư vấn quản lý khác\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-30\",\"url\":\"https://www.topcv.vn/viec-lam/ke-toan-thue-thu-nhap-15-20-trieu-duong-lang-ha-noi/2350508.html\",\"qualifications\":[\"Cao đẳng trở lên\",\"Tốt nghiệp Cao đẳng/Đại học chuyên ngành Kế toán, Tài chính, Kiểm toán\"],\"technical_skills\":[\"Kế toán tổng hợp\",\"Kiến thức về luật thuế\",\"Lập báo cáo thuế\",\"Sử dụng phần mềm kế toán\",\"Kỹ năng tin học văn phòng\",\"Sử dụng phần mềm kế toán (Misa) là lợi thế\"],\"soft_skills\":[\"Giao tiếp tốt\",\"Chăm chỉ\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"15 - 20M / tháng + Thưởng hiệu quả công việc\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7: 8h - 12h\",\"benefits\":[\"Lương: 15 - 20M / tháng + Thưởng hiệu quả công việc\",\"Nâng cao kỹ năng thực hành, hiểu và làm được nhiều lĩnh vực (thương mại, dịch vụ, xây dựng, sản xuất,..)\",\"Thưởng lương tháng thứ 13, thưởng lễ/tết và các chế độ đãi ngộ khác\",\"Du lịch, team building, party cuối năm cùng các chương trình nội bộ tại công ty\",\"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định của Luật Lao động\",\"Môi trường làm việc chuyên nghiệp, công ty quy mô trên 100 nhân sự, có 02 chi nhánh tại Hà Nội & TP.HCM\",\"Có cơ hội thăng tiến trong tương lai\"],\"description\":\"- Hạch toán, kiểm tra, rà soát và hoàn thiện chứng từ kế toán thuế cho các doanh nghiệp khách hàng.\\n- Lập và nộp các báo cáo thuế hàng quý/năm (GTGT, TNCN, TNDN, BCTC...) đúng hạn theo quy định.\\n- Giải đáp các vấn đề liên quan đến kế toán – thuế cho khách hàng\\n- Làm việc với cơ quan thuế khi phát sinh thanh tra, kiểm tra hoặc giải trình số liệu, quyết toán thuế.\\n- Thực hiện các công việc khác theo phân công của cấp trên.\",\"requirements_text\":\"- Tốt nghiệp Cao đẳng/Đại học chuyên ngành Kế toán, Tài chính, Kiểm toán.\\n- Kinh nghiệm: 01 năm kinh nghiệm kế toán\\n- Nữ, 23 tuổi trở lên, làm full-time\\n- Giao tiếp tốt, chăm chỉ\\n- Có Laptop, kĩ năng tin học văn phòng, biết sử dụng phần mềm kế toán (Misa) là lợi thế\\nKiến thức ngành: Kế toán, Kiểm toán, Thuế\\nKỹ năng cần có: Kế Toán Tổng Hợp, Kiến Thức Về Luật Thuế, Lập Báo Cáo Thuế, Sử Dụng Phần Mềm Kế Toán\"}",
+  "usage": {
+    "input_tokens": 5112,
+    "output_tokens": 4229,
+    "total_tokens": 9341,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3195
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

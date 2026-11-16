@@ -1,0 +1,432 @@
+{
+  "tested_at": "20261115T142443",
+  "results": [
+    {
+      "provider": "OPENROUTER",
+      "ok": true,
+      "model": "particle-ai/particle-1:free",
+      "models_http_status": 200,
+      "actual_model": "particle-ai/particle-1:free",
+      "usage": {
+        "input_tokens": 5369,
+        "output_tokens": 4237,
+        "total_tokens": 9606,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 0,
+          "cache_creation": 0
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 2583
+        }
+      },
+      "finish_reason": "stop",
+      "raw_output": {
+        "job_title": "Kế Toán Tổng Hợp - Thuế / General Accountant - Vật Tư Xây Dựng Nội Thất | Lương 12 Triệu (Kinh Nghiệm 1,5 Năm) | Tại Hà Nội",
+        "company_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ AN AN ECOHOME",
+        "job_category": "Kế toán",
+        "sub_category": "Kế toán tổng hợp / Kế toán thuế",
+        "industry": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+        "category": null,
+        "location": "Tổng cục 5, Phường Thanh Liệt, Hà Nội",
+        "country": "Việt Nam",
+        "posting_date": null,
+        "deadline": "2026-12-02",
+        "url": "https://www.topcv.vn/viec-lam/ke-toan-tong-hop-thue-general-accountant-vat-tu-xay-dung-noi-that-luong-12-trieu-kinh-nghiem-1-5-nam-tai-ha-noi/2347093.html",
+        "qualifications": [
+          "Đại Học trở lên",
+          "Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.",
+          "Có từ 02 năm kinh nghiệm ở vị trí Kế toán tổng hợp/Kế toán thuế/Kế toán doanh nghiệp."
+        ],
+        "technical_skills": [
+          "MISA",
+          "Excel",
+          "Nghiệp vụ kế toán",
+          "Quy định thuế, hóa đơn và chứng từ kế toán",
+          "Xuất hóa đơn VAT",
+          "Lập và nộp tờ khai thuế",
+          "Theo dõi, đối chiếu số liệu nhập – xuất – tồn hàng hóa",
+          "Lập báo cáo kết quả kinh doanh",
+          "Tính lương, BHXH, báo tăng/giảm lao động",
+          "Soạn thảo văn bản, hợp đồng",
+          "Kế Toán Tổng Hợp",
+          "Quyết Toán Thuế",
+          "Kinh Nghiệm Kế Toán Xây Dựng",
+          "Phân Tích Báo Cáo Tài Chính (bctc)",
+          "Kế Toán Nguyên Vật Liệu"
+        ],
+        "soft_skills": [
+          "Cẩn thận",
+          "Trung thực",
+          "Có trách nhiệm",
+          "Chủ động trong công việc"
+        ],
+        "languages_required": null,
+        "experience_required": 2,
+        "salary": "10.000.000 – 12.000.000 triệu đồng/tháng, thỏa thuận tương xứng với năng lực và kinh nghiệm.",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_avg": null,
+        "contract_type": "Toàn thời gian",
+        "working_hours": "Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)",
+        "benefits": [
+          "Thu nhập cạnh tranh: 10.000.000 – 12.000.000 triệu đồng/tháng, thỏa thuận tương xứng với năng lực và kinh nghiệm.",
+          "Thưởng hiệu suất công việc",
+          "Cung cấp trang thiết bị phục vụ công việc",
+          "Thưởng Lễ, Tết và các chính sách phúc lợi Công đoàn theo quy định Công ty",
+          "Tham gia đầy đủ BHXH, BHYT, BHTN sau thời gian thử việc, đảm bảo quyền lợi người lao động.",
+          "Được xem xét tăng lương định kỳ, ghi nhận xứng đáng theo hiệu quả công việc.",
+          "Hưởng đầy đủ các chế độ phụ cấp và phúc lợi theo quy định của công ty.",
+          "Môi trường làm việc trẻ trung, chuyên nghiệp, đồng nghiệp thân thiện, hỗ trợ phối hợp trong công việc.",
+          "Có cơ hội phát triển chuyên môn về kế toán tổng hợp, kế toán thuế, tài chính và quản lý vận hành doanh nghiệp.",
+          "Công việc ổn định, có cơ hội gắn bó lâu dài và phát triển cùng công ty."
+        ],
+        "description": "An An Ecohome hoạt động trong lĩnh vực sản xuất vật liệu trang trí xây dựng nội thất – ngoại thất, cung cấp các sản phẩm và giải pháp góp phần kiến tạo không gian sống hiện đại, thẩm mỹ.\nVị trí Kế toán tổng hợp phụ trách kế toán, thuế, tài chính và quản lý chi phí, đồng hành cùng hoạt động sản xuất và kinh doanh của doanh nghiệp.\nChi tiết công việc:\n- Kiểm soát doanh thu, công nợ, dòng tiền; nhập liệu và hạch toán trên phần mềm MISA.\n- Xuất hóa đơn VAT, kiểm tra chứng từ, lập và nộp tờ khai thuế định kỳ.\n- Theo dõi, đối chiếu số liệu nhập – xuất – tồn hàng hóa.\n- Tổng hợp chi phí, lập báo cáo kết quả kinh doanh tháng/quý/năm.\n- Theo dõi chấm công, tính lương, thực hiện BHXH, báo tăng/giảm lao động và soạn thảo văn bản, hợp đồng liên quan.\n- Thực hiện các công việc khác theo phân công của Ban Giám đốc.",
+        "requirements_text": "Yêu cầu ứng viên:\n- Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.\n- Có từ 02 năm kinh nghiệm ở vị trí Kế toán tổng hợp/Kế toán thuế/Kế toán doanh nghiệp.\n- Nắm vững nghiệp vụ kế toán, quy định thuế, hóa đơn và chứng từ kế toán.\n- Thành thạo Excel, ưu tiên ứng viên sử dụng tốt phần mềm MISA.\n- Cẩn thận, trung thực, có trách nhiệm và chủ động trong công việc.\nKiến thức ngành: Xây dựng, Thiết kế / Kiến trúc\nKỹ năng cần có: Kế Toán Tổng Hợp, Quyết Toán Thuế, Kinh Nghiệm Kế Toán Xây Dựng, Phân Tích Báo Cáo Tài Chính (bctc), Kế Toán Nguyên Vật Liệu"
+      },
+      "raw_checks": {
+        "full_title": true,
+        "full_description": false,
+        "full_requirements": false,
+        "salary_in_source": true,
+        "all_25_fields": true
+      },
+      "field_count": 25,
+      "output": {
+        "job_title": "Kế Toán Tổng Hợp - Thuế / General Accountant - Vật Tư Xây Dựng Nội Thất | Lương 12 Triệu (Kinh Nghiệm 1,5 Năm) | Tại Hà Nội",
+        "company_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ AN AN ECOHOME",
+        "job_category": "Kế toán",
+        "sub_category": "Kế toán tổng hợp / Kế toán thuế",
+        "industry": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng",
+        "category": null,
+        "location": "Tổng cục 5, Phường Thanh Liệt, Hà Nội",
+        "country": "Việt Nam",
+        "posting_date": null,
+        "deadline": "2026-12-02",
+        "url": "https://www.topcv.vn/viec-lam/ke-toan-tong-hop-thue-general-accountant-vat-tu-xay-dung-noi-that-luong-12-trieu-kinh-nghiem-1-5-nam-tai-ha-noi/2347093.html",
+        "qualifications": [
+          "Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.",
+          "Đại Học trở lên",
+          "Có từ 02 năm kinh nghiệm ở vị trí Kế toán tổng hợp/Kế toán thuế/Kế toán doanh nghiệp."
+        ],
+        "technical_skills": [
+          "MISA",
+          "Excel",
+          "Nghiệp vụ kế toán",
+          "Quy định thuế, hóa đơn và chứng từ kế toán",
+          "Xuất hóa đơn VAT",
+          "Lập và nộp tờ khai thuế",
+          "Theo dõi, đối chiếu số liệu nhập – xuất – tồn hàng hóa",
+          "Lập báo cáo kết quả kinh doanh",
+          "Tính lương, BHXH, báo tăng/giảm lao động",
+          "Soạn thảo văn bản, hợp đồng",
+          "Kế Toán Tổng Hợp",
+          "Quyết Toán Thuế",
+          "Kinh Nghiệm Kế Toán Xây Dựng",
+          "Phân Tích Báo Cáo Tài Chính (bctc)",
+          "Kế Toán Nguyên Vật Liệu"
+        ],
+        "soft_skills": [
+          "Cẩn thận",
+          "Trung thực",
+          "Có trách nhiệm",
+          "Chủ động trong công việc"
+        ],
+        "languages_required": null,
+        "experience_required": 2.0,
+        "salary": "10.000.000 – 12.000.000 triệu đồng/tháng, thỏa thuận tương xứng với năng lực và kinh nghiệm.",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_avg": null,
+        "contract_type": "Toàn thời gian",
+        "working_hours": "* Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)",
+        "benefits": [
+          "Thu nhập cạnh tranh: 10.000.000 – 12.000.000 triệu đồng/tháng, thỏa thuận tương xứng với năng lực và kinh nghiệm.",
+          "Thưởng hiệu suất công việc",
+          "Cung cấp trang thiết bị phục vụ công việc",
+          "Thưởng Lễ, Tết và các chính sách phúc lợi Công đoàn theo quy định Công ty",
+          "Tham gia đầy đủ BHXH, BHYT, BHTN sau thời gian thử việc, đảm bảo quyền lợi người lao động.",
+          "Được xem xét tăng lương định kỳ, ghi nhận xứng đáng theo hiệu quả công việc.",
+          "Hưởng đầy đủ các chế độ phụ cấp và phúc lợi theo quy định của công ty.",
+          "Môi trường làm việc trẻ trung, chuyên nghiệp, đồng nghiệp thân thiện, hỗ trợ phối hợp trong công việc.",
+          "Có cơ hội phát triển chuyên môn về kế toán tổng hợp, kế toán thuế, tài chính và quản lý vận hành doanh nghiệp.",
+          "Công việc ổn định, có cơ hội gắn bó lâu dài và phát triển cùng công ty."
+        ],
+        "description": "An An Ecohome hoạt động trong lĩnh vựcsản xuất vật liệu trang trí xây dựng nội thất – ngoại thất, cung cấp các sản phẩm và giải pháp góp phần kiến tạo không gian sống hiện đại, thẩm mỹ.\nVị tríKế toán tổng hợp phụ trách kế toán, thuế, tài chính và quản lý chi phí, đồng hành cùng hoạt động sản xuất và kinh doanh của doanh nghiệp.\nChi tiết công việc:\n- Kiểm soát doanh thu, công nợ, dòng tiền; nhập liệu và hạch toán trên phần mềm MISA.\n- Xuất hóa đơn VAT, kiểm tra chứng từ, lập và nộp tờ khai thuế định kỳ.\n- Theo dõi, đối chiếu số liệu nhập – xuất – tồn hàng hóa.\n- Tổng hợp chi phí, lập báo cáo kết quả kinh doanh tháng/quý/năm.\n- Theo dõi chấm công, tính lương, thực hiện BHXH, báo tăng/giảm lao động và soạn thảo văn bản, hợp đồng liên quan.\n- Thực hiện các công việc khác theo phân công của Ban Giám đốc.",
+        "requirements_text": "- Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.\n- Có từ 02 năm kinh nghiệm ở vị trí Kế toán tổng hợp/Kế toán thuế/Kế toán doanh nghiệp.\n- Nắm vững nghiệp vụ kế toán, quy định thuế, hóa đơn và chứng từ kế toán.\n- Thành thạo Excel, ưu tiên ứng viên sử dụng tốt phần mềm MISA.\n- Cẩn thận, trung thực, có trách nhiệm và chủ động trong công việc.\nKiến thức ngành\nXây dựng, Thiết kế / Kiến trúc\nKỹ năng cần có\nKế Toán Tổng Hợp, Quyết Toán Thuế, Kinh Nghiệm Kế Toán Xây Dựng, Phân Tích Báo Cáo Tài Chính (bctc), Kế Toán Nguyên Vật Liệu"
+      },
+      "elapsed_seconds": 11.63,
+      "sample_group": "accounting",
+      "sample_id": "029be8d9a61264cd6479",
+      "source_title": "Kế Toán Tổng Hợp - Thuế / General Accountant - Vật Tư Xây Dựng Nội Thất | Lương 12 Triệu (Kinh Nghiệm 1,5 Năm) | Tại Hà Nội"
+    },
+    {
+      "provider": "OPENROUTER",
+      "ok": true,
+      "model": "particle-ai/particle-1:free",
+      "models_http_status": 200,
+      "actual_model": "particle-ai/particle-1:free",
+      "usage": {
+        "input_tokens": 4696,
+        "output_tokens": 3039,
+        "total_tokens": 7735,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 0,
+          "cache_creation": 0
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 2036
+        }
+      },
+      "finish_reason": "stop",
+      "raw_output": {
+        "job_title": "Senior Data Analyst",
+        "company_name": "Công ty Cổ phần Vulcan Labs",
+        "job_category": "Data Analyst",
+        "sub_category": "Data Analyst",
+        "industry": "Xuất bản phần mềm",
+        "category": null,
+        "location": "Hồ Chí Minh",
+        "country": "Việt Nam",
+        "posting_date": null,
+        "deadline": "2026-12-03",
+        "url": "https://www.topcv.vn/viec-lam/senior-data-analyst/2349104.html",
+        "qualifications": [
+          "Đại Học trở lên"
+        ],
+        "technical_skills": [
+          "SQL",
+          "Python/R",
+          "BI tools",
+          "A/B testing experimentation",
+          "Google Analytics / mobile analytics tools",
+          "Dashboard design and reusable data models",
+          "Data wrangling, forecasting, or experiment analysis"
+        ],
+        "soft_skills": [
+          "Strong critical thinking and multi-dimensional thinking",
+          "Strong sense of product and marketing",
+          "Data-driven decision-maker with high attention to detail",
+          "Comfortable working in a fast-paced, ambiguous environment",
+          "Good critical thinker who likes to turn data into stories and actions"
+        ],
+        "languages_required": null,
+        "experience_required": 3,
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_avg": null,
+        "contract_type": "Toàn thời gian",
+        "working_hours": "Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)",
+        "benefits": [
+          "Grow Yourself: Work with young, talented teammates on global apps across a diverse portfolio and varying app sizes (Mainly in AI domain)",
+          "Attractive Package: 13th-month salary, performance bonus, and biannual performance reviews based on achievements and contributions.",
+          "Healthy Culture: 12 days of annual leave and 5 days of sick leave, health-care insurance, annual health check, and a dedicated team-bonding budget.",
+          "Well-equipped Facility: MacBook provided, with an additional monitor available if needed.",
+          "Diverse Activities: Complimentary coffee, tea, and snacks; company trips; team-building activities; and quarterly happy-hour events.",
+          "Innovative Environment: Seminars and internal sharing sessions, and a culture with no barriers to ideas."
+        ],
+        "description": "Never settle, think bigger. Vulcan Labs is a leading mobile application development company based in Ho Chi Minh City, Vietnam. Since 2017, we have published over 40+ mobile applications with several hundred thousand Daily Active Users and over 10 million downloads combined. We welcome individuals from diverse backgrounds to join our team and embrace challenges in a fast-changing industry.\nWe are looking for a good critical thinker who likes to turn data into stories and actions. This position will collaborate with marketing and product to optimize user experience, monetization, user acquisition and other business needs.\nAs a Senior Data Analyst in our team, you will:\nData Analysis & Business Insights\n- Analyze large-scale mobile app data to generate insightful findings for Product and Marketing teams.\n- Translate business problems into structured analytical questions and hypotheses.\n- Identify opportunities and risks related to user behavior, retention, monetization, and growth.\n- Turn complex data into clear stories and actionable recommendations.\n- Train models to forecast user behavior, LTV, and revenue for business insights.\nMetrics, Tracking & Dashboard Ownership\n- Initiate and maintain event tracking structures and define key metrics aligned with business goals.\n- Design, build, and maintain dashboards using BI tools to monitor app and campaign performance.\n- Ensure data accuracy, consistency, and reliability across reports and dashboards.\nExperimentation & Optimization\n- Analyze and evaluate A/B testing results for product features, onboarding flows, monetization, and growth experiments.\n- Provide recommendations to optimize testing strategies and future experiments.\n- Support continuous improvement of user experience and business performance through data.\nCross-functional Collaboration\n- Work closely with decision makers to turn data insights into concrete actions.\n- Partner with Product Team, Growth Marketers, and Engineers to support data-driven decisions.\n- Act as a trusted data advisor for product and marketing initiatives.",
+        "requirements_text": "3 năm kinh nghiệm chuyên môn\nĐại Học trở lên\n\nCandidate Requirements\n- At least 3-5+ years of experience working as an Analyst with experience in analytics/data science/insights/strategy/BI\n- Advanced working knowledge and hands-on experience in SQL\n- Ability to design scalable dashboards and reusable data models.\n- Experience in conducting A/B testing experimentation\n- Experience with Python/R for data wrangling, forecasting, or experiment analysis.\n- Familiarity with Google Analytics / mobile analytics tools is a plus.\n\nMindset & Soft Skills\n- Strong critical thinking and multi-dimensional thinking.\n- Strong sense of product and marketing.\n- Data-driven decision-maker with high attention to detail.\n- Comfortable working in a fast-paced, ambiguous environment."
+      },
+      "raw_checks": {
+        "full_title": true,
+        "full_description": false,
+        "full_requirements": false,
+        "salary_in_source": true,
+        "all_25_fields": true
+      },
+      "field_count": 25,
+      "output": {
+        "job_title": "Senior Data Analyst",
+        "company_name": "Công ty Cổ phần Vulcan Labs",
+        "job_category": "Data Analyst",
+        "sub_category": "Data Analyst",
+        "industry": "Xuất bản phần mềm",
+        "category": null,
+        "location": "Hồ Chí Minh",
+        "country": "Việt Nam",
+        "posting_date": null,
+        "deadline": "2026-12-03",
+        "url": "https://www.topcv.vn/viec-lam/senior-data-analyst/2349104.html",
+        "qualifications": [
+          "Đại Học trở lên"
+        ],
+        "technical_skills": [
+          "SQL",
+          "Python/R",
+          "BI tools",
+          "A/B testing experimentation",
+          "Google Analytics / mobile analytics tools",
+          "Dashboard design and reusable data models",
+          "Data wrangling, forecasting, or experiment analysis"
+        ],
+        "soft_skills": [
+          "Strong critical thinking and multi-dimensional thinking",
+          "Strong sense of product and marketing",
+          "Data-driven decision-maker with high attention to detail",
+          "Comfortable working in a fast-paced, ambiguous environment",
+          "Good critical thinker who likes to turn data into stories and actions"
+        ],
+        "languages_required": null,
+        "experience_required": 3.0,
+        "salary": "Thoả thuận",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_avg": null,
+        "contract_type": "Toàn thời gian",
+        "working_hours": "* Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)",
+        "benefits": [
+          "Why do you love working here?",
+          "Grow Yourself: Work with young, talented teammates on global apps across a diverse portfolio and varying app sizes (Mainly in AI domain)",
+          "Attractive Package: 13th-month salary, performance bonus, and biannual performance reviews based on achievements and contributions.",
+          "Healthy Culture: 12 days of annual leave and 5 days of sick leave, health-care insurance, annual health check, and a dedicated team-bonding budget.",
+          "Well-equipped Facility: MacBook provided, with an additional monitor available if needed.",
+          "Diverse Activities: Complimentary coffee, tea, and snacks; company trips; team-building activities; and quarterly happy-hour events.",
+          "Innovative Environment: Seminars and internal sharing sessions, and a culture with no barriers to ideas."
+        ],
+        "description": "Never settle, think bigger. Vulcan Labs is a leading mobile application development company based in Ho Chi Minh City, Vietnam. Since 2017, we have published over 40+ mobile applications with several hundred thousand Daily Active Users and over 10 million downloads combined. We welcome individuals from diverse backgrounds to join our team and embrace challenges in a fast-changing industry.\nWe are looking for a good critical thinker who likes to turn data into stories and actions. This position will collaborate with marketing and product to optimize user experience, monetization, user acquisition and other business needs.\nAs a Senior Data Analyst in our team, you will:\nData Analysis & Business Insights\n* Analyze large-scale mobile app data to generate insightful findings for Product and Marketing teams.\n* Translate business problems into structured analytical questions and hypotheses.\n* Identify opportunities and risks related to user behavior, retention, monetization, and growth.\n* Turn complex data into clear stories and actionable recommendations.\n* Train models to forecast user behavior, LTV, and revenue for business insights.\nMetrics, Tracking & Dashboard Ownership\n* Initiate and maintain event tracking structures and define key metrics aligned with business goals.\n* Design, build, and maintain dashboards using BI tools to monitor app and campaign performance.\n* Ensure data accuracy, consistency, and reliability across reports and dashboards.\nExperimentation & Optimization\n* Analyze and evaluate A/B testing results for product features, onboarding flows, monetization, and growth experiments.\n* Provide recommendations to optimize testing strategies and future experiments.\n* Support continuous improvement of user experience and business performance through data.\nCross-functional Collaboration\n* Work closely with decision makers to turn data insights into concrete actions.\n* Partner with Product Team, Growth Marketers, and Engineers to support data-driven decisions.\n* Act as a trusted data advisor for product and marketing initiatives.",
+        "requirements_text": "* At least 3-5+ years of experience working as an Analyst with experience in analytics/data science/insights/strategy/BI\n* Advanced working knowledge and hands-on experience in SQL\n* Ability to design scalable dashboards and reusable data models.\n* Experience in conducting A/B testing experimentation\n* Experience with Python/R for data wrangling, forecasting, or experiment analysis.\n* Familiarity with Google Analytics / mobile analytics tools is a plus.\nMindset & Soft Skills\n* Strong critical thinking and multi-dimensional thinking.\n* Strong sense of product and marketing.\n* Data-driven decision-maker with high attention to detail.\n* Comfortable working in a fast-paced, ambiguous environment."
+      },
+      "elapsed_seconds": 17.97,
+      "sample_group": "data",
+      "sample_id": "02de27f724f84b23a8c7",
+      "source_title": "Senior Data Analyst"
+    },
+    {
+      "provider": "OPENROUTER",
+      "ok": true,
+      "model": "particle-ai/particle-1:free",
+      "models_http_status": 200,
+      "actual_model": "particle-ai/particle-1:free",
+      "usage": {
+        "input_tokens": 4616,
+        "output_tokens": 4467,
+        "total_tokens": 9083,
+        "input_token_details": {
+          "audio": 0,
+          "cache_read": 0,
+          "cache_creation": 0
+        },
+        "output_token_details": {
+          "audio": 0,
+          "reasoning": 3201
+        }
+      },
+      "finish_reason": "stop",
+      "raw_output": {
+        "job_title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh",
+        "company_name": "CHI NHÁNH CÔNG TY CỔ PHẦN ALTIUS LINK VIỆT NAM TẠI THÀNH PHỐ HỒ CHÍ MINH",
+        "job_category": "Chăm sóc khách hàng",
+        "sub_category": "Chăm sóc khách hàng dịch vụ vận chuyển sàn thương mại điện tử",
+        "industry": "Thương mại điện tử / Vận chuyển",
+        "category": null,
+        "location": "Hồ Chí Minh",
+        "country": "Việt Nam",
+        "posting_date": null,
+        "deadline": "2026-12-04",
+        "url": "https://www.topcv.vn/brand/altiuslink/tuyen-dung/nhan-vien-cham-soc-khach-hang-dich-vu-van-chuyen-san-tmdt-khong-yeu-cau-kinh-nghiem-thu-viec-100-luong-cung-co-phu-cap-dao-tao-tai-ho-chi-minh-j2349385.html",
+        "qualifications": [
+          "Trung cấp trở lên",
+          "Tuổi 18 - 40",
+          "Không yêu cầu kinh nghiệm chuyên môn",
+          "Có kinh nghiệm CSKH là lợi thế, không có kinh nghiệm sẽ được đào tạo",
+          "Không còn vướng lịch học"
+        ],
+        "technical_skills": null,
+        "soft_skills": [
+          "Nhanh nhẹn",
+          "Chăm chỉ",
+          "Cẩn thận",
+          "Có trách nhiệm trong công việc",
+          "Xử lý tình huống và nắm bắt thông tin nhanh"
+        ],
+        "languages_required": null,
+        "experience_required": 0,
+        "salary": "7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_avg": null,
+        "contract_type": "Toàn thời gian",
+        "working_hours": "Xoay ca trong khung giờ 07:00-21:00, ca 8 tiếng/ngày, 6 ngày/tuần, nghỉ 1 ngày bất kỳ không cố định. Lịch làm việc do quản lý sắp xếp.",
+        "benefits": [
+          "Thu nhập: 7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+          "Hưởng 100% LCB ở giai đoạn thử việc.",
+          "Phụ cấp ăn được áp dụng sau khi kí HĐLĐ",
+          "Thưởng ngay 1.000.000 khi hoàn tất 2 tháng thử việc và kí HĐLĐ.",
+          "Đào tạo trong vòng 5 ngày, phụ cấp 200.000 VNĐ/ngày.",
+          "Phụ cấp đào tạo được chi trả khi ký hợp đồng lao động chính thức.",
+          "Môi trường làm việc công ty nước ngoài chuyên nghiệp, hiện đại, trang thiết bị làm việc công ty cung cấp khi làm tại văn phòng.",
+          "Cơ hội thăng tiến trong công việc rõ ràng.",
+          "Nhận lương cuối tháng"
+        ],
+        "description": "- Tiếp nhận thông tin của khách hàng thắc mắc về dịch vụ vận chuyển của sàn thương mại điện tử qua kênh Call và Chat\n- Tư vấn, phản hồi kết quả, đưa ra hướng xử lý phù hợp cho các vấn đề khách hàng liên hệ nhờ hỗ trợ.\n- Xử lý các khiếu nại phát sinh liên quan đến dịch vụ vận chuyển dựa trên nhận định cá nhân cho mỗi tình huống và quy trình hiện hành của sàn thương mại điện tử.\n- Thực hiện gọi ra đối với một số tình huống cần thiết theo quy trình hiện hành.\n- Thực hiện các công việc theo sắp xếp, điều phối từ cấp trên",
+        "requirements_text": "Không yêu cầu kinh nghiệm chuyên môn\nTuổi 18 - 40\nTrung cấp trở lên\nChuyên môn: Chăm sóc khách hàng\n- Có kinh nghiệm CSKH là lợi thế, không có kinh nghiệm sẽ được đào tạo\n- Nhanh nhẹn, chăm chỉ, cẩn thận và có trách nhiệm trong công việc\n- Xử lý tình huống và nắm bắt thông tin nhanh\n- Đáp ứng thời gian làm việc xoay ca linh động, làm việc trực tiếp tại văn phòng công ty\n- Không còn vướng lịch học."
+      },
+      "raw_checks": {
+        "full_title": true,
+        "full_description": false,
+        "full_requirements": false,
+        "salary_in_source": true,
+        "all_25_fields": true
+      },
+      "field_count": 25,
+      "output": {
+        "job_title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh",
+        "company_name": "CHI NHÁNH CÔNG TY CỔ PHẦN ALTIUS LINK VIỆT NAM TẠI THÀNH PHỐ HỒ CHÍ MINH",
+        "job_category": "Chăm sóc khách hàng",
+        "sub_category": "Chăm sóc khách hàng dịch vụ vận chuyển sàn thương mại điện tử",
+        "industry": "Thương mại điện tử / Vận chuyển",
+        "category": null,
+        "location": "Hồ Chí Minh",
+        "country": "Việt Nam",
+        "posting_date": null,
+        "deadline": "2026-12-04",
+        "url": "https://www.topcv.vn/brand/altiuslink/tuyen-dung/nhan-vien-cham-soc-khach-hang-dich-vu-van-chuyen-san-tmdt-khong-yeu-cau-kinh-nghiem-thu-viec-100-luong-cung-co-phu-cap-dao-tao-tai-ho-chi-minh-j2349385.html",
+        "qualifications": [
+          "Trung cấp trở lên",
+          "Tuổi 18 - 40",
+          "Không yêu cầu kinh nghiệm chuyên môn",
+          "Có kinh nghiệm CSKH là lợi thế, không có kinh nghiệm sẽ được đào tạo",
+          "Không còn vướng lịch học"
+        ],
+        "technical_skills": null,
+        "soft_skills": [
+          "Nhanh nhẹn",
+          "Chăm chỉ",
+          "Cẩn thận",
+          "Có trách nhiệm trong công việc",
+          "Xử lý tình huống và nắm bắt thông tin nhanh"
+        ],
+        "languages_required": null,
+        "experience_required": 0.0,
+        "salary": "7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+        "salary_min": null,
+        "salary_max": null,
+        "salary_avg": null,
+        "contract_type": "Toàn thời gian",
+        "working_hours": "* Xoay ca trong khung giờ 07:00-21:00, ca 8 tiếng/ngày, 6 ngày/tuần, nghỉ 1 ngày bất kỳ không cố định. Lịch làm việc do quản lý sắp xếp.",
+        "benefits": [
+          "Thu nhập: 7.600.000 - 9.200.000 VNĐ (LCB + KPI + Phụ cấp ăn + Thưởng hiệu suất + OT)",
+          "Hưởng 100% LCB ở giai đoạn thử việc.",
+          "Phụ cấp ăn được áp dụng sau khi kí HĐLĐ",
+          "Thưởng ngay 1.000.000 khi hoàn tất 2 tháng thử việc và kí HĐLĐ.",
+          "Đào tạo trong vòng 5 ngày, phụ cấp 200.000 VNĐ/ngày.",
+          "Phụ cấp đào tạo được chi trả khi ký hợp đồng lao động chính thức.",
+          "Môi trường làm việc công ty nước ngoài chuyên nghiệp, hiện đại, trang thiết bị làm việc công ty cung cấp khi làm tại văn phòng.",
+          "Cơ hội thăng tiến trong công việc rõ ràng.",
+          "Nhận lương cuối tháng"
+        ],
+        "description": "* Tiếp nhận thông tin của khách hàng thắc mắc về dịch vụ vận chuyển của sàn thương mại điện tử qua kênh Call và Chat\n* Tư vấn, phản hồi kết quả, đưa ra hướng xử lý phù hợp cho các vấn đề khách hàng liên hệ nhờ hỗ trợ.\n* Xử lý các khiếu nại phát sinh liên quan đến dịch vụ vận chuyển dựa trên nhận định cá nhân cho mỗi tình huống và quy trình hiện hành của sàn thương mại điện tử.\n* Thực hiện gọi ra đối với một số tình huống cần thiết theo quy trình hiện hành.\n* Thực hiện các công việc theo sắp xếp, điều phối từ cấp trên",
+        "requirements_text": "* Có kinh nghiệm CSKH là lợi thế, không có kinh nghiệm sẽ được đào tạo\n* Nhanh nhẹn, chăm chỉ, cẩn thận và có trách nhiệm trong công việc\n* Xử lý tình huống và nắm bắt thông tin nhanh\n* Đáp ứng thời gian làm việc xoay ca linh động, làm việc trực tiếp tại văn phòng công ty\n* Không còn vướng lịch học."
+      },
+      "elapsed_seconds": 20.35,
+      "sample_group": "brand",
+      "sample_id": "08718719822907178c63",
+      "source_title": "Nhân Viên Chăm Sóc Khách Hàng (Dịch Vụ Vận Chuyển Sàn TMĐT) Không Yêu Cầu Kinh Nghiệm, Thử Việc 100% Lương Cứng, Có Phụ Cấp Đào Tạo Tại Hồ Chí Minh"
+    }
+  ]
+}

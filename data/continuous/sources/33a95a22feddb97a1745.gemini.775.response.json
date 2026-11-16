@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Nhóm Telesales\",\n  \"company_name\": null,\n  \"job_category\": \"Telesales\",\n  \"sub_category\": \"Tư vấn tài chính\",\n  \"industry\": \"Tài chính\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-nhom-telesales/2325300.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Khả năng làm việc dưới áp lực cao\",\n    \"Tuyển dụng và xây dựng đội nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Giờ hành chính, 6 ngày/tuần\",\n  \"benefits\": [\n    \"Thu nhập cạnh tranh (Lương cứng + Phụ cấp + Thưởng hoa hồng)\",\n    \"Thử việc 100% lương, tham gia Bảo hiểm nhà nước từ tháng đầu tiên nhận việc\",\n    \"Tham gia đầy đủ các chế độ BH + Gói BH sức khỏe Bảo Việt\",\n    \"Công ty cung cấp trang thiết bị làm việc\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Thúc đẩy doanh số bán hàng, cải thiện hiệu suất của nhóm bán hàng qua điện thoại\\n- Nghe các cuộc tư vấn bán hàng của nhân viên bán hàng qua điện thoại hàng ngày\\n- Đảm bảo các hoạt động của nhóm tuân thủ các chính sách, quy định và tiêu chuẩn của hoạt động cung cấp dịch vụ\\n- Tuyển dụng, Đào tạo, huấn luyện nhân viên mới\\n- Cải thiện chất lượng và doanh số của nhóm phụ trách; kiểm soát chất lượng bán hàng hàng ngày.\\n- Thực hiện các nhiệm vụ khác được giao bởi quản lý trực tiếp\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng trở lên\\n- Có từ 1 năm kinh nghiệm ở vị trí quản lý\\n- Có khả năng tuyển dụng và xây dựng đội nhóm - có sẵn đội ngũ ít nhất 5 ứng viên là ưu thế \\n- Khả năng làm việc dưới áp lực cao\"\n}\n```",
+  "usage": {
+    "input_tokens": 4536,
+    "output_tokens": 642,
+    "total_tokens": 5178,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

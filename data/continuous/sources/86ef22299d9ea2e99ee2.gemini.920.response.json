@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tư Vấn Môi Trường Phúc Lợi Đầy Đủ, Thu Nhập Theo Năng Lực Upto 25 Triệu Đồng\",\n  \"company_name\": null,\n  \"job_category\": \"Năng lượng / Môi trường\",\n  \"sub_category\": \"Kỹ sư môi trường\",\n  \"industry\": \"Năng lượng / Môi trường\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tu-van-moi-truong-phuc-loi-day-du-thu-nhap-theo-nang-luc-upto-25-trieu-dong/2354364.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp chuyên ngành môi trường\"\n  ],\n  \"technical_skills\": [\n    \"MS\",\n    \"AutoCad cơ bản\",\n    \"Đọc hiểu bản vẽ\",\n    \"Kiến Thức Về Môi Trường\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng sắp xếp công việc\",\n    \"Logic\",\n    \"Nhạy bén trong xử lý tình huống\",\n    \"Thuyết trình\",\n    \"Giao tiếp\",\n    \"Tư vấn\",\n    \"Đàm phán\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nSáng thứ 7: Từ 8h00 - 12h00\",\n  \"benefits\": [\n    \"Thưởng theo dự án\",\n    \"Thưởng Lễ, Tết\",\n    \"Lương tháng 13 đầy đủ\",\n    \"Team building\",\n    \"Tham quan du lịch hàng năm\",\n    \"Hưởng đầy đủ các chế độ của người lao động theo Luật Lao Động Việt Nam\",\n    \"Môi trường năng động, chuyên nghiệp, được đào tạo và có cơ hội thăng tiến\"\n  ],\n  \"description\": \"- Tư vấn các thủ tục về pháp luật môi trường.\\n- Lập Báo cáo đánh giá tác động môi trường (ĐTM);\\n- Lập hồ sơ xin cấp giấy phép môi trường;\\n- Lập hồ sơ kế hoạch vận hành thử nghiệm, lập báo cáo quan trắc môi trường định kỳ và các hồ sơ môi trường khác.\\n- Kiểm kê khí nhà kính\",\n  \"requirements_text\": \"- Tốt nghiệp chuyên ngành môi trường.\\n- Ưu tiên ứng viên có ít nhất 1 năm kinh nghiệm trong mảng tư vấn - viết hồ sơ môi trường.\\n- Thành thạo MS, sử dụng AutoCad cơ bản, đọc hiểu bản vẽ.\\n- Có kỹ năng sắp xếp công việc, logic, nhạy bén trong xử lý tình huống.\\n- Có khả năng thuyết trình, giao tiếp với khách hàng.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4958,
+    "output_tokens": 786,
+    "total_tokens": 5744,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

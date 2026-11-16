@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tuyển Dụng\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân sự\",\n  \"sub_category\": \"Tuyển dụng\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"510 Võ Văn Kiệt, Phường Cầu Ông Lãnh, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tuyen-dung/2272592.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Có tinh thần trách nhiệm\",\n    \"chủ động trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập: Thỏa thuận (lương căn bản, phụ cấp, thưởng KPI)\",\n    \"Ký kết HĐLĐ, tham gia BHXH và các chế độ khác theo quy định pháp luật\",\n    \"Được hưởng các chế độ theo phúc lợi của Công ty\",\n    \"Thưởng thâm niên, lương tháng 13, du lịch nghỉ dưỡng hàng năm\"\n  ],\n  \"description\": \"Tuyển dụng, phát triển nguồn, phỏng vấn ứng viên lao động phổ thông (chủ yếu là tạp vụ vệ sinh) đảm bảo số lượng, yêu cầu và thời gian\\n- Theo dõi, kiểm tra và kịp thời giải quyết/hỗ trợ nhân viên mới nhận việc\\n- Theo dõi và thực hiện các hợp đồng với đơn vị cung ứng lao động\\n- Đi công tác (nếu cần)\",\n  \"requirements_text\": \"Yêu cầu 1 năm kinh nghiệm trở lên; tuyển dụng cho dự án, lao động phổ thông ngành vệ sinh công nghiệp, lao động phổ thông\\nTối ưu hóa các nguồn offline, online\\nCó tinh thần trách nhiệm, chủ động trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4462,
+    "output_tokens": 589,
+    "total_tokens": 5051,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

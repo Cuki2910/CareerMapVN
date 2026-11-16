@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"CTV Xử Lý/Gán Nhãn Dữ Liệu Hình Ảnh OFFLINE\",\n  \"company_name\": null,\n  \"job_category\": \"Data Labeling (Gán nhãn dữ liệu)\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ctv-xu-ly-gan-nhan-du-lieu-hinh-anh-offline/2355666.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Xử Lý Dữ Liệu\",\n    \"Dán Nhãn Dữ Liệu\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)\\nThứ 7 Làm Online\",\n  \"benefits\": [\n    \"Thu nhập: 7-9tr/tháng + phụ cấp (đạt đủ kpi)\",\n    \"Được đào tạo, hướng dẫn cụ thể về nghiệp vụ trong môi trường công ty chuyên nghiệp, năng động.\",\n    \"Có cơ hội trở thành trưởng nhóm, quản lý dự án nếu phù hợp.\"\n  ],\n  \"description\": \"Sử dụng công cụ có sẵn để xử lý dữ liệu, hình ảnh\\nĐánh dấu các đối tượng dữ liệu, ảnh theo hướng dẫn và quy tắc quy định\\nĐiền thông tin của các đối tượng (thời tiết, phương tiện giao thông, cảm xúc con người, vật thể…) theo tài liệu hướng dẫn\\nKhoanh và dán nhãn theo các vật thể hoặc đối tượng trong hình ảnh\\nVẽ, nhận diện các đối tượng trong hình ảnh để làm cơ sở dữ liệu đầu vào cho hệ thống trí tuệ nhân tạo.\",\n  \"requirements_text\": \"Có kinh nghiệm dán nhãn dữ liệu hình ảnh 2D, 3D là một lợi thế, chưa có kinh nghiệm sẽ được training đào tạo từ đầu.\\nCó laptop cá nhân và chuột máy tính.\\nLàm Fulltime tại văn phòng công ty\"\n}\n```",
+  "usage": {
+    "input_tokens": 4630,
+    "output_tokens": 621,
+    "total_tokens": 5251,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

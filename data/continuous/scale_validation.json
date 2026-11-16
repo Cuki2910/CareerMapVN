@@ -1,0 +1,20 @@
+{
+  "checked_at_local": "2026-11-15T00:37:27.660208+07:00",
+  "pid": 99237,
+  "saved_jobs_schema_valid": 66,
+  "new_jobs_checked": 7,
+  "errors_this_run": [],
+  "discovered_search_pages": 649,
+  "pending": 43,
+  "mean_completion_interval_seconds": 18.95,
+  "steady_jobs_per_minute": 3.17,
+  "source_checks": [
+    "full H1 title",
+    "full description",
+    "full requirements",
+    "working hours",
+    "recognized degree/major/certificate lines"
+  ],
+  "api_resume_at": null,
+  "discovery_resume_at": null
+}

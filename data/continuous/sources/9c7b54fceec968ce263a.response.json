@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Quản Lý Cửa Hàng (Hà Nội/Hải Phòng)\",\"company_name\":\"CÔNG TY TNHH MTV DAT BIKE VIETNAM\",\"job_category\":\"Bán hàng / Kinh doanh\",\"sub_category\":\"Quản lý cửa hàng/Cửa hàng trưởng\",\"industry\":\"Sản xuất mô tô, xe máy\",\"category\":null,\"location\":\"Hồ Chí Minh; Hà Nội; Hải Phòng\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-03\",\"url\":\"https://www.topcv.vn/viec-lam/quan-ly-cua-hang-ha-noi-hai-phong/2216790.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Quản Lý Kho\",\"Quản Lý Nhân Sự\",\"Quản Lý Bán Hàng\",\"Quản Lý Tài Chính\",\"Lãnh đạo\",\"Phát Triển Doanh Số\"],\"soft_skills\":[\"Kỹ năng giao tiếp và quan hệ khách hàng\",\"Kỹ năng tổ chức và vận hành\"],\"languages_required\":null,\"experience_required\":2,\"salary\":\"15 - 25 triệu VND\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Linh hoạt\",\"benefits\":[\"Lương thưởng hấp dẫn\",\"Hỗ trợ một bữa cơm/ngày theo chính sách công ty\",\"Bảo hiểm Sức khỏe Quân Đội (MIC)\",\"Bảo hiểm Xã hội\",\"Giảm giá khi mua sản phẩm Dat Bike\",\"Phụ cấp: Ăn trưa\"],\"description\":\"- Chịu trách nhiệm về lợi nhuận và doanh số của cửa hàng.\\n- Triển khai tất cả các chính sách và quy trình vận hành nhằm đạt được mục tiêu kinh doanh.\\n- Đạt và vượt chỉ tiêu doanh số thông qua hoạt động cửa hàng và cách giới thiệu sản phẩm hiệu quả.\\n- Kiểm soát chi phí của cửa hàng, bao gồm nhân sự, vật tư và dịch vụ.\\n- Giám sát hoạt động và diện mạo của cửa hàng (mở cửa, đóng cửa, an ninh, vệ sinh, trưng bày, kiểm kê), đảm bảo việc bảo trì cơ sở vật chất và trình bày cửa hàng tuân theo tiêu chuẩn thương hiệu.\\n- Quản lý trải nghiệm khách hàng tại cửa hàng, cung cấp trải nghiệm lái thử và dịch vụ khách hàng cho khách ghé thăm/cửa hàng.\\n- Xử lý các khiếu nại của khách hàng một cách nhanh chóng và hiệu quả.\\n- Phân tích dữ liệu để cải thiện doanh số và trải nghiệm khách hàng tại cửa hàng.\\n- Phối hợp với đội ngũ tiếp thị để thực hiện các hoạt động tiếp thị tại cửa hàng.\\n- Tuyển dụng, đào tạo và phát triển nhân viên, đảm bảo các vị trí được lấp đầy kịp thời và luôn làm việc theo tiêu chuẩn của công ty.\",\"requirements_text\":\"- Hơn 2 năm kinh nghiệm ở các vị trí tương tự (Ưu tiên ứng viên từ FPT Shop, Điện Máy Xanh, TGDD, Cao Phong, Nguyễn Kim,...)\\n- Kinh nghiệm trong ngành công nghệ cao, hàng tiêu dùng hoặc ô tô là một lợi thế.\\n- Kỹ năng giao tiếp và quan hệ khách hàng.\\n- Kỹ năng tổ chức và vận hành\\n- Có kinh nghiệm quản lý.\\nKỹ năng cần có: Quản Lý Kho, Quản Lý Nhân Sự, Quản Lý Bán Hàng, Quản Lý Tài Chính, Lãnh đạo\\nKỹ năng nên có: Phát Triển Doanh Số\"}",
+  "usage": {
+    "input_tokens": 5359,
+    "output_tokens": 4084,
+    "total_tokens": 9443,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3006
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

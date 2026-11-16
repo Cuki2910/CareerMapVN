@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh - Tư Vấn - CSKH Mảng Căn Hộ - Lương Cứng Từ 6 Triệu + Hoa Hồng - Thu Nhập Từ 60 Triệu (Hỗ Trợ MKT - Data - Đào Tạo)\",\n  \"company_name\": null,\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Sales bất động sản/Môi giới bất động sản\",\n  \"industry\": \"Bất động sản\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tu-van-cskh-mang-can-ho-luong-cung-tu-6-trieu-hoa-hong-thu-nhap-tu-60-trieu-ho-tro-mkt-data-dao-tao/2348127.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Tư vấn\",\n    \"Chăm sóc khách hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 60 triệu VND trở lên\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)\\nThứ 7 (từ 08:30 đến 12:00)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Signing bonus\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Phụ cấp cơm trưa, đồng phục\",\n    \"Ưu đãi học phí cho con em tại hệ thống B.School\"\n  ],\n  \"description\": \"- Tìm kiếm, tư vấn và chăm sóc khách hàng có nhu cầu mua bán/đầu tư bất động sản.\\n- Giới thiệu sản phẩm, dự án phù hợp với nhu cầu khách hàng.\\n- Hỗ trợ khách hàng trong quá trình giao dịch.\",\n  \"requirements_text\": \"- Độ tuổi từ 22 đến 35.\\n- Ưu Tiên có kinh nghiệm sales các lĩnh vực: bất động sản, bảo hiểm, Ô tô, tài chính, thẩm mỹ.\\n- Có phương tiện đi lại\"\n}\n```",
+  "usage": {
+    "input_tokens": 5972,
+    "output_tokens": 683,
+    "total_tokens": 6655,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

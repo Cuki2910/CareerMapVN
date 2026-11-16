@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Kế Toán Tổng Hợp / Kế Toán Viên (Biết Thuế & Luật)\",\"company_name\":\"Công ty TNHH Vật Tư Công Nghiệp Trung Hưng\",\"job_category\":\"Kế toán\",\"sub_category\":\"Kế toán tổng hợp\",\"industry\":\"Bán buôn tổng hợp\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-09\",\"url\":\"https://www.topcv.vn/viec-lam/ke-toan-tong-hop-ke-toan-vien-biet-thue-luat/2353282.html\",\"qualifications\":[\"Tốt nghiệp ĐH chuyên ngành Kế toán, Kiểm toán, Tài chính hoặc liên quan.\"],\"technical_skills\":[\"Excel\",\"Word\",\"MISA\"],\"soft_skills\":[\"Cẩn thận\",\"Trung thực\",\"Có trách nhiệm\",\"Chịu được áp lực công việc\"],\"languages_required\":null,\"experience_required\":2,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Thu nhập: Thỏa thuận theo năng lực\",\"Có phụ cấp cơm trưa và tiền chuyên cần hàng tháng.\",\"Thu nhập ổn định, cạnh tranh theo năng lực.\",\"Có tháng lương thứ 13 và thưởng các dịp Lễ, Tết.\",\"Tăng lương theo năng lực và đóng góp.\",\"Tham gia đầy đủ BHXH, BHYT, BHTN và các chế độ phúc lợi theo quy định.\",\"Môi trường làm việc chuyên nghiệp, cơ hội phát triển nghề nghiệp.\",\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Thưởng tháng 13\",\"Phụ cấp Ăn trưa\"],\"description\":\"· Kiểm tra chứng từ, hạch toán nghiệp vụ kế toán trên phần mềm.\\n· Hạch toán, đối chiếu sao kê ngân hàng; theo dõi công nợ phải thu – phải trả.\\n· Theo dõi các khoản vay, phải thu/phải trả khác và hồ sơ thanh toán.\\n· Đối chiếu số liệu hóa đơn, lập hóa đơn khi cần thiết, lập tờ khai thuế định kỳ.\\n· Làm báo cáo, quyết toán thuế TNDN, TNCN. Hỗ trợ làm BCTC cuối năm.\\n· Giải trình, cung cấp số liệu và hồ sơ khi phát sinh.\\n· Quản lý, kiểm soát hoạt động kế toán – tài chính, thuế và BHXH.\\n· Tham mưu BGĐ về tài chính, tối ưu chi phí và các vấn đề phát sinh.\",\"requirements_text\":\"· Tốt nghiệp ĐH chuyên ngành Kế toán, Kiểm toán, Tài chính hoặc liên quan.\\n· Có trên 2 năm kinh nghiệm ở vị trí tương đương.\\n· Nắm vững quy định về thuế và Luật Kế toán.\\n· Thành thạo Excel, Word, MISA.\\n· Ưu tiên ứng viên có kinh nghiệm liên quan đến nhập khẩu.\\n· Cẩn thận, trung thực, có trách nhiệm và chịu được áp lực công việc.\\nKiến thức ngành: Kế toán\\nKỹ năng cần có: sử dụng thành thạo word, excel, Biết MISA, Kinh nghiệm các mảng liên quan đến thuế\"}",
+  "usage": {
+    "input_tokens": 4869,
+    "output_tokens": 3528,
+    "total_tokens": 8397,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2552
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

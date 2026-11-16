@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giáo Viên Cơ Hữu Dạy Chuyên Ngành\",\n  \"company_name\": \"Trường Cao đẳng Công nghệ Y- Dược Việt Nam\",\n  \"job_category\": \"Giáo dục / Đào tạo\",\n  \"sub_category\": \"Giáo viên bộ môn khác\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giao-vien-co-huu-day-chuyen-nganh/2216585.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên đúng chuyên ngành\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\"\n  ],\n  \"description\": \"Chúng tôi cần tuyển Giảng viên trình độ Đại học (ĐH) và Thạc sĩ/Chuyên khoa I (ThS/CKI) cho các chuyên ngành Y, Dược và Khoa học Y Sinh.\\nGiảng dạy các môn học thuộc các mã ngành : Y khoa, Y học cổ truyền, Dược, Điều dưỡng, Phục hồi chức năng, Xét nghiệm, Hộ sinh, Chăm sóc sắc đẹp\\nThực hiện các nhiệm vụ chuyên môn khác theo sự phân công của Phòng Đào tạo, Lãnh đạo Khoa và Ban giám hiệu Nhà trường.\\nThực hiện vai trò làm cố vấn học tập đối với sinh viên.\\nTham gia các hoạt động Đoàn thể, tập thể của bộ môn và nhà trường.\",\n  \"requirements_text\": \"Tốt nghiệp trình độ Đại học trở lên đúng chuyên ngành\\nCó tinh thần trách nhiệm, yêu nghề giáo\\nƯu tiên ứng viên đã có kinh nghiệm giảng dạy, đang công tác tại trường và sinh viên tốt nghiệp tại trường.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4921,
+    "output_tokens": 610,
+    "total_tokens": 5531,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

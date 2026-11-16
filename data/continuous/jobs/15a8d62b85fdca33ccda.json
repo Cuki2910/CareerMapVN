@@ -1,0 +1,53 @@
+{
+  "job_title": "Software Engineer (Golang/Python/Java)",
+  "company_name": null,
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Fullstack Developer",
+  "industry": "Điện toán đám mây (Cloud)",
+  "category": null,
+  "location": "85 Vũ Trọng Phụng, Thanh Xuân, Phường Thanh Xuân, Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-30",
+  "url": "https://www.topcv.vn/viec-lam/software-engineer-golang-python-java/2278835.html",
+  "qualifications": [
+    "1. Tốt nghiệp Đại học chuyên ngành CNTT/chuyên ngành liên quan, ưu tiên các trường Bách Khoa, Công nghệ,.. hoặc tốt nghiệp nước ngoài",
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Golang",
+    "Python",
+    "Java",
+    "Django",
+    "Microservices",
+    "RESTful API",
+    "gRPC",
+    "My SQL",
+    "SQL Server",
+    "Oracle",
+    "Mongo",
+    "Maria"
+  ],
+  "soft_skills": [
+    "Làm việc nhóm"
+  ],
+  "languages_required": [
+    "English"
+  ],
+  "experience_required": 3.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",
+  "benefits": [
+    "1. Hưởng mức thu nhập thuộc top các công ty hàng đầu trong lĩnh vực CNTT tại Việt Nam.",
+    "2. Các chế độ phúc lợi xã hội theo quy định pháp luật như: BHYT, BHXH, BHTN...",
+    "3. Hưởng các chế độ phúc lợi hấp dẫn khác: Du lịch, nghỉ mát, bảo hiểm sức khỏe, bảo hiểm nhân thọ cho nhân sự xuất sắc, thưởng theo kết quả sản xuất kinh doanh...",
+    "4. Đào tạo nâng cao nghiệp vụ, kỹ năng để trở thành chuyên gia hàng đầu trong lĩnh vực.",
+    "5. Cơ hội phát triển nghề nghiệp theo 2 chóp: quản lý hoặc chuyên gia."
+  ],
+  "description": "1. Trực tiếp tham gia thiết kế kiến trúc (System Architecture), phát triển các nền tảng Cloud (Cloud Management Platform, Self-Service Portal, Infrastructure Automation) và các hệ thống backend nội bộ quy mô lớn.\n2. Lập trình với một trong các ngôn ngữ: Golang, Python hoặc Java ; xây dựng hệ thống theo mô hình Microservices, RESTful API/gRPC.\n3. Thực hiện review code, fix bug, tối ưu source\n4. Tham gia thiết kế CSDL, mô hình hệ thống CNTT trong Công ty\n5. Tiếp nhận, quản trị, nâng cấp và cải tiến liên tục tính năng cho các sản phẩm/công cụ phần mềm hiện có của Công ty.",
+  "requirements_text": "1. Tốt nghiệp Đại học chuyên ngành CNTT/chuyên ngành liên quan, ưu tiên các trường Bách Khoa, Công nghệ,.. hoặc tốt nghiệp nước ngoài\n2. Từ 3 năm kinh nghiệm trở lên vị trí fullstack\n3. Tiếng Anh cơ bản (Toeic ≥ 550 điểm hoặc tương đương)\n4. Kiến thức về quy trình phát triển phần mềm, lập trình an toàn\n5. Sử dụng tối thiểu 01 loại ngôn ngữ lập trình Golang/Python/Java\n6. Sử dụng ít nhất 01 hệ quản trị CSDL (My SQL, SQL Server, Oracle, Mongo, Maria)\n7. Có kinh nghiệm tham gia thiết kế hệ thống, API & theo tiêu chuẩn SDK\n8. Ưu tiên có kinh nghiệm triển khai sản phầm trên nền tảng Cloud, đã làm việc với mô hình Microservice,..\nKiến thức ngành\nIT - Phần mềm, Điện toán đám mây (Cloud)\nKỹ năng cần có\nDjango, Java, Python, Làm việc nhóm, Golang"
+}

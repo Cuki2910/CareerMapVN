@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thủ Kho Dược - Làm Việc Tại HCM\",\n  \"company_name\": null,\n  \"job_category\": \"Trưởng kho/Giám sát kho\",\n  \"sub_category\": null,\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-kho-duoc-lam-viec-tai-hcm/2348514.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Phần Mềm Quản Lý Kho\",\n    \"Sử Dụng Excel\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (from 08:00 đến 12:00)\\nThứ 2 - Thứ 6 : sáng - chiều  \\nThứ 7 : nghỉ buổi chiều\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Được hưởng đầy đủ các chế độ đãi ngộ theo Luật Lao động Việt Nam (BHXH, BHYT...)\",\n    \"Môi trường làm việc năng động, thân thiện, vui vẻ\",\n    \"Cơ hội làm việc và gắn bó lâu dài\"\n  ],\n  \"description\": \"Thực hiện nhập, xuất kho thuốc và hàng hóa theo đúng chứng từ, quy trình của Công ty.\\nKiểm tra số lượng, tên hàng, số lô, hạn dùng và tình trạng hàng hóa khi nhập/xuất.\\nSắp xếp, bảo quản hàng hóa đúng quy định, đảm bảo kho sạch sẽ, an toàn và khoa học.\\nTheo dõi và cập nhật số liệu nhập – xuất – tồn trên sổ kho/phần mềm.\\nKiểm soát hàng cận hạn, hết hạn, hàng trả về, hàng hư hỏng.\\nThực hiện kiểm kê định kỳ/đột xuất, đối chiếu số liệu thực tế với sổ sách và báo cáo chênh lệch.\\nPhối hợp với Kế toán, Sales Admin, TDV và bộ phận Giao nhận trong việc chuẩn bị và giao hàng cho khách hàng/bệnh viện.\\nLập và lưu trữ chứng từ kho; báo cáo kịp thời các trường hợp thiếu, thừa, sai lệch hoặc bất thường.\\nThực hiện các công việc theo phân công của Quản lý/Giám đốc.\",\n  \"requirements_text\": \"Giới tính: Nam\\nCẩn thận, trung thực, có trách nhiệm và sức khỏe tốt.\\nƯu tiên ứng viên có kiến thức hoặc kinh nghiệm về kho dược.\\nSử dụng được Excel và phần mềm quản lý kho.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4777,
+    "output_tokens": 782,
+    "total_tokens": 5559,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,10 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Sales Coordinator Tiếng Anh Giao Tiếp Thành Thạo (Nữ) - Ngành Mỹ Phẩm - Có Thể Đi Công Tác, Upto 20 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Trợ lý kinh doanh\",\n  \"industry\": \"Marketing / Quảng cáo\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-01\",\n  \"url\": \"https://www.topcv.vn/viec-lam/sales-coordinator-tieng-anh-giao-tiep-thanh-thao-nu-nganh-my-pham-co-the-di-cong-tac-upto-20-trieu/2346662.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Chăm Sóc Khách Hàng\",\n    \"Giao tiếp khéo léo\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Từ 20 triệu VND trở lên\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Lương cơ bản (10-15tr)+ thưởng kết quả công việc+thưởng doanh số\",\n    \"Đóng BHXH đầy đủ theo quy định của luật BHXH\",\n    \"Nghỉ lễ, tết theo quy định của nhà nước....\",\n    \"Chế độ thưởng Lễ, Tết, Tháng lương 13 đầy đủ theo quy chế của Công ty\"\n  ],\n  \"description\": \"Gặp gỡ khách hàng cùng quản lý và giải đáp thắc mắc về sản phẩm\\nPhân bổ khu vực và doanh số tối thiểu cho nhân viên sale của công ty.\\nPhân tích dữ liệu của khách hàng để tối ưu hóa nỗ lực bán hàng và xác định khách hàng tiềm năng\\nCác công việc khác theo sự phân công của giám đốc\",\n  \"requirements_text\": \"Tiếng Anh giao tiếp thành thạo\\nCó thể đi công tác\\nKĩ năng Chăm sóc khách hàng\\nGiao tiếp khéo léo\"\n}\n```",
+  "usage": {
+    "input_tokens": 4948,
+    "output_tokens": 651,
+    "total_tokens": 5599,
+    "input_token_details": {},
+    "output_token_details": {}
+  }
+}

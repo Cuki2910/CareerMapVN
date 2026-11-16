@@ -1,0 +1,45 @@
+{
+  "job_title": "Data Science Intern",
+  "company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ FINPROS",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Scientist",
+  "industry": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu",
+  "category": null,
+  "location": "Hà Nội, Hồ Chí Minh",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-09",
+  "url": "https://www.topcv.vn/viec-lam/data-science-intern/2005516.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "Phân tích dữ liệu",
+    "Machine Learning",
+    "Xác Suất Thống Kê",
+    "Deep learning",
+    "Xây Dựng Mô Hình",
+    "Time-series modeling (ARIMA, Prophet)",
+    "Time-series forecasting",
+    "Kinh Nghiệm Với Các Thư Viện Machine Learning (scikit Learn, Tensorflow, Pytorch)"
+  ],
+  "soft_skills": null,
+  "languages_required": null,
+  "experience_required": 0.0,
+  "salary": "3 - 5 triệu",
+  "salary_min": 3.0,
+  "salary_max": 5.0,
+  "salary_avg": "4 triệu",
+  "contract_type": "Thực tập",
+  "working_hours": "* Làm từ 8h30 - 17h30, từ Thứ 2 - Thứ 6\nCó thể linh động theo lịch học, ưu tiên làm được từ 70% công trở lên",
+  "benefits": [
+    "Opportunity to access and work directly with financial data, and to build market analysis models.",
+    "A young, dynamic working environment with chances to develop skills and learn from industry experts.",
+    "Initial financial support starts at 3 million VND, with potential increases throughout the internship depending on performance and demonstrated capability.",
+    "Lunch allowance is provided, and working hours are flexible to fit your schedule.",
+    "Opportunities to join annual trips and team-building activities."
+  ],
+  "description": "Key Responsibilities\n* Assist in researching, developing, and implementing predictive models for financial time series analysis.\n* Support the development and backtesting of systematic trading strategies utilizing technical indicators, Machine Learning (ML), and Deep Learning (DL) methodologies.\n* Contribute to enhancing model performance through feature engineering, hyperparameter optimization, and rigorous evaluation processes.\n* Assist senior team members in maintaining, updating, and deploying ML/DL pipelines to ensure reliability and adaptability within live trading environments.\n* Work closely with Data Engineers and Developers to facilitate the seamless integration of research models into production systems.\n* Participate in monitoring strategy performance and refining models in response to market dynamics and real-world trading results.",
+  "requirements_text": "Qualifications & Requirements\nWe are looking for candidates with a solid background in Machine Learning, Deep Learning, and Mathematics, including:\n* Strong mathematical foundations, particularly in Linear Algebra, Calculus, Probability, Statistics, and Optimization.\n* Good understanding of fundamental Machine Learning concepts, including regression, classification, clustering, data preprocessing, model evaluation, and performance optimization.\n* Familiarity with ensemble learning techniques such as bagging and boosting, as well as regularization methods (L1/L2).\n* Basic knowledge of neural networks and practical experience working with PyTorch.\n* Understanding of common Deep Learning architectures, including RNNs, LSTMs, and CNNs.\n* Experience handling time-series data, including data preparation, feature engineering, and predictive modeling.\n* Proficiency in Python and hands-on experience with major ML/DL frameworks such as scikit-learn, TensorFlow, and PyTorch.\nKiến thức ngành\nIT - Phần mềm, Chứng khoán\nKỹ năng cần có\nPython, Phân tích dữ liệu, Machine Learning, Xác Suất Thống Kê\nKỹ năng nên có\nDeep learning, Xây Dựng Mô Hình, Time-series modeling (ARIMA, Prophet), Time-series forecasting, Kinh Nghiệm Với Các Thư Viện Machine Learning (scikit Learn, Tensorflow, Pytorch)"
+}

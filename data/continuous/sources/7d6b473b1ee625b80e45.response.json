@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"MC Hành Lễ - Nhân Viên Đọc Nghi Lễ - Không Yêu Cầu Kinh Nghiệm - Lương Tới 16 Triệu\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN THANH BÌNH AN LẠC VIÊN\",\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": null,\n  \"industry\": \"Hoạt động dịch vụ phục vụ tang lễ và các dịch vụ liên quan\",\n  \"category\": null,\n  \"location\": \"Ninh Bình\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/mc-hanh-le-nhan-vien-doc-nghi-le-khong-yeu-cau-kinh-nghiem-luong-toi-16-trieu-tai-ha-nam-nam-dinh/2340781.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Kỹ năng quan sát\",\n    \"Kỹ năng giao tiếp\",\n    \"phát biểu\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"14 - 16 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Thời gian làm việc : theo ca, ca ngày 7h-18h và ca đêm 18h-7h. Đổi ca 2 tuần/lần, nghỉ 3 ngày/tháng.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Tham gia BHXH, BHYT, BHTN đầy đủ theo quy định của Nhà nước\",\n    \"Phụ cấp đi lại (xăng xe): 1.000.000 VNĐ/tháng\",\n    \"Phụ cấp tiền ăn ca\",\n    \"Phụ cấp đồ dùng cá nhân\",\n    \"Trang bị phụ cấp đồng phục làm việc\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Đọc bài hành lễ tiễn biệt (không ngọng, đọc lưu loát, truyền cảm)\\n  * Hướng dẫn người dân đi lại\\n  * Đảm bảo hành lang thông thoáng\\n  * Hướng dẫn xe oto, đảm bảo khu vực sảnh an toàn\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n  * Kinh nghiệm liên quan tới vị trí: Ưu tiên có kinh nghiệm cùng ngành nghề\\n\\nPhẩm chất cá nhân/Thái độ làm việc:\\n  * Có khả năng sắp xếp, giải quyết công việc\\n  * Tự tin, không e dè trước đám đông\\n  * Nhanh nhẹn, luôn tiếp thu và học hỏi điều mới\\n  * Sức khoẻ ổn định không có các bệnh nền\\n\\nCác kỹ năng cơ bản:\\n  * Kỹ năng quan sát\\n  * Kỹ năng giao tiếp, phát biểu\\n  * Làm ca ngày/đêm (2 tuần ngày/2 tuần đêm)\"\n}\n```",
+  "usage": {
+    "input_tokens": 4983,
+    "output_tokens": 819,
+    "total_tokens": 5802,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

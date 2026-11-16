@@ -1,0 +1,54 @@
+{
+  "job_title": "Data Analyst (Data Science Track)",
+  "company_name": "Công ty Cổ phần Công nghệ KiotViet",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "Data Analyst",
+  "industry": "Bán lẻ - Hàng tiêu dùng - FMCG",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-11-27",
+  "url": "https://www.topcv.vn/viec-lam/data-analyst-data-science-track/2343312.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "Python",
+    "SQL",
+    "numpy",
+    "pandas",
+    "Scikit-learn",
+    "A/B Testing",
+    "Statistics",
+    "Sampling",
+    "hypothesis testing",
+    "ML model building",
+    "text data processing"
+  ],
+  "soft_skills": [
+    "Business Communication"
+  ],
+  "languages_required": [
+    "Vietnamese"
+  ],
+  "experience_required": 3.0,
+  "salary": "Tới 30 triệu",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\n* Làm việc từ Thứ 2 – Thứ 6\nNghỉ thứ 7 & chủ nhật\nLinh hoạt khung giờ Checkin sáng: từ 8h-9h; Check out chiều: từ 17h30-18h30 (đảm bảo đủ 8h/ngày)",
+  "benefits": [
+    "Clear path to a Data Scientist role within 6–12 months, owning ML/NLP models in production.",
+    "Compensation, a 13th-month salary depending on the employee’s performance",
+    "Performance bonus (up to 2-month salary)",
+    "Social – Health – Insurance paid fully. Healthcare: Annual health check-up, Premium Health Insurance ( from level senior according to the company's regulations)",
+    "Advantageous and yield benefits, other benefits such as holiday vacations, benefits for employees’ relatives",
+    "Unlimited chance of being promoted based on the employee’s performance",
+    "Benefits",
+    "Bảo hiểm xã hội, Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Thưởng tháng 13, Thưởng hiệu quả làm việc, Du lịch hàng năm"
+  ],
+  "description": "About KiotViet:\nKiotViet wishes to transfer a massive power of technology to every business model in Vietnam and Southeast Asia through our simple and effective solutions. KiotViet is committed itself to creating efficient, convenient products for micro, small and medium-size businesses. In over 13 years, with more than 1500 people who form KiotViet in present, we understand that our members of all time are the foundation of KiotViet nowadays and a launchpad for reaching a better KiotViet in the future. KiotViet is committed to creating a work environment that shares success, shares responsibilities.\nWe are looking for some developers to join our product team. Joining us, you will have a chance to build the first marketplace in Vietnam with so many technology challenges. As a developer, you will be involved in building products to enable an excellent experience.\nWhat you will do\n- Build FMCG market reports by category, brand and SKU; detect and fix data anomalies such as wrong units, pack sizes or outlier prices.\n- Match merchant products to a standard catalog and build tagging models for noisy Vietnamese product names.\n- Improve merchant industry classification and product recommendations, measured with offline metrics and A/B tests.\n- Work with Product teams and other stakeholders; present results in business terms.",
+  "requirements_text": "* 3+ years of experience in data analysis or data science.\n* Advanced SQL on large datasets (window functions, CTEs, query tuning).\n* Strong Python: pandas, NumPy, scikit-learn.\n* Solid statistics: sampling, hypothesis testing, A/B testing.\n* Built at least one supervised ML model end-to-end and evaluated it with precision/recall.\n* Experience with text data: normalization, tokenization, fuzzy matching.\n* Business sense; able to explain findings to non-technical stakeholders.\nNice to have\n- Vietnamese NLP, text embeddings, entity resolution.\n- Using LLMs for data labeling, enrichment or evaluation.\n- PySpark, SparkSQL\n- Domain experience in Retail/FMCG, FnB, market research.\nKiến thức ngành\nIT - Phần mềm, Bán lẻ - Hàng tiêu dùng - FMCG\nKỹ năng cần có\nPython, SQL, numpy, pandas, Scikit-learn, A/B Testing, Business Communication, Statistics, Sampling, hypothesis testing, ML model building, text data processing\nKỹ năng nên có\nMarket Research, FNB, FMCG, LLMs, Retail, Pyspark, Vietnamese NLP, text embeddings, entity resolution, SparkSQL"
+}

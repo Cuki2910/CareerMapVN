@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"MC Livestream Song Ngữ Anh - Việt\",\n  \"company_name\": null,\n  \"job_category\": \"Dẫn chương trình (MC)\",\n  \"sub_category\": \"Livestream\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/mc-livestream-song-ngu-anh-viet/2356705.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tiếng Anh\",\n    \"Livestream\",\n    \"Mc\"\n  ],\n  \"soft_skills\": [\n    \"Xử lý tình huống\",\n    \"Giao tiếp\",\n    \"Hoạt Ngôn\",\n    \"Giọng Nói Rõ Ràng\",\n    \"Truyền Cảm\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thỏa Thuận (từ 13tr - 17tr tuỳ vào năng lực và kinh nghiệm)\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thưởng hiệu quả làm việc\",\n    \"Môi trường làm việc trẻ trung, năng động, có cơ hội phát triển kỹ năng giao tiếp và dẫn dắt livestream.\"\n  ],\n  \"description\": \"Dẫn dắt livestream, tương tác và trò chuyện với người xem.\\nGiao tiếp song ngữ Anh – Việt, tạo không khí sôi động và thu hút người xem.\\nChủ động kết nối, duy trì tương tác và xử lý các tình huống phát sinh trong livestream.\",\n  \"requirements_text\": \"Giao tiếp tốt bằng tiếng Anh và tiếng Việt.\\nHoạt ngôn, tự tin, có khả năng dẫn dắt và tạo không khí.\\nPhản xạ nhanh, xử lý tình huống linh hoạt.\\nCó tinh thần trách nhiệm, thái độ làm việc nghiêm túc.\\nƯu tiên ứng viên có kinh nghiệm MC, livestream hoặc giao tiếp với khán giả quốc tế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4701,
+    "output_tokens": 604,
+    "total_tokens": 5305,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

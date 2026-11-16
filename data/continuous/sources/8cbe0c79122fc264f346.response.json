@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Nam Bố Trí Cửa Hàng - Trưng Bày Sản Phẩm (Setup Staff) - Đi Làm Ngay Tại Hồ Chí Minh\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên hiện trường Logistics\",\n  \"sub_category\": null,\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nam-bo-tri-cua-hang-trung-bay-san-pham-setup-staff-di-lam-ngay-tai-ho-chi-minh/2347174.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Làm việc nhóm\",\n    \"Cẩn thận\",\n    \"Chịu khó\",\n    \"Khả Năng Học Hỏi Nhanh\",\n    \"Tuân Thủ Hướng Dẫn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc theo ca, 6 ngày/tuần, nghỉ luân phiên 1 ngày trong tuần\",\n  \"benefits\": [\n    \"Tham gia BHXH, BHYT theo đúng quy định của Nhà nước.\",\n    \"Chế độ phúc lợi : theo chính sách nội bộ\",\n    \"Được đào tạo nâng cao nghiệp vụ trong quá trình làm việc.\",\n    \"Được làm việc trong môi trường chuyên nghiệp, năng động và hiệu quả.\",\n    \"Cơ hội thăng tiến nhanh\"\n  ],\n  \"description\": \"- Địa điểm làm việc: Hệ thống cửa hàng MR.DIY trên khu vực Hồ Chí Minh (Quận 12, Tân Bình, Gò Vấp, Thủ Đức, Quận 10, Bình Thạnh, quận 7, Bình Tân, Bình Chánh, Tân Phú).\\n\\n- Tiếp nhận cửa hàng mới để hỗ trợ setup cho hoạt động khai trương.\\n\\n- Hỗ trợ sắp xếp và điều phối hàng hóa mới gọn gàng, ngăn nắp.\\n\\n- Có khả năng đi công tác tỉnh, thành phố khác (10 - 15 ngày)\\n\\n- Các công việc khác theo sự phân công của Quản lý trực tiếp\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm, được đào tạo chuyên môn\\n- Chăm chỉ, thích nghi nhanh và sắp xếp nhân sự hiệu quả\\n- Sức khỏe tốt\"\n}\n```",
+  "usage": {
+    "input_tokens": 4741,
+    "output_tokens": 708,
+    "total_tokens": 5449,
+    "input_token_details": {
+      "cache_read": 2034
+    },
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

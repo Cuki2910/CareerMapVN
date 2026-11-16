@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Xuất Nhập Khẩu/Sales Admin Xuất Nhập Khẩu, Lương Từ 10-15 Triệu, Đi Làm Ngay\",\n  \"company_name\": null,\n  \"job_category\": \"Xuất nhập khẩu / Hải quan\",\n  \"sub_category\": \"Xuất nhập khẩu/Logistics\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-xuat-nhap-khau-sales-admin-xuat-nhap-khau-luong-tu-10-15-trieu-di-lam-ngay/2338160.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp cao đẳng/đại học\"\n  ],\n  \"technical_skills\": [\n    \"tiếng Anh giao tiếp\",\n    \"kiến thức xuất nhập khẩu\",\n    \"tiếng Trung\"\n  ],\n  \"soft_skills\": [\n    \"Nhiệt tình\",\n    \"có tinh thần cầu tiến\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc: Từ thứ 2 đến thứ 7\\n    * Sáng: 8h-12h\\n    * Chiều: 13h-17h\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Lương cứng+hoa hồng\",\n    \"Cơ hội học hỏi và phát triển kỹ năng\",\n    \"Chế độ thưởng và nghỉ Lễ Tết, chế độ khác theo quy định luật LĐ\",\n    \"Được đào tạo và hỗ trợ phát triển kỹ năng chuyên môn\",\n    \"Môi trường làm việc thân thiện, năng động\",\n    \"Chế độ BHXH, BHYT, BHTN theo quy định Nhà nước\",\n    \"Sau 1 năm, được mua thẻ BHYT nâng cao của Bảo Việt\",\n    \"Môi trường làm việc thân thiện, năng động và chuyên nghiệp\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Hỗ trợ hồ sơ mua hàng, chứng từ Xuất Nhập Khẩu từ Nhà cung cấp\\n  * Đối chiếu, kiểm tra tính hợp lệ của hồ sơ chứng từ với Đơn vị ủy quyền làm thủ tục XNK và đơn vị vận tải.\\n  * Thực hiện các công việc nghiệp vụ khác theo sự bàn giao và chỉ đạo của Cấp trên.\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n  * Tiếng Anh giao tiếp tốt, biết tiếng Trung là 1 lợi thế\\n  * Nữ từ 2002-1990\\n  * Tốt nghiệp cao đẳng/đại học\\n  * Có 1 năm kinh nghiệm\\n  * Nhiệt tình, có tinh thần cầu tiến\\n  * Thời gian làm việc: Từ thứ 2 đến thứ 7\\n    * Sáng: 8h-12h\\n    * Chiều: 13h-17h\"\n}\n```",
+  "usage": {
+    "input_tokens": 5158,
+    "output_tokens": 883,
+    "total_tokens": 6041,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}
