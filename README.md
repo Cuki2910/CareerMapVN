@@ -261,7 +261,17 @@ No concurrent browser/API requests are added. Keep the default interval for a mo
 conservative crawl. Broader coverage is not a representative sample: first-page
 ranking, overlapping categories and unavailable pages still create sampling bias.
 
-`data/continuous/` contains the crawler output snapshot committed to this repository.
+The canonical dataset output is `data/CareerMapVN_jobs.csv`: one UTF-8 CSV with
+the same 18 columns and column order as `data/VietJobs_sample.csv`. List values use
+Python-list strings; missing values remain empty, including unknown category labels.
+After each crawl or job-record change, refresh this file before publishing output:
+
+```bash
+python3 crawling/export_csv.py
+```
+
+Keep all collected jobs in this single CSV rather than separate batch exports.
+`data/continuous/` contains the supporting crawler state and source snapshots.
 Raw benchmark HTML (which may include embedded third-party keys) and the runtime
 `worker.lock` file remain ignored. Smoke-test and soak-test outputs are also committed
 under `data/smoke_verified/` and `data/soak_15min_*/`.
