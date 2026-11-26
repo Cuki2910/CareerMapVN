@@ -1,0 +1,12 @@
+.env
+.venv
+.git
+data/raw
+data/continuous
+data/soak_*
+data/smoke_verified
+data/analysis/*.parquet
+data/analysis/results
+**/__pycache__
+data/analysis/export
+data/analysis/validation
