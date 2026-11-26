@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"English - Mandarin Interpreter\",\"company_name\":\"Language Talent Solutions\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Trung\",\"industry\":\"Hoạt động của các trung tâm giới thiệu việc làm\",\"category\":null,\"location\":\"Nước Ngoài\",\"country\":null,\"posting_date\":null,\"deadline\":\"2026-11-27\",\"url\":\"https://www.topcv.vn/viec-lam/english-mandarin-interpreter/2344100.html\",\"qualifications\":[\"Trung học phổ thông (Cấp 3) trở lên\",\"Biên phiên dịch tiếng Trung\"],\"technical_skills\":[\"Cable-Modem or Fiber Optic WiFi (No mobile data)\",\"Download speed > 5 Mbps\",\"Upload speed > 3 Mbps\",\"Ping < 50 ms\",\"Jitter < 30 ms\",\"Windows 11 version 23H2\",\"macOS 12 or above\",\"ChromeOS (latest version)\",\"Updated antivirus and browser (No Kaspersky products)\",\"Android 13+ or iOS 16+\",\"Not supported: Huawei, Samsung A Series, iPads/Tablets, iPhone 6 and below\"],\"soft_skills\":[\"Strong mental resilience\",\"Professional ethics and standards\",\"Clear and accurate communication\"],\"languages_required\":[\"English\",\"Mandarin\"],\"experience_required\":1,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 07:30 đến 17:30)\\nThời gian theo yêu cầu dự án\",\"benefits\":[\"REMOTE 100%\"],\"description\":\"JOB DESCRIPTION\\n* Facilitate real-time communication between English and Mandarin speakers via audio or video calls.\\n* Provide interpretation services across various industries, including healthcare, education, insurance, banking, and emergency services (911).\\n* Handle sensitive topics such as medical emergencies, accidents, violence, criminal matters, and other situations requiring strong mental resilience.\\n\\nJOB RESPONSIBILITIES\\n* Interpret conversations accurately between speakers with different accents, speaking speeds, and communication styles.\\n* Provide clear and accurate interpretation of questions, answers, statements, and other verbal communications.\\n* Translate written materials when required.\\n* Complete daily activity logs and documentation.\\n* Comply with applicable professional ethics and standards.\",\"requirements_text\":\"Requirements:\\n1 năm kinh nghiệm chuyên môn\\nTrung học phổ thông (Cấp 3) trở lên\\n\\nSpecialization:\\nBiên phiên dịch tiếng Trung\\n\\nCandidate Requirements\\n1. Internet Connection\\n* Cable-Modem or Fiber Optic WiFi (No mobile data).\\n* Download speed > 5 Mbps\\n* Upload speed > 3 Mbps\\n* Ping < 50 ms\\n* Jitter < 30 ms\\n\\n2. Laptop/iPad (Own Device)\\nRequired for assessments, training, and operations.\\n* Windows 11 version 23H2\\n* macOS 12 or above\\n* ChromeOS (latest version)\\n* Updated antivirus and browser (No Kaspersky products).\\n\\n3. Mobile Phone (Own Device)\\nRequired as a backup for operations.\\n* Android 13+ or iOS 16+\\n* Not supported: Huawei, Samsung A Series, iPads/Tablets, iPhone 6 and below.\"}",
+  "usage": {
+    "input_tokens": 4284,
+    "output_tokens": 2688,
+    "total_tokens": 6972,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 1922
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

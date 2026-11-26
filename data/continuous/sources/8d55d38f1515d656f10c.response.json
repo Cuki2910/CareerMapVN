@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Sale\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng kỹ thuật\",\n  \"industry\": \"Công nghệ kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Kiến Hưng, Phường Hà Đông, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-sale/2261332.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Bán Hàng B2b\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"đàm phán tốt\",\n    \"Tinh thần cầu tiến\",\n    \"chủ động\",\n    \"trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.0,\n  \"salary\": \"9 - 12 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Thứ 7 làm việc buổi sáng từ 8h tới 12h\",\n  \"benefits\": [\n    \"Thu nhập cạnh tranh theo năng lực và vị trí ứng tuyển.\",\n    \"Thưởng tháng 13 và thưởng theo kết quả kinh doanh (nếu có).\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định của Nhà nước.\",\n    \"Được đào tạo chuyên môn, nghiệp vụ và có cơ hội phát triển nghề nghiệp.\",\n    \"Hỗ trợ các khoản phụ cấp: xăng xe, điện thoại, ăn trưa (theo chính sách công ty).\",\n    \"Tham gia du lịch, teambuilding và các hoạt động gắn kết hằng năm.\",\n    \"Môi trường làm việc chuyên nghiệp, thân thiện, có cơ hội thăng tiến.\",\n    \"Nghỉ lễ, Tết, phép năm và các chế độ khác theo quy định của Luật Lao động và chính sách công ty.\"\n  ],\n  \"description\": \"- Tìm kiếm, tiếp cận và phát triển khách hàng mới.\\n- Duy trì, chăm sóc và mở rộng mối quan hệ với khách hàng cũ và mới.\\n- Phối hợp với bộ phận kỹ thuật/bộ phận hỗ trợ để tư vấn, báo giá, ký hợp đồng.\\n- Đạt chỉ tiêu doanh số được giao theo tháng/quý.\",\n  \"requirements_text\": \"- Nam, từ 22–35 tuổi - Trình độ: Tốt nghiệp Trung cấp trở lên\\n- Có kinh nghiệm bán hàng B2B, sale kỹ thuật, hoặc từng làm trong lĩnh vực thiết bị công nghiệp là một lợi thế.\\n- Kỹ năng giao tiếp, đàm phán tốt \\n- Tinh thần cầu tiến, chủ động, trách nhiệm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4985,
+    "output_tokens": 745,
+    "total_tokens": 5730,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

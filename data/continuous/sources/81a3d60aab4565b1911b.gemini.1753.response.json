@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kế Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán\",\n  \"sub_category\": \"Kế toán tổng hợp\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-toan/1427625.html\",\n  \"qualifications\": [\n    \"Đại Học chuyên ngành Kế toán\"\n  ],\n  \"technical_skills\": [\n    \"Microsoft Office\",\n    \"Excel\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giải quyết vấn đề\",\n    \"Kỹ năng làm việc nhóm\",\n    \"Kỹ năng làm việc độc lập\",\n    \"Quản lý thời gian\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương - thưởng theo thỏa thuận, dựa trên kinh nghiệm của ứng viên\",\n    \"Nhân viên thử việc nhận 100% mức lương\",\n    \"Tham gia các chế độ bảo hiểm xã hội theo quy định của Bộ luật Lao động\",\n    \"Khám sức khỏe định kỳ hằng năm\",\n    \"Du lịch hằng năm\",\n    \"15 ngày phép/năm. Nhân viên có thâm niêm đủ 3 năm sẽ được cộng thêm 1 ngày phép\",\n    \"Được đào tạo các nghiệp vụ kế toán và các kỹ năng tiếng anh\",\n    \"Làm việc trong môi trường sử dụng tiếng Anh chuyên nghiệp và thân thiện\",\n    \"Thông tin chi tiết và các khoản phúc lợi khác sẽ được trao đổi trong buổi phỏng vấn\"\n  ],\n  \"description\": \"- Nhập các dữ liệu được cung cấp vào phần mềm kế toán\\n- Lập hóa đơn, theo dõi thu – chi\\n- Kết sổ, đối chiếu tài khoản mỗi cuối tháng\\n- Hỗ trợ thực hiện báo cáo, tính lương và các công việc kế toán có liên quan\",\n  \"requirements_text\": \"- Tốt nghiệp đại học chuyên ngành Kế toán\\n- Tiếng Anh thành thạo, ưu tiên ứng viên có khả năng giao tiếp và kỹ năng viết ở mức khá\\n- Thành thạo các kỹ năng tin học và biết sử dụng các ứng dụng Microsoft Office (đặc biệt là Excel)\\n- Kỹ năng giải quyết vấn đề và hoàn thành công việc đúng thời hạn được giao\\n- Có kỹ năng làm việc nhóm, làm việc độc lập và sẵn sàng học hỏi\\n- Chấp nhận sinh viên mới tốt nghiệp (chưa có kinh nghiệm sẽ được đào tạo)\"\n}\n```",
+  "usage": {
+    "input_tokens": 4487,
+    "output_tokens": 749,
+    "total_tokens": 5236,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

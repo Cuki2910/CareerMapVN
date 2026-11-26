@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Lắp Ráp\",\n  \"company_name\": null,\n  \"job_category\": \"Công nhân lắp ráp\",\n  \"sub_category\": null,\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-lap-rap/2260418.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\",\n    \"THCS/THPT trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"tỉ mỉ\",\n    \"có tinh thần trách nhiệm cao\",\n    \"làm việc nhóm\",\n    \"tuân thủ kỷ luật và quy trình sản xuất\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7.3 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nSáng: 6h-14h  \\nChiều: 14h-22h  \\nHC: 08h-17h\",\n  \"benefits\": [\n    \"Làm việc càng lâu, lương càng cao\",\n    \"Được đóng đầy đủ các loại bảo hiểm (BHXH, BHYT, BHTN) theo quy định của pháp luật. Đóng thêm bảo hiểm 24h\",\n    \"Thưởng lương tháng 13, đánh giá tăng lương hàng năm, phụ cấp doanh thu và các chế độ đãi ngộ khác theo quy định của công ty.\",\n    \"Được cung cấp đồng phục, bữa ăn ca, 1 tháng 1 bữa ăn đặc biệt\",\n    \"Môi trường làm việc năng động, chuyên nghiệp, an toàn, thân thiện và có cơ hội thăng tiến.\",\n    \"Được đào tạo nâng cao tay nghề và các kỹ năng chuyên môn liên quan.\",\n    \"Chế độ nghỉ phép hàng năm, khám sức khỏe định kỳ.\",\n    \"Tham gia các hoạt động teambuilding, du lịch, liên hoan cùng công ty.\"\n  ],\n  \"description\": \"• Đứng lắp ráp linh kiện nhựa máy in, điều hòa, giày trượt tuyết,...\\n• Các công việc khác theo chỉ thị của quản lý\",\n  \"requirements_text\": \"• Không yêu cầu kinh nghiệm, sẽ được đào tạo khi nhận việc.\\n• Tốt nghiệp THCS/THPT trở lên.\\n• Có sức khỏe tốt, không mắc các bệnh về mắt, tay chân, có thể làm việc theo ca.\\n• Cẩn thận, tỉ mỉ, có tinh thần trách nhiệm cao trong công việc.\\n• Khả năng làm việc nhóm, tuân thủ kỷ luật và quy trình sản xuất.\\n• Có mong muốn gắn bó lâu dài với công việc và công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4840,
+    "output_tokens": 750,
+    "total_tokens": 5590,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

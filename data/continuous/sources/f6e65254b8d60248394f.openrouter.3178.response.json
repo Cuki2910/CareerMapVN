@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Trưởng Phòng Nhân Sự\",\"company_name\":\"Công ty cổ phần Tổng công ty may Bắc Giang LGG\",\"job_category\":\"Nhân sự\",\"sub_category\":\"Trưởng phòng nhân sự\",\"industry\":\"May mặc / Thời trang, Sản xuất\",\"category\":null,\"location\":\"Tuyên Quang\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/truong-phong-nhan-su/2176908.html\",\"qualifications\":[\"Tốt nghiệp Đại học trở lên\",\"Chuyên ngành Quản trị nhân lực, Luật hoặc các ngành liên quan\"],\"technical_skills\":[\"Am hiểu Luật Lao động, BHXH và các quy định liên quan\",\"Xây dựng hệ thống, quy trình, chính sách nhân sự\",\"Tin học văn phòng\",\"Phần mềm quản lý nhân sự\"],\"soft_skills\":[\"Kỹ năng quản lý đội nhóm và điều phối công việc\",\"Kỹ năng giao tiếp, xử lý tình huống và đàm phán\",\"Tư duy hệ thống, trách nhiệm và quyết đoán\"],\"languages_required\":null,\"experience_required\":5,\"salary\":\"20 - 30 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 07:30 đến 17:30)\",\"benefits\":[\"Mức lương cạnh tranh, tương xứng với năng lực và kinh nghiệm.\",\"Công ty mang tầm vóc quốc tế, cơ sở vât chất hiện đại, chuyên nghiệp\",\"Thưởng Tết: 8% tổng thu nhập năm, thưởng hiệu quả công việc\",\"Thưởng hiệu quả công việc, thưởng lễ, tết theo quy định của công ty.\",\"Được đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo luật lao động.\",\"Chế độ nghỉ phép, nghỉ lễ theo quy định của luật lao động.\",\"Tham gia các hoạt động teambuilding, du lịch, nghỉ mát hàng năm của công ty.\",\"Được đào tạo nâng cao nghiệp vụ thường xuyên ở trong và ngoài nước\"],\"description\":\"Quản lý tuyển dụng: Xây dựng kế hoạch, tổ chức và giám sát công tác tuyển dụng, đảm bảo đáp ứng nhu cầu nhân sự của Nhà máy.\\nQuản trị nhân sự: Quản lý công tác chấm công, tính lương, hợp đồng lao động, BHXH và các chế độ chính sách cho người lao động.\\nQuản lý hành chính: Quản lý cơ sở vật chất, trang thiết bị, tài sản và các hoạt động hành chính tại Nhà máy.\\nQuản lý vệ sinh: Giám sát công tác vệ sinh nhà xưởng, văn phòng và cảnh quan môi trường làm việc.\\nTổ chức sự kiện: Lên kế hoạch và tổ chức các hoạt động nội bộ như du lịch, tiệc cuối năm, liên hoan và sự kiện Công ty.\\nQuản lý công tác PCCC: Tổ chức, giám sát việc thực hiện các quy định về phòng cháy chữa cháy và cứu nạn cứu hộ.\\nQuản lý ATVSLĐ: Triển khai, giám sát công tác an toàn, vệ sinh lao động theo quy định pháp luật.\\nQuản lý môi trường: Giám sát việc thực hiện các quy định về bảo vệ môi trường trong hoạt động sản xuất, kinh doanh.\\nBáo cáo và đối ngoại: Thực hiện các báo cáo định kỳ, hồ sơ pháp lý và làm việc với cơ quan Nhà nước liên quan đến lĩnh vực phụ trách.\",\"requirements_text\":\"Yêu cầu:\\n- 5 năm kinh nghiệm chuyên môn\\n- 2 năm kinh nghiệm quản lý\\n- Tuổi 30 - 38\\n- Đại Học trở lên\\n\\nYêu cầu ứng viên:\\n- Tốt nghiệp Đại học trở lên các chuyên ngành: Quản trị nhân lực, Luật hoặc các ngành liên quan\\n- Tối thiểu 5 năm kinh nghiệm trong lĩnh vực HCNS\\n- Có ít nhất 2 năm quản lý ở vị trí tương đương.\\n- Ưu tiên ứng viên có kinh nghiệm tại doanh nghiệp sản xuất/may mặc quy mô từ 500 lao động trở lên\\n- Am hiểu Luật Lao động, BHXH và các quy định liên quan.\\n- Có kinh nghiệm xây dựng hệ thống, quy trình, chính sách nhân sự.\\n- Thành thạo tin học văn phòng và các phần mềm quản lý nhân sự.\\n- Kỹ năng quản lý đội nhóm và điều phối công việc tốt.\\n- Kỹ năng giao tiếp, xử lý tình huống và đàm phán.\\n- Tư duy hệ thống, trách nhiệm và quyết đoán.\"}",
+  "usage": {
+    "input_tokens": 5416,
+    "output_tokens": 7074,
+    "total_tokens": 12490,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 5633
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

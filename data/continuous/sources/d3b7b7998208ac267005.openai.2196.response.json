@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Phục Vụ Bàn Full Time Và Part Time (Order, Chạy Bàn, Bar)-Lương Từ 8-12 Triệu Tại Đội Cấn Hà Nội\",\n  \"company_name\": \"CÔNG TY TNHH DỊCH VỤ ĂN UỐNG A-STYLE VIỆT NAM\",\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Phục vụ\",\n  \"industry\": \"Nhà hàng và các dịch vụ ăn uống phục vụ lưu động\",\n  \"category\": null,\n  \"location\": \"Số 281 Phố Đội Cấn, Phường Ngọc Hà (Phường Ngọc Hà thuộc quận Ba Đình cũ), Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-ban-full-time-va-part-time-order-chay-ban-bar-luong-tu-8-12-trieu-tai-doi-can-ha-noi/2350448.html\",\n  \"qualifications\": [\"Trung học phổ thông (Cấp 3) trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Chăm chỉ\", \"Nhanh nhẹn\", \"Cẩn thận\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\\nFull-time lương từ 8tr -12tr trở lên, Part-time lương từ 30k-45k/giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Full Time Và Part Time\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\n- Ca sáng: 10:00 đến 13:30\\n- Ca tối: 15:30 đến 21:00\",\n  \"benefits\": [\n    \"Full-time lương từ 8tr -12tr trở lên, Part-time lương từ 30k-45k/giờ\",\n    \"Được đóng BHXH, BHYT\",\n    \"Được nghỉ mỗi tuần 1 ngày\",\n    \"Hỗ trợ ăn ca 35k/ bữa x 2 bữa 1 ngày\",\n    \"Được làm việc trong nhà hàng Nhật Bản truyền thống, môi trường năng động, trẻ trung, chuyên nghiệp\",\n    \"Không Yêu cầu kinh nghiệm sẽ được đào tạo\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\nChuyên môn: Phục vụ; Nhà hàng / Khách sạn\\n\\nMô tả công việc\\n* Chào đón khách, ghi nhận đồ ăn, đồ uống, tư vấn và chăm sóc khách hàng\\n* Chuẩn bị nguyên liệu, dụng cụ pha chế\\n* Đảm bảo vệ sinh an toàn thực phẩm và khu vực quầy .\\n* Kiểm tra, đảm bảo các thiết bị chuyên dùng hoạt động tốt.\\n* Dọn dẹp khu vực mình phụ trách.\",\n  \"requirements_text\": \"* Chăm chỉ, nhanh nhẹn, cẩn thận,\\n* Biết tiếng Nhật hoặc tiếng Anh giao tiếp là lợi thế\\n* Không Yêu cầu kinh nghiệm sẽ được đào tạo\\n\\nKiến thức ngành\\nNhà hàng / Khách sạn\"\n}",
+  "usage": {
+    "input_tokens": 4755,
+    "output_tokens": 770,
+    "total_tokens": 5525,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật May Vi Tính\",\n  \"company_name\": null,\n  \"job_category\": \"Công nghệ kỹ thuật\",\n  \"sub_category\": \"Thợ Gia công cơ khí khác\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Vĩnh Long\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-may-vi-tinh/2332687.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên các ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Sửa chữa và bảo dưỡng máy cắt khuôn\",\n    \"Cắt khuôn\",\n    \"dán khuôn rập\",\n    \"Sửa chữa khuôn bị hỏng\",\n    \"Lập trình khi lên hình thể mới\",\n    \"Sửa chữa và bảo dưỡng máy may vi tính\"\n  ],\n  \"soft_skills\": [\n    \"Siêng năng\",\n    \"chịu khó\",\n    \"có tinh thần trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"6 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Lương, phụ cấp đầy đủ\",\n    \"Thưởng, tặng quà các dịp Lễ, Tết\",\n    \"Được tham gia BHXH\",\n    \"Được tham gia và hưởng phúc lợi công đoàn như: sinh nhật, hiếu, hỷ,...\"\n  ],\n  \"description\": \"- Hỗ trợ cho các công đoạn của khâu May/Chặt của xưởng khi cần thiết  \\n- Sửa chữa và bảo dưỡng máy cắt khuôn   \\n- Cắt khuôn, dán khuôn rập   \\n- Sửa chữa khuôn bị hỏng   \\n- Hỗ trợ lập trình khi lên hình thể mới   \\n- Sửa chữa và bảo dưỡng máy may vi tính   \\n- Hướng dẫn công nhân thao tác và kỹ thuật máy may vi tính   \\n- Hỗ trợ sản xuất khi cần thiết\",\n  \"requirements_text\": \"- Tốt nghiệp sơ cấp trở lên các ngành liên quan\\n- Ưu tiên có kinh nghiệm chỉnh, sửa máy may vi tính\\n- Siêng năng, chịu khó và có tinh thần trách nhiệm trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4648,
+    "output_tokens": 658,
+    "total_tokens": 5306,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Part Time\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Quảng Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-part-time/2326845.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"nhiệt tình\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"3 - 4 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"part-time\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n  * Làm việc theo ca, xoay ca\",\n  \"benefits\": [\n    \"Mức lương 26.000 - 30.000/h. Phụ cấp làm việc sau 22h. Thưởng KPI\",\n    \"Có cơ hội thành nhân viên chính thức\",\n    \"Hỗ trợ đóng dấu thực tập cho các bạn sinh viên\"\n  ],\n  \"description\": \"- Chào đón khách hàng, tư vấn bán hàng\\n  - Tương tác với khách, hướng dẫn khách chơi game, tạo không khí sôi nổi\\n  - Đảm bảo an toàn cho khách hàng trong khu vực phụ trách\\n  - Đảm bảo vệ sinh, quản lý thiết bị tại khu vực phụ trách, hỗ trợ dịch vụ khách hàng\\n  - Kiểm tra tình trạng thiết bị và báo cáo khi có sự cố cần sửa chữa\\n  - Trưng bày, bảo quản hàng hóa, nhập hàng hóa\",\n  \"requirements_text\": \"- Làm việc xoay ca, sắp xếp ca linh hoạt theo lịch học\\n  - Có thể về trễ, làm việc được Thứ 7, Chủ Nhật, Lễ/Tết.\\n  - Chăm chỉ, nhiệt tình\"\n}\n```",
+  "usage": {
+    "input_tokens": 5179,
+    "output_tokens": 598,
+    "total_tokens": 5777,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

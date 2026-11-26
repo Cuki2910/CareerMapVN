@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh / Sales Phát Triển Thị Trường - Thu Nhập 15 -30M/ Tháng\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Phát Triển Thị Trường\",\n  \"industry\": \"Điện / Điện tử / Điện lạnh\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-phat-trien-thi-truong-thu-nhap-15-30m-thang-ha-noi/1923633.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"vi tính văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Đàm phán\",\n    \"Chăm Sóc Khách Hàng\",\n    \"Bán Hàng\",\n    \"thuyết phục\",\n    \"Kỹ năng làm việc nhóm\",\n    \"kỹ năng thuyết trình\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"15 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"BHYT\",\n    \"BHTN\",\n    \"chế độ nghỉ Lễ, Tết, phép năm\",\n    \"Thưởng tháng 13\",\n    \"thưởng hiệu quả công việc\",\n    \"phụ cấp ăn trưa\",\n    \"công tác phí (khi đi thị trường)\",\n    \"Du lịch\",\n    \"teambuilding hàng năm cùng công ty\",\n    \"tham gia các sự kiện nội bộ\",\n    \"thưởng dịp Lễ/Tết/Sinh nhật\"\n  ],\n  \"description\": \"- Chăm sóc, chào bán các sản phẩm Điện máy: Điều hòa – Tủ lạnh – Máy giặt ...cho hệ thống khách hàng (data khách hàng đã có sẵn).\\n- Phân tích thị trường, thực hiện các báo tổng kết các công việc được giao và các báo cáo khác theo yêu cầu.\\n- Ngoài ra có thể đi công tác thị trường để triển khai các sản phẩm mới/các chương trình bán hàng của hãng, tạo dựng mối quan hệ với khách hàng. \\n- Thực hiện các công việc khác theo yêu cầu của trưởng phòng.\",\n  \"requirements_text\": \"- Tốt nghiệp cao đẳng, đại học các khối ngành kinh tế, yêu thích công việc kinh doanh, ham kiếm tiền.\\n- Sinh viên mới ra trường hoặc ứng viên chưa có kinh nghiệm sẽ được đào tạo để phát triển các kỹ năng cần thiết.\\n- Ưu tiên các ứng viên đã có kinh nghiệm trong lĩnh vực kinh doanh hàng điện máy\\n- Thành thạo vi tính văn phòng, Kỹ năng giao tiếp tốt\\n- Nhanh nhẹn, có sức khỏe, chịu được áp lực công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5488,
+    "output_tokens": 811,
+    "total_tokens": 6299,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

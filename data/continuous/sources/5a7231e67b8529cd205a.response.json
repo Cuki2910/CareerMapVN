@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Bán Hàng Xiaomi - Hà Nội\",\n  \"company_name\": \"CÔNG TY TNHH XIAOMI VIỆT NAM\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng điện thoại; B2C; Bán hàng tại cửa hàng/showroom\",\n  \"industry\": \"Bán buôn tổng hợp\",\n  \"category\": null,\n  \"location\": \"Hà Nội: Vincom Times City, Phường Hai Bà Trưng (Phường Hai Bà Trưng thuộc quận Hai Bà Trưng cũ); Vincom Royal City, Phường Thanh Xuân (Phường Thanh Xuân thuộc quận Thanh Xuân cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-xiaomi-ha-noi/2193994.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Kỹ năng giao tiếp tốt\"],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\nThời gian làm việc: 8 giờ mỗi ngày (không bao gồm thời gian nghỉ), làm việc theo ca. Mỗi tuần nghỉ 1 ngày.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội: tham gia bảo hiểm từ ngày bắt đầu hợp đồng.\",\n    \"Bảo hiểm sức khỏe: Generali.\",\n    \"Nghỉ phép năm\"\n  ],\n  \"description\": \"Đón tiếp khách hàng một cách thân thiện và chuyên nghiệp.\\nNắm vững kiến thức về tất cả các sản phẩm; tư vấn và giải thích rõ ràng cho khách hàng.\\nChủ động đạt được các chỉ tiêu doanh số cá nhân được giao.\",\n  \"requirements_text\": \"Kỹ năng chuyên môn: Kỹ năng giao tiếp tốt.\\nKinh nghiệm làm việc: Tối thiểu 1 năm kinh nghiệm.\\nƯu tiên ứng viên có kinh nghiệm bán hàng tại cửa hàng trong ngành điện thoại di động hoặc điện tử tiêu dùng.\\nGiới tính: Không yêu cầu.\\nĐộ tuổi: Không yêu cầu.\"\n}",
+  "usage": {
+    "input_tokens": 4507,
+    "output_tokens": 555,
+    "total_tokens": 5062,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

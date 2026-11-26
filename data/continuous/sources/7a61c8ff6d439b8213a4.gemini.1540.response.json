@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Khuôn\",\n  \"company_name\": null,\n  \"job_category\": \"Công nhân sản xuất\",\n  \"sub_category\": \"Cơ khí / Tự động hóa\",\n  \"industry\": \"Chế tạo khuôn mẫu\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-khuon/2353460.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận hành máy Phay\",\n    \"máy Tiện CNC\",\n    \"lập trình máy\",\n    \"Gia Công Cơ Khí (phay, Tiện, Cắt Dây)\",\n    \"Lắp Ráp Khuôn\",\n    \"Vận Hành Máy Gia Công Cơ Khí\",\n    \"Kiểm Tra Chất Lượng Sản Phẩm Khuôn\"\n  ],\n  \"soft_skills\": [\n    \"Chịu áp lực công việc cao\",\n    \"Giải quyết vấn đề\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Tới 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\\n- 7h30 - 17h\\n- Làm ca (ca 8 tiếng). Chủ nhật nghỉ\\n(nghỉ trưa 1 tiếng 30p)\",\n  \"benefits\": [\n    \"Được hưởng đầy đủ các chế độ theo luật lao động (BHXH, BHYT, BHTN)\",\n    \"Môi trường làm việc năng động, chuyên nghiệp, thân thiện\",\n    \"Cơ hội được đào tạo, nâng cao nghiệp vụ\"\n  ],\n  \"description\": \"- Vận hành, setup máy Phay, máy Tiện CNC\\n- Tiến hành lập trình máy và gia công sản phẩm.\\n- Kiểm tra chất lượng sản phẩm\\n- Các công việc liên quan sẽ thỏa thuận khi phỏng vấn\\n-Công ty hoạt động trong ngành chế tạo khuôn mẫu.\\n-Sản xuất các sản phẩm nhựa theo đơn hàng.\",\n  \"requirements_text\": \"- Kinh nghiệm: ít nhất 1-2 năm vận hành máy phay, tiện CNC \\n- Yêu cầu tốt nghiệp trung cấp trở lên\\n- Có tinh thần học hỏi, cầu tiến\\n-Thời gian làm việc: thứ 2-thứ 7 từ 7h30-17h (nghỉ trưa 1 tiếng 30p)\"\n}\n```",
+  "usage": {
+    "input_tokens": 4758,
+    "output_tokens": 707,
+    "total_tokens": 5465,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

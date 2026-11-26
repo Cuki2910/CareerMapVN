@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lái Xe, Giao Hàng Thu Nhập Từ 13.000.000 - 17.000.000\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": \"Tài xế xe tải\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2027-01-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-lai-xe-giao-hang-thu-nhap-tu-13-000-000-17-000-000/2358921.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\",\n    \"Bằng lái xe ô tô B2 trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Lái xe\",\n    \"giao hàng\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": [],\n  \"experience_required\": 1.0,\n  \"salary\": \"13 - 17 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Thu nhập : Từ 13.000.000 - 17.000.000 VNĐ/Tháng (Lương + Phụ cấp)\",\n    \"Đóng đầy đủ BHXH, BHYT, BHTN theo quy định của Nhà nước sau khi ký hợp đồng chính thức\",\n    \"Môi trường làm việc chuyên nghiệp, hòa đồng, công việc ổn định lâu dài\"\n  ],\n  \"description\": \"- Giao hàng : tiếp nhận đơn hàng từ bộ phận kho, vận chuyển và giao hàng đến khách hàng theo đúng lộ trình và thời gian quy định\\n- Kiểm tra các đơn hàng được phân công trực tiếp giao\\n- Bảo quản và giữ gìn xe được giao\\n- Hỗ trợ công tác nhập xuất hàng cùng phụ xe\",\n  \"requirements_text\": \"- Giới tính: Nam\\n- Có bằng lái xe ô tô B2 trở lên\\n- Có tinh thần giữ gìn bảo quản tài sản chung\\n- Có sức khỏe tốt, trung thực, chịu được áp lực công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4852,
+    "output_tokens": 640,
+    "total_tokens": 5492,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

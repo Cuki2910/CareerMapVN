@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Lái Xe Đầu Kéo FC (Tuyến Cố Định)\",\n  \"company_name\": \"CÔNG TY TNHH DẦU ĂN NGUYÊN PHÁT\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Tài xế container\",\n  \"industry\": \"Bán buôn thực phẩm\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Quảng Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/lai-xe-dau-keo-fc-tuyen-co-dinh/2339986.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\",\n    \"Bằng lái xe hạng FC\"\n  ],\n  \"technical_skills\": [\n    \"Tuân Thủ An Toàn Giao Thông\",\n    \"Lái Xe Đầu Kéo\",\n    \"Thông thuộc tuyến đường Quảng Ninh – Hà Nội\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": [],\n  \"experience_required\": 2.0,\n  \"salary\": \"35 - 40 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Chế độ thưởng lễ, Tết\",\n    \"Trang thiết bị, xe đầu kéo đời mới, được bảo dưỡng định kỳ\",\n    \"Môi trường làm việc ổn định, chuyên nghiệp, gắn bó lâu dài\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Đảm nhận điều khiển xe đầu kéo vận chuyển hàng hóa tuyến Quảng Ninh ⇆ Hà Nội (và ngược lại).\\n  * Kiểm tra tình trạng xe, hàng hóa trước và sau mỗi chuyến đi.\\n  * Bảo quản, giữ gìn phương tiện và tài sản công ty được giao.\\n  * Tuân thủ quy định an toàn giao thông và quy trình giao nhận hàng của công ty.\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n  * Bằng lái: Có bằng lái xe hạng FC còn hiệu lực.\\n  * Kinh nghiệm: Từ 2 năm trở lên lái xe đầu kéo.\\n  * Thông thuộc tuyến đường Quảng Ninh – Hà Nội, tay lái vững vàng, cẩn thận, trách nhiệm.\\n  * Có sức khỏe tốt, trung thực, chịu khó, không sử dụng chất kích thích/ma túy.\"\n}\n```",
+  "usage": {
+    "input_tokens": 7338,
+    "output_tokens": 672,
+    "total_tokens": 8010,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

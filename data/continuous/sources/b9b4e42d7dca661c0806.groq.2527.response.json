@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Hàn Vỏ Tủ Điện\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN KIẾN TRÚC VÀ ĐẦU TƯ THƯƠNG MẠI TTT\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": \"Xây dựng công trình kỹ thuật dân dụng khác\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-han-vo-tu-dien/2358465.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên, chuyên ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Đọc và hiểu bản vẽ hàn, bản vẽ kỹ thuật\",\n    \"Thực hiện hàn các chi tiết vỏ tủ điện theo bản vẽ\",\n    \"Gia công, lắp ráp các chi tiết kim loại tấm\",\n    \"Kiểm tra chất lượng mối hàn\",\n    \"Phối hợp với bộ phận kỹ thuật và sản xuất\"\n  ],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"Cẩn thận\",\n    \"Tinh thần trách nhiệm\",\n    \"Chủ động\",\n    \"Làm việc ổn định và gắn bó lâu dài\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"14 – 18 triệu/tháng (theo năng lực)\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Thưởng lương tháng 13 và thưởng theo kết quả kinh doanh\",\n    \"Đóng BHXH đầy đủ theo quy định Nhà nước\",\n    \"Du lịch, nghỉ mát hàng năm\",\n    \"Môi trường làm việc ổn định, lâu dài\",\n    \"Hỗ trợ tiền thuê nhà hoặc xe đưa đón từ Hà Đông đối với nhân sự ở xa\",\n    \"Bảo hiểm sức khỏe\",\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Phụ cấp thâm niên\",\n    \"Du lịch hàng năm\",\n    \"Thưởng cổ phần\",\n    \"Khám sức khỏe định kỳ\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Signing bonus\",\n    \"Ăn trưa\",\n    \"Xăng xe\",\n    \"Trang điểm\",\n    \"Cước điện thoại\",\n    \"Được cấp Máy tính\",\n    \"Tai nghe\",\n    \"Điện thoại\"\n  ],\n  \"description\": \"Đọc và hiểu bản vẽ hàn, bản vẽ kỹ thuật.\\nThực hiện hàn các chi tiết vỏ tủ điện theo bản vẽ.\\nGia công, lắp ráp các chi tiết kim loại tấm theo yêu cầu.\\nKiểm tra chất lượng mối hàn sau khi hoàn thiện.\\nPhối hợp với bộ phận kỹ thuật và sản xuất để đảm bảo tiến độ công việc.\\nThực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"* Tốt nghiệp trung cấp trở lên, chuyên ngành liên quan.\\n* Có kinh nghiệm hàn vỏ tủ điện hoặc hàn chi tiết kim loại tấm từ 1 năm trở lên.\\n* Biết đọc bản vẽ kỹ thuật là lợi thế.\\n* Sức khỏe tốt, chăm chỉ, cẩn thận trong công việc.\\n* Có tinh thần trách nhiệm, chủ động trong công việc.\\n* Mong muốn làm việc ổn định và gắn bó lâu dài với công ty.\"\n}",
+  "usage": {
+    "input_tokens": 4411,
+    "output_tokens": 2893,
+    "total_tokens": 7304,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 2037
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Camera\",\n  \"company_name\": null,\n  \"job_category\": \"Công nghệ kỹ thuật\",\n  \"sub_category\": \"Sửa chữa/Bảo trì điện tử/viễn thông\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-15\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-camera/1614613.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Lắp Đặt Camera\",\n    \"Khả Năng Cài Đặt, Cấu Hình Và Bảo Trì Hệ Thống Camera\",\n    \"Kiểm Tra Và Sửa Chữa Camera\",\n    \"Khắc Phục Sự Cố Camera\",\n    \"Cấu Hình Camera\",\n    \"Lắp Đặt Thiết Bị Camera\"\n  ],\n  \"soft_skills\": [\n    \"Tinh thần trách nhiệm\",\n    \"Chủ động trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"8 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h00 - 12h00\\n13h30 - 17h30\\nLàm việc từ thứ 2 – thứ 7, nghỉ chủ nhật.\",\n  \"benefits\": [\n    \"Thưởng tháng 13\",\n    \"Du lịch hàng năm\",\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp xăng xe\",\n    \"Phụ cấp đi tỉnh\",\n    \"Thưởng lễ – Tết\",\n    \"Được đào tạo nâng cao tay nghề và hỗ trợ công cụ làm việc\",\n    \"Tổ chức sinh nhật\",\n    \"Tham gia Team building\",\n    \"Năng động, sáng tạo, chuyên nghiệp, nâng cao tay nghề\"\n  ],\n  \"description\": \"· Có kinh nghiệm tối thiểu 01 năm trong lĩnh vực kỹ thuật, điện – điện tử, hoặc lắp đặt camera.\\n· Tốt nghiệp Trung cấp trở lên (ưu tiên có kinh nghiệm thực tế).\\n· Có tinh thần trách nhiệm, chủ động trong công việc.\\n· Sẵn sàng di chuyển theo lịch công trình.\",\n  \"requirements_text\": \"Có kinh nghiệm tối thiểu 01 năm trong lĩnh vực kỹ thuật, điện – điện tử, hoặc lắp đặt camera.\\nTốt nghiệp Trung cấp trở lên (ưu tiên có kinh nghiệm thực tế).\\nCó tinh thần trách nhiệm, chủ động trong công việc.\\nSẵn sàng di chuyển theo lịch công trình.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4936,
+    "output_tokens": 697,
+    "total_tokens": 5633,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

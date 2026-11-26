@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kế Hoạch\",\n  \"company_name\": \"Công Ty Trách Nhiệm Hữu Hạn May Mặc Alliance One\",\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Kế hoạch sản xuất\",\n  \"industry\": \"Sản xuất trang phục (trừ trang phục từ da lông thú)\",\n  \"category\": null,\n  \"location\": \"Xã Giao Long, Vĩnh Long (Xã Giao Long thuộc huyện Châu Thành cũ) - Phạm vi làm việc trên toàn khu vực trên.\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-hoach/886354.html\",\n  \"qualifications\": [\"Tốt nghiệp Cao Đẳng/Đại học\"],\n  \"technical_skills\": [\"Sử dụng thành thạo tin học văn phòng Word, Excel, Powerpoint\", \"Phân tích dữ liệu\", \"Lập Kế Hoạch\"],\n  \"soft_skills\": [\"Quản lý thời gian\", \"Kỹ Năng Trình Bày\", \"Nhanh nhẹn\", \"Hoạt bát\", \"Chăm chỉ học hỏi\"],\n  \"languages_required\": [\"Tiếng Anh\"],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Thưởng tháng 13\",\n    \"Được làm việc trong môi trường chuyên nghiệp, thân thiện, giàu tính sáng tạo.\",\n    \"Lương thưởng cạnh tranh; Tăng lương hằng năm\",\n    \"Thưởng KPI hằng tháng, thưởng Tết và lương tháng 13\",\n    \"Cơm trưa và cơm tăng ca (nếu có) tại canteen cty\",\n    \"Ăn trưa\",\n    \"Được cấp Điện thoại\"\n  ],\n  \"description\": \"Chuyên môn: Kế hoạch sản xuất\\n\\nKiểm tra đối chiếu các báo cáo liên quan đến sản xuất và đóng gói. Đảm bảo thống kê con số chính xác.\\nLập kế hoạch sản xuất, theo dõi nguyên vật liệu\\nTheo dõi tiến độ sản xuất, theo dõi đơn hàng của khách hàng, báo cáo cho Quản lý Sản xuất.\\nChốt các báo cáo vào cuối tháng và cập nhật lên hệ thống ERP.\\nCác công việc khác theo yêu cầu của Trưởng phòng Quản lý Sản xuất.\",\n  \"requirements_text\": \"Tổng quan — Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Cao Đẳng trở lên\\n\\nYêu cầu ứng viên\\nVui lòng gửi CV tiếng Anh\\nTốt nghiệp Cao Đẳng/Đại học\\nSử dụng thành thạo tin học văn phòng Word, Excel, Powerpoint\\nGiao tiếp tiếng Anh\\nNhanh nhẹn, hoạt bát, chăm chỉ học hỏi.\\n\\nKỹ năng cần có\\nQuản lý thời gian, Microsoft Excel, Phân tích dữ liệu, Lập Kế Hoạch, Kỹ Năng Trình Bày\"\n}",
+  "usage": {
+    "input_tokens": 4588,
+    "output_tokens": 753,
+    "total_tokens": 5341,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

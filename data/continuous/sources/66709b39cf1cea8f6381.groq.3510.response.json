@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Trưởng Phòng Tổng Vụ\",\n  \"company_name\": \"CÔNG TY TNHH ĐIỆN Lorton\",\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Hành chính tổng hợp\",\n  \"industry\": \"Đúc sắt, thép\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2027-01-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-phong-tong-vu/2324721.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"MS Office\",\n    \"Sửa chữa cơ bản hệ thống điện nước\"\n  ],\n  \"soft_skills\": [\n    \"Quản lý thời gian\",\n    \"Tư duy làm việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Môi trường làm việc năng động và chuyên nghiệp.\",\n    \"Cơ hội phát triển bản thân và thăng tiến trong công việc.\",\n    \"Đầy đủ các chế độ bảo hiểm theo quy định của pháp luật.\",\n    \"Các chế độ phúc lợi khác theo quy định của công ty.\"\n  ],\n  \"description\": \"##  Mô tả công việc \\n  * Thành thạo 4 kỹ năng nghe, nói, đọc, viết tiếng Trung; biết tiếng Việt.\\n  * Quản lý đội xe và điều phối xe phục vụ nhà máy.\\n  * Quản lý, bảo trì cơ bản hệ thống điện nước trong nhà máy.\\n  * Quản lý công tác An toàn - Vệ sinh lao động (ATVSLĐ) trong nhà máy.\\n  * Quản lý văn phòng phẩm.\\n  * Quản lý suất ăn/bếp ăn và nhà ăn\\n  * Quản lý ký túc xá.\\n  * Quản lý công tác vệ sinh \\n  * Phụ trách công tác PCCC, điện nước, quản lý và đánh giá/kiểm toán chất thải và nước thải.\",\n  \"requirements_text\": \"###  Yêu cầu: \\n1 năm kinh nghiệm chuyên môn  1 năm kinh nghiệm quản lý  Cao Đẳng trở lên \\n##  Yêu cầu ứng viên \\n  * Tốt nghiệp cao đẳng trở lên, ưu tiên ứng viên biết tiếng Trung.\\n  * Có ít nhất 1 năm kinh nghiệm làm việc trong ngành sản xuất hoặc vị trí tương đương\\n  * Sử dụng thành thạo tin học văn phòng (MS Office).\\n  * Biết sửa chữa cơ bản về hệ thống điện nước.\"\n}",
+  "usage": {
+    "input_tokens": 4241,
+    "output_tokens": 1898,
+    "total_tokens": 6139,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1214
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

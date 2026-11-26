@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Kế Toán Viên\",\n  \"company_name\": \"Công ty TNHH Đầu tư thương mại và dịch vụ Thành Gia\",\n  \"job_category\": \"Kế toán/Kiểm toán/Thuế\",\n  \"sub_category\": \"Chuyên môn Kế toán/Kiểm toán/Thuế khác\",\n  \"industry\": \"Bán buôn kim loại và quặng kim loại\",\n  \"category\": null,\n  \"location\": \"Hà Nội: Ki ốt 11A Đặng Vũ Hỷ, Phường Việt Hưng (Phường Việt Hưng thuộc quận Long Biên cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-vien/2284105.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp Chuyên ngành Kế toán.\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\\nMức lương 10-13 triệu (tùy theo năng lực làm việc)\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:45 đến 17:00)\\nThời gian làm việc: Từ 7h45 đến 17h (sáng 7h45-12h, chiều 13h15-17h), từ T2 đến hết T7 hàng tuần.\",\n  \"benefits\": [\n    \"Mức lương 10-13 triệu (tùy theo năng lực làm việc)\",\n    \"Thời gian thử việc: linh hoạt (không quá 2 tháng).\",\n    \"Được đóng BHXH, ngay sau khi kết thúc thử việc.\",\n    \"Được hưởng các chế độ phúc lợi & nghỉ lễ/tết theo quy định của NN và Công ty.\",\n    \"Môi trường làm việc trẻ trung, hòa đồng; có cơ hội thăng tiến, phát triển bản thân.\",\n    \"Thời gian làm việc: Từ 7h45 đến 17h (sáng 7h45-12h, chiều 13h15-17h), từ T2 đến hết T7 hàng tuần.\",\n    \"Địa chỉ: Ki ốt 11A, Đặng Vũ Hỷ, Phường Thượng Thanh, Q. Long Biên, HN\"\n  ],\n  \"description\": \"- Kiểm tra, xử lý hóa đơn đầu vào, đầu ra.\\n- Thực hiện các công việc liên quan đến NH: hồ sơ GN, hạch toán sổ phụ NH.\\n- Thực hiện các công việc liên quan đến BHXH.\\n- Thực hiện khai báo CCDC, TSCD ... và các bút toán tổng hợp theo quy định.\\n- Lưu trữ chứng từ, sổ sách theo quy định.\\n- Thực hiện một số công việc nội bộ khác theo sự phân công của trưởng bộ phận.\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Đại Học trở lên  Nữ\\n\\nYêu cầu ứng viên\\n- Giới tính: Nữ\\n- Tốt nghiệp Chuyên ngành Kế toán.\\n- Độ tuổi: từ 23- 40 tuổi.\\n- Yêu cầu kinh nghiệm: có ít nhất 1 năm kinh nghiệm.\\n- Ưu tiên UV ở gần Công ty.\"\n}",
+  "usage": {
+    "input_tokens": 4599,
+    "output_tokens": 806,
+    "total_tokens": 5405,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

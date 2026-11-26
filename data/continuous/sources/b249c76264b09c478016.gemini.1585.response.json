@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Không Yêu Cầu Kinh Nghiệm - Củ Chi, HCM\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-khong-yeu-cau-kinh-nghiem-cu-chi-hcm/2323658.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"máy tính cơ bản\"\n  ],\n  \"soft_skills\": [\n    \"nhanh nhẹn\",\n    \"tinh thần trách nhiệm cao trong công việc\",\n    \"chăm chỉ\",\n    \"ham học hỏi\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Thời gian làm việc: 9-18h hàng ngày, ca cố định, không đảo ca, không ca đêm  \\n  \\n+ Làm 6 ngày/tuần, Nghỉ 1 ngày ko cố định.  \\n  \\n+ Có thể tăng ca khi cần.\",\n  \"benefits\": [\n    \"Đầy đủ chế độ bảo hiểm xã hội, bảo hiểm y tế sau 2 tháng thử việc\",\n    \"Thưởng chuyên cần, phụ cấp ăn ca hàng tháng\",\n    \"Thưởng nhân viên xuất sắc trong tháng (tới 1250k/người)\",\n    \"Thưởng thâm niên sau 1 năm làm việc\",\n    \"Thử việc 100% lương.\",\n    \"Được đào tạo bài bản từ đầu, không yêu cầu kinh nghiệm\",\n    \"Sát hạch thăng chức, tăng lương từ 3-6 tháng/lần\"\n  ],\n  \"description\": \"- Nhập kho, lên kệ hàng hóa trong kho.\\n- Xuất kho, bàn giao hàng hóa cho bên vận chuyển.\\n- Sắp xếp, kiểm kê, phân loại và đóng gói hàng hoá.\\nLưu ý: Là công việc lao động phổ thông. Nhân viên làm việc theo từng nhóm nhập kho, xuất kho, đóng gói, phân loại; không phải đồng thời làm tất cả các công việc trên.\",\n  \"requirements_text\": \"1. Nhanh nhẹn ,có tinh thần trách nhiệm cao trong công việc, chăm chỉ, ham học hỏi.\\n2. Ưu tiên ứng viên có thể sử dụng máy tính cơ bản\"\n}\n```",
+  "usage": {
+    "input_tokens": 4958,
+    "output_tokens": 709,
+    "total_tokens": 5667,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

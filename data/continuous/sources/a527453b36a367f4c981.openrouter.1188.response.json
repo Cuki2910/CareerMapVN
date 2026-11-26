@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Trợ Lý Tiếng Trung\",\"company_name\":\"CÔNG TY TNHH MỘT THÀNH VIÊN CHUYỂN PHÁT NHANH THUẬN PHONG- CHI NHÁNH HÀ NỘI\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Trung\",\"industry\":\"Chuyển phát\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-20\",\"url\":\"https://www.topcv.vn/viec-lam/tro-ly-tieng-trung/1914186.html\",\"qualifications\":[\"Tốt nghiệp CĐ/ĐH trở lên\",\"Tiếng Trung HSK 5\"],\"technical_skills\":[\"Tin học văn phòng (Word, Excel, PowerPoint)\",\"Kỹ năng dịch thuật\"],\"soft_skills\":[\"Kỹ năng giao tiếp\",\"Nhanh nhẹn\",\"Trung thực\"],\"languages_required\":[\"Tiếng Trung (HSK 5)\",\"Tiếng Việt\"],\"experience_required\":1,\"salary\":\"Từ 10-18 triệu (Đàm phán theo năng lực)\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"8h00-17h30\\nhoặc 8h30 -17h30 (Tùy từng bộ phận)\",\"benefits\":[\"Lương: Từ 10-18 triệu (Đàm phán theo năng lực)\",\"Tham gia BHXH, BHYT, BHTN theo quy định sau 2 tháng thử việc.\",\"Lương tháng 13.\",\"Team building/du lịch theo kế hoạch hàng năm của công ty.\",\"Tiệc cuối năm.\"],\"description\":\"-Hỗ trợ cấp trên trong việc điều hành, giám sát, theo đôn đốc các phòng ban bộ phận trong việc triển khai thực hiện các mục tiêu nhiệm vụ.\\n-Làm báo cáo tổng hợp kết quả công việc của các bộ phận cho quản lý.\\n-Thông dịch,phiên dịch cho quản lý trong công tác đối nội, đối ngoại, quan hệ giao dịch với khách hàng, đối tác\\n-Thực hiện các nhiệm vụ khác liên quan theo yêu cầu của cấp trên.\",\"requirements_text\":\"-Nữ - Nam từ 22 tuổi, Tốt nghiệp CĐ/ĐH trở lên.\\n-Tiếng Trung nghe nói đọc viết thành thạo\\n-Ưu tiên có kinh nghiệm\\n-Nhanh nhẹn, trung thực.\\n-Tin học văn phòng ổn, kỹ năng giao tiếp tốt.\\nKỹ năng cần có: Kỹ năng giao tiếp, Kỹ Năng Văn Phòng (word, Excel, Powerpoint), Tiếng Trung (nghe, Nói, Đọc, Viết), Kỹ Năng Dịch Thuật, Tiếng Việt (nghe, Nói, Đọc, Viết)\"}",
+  "usage": {
+    "input_tokens": 4805,
+    "output_tokens": 3808,
+    "total_tokens": 8613,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3001
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

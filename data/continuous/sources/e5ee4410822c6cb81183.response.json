@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Soạn Hàng Đi Đơn Sỉ\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"1/368 Thuận Giao 13, Phường Hiệp Bình, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-soan-hang-di-don-si/2330968.html\",\n  \"qualifications\": [\n    \"Cao đẳng, Đại Học các ngành kỹ thuật, kinh doanh\"\n  ],\n  \"technical_skills\": [\n    \"phần mềm kho\",\n    \"Tin học tốt\",\n    \"biết dùng AI\"\n  ],\n  \"soft_skills\": [\n    \"nhanh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp thâm niên\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Team building\",\n    \"Khám sức khỏe định kỳ\",\n    \"Bảo hiểm y tế\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"- Đặt mua các nguyên vật liệu cơ bản như túi zip, túi nilon\\n- Quản lý nhập xuất hàng hóa trong kho\\n- Đóng đơn hàng sỉ\\n- Book giao và theo dõi giao hàng\\n- Sản xuất hàng hóa cơ bản\",\n  \"requirements_text\": \"- Cao đẳng, Đại Học các ngành kỹ thuật, kinh doanh,...\\n- Biết phần mềm kho\\n- Từng làm kho 6 tháng\\n- Nam, khỏe, nhanh\\n- Tin học tốt, biết dùng AI\"\n}\n```",
+  "usage": {
+    "input_tokens": 4607,
+    "output_tokens": 579,
+    "total_tokens": 5186,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

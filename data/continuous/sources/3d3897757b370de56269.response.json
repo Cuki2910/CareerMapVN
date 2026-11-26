@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Bộ Phận Lễ Tân Khách Sạn - G8 Bùi Viện Hotel\",\n  \"company_name\": \"G8 Bùi Viện Hotel\",\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": null,\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-bo-phan-le-tan-khach-san-g8-bui-vien-hotel/2343107.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Nghiệp Vụ Lễ Tân\",\n    \"Am Hiểu Quy Trình Vận Hành Khách Sạn\"\n  ],\n  \"soft_skills\": [\n    \"Tiếng Anh giao tiếp\",\n    \"Xử lý tình huống\",\n    \"Quản Lý Đội Nhóm\",\n    \"sắp xếp công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"12 – 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc theo ca, off 1 ngày/tuần\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Đóng BHXH, BHYT, BHTN đầy đủ theo quy định\",\n    \"Môi trường ổn định, hệ thống G8 Hotels đang mở rộng\",\n    \"Lộ trình phát triển rõ ràng\"\n  ],\n  \"description\": \"Quản lý, điều phối và giám sát toàn bộ hoạt động của bộ phận Lễ tân.\\nSắp xếp lịch làm việc, phân công nhiệm vụ và đào tạo nhân viên.\\nGiám sát quy trình check-in, check-out, đặt phòng và chăm sóc khách hàng.\\nTiếp nhận, xử lý các phản hồi, khiếu nại của khách hàng, đảm bảo chất lượng dịch vụ.\\nPhối hợp với các bộ phận Buồng phòng, Kinh doanh và Kế toán để đảm bảo hoặt động khách sạn hiệu quả.\\nTheo dõi doanh thu, công suất phòng và báo cáo tình hình hoạt động của Ban Quản lý.\\nPhối hợp thực hiện các thủ tục hành chính, lưu trú và làm việc với cơ quan chức năng khi cần.\",\n  \"requirements_text\": \"Nữ từ 25 – 40 tuổi. Có kinh nghiệm 1 - 2 năm trong lĩnh vực Lễ tân khách sạn, ưu tiên ứng viên giữ vị trí quản lý hoặc giám sát.\\nCó kỹ năng quản lý đội nhóm, sắp xếp công việc và xử lý tình huống tốt.\\nTiếng Anh giao tiếp tốt.\\nTác phong chuyên nghiệp, tinh thần trách nhiệm cao, chủ động trong công việc.\\nAm hiểu quy trình vận hành khách sạn và nghiệp vụ lễ tân.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5014,
+    "output_tokens": 780,
+    "total_tokens": 5794,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

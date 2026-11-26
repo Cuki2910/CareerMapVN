@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Sales Logistics\",\n  \"company_name\": null,\n  \"job_category\": \"Sales / Kinh doanh\",\n  \"sub_category\": \"Sales Logistics\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/sales-logistics/2357329.html\",\n  \"qualifications\": [\n    \"Cao đẳng\",\n    \"Đại học\"\n  ],\n  \"technical_skills\": [\n    \"Sales\",\n    \"Tìm kiếm khách hàng\",\n    \"Tư Vấn Dịch Vụ\",\n    \"Sales Logistics\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 – Thứ 6; Thứ 7 cách tuần\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Thu nhập theo năng lực, không giới hạn + % doanh số cao\",\n    \"Xét tăng lương hằng năm\",\n    \"Thưởng tháng 13 theo tình hình kinh doanh\",\n    \"Được đào tạo, hướng dẫn trực tiếp bởi quản lý cấp cao\",\n    \"Thưởng lễ – Tết và nhiều hoạt động nội bộ\",\n    \"Môi trường trẻ trung, năng động, chuyên nghiệp và vui vẻ\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"• Tìm kiếm, tiếp cận và mở rộng mạng lưới khách hàng mới.\\n• Tư vấn các dịch vụ vận chuyển, kho bãi, vận tải nội địa/cross-border và đại lý hải quan.\\n• Làm báo giá, hợp đồng, chăm sóc và phát triển khách hàng.\\n• Phối hợp cùng Back Office để đảm bảo chuyến hàng được vận chuyển đúng yêu cầu.\",\n  \"requirements_text\": \"• Tốt nghiệp Cao đẳng/Đại học các ngành: Xuất nhập khẩu, Kinh doanh, Tài chính hoặc ngành liên quan.\\n• Ưu tiên ứng viên có 1–2 năm kinh nghiệm Sales Logistics.\\n• Có phương tiện di chuyển\"\n}\n```",
+  "usage": {
+    "input_tokens": 4838,
+    "output_tokens": 607,
+    "total_tokens": 5445,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

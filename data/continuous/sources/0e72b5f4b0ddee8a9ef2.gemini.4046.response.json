@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Nhân Sự - Lương Từ 12 + 15 Triệu + Hoa Hồng - Nghỉ Thứ 7, CN\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân sự\",\n  \"sub_category\": \"Nhân sự tổng hợp\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-nhan-su-luong-tu-12-15-trieu-hoa-hong-nghi-thu-7-cn-ha-noi/1640311.html\",\n  \"qualifications\": [\n    \"Đại Học chính quy trở lên chuyên ngành Quản trị nhân lực, Nhân sự, Quản trị văn phòng hoặc các ngành liên quan như Quản trị kinh doanh, Kế toán...\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\",\n    \"Excel\"\n  ],\n  \"soft_skills\": [\n    \"Quản Lý Nhân Sự\",\n    \"luật lao động\",\n    \"Phát Triển Nguồn Nhân Lực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 17:30); Nghỉ Thứ 7, Chủ nhật, lễ tết\",\n  \"benefits\": [\n    \"Thu nhập hấp dẫn: 12 – 15 triệu đồng/tháng + Hoa hồng, tương xứng với năng lực và kinh nghiệm.\",\n    \"Thưởng Lễ, Tết, lương tháng 13 và thưởng theo kết quả kinh doanh.\",\n    \"Xét tăng lương định kỳ hàng năm dựa trên năng lực và hiệu quả công việc.\",\n    \"Tham gia đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định.\",\n    \"Được tham gia Team Building, du lịch và khám sức khỏe định kỳ hàng năm.\",\n    \"Môi trường làm việc chuyên nghiệp, có cơ hội phát triển và gắn bó lâu dài.\"\n  ],\n  \"description\": \"Quản lý nhân sự; hồ sơ nhân sự, hợp đồng lao động;\\nChấm công, tính lương, thưởng, phụ cấp và chế độ cho người lao động;\\nKê khai, quyết toán thuế TNCN theo quy định;\\nTheo dõi chính sách phúc lợi, lập báo cáo nhân sự và thực hiện các công việc C&B khác.\",\n  \"requirements_text\": \"Nữ, tốt nghiệp Đại học chính quy trở lên chuyên ngành Quản trị nhân lực, Nhân sự, Quản trị văn phòng hoặc các ngành liên quan như Quản trị kinh doanh, Kế toán...\\nCó từ 02 năm kinh nghiệm tại vị trí tương đương.\\nNắm vững các nghiệp vụ về tiền lương, bảo hiểm, thuế TNCN và chế độ dành cho người lao động.\\nSử dụng thành thạo tin học văn phòng, đặc biệt là Excel.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4861,
+    "output_tokens": 788,
+    "total_tokens": 5649,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

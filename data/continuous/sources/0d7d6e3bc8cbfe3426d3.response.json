@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trợ Lý Tiếng Trung\",\n  \"company_name\": null,\n  \"job_category\": \"Biên phiên dịch\",\n  \"sub_category\": \"Biên phiên dịch tiếng Trung\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-tieng-trung/2298221.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Thành thạo tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Quản lý thời gian\",\n    \"Nhanh nhẹn\",\n    \"Cẩn thận\",\n    \"Có trách nhiệm\",\n    \"Sắp xếp công việc\",\n    \"Khả Năng Chịu Áp Lực Công Việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung HSK 3\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Bảo hiểm xã hội, BHYT, BHTN đầy đủ theo quy định\"\n  ],\n  \"description\": \"- Chuẩn bị, tổng hợp báo cáo, tài liệu liên quan theo yêu cầu.\\n按要求准备、汇总相关报告和资料。\\n- Theo dõi, đôn đốc tiến độ thực hiện công việc.\\n跟进并督促工作进度。\\n- Truyền đạt thông tin của quản lý đến các nhân viên, phòng ban, bộ phận liên quan và gửi phản hồi cho quản lý.\\n将管理层的信息传达给相关员工,并将反馈信息提交给管理层。\\n- Thực hiện các công việc khác được phân công.\\n完成其他被分配的工作。\\n\\n- Môi trường làm việc chuyên nghiệp, năng động.\\n工作环境专业、充满活力。\",\n  \"requirements_text\": \"- Nam/Nữ, tốt nghiệp Trung cấp trở lên.\\n男女不限,中专及以上学历。\\n- Tiếng Trung giao tiếp từ HSK3 trở lên.\\n中文具备HSK3及以上的交流水平。\\n- Kỹ năng giao tiếp, sắp xếp công việc và quản lý thời gian tốt.\\n具备良好的沟通能力、工作安排能力和时间管理能力。\\n- Thành thạo tin học văn phòng\\n熟练使用办公软件\\n- Nhanh nhẹn, cẩn thận, có trách nhiệm và khả năng chịu áp lực công việc.\\n反应灵活、细心、有责任心,能承受工作压力。\"\n}\n```",
+  "usage": {
+    "input_tokens": 4873,
+    "output_tokens": 749,
+    "total_tokens": 5622,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

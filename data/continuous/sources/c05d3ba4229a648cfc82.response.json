@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Bảo Vệ Ca Đêm\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo vệ\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"389/11 Tỉnh lộ 10, Phường An Lạc, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/bao-ve-ca-dem/2362876.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"nhiệt tình\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"5.3 - 6.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca đêm\\nTừ : 18h00 ->06h00 ngày hôm sau\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Môi trường làm việc ổn định, lâu dài\",\n    \"Được hưởng các dịp lễ, lương tháng 13,...\"\n  ],\n  \"description\": \"1. Kiểm soát ra/vào:\\n- Hàng ngày kiểm tra kỹ, ghi chép thông tin người , phương tiện ra vào công ty , đặc biệt là khi vận chuyển kính và vật liệu.\\n- Phối hợp với các bộ phận liên quan xác nhận hàng hóa khi cần thiết.\\n2. Tuần tra, giám sát an ninh công ty:\\n- Hàng ngày thực hiện công tác tuần tra toàn công ty khi mọi người đã ra về.\\n- Đối với ca ngày không rời vị trí trực trừ trường hợp bất khả kháng thì báo Phòng HCNS\\n- Quan sát phòng ngừa trộm cắp và các hành vi làm ảnh hưởng đến quy trình làm việc tại công ty.\\n- Phát hiện và báo cáo kịp thời cho phòng HCNS khi có các sự cố và tình huống nghiệm trọng xảy ra.\\n- Ghi chép đầy đủ cont hàng ra và vào tại công ty.\\n3. Hỗ trợ các công việc khác:\\n- Hướng dẫn khách đến liên hệ công việc hoặc phỏng vấn tại công ty\\n- Thực hiện các nhiệm vụ khác theo sự phân công của Phòng HCNS\",\n  \"requirements_text\": \"- Nam, dưới 55 tuổi\\n- Không yêu cầu trình độ, kinh nghiệm\\n- Trung thực, nhiệt tình\"\n}\n```",
+  "usage": {
+    "input_tokens": 4774,
+    "output_tokens": 684,
+    "total_tokens": 5458,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

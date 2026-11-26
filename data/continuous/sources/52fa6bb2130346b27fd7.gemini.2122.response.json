@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Thuật Viên Spa\",\n  \"company_name\": null,\n  \"job_category\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"sub_category\": \"Nhân viên massage\",\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-vien-spa/2341673.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc theo ca, mỗi ca 8 tiếng\",\n  \"benefits\": [\n    \"Thu nhập từ 7.000.000 - 8.000.000 đồng (chưa bao gồm tour và tip)\",\n    \"Được đào tạo và nâng cao tay nghề.\",\n    \"Môi trường làm việc thân thiện.\",\n    \"Có cơ hội phát triển kỹ năng massage và chăm sóc da chuyên nghiệp.\"\n  ],\n  \"description\": \"- Chăm sóc, massage body cho khách hàng từ cơ bản đến nâng cao (được đào tạo nâng cao tay nghề trong quá trình làm việc)\\n- Hỗ trợ giới thiệu các sản phẩm chăm sóc da của Naris cho khách hàng\",\n  \"requirements_text\": \"- Biết massage body cơ bản.\\n- Có kiến thức hoặc kinh nghiệm chăm sóc da là lợi thế.\\n- Được đào tạo thêm về kỹ thuật nếu chưa thành thạo.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4643,
+    "output_tokens": 483,
+    "total_tokens": 5126,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

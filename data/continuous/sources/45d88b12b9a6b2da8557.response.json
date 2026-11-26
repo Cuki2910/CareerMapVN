@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Hàn\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-han/2356214.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Hàn Sắt\",\n    \"Inox\",\n    \"hàn que\",\n    \"hàn Mig\",\n    \"hàn tig\",\n    \"sử dụng các máy công cụ cầm tay\"\n  ],\n  \"soft_skills\": [\n    \"kỹ năng làm việc độc lập\",\n    \"làm việc theo nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 15:00)\\nNghỉ trưa từ 12h00 - 13h00\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng sáng kiến\",\n    \"Thưởng khi giới thiệu nhân sự cho công ty\",\n    \"Cung cấp trang thiết bị (máy tính PC), văn phòng phẩm\",\n    \"Phụ cấp ăn trưa (700.000đ)\",\n    \"Xăng xe\",\n    \"Công tác phí\",\n    \"Đóng Bảo hiểm đầy đủ theo quy định luật lao động hiện hành\",\n    \"Quà các dịp Lễ Tết, sinh nhật nhân viên\",\n    \"Các chương trình đào tạo kỹ năng và nghiệp vụ, các khoá học, hội nghị, workshop\",\n    \"Các chương trình team building, mini game, các sự kiện giải trí và kết nối\"\n  ],\n  \"description\": \"(Chi tiết công việc trao đổi khi phỏng vấn)\\n  * Đọc, hiểu bản vẽ cơ khí.\\n  * Cắt các loại thép hình.\\n  * Hàn khung máy móc, băng tải, cover máy…\\n  * Công việc khác theo yêu cầu của Quản lý.\",\n  \"requirements_text\": \"  * Nam, không quá 35 tuổi.\\n  * Biết hàn Sắt, Inox.\\n  * Thành thạo các kỹ năng hàn que, hàn Mig, hàn tig,..\\n  * Sử dụng thành thạo các máy công cụ cầm tay.\\n  * Kỹ năng làm việc độc lập hoặc theo nhóm.\\n  * Yêu cầu khác sẽ trao đổi cụ thể trong phỏng vấn\"\n}\n```",
+  "usage": {
+    "input_tokens": 4799,
+    "output_tokens": 792,
+    "total_tokens": 5591,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

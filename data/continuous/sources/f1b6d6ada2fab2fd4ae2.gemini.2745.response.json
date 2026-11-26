@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Vận - Đi Làm Ngay - Thu Nhập Từ 7 - 15 Triệu / Tháng\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-van-di-lam-ngay-thu-nhap-tu-7-15-trieu-thang/2359397.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Máy tính cơ bản\",\n    \"Nhập liệu\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Cẩn thận\",\n    \"Tinh thần trách nhiệm\",\n    \"Chủ động\",\n    \"Giao tiếp\",\n    \"Phối hợp với các nhà xe và đơn vị vận tải\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng tháng 13\",\n    \"Team building\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"• Nhập liệu, cập nhật thông tin hàng hóa và đơn hàng trên hệ thống.\\n• Điều phối xe vận chuyển hàng hóa.\\n• Tìm kiếm, liên hệ và làm việc với các nhà xe, đơn vị vận tải để sắp xếp xe đi hàng.\\n• Theo dõi tiến độ vận chuyển, phối hợp xử lý các vấn đề phát sinh trong quá trình giao nhận hàng hóa.\\n• Thực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"• Độ tuổi từ 23 - 32.\\n• Không yêu cầu bằng cấp, không yêu cầu kinh nghiệm.\\n• Biết sử dụng máy tính cơ bản, có khả năng nhập liệu.\\n• Nhanh nhẹn, cẩn thận, có tinh thần trách nhiệm và chủ động trong công việc.\\n• Có kỹ năng giao tiếp, phối hợp với các nhà xe và đơn vị vận tải.\\n• Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực kho vận hoặc điều phối vận tải.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4759,
+    "output_tokens": 692,
+    "total_tokens": 5451,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

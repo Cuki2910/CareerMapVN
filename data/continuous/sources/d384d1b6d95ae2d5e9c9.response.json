@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Kế Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Tài chính/Ngân hàng/Bảo hiểm khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-ke-toan/2364507.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp đại học 4 năm trở lên\",\n    \"Tốt nghiệp chuyên ngành Kế toán, Tài chính, Quản trị kinh doanh hoặc liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"MS Office\"\n  ],\n  \"soft_skills\": [\n    \"tính chính xác\",\n    \"tinh thần trách nhiệm cao trong việc quản lý số liệu và dòng tiền\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"12 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương cạnh tranh (thỏa thuận theo năng lực)\",\n    \"Đóng BHXH, BHYT, BHTN đầy đủ theo quy định pháp luật.\",\n    \"Chế độ thưởng hàng năm, đánh giá tăng lương theo định kỳ.\"\n  ],\n  \"description\": \"• Quản lý doanh thu và các khoản thu/chi hàng ngày\\n• Quản lý tiền mặt và các khoản thu/chi qua tài khoản ngân hàng\\n• Đối soát doanh thu và thực hiện chốt doanh thu hàng ngày\\n• Quản lý các khoản chi phí và thanh toán\\n• Quản lý hóa đơn và chứng từ\\n• Lập báo cáo tình hình dòng tiền và tài liệu tài chính hàng tháng\\n• Quản lý dữ liệu liên quan đến tiền lương và chi phí nhân sự\\n• Quản lý hồ sơ, tài liệu liên quan đến kế toán và thuế\\n• Hỗ trợ làm việc với công ty kế toán và đơn vị tư vấn thuế bên ngoài\\n• Hỗ trợ báo cáo tài liệu tài chính cho công ty mẹ và ban lãnh đạo\",\n  \"requirements_text\": \"• Tốt nghiệp đại học 4 năm trở lên\\n• Tốt nghiệp chuyên ngành Kế toán, Tài chính, Quản trị kinh doanh hoặc liên quan\\n• Có từ 2 năm kinh nghiệm về kế toán và tài chính\\n• Có khả năng sử dụng Excel và MS Office\\n• Có tính chính xác và tinh thần trách nhiệm cao trong việc quản lý số liệu và dòng tiền\"\n}\n```",
+  "usage": {
+    "input_tokens": 4615,
+    "output_tokens": 719,
+    "total_tokens": 5334,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

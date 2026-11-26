@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Sản Xuất Ngành In\",\n  \"company_name\": null,\n  \"job_category\": \"Công nhân sản xuất\",\n  \"sub_category\": \"In ấn / Xuất bản\",\n  \"industry\": \"In ấn / Xuất bản\",\n  \"category\": null,\n  \"location\": \"1c1 Hà Huy Giáp, Phường An Phú Đông, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-san-xuat-nganh-in/2302779.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhiệt tình\",\n    \"Siêng năng\",\n    \"Thật thà\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"6 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Phụ cấp: Ăn trưa, Xăng xe\",\n    \"Phụ cấp cơm: 30.000đ/bữa\",\n    \"Hỗ trợ xăng xe công ty khi đi giao nhận hoặc công việc bên ngoài\",\n    \"Được hướng dẫn công việc từ đầu, không cần có kinh nghiệm ngành in\",\n    \"Môi trường làm việc ổn định, công việc rõ ràng\",\n    \"Có cơ hội học thêm các công đoạn in ấn, gia công và hoàn thiện sản phẩm\",\n    \"Thu nhập có thể tăng theo năng lực và mức độ thành thạo công việc\"\n  ],\n  \"description\": \"- Hỗ trợ các công việc tại xưởng liên quan đến in ấn và gia công thành phẩm.\\n- Hỗ trợ làm menu, đóng gói menu và các sản phẩm in ấn khác.\\n- Phụ các công đoạn như sắp xếp hàng hóa, kiểm đếm, đóng gói và chuẩn bị đơn hàng.\\n- Hỗ trợ giao – nhận hàng khi có yêu cầu.\\n- Sắp xếp khu vực làm việc và dụng cụ gọn gàng sau khi hoàn thành công việc.\\n- Thực hiện các công việc hỗ trợ sản xuất khác theo hướng dẫn của quản lý.\",\n  \"requirements_text\": \"- Không yêu cầu bằng cấp hoặc kinh nghiệm.\\n- Siêng năng, chịu khó, nhiệt tình và thật thà.\\n- Có tinh thần trách nhiệm, chủ động trong công việc.\\n- Cẩn thận khi đóng gói, kiểm tra và xử lý thành phẩm.\\n- Có sức khỏe tốt, phù hợp với công việc tại xưởng sản xuất.\\n- Có thể phối hợp và hỗ trợ đồng đội khi đơn hàng nhiều.\\n- Ưu tiên ứng viên có thể gắn bó lâu dài.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4914,
+    "output_tokens": 742,
+    "total_tokens": 5656,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

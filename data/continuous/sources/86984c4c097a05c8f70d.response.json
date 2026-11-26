@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Tư Vấn Viên Thẩm Mỹ\",\n  \"company_name\": null,\n  \"job_category\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"sub_category\": \"Tư vấn thẩm mỹ/Spa\",\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tu-van-vien-tham-my/2046683.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Kỹ năng Thuyết phục\",\n    \"kỹ năng tư vấn\",\n    \"giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"15 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"LC 8.000.000- 10.000.000 + %HH. Thu nhập từ 15.000.000- 30.000.000\",\n    \"Đầy đủ các chế độ Lễ tết, BHXH, Phép, sinh nhật……\",\n    \"1 tháng nghỉ 4 ngày + 2 buổi chiều\",\n    \"Môi trường năng động, được đào tạo thêm về chuyên môn.\"\n  ],\n  \"description\": \"- Tư vấn trực tiếp cho khách hàng về dịch vụ phẫu thuật thẩm mỹ tại viện.\\n- Chốt Sale/ Upsale dịch vụ với khách hàng.\\n- Phối hợp với bác sĩ trong quá trình làm việc.\\n- Chăm sóc, dặn dò khách sau phẫu thuật. Giải quyết thắc mắc của khách hàng khi cần thiết\\n- Một số yêu cầu khác trong công việc theo Quản Lý.\",\n  \"requirements_text\": \"- Nữ có kinh nghiệm Tư Vấn Thẩm Mỹ\\n- Ngoại hình ưa nhìn.\\n- Chăm chỉ, trung thực, giao tiếp tốt\\n- Ưu tiên có kinh nghiệm tư vấn dịch vụ Tiểu Phẫu/ Đại Phẫu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4808,
+    "output_tokens": 633,
+    "total_tokens": 5441,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thu Ngân Nữ Nhà Hàng Fulltime - Thiso Mall\",\n  \"company_name\": null,\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Thu ngân\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-ngan-nu-nha-hang-fulltime-thiso-mall/2361261.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Tinh thần trách nhiệm\",\n    \"cẩn thận\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Từ 7 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca làm: 9h-17h, 14h-22h ( xoay ca trong tuần), tháng nghỉ 4 ngày. Thứ 2 - Chủ nhật (từ 09:00 đến 17:00), Thứ 2 - Chủ nhật (từ 14:00 đến 22:00), Nghỉ 1 ngày bất kỳ trong tuần\",\n  \"benefits\": [\n    \"Được cung cấp đồng phục miễn phí\",\n    \"Bao cơm trong ca làm\",\n    \"hỗ trợ phí giữ xe\",\n    \"Tham gia BHXH\",\n    \"lương tháng 13\",\n    \"lương thâm niên\",\n    \"Thưởng hiệu suất công việc và doanh thu nhà hàng\",\n    \"Phí giới thiệu nội bộ: 500.000đ/người ( khi làm từ đủ 3 tháng)\"\n  ],\n  \"description\": \"- Thực hiện thanh toán cho khách (tiền mặt, chuyển khoản, POS), xuất hóa đơn chính xác.\\n- Kiểm tra – đối chiếu doanh thu cuối ca, bàn giao tiền và báo cáo theo quy định.\\n- Hỗ trợ tiếp nhận đặt bàn, giải đáp thông tin và phối hợp với các bộ phận đảm bảo trải nghiệm khách hàng tốt nhất\\n- Công việc cụ thể được đào tạo hướng dẫn\",\n  \"requirements_text\": \"- Nữ, độ tuổi từ 18 - 26, ngoại hình vui vẻ, ưa nhìn\\n- Có kinh nghiệm thu ngân tại nhà hàng/ cafe là một lợi thế\\n- Tinh thần trách nhiệm, cẩn thận\"\n}\n```",
+  "usage": {
+    "input_tokens": 4877,
+    "output_tokens": 669,
+    "total_tokens": 5546,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

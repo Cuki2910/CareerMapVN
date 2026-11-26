@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh / Tư Vấn Bán Hàng Điện Máy\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh / Bán hàng\",\n  \"sub_category\": \"Tư Vấn Bán Hàng Điện Máy\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Cần Thơ\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tu-van-ban-hang-dien-may/2356118.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Diễn đạt trôi chảy\",\n    \"Giao tiếp tốt\",\n    \"có khả năng tư vấn khách hàng\",\n    \"Tác phong lịch sự, năng động, chuyên nghiệp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập từ 10.000.000d – 25.000.000d/tháng (tùy theo năng lực)\",\n    \"Thưởng lương tháng 13\",\n    \"Chế độ BHXH, BHYT, BHTN đầy đủ\",\n    \"Được làm việc trong môi trường chuyên nghiệp trên 200 nhân sự\",\n    \"12 ngày phép năm\",\n    \"Thưởng các dịp lễ theo quy định (07 kỳ lễ, tối thiểu 200.000 đồng/kỳ)\",\n    \"Thưởng doanh số cao\",\n    \"Team Building hàng năm\",\n    \"Lộ trình thăng tiến theo năm\",\n    \"Chế độ hiếu hỉ tứ thân phụ mẫu: 500.000 đồng/lần. Hỗ trợ tiền điện thoại\",\n    \"Thưởng theo tháng, quý, năm\"\n  ],\n  \"description\": \"• Tư vấn, giới thiệu và chào bán các sản phẩm điện máy của Công ty.\\n• Theo dõi thu hồi công nợ.\\n• Thực hiện các công việc khác theo sự phân công của Trưởng Phòng Kinh doanh.\",\n  \"requirements_text\": \"• Giao tiếp tốt, có khả năng tư vấn khách hàng\\n• Tác phong lịch sự, năng động, chuyên nghiệp\\n• Ưu tiên ứng viên có hiểu biết cơ bản về sản phẩm điện máy, điện lạnh\\n• Không yêu cầu kinh nghiệm, được đào tạo khi nhận việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 5272,
+    "output_tokens": 737,
+    "total_tokens": 6009,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

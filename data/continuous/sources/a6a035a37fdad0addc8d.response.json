@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Dịch Thuật\",\"company_name\":\"Công ty TNHH YTK GLOBAL\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Anh\",\"industry\":\"Hoạt động hỗ trợ giáo dục khác\",\"category\":null,\"location\":\"Đồng Nai\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-20\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-dich-thuat-tieng-anh/2321681.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Microsoft Word\",\"Excel\",\"Các công cụ xử lý tài liệu\"],\"soft_skills\":[\"Cẩn thận\",\"Tỉ mỉ\",\"Có trách nhiệm cao\"],\"languages_required\":[\"Tiếng Anh\",\"Tiếng Việt\"],\"experience_required\":1,\"salary\":\"8 - 12 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 2 - Thứ 6: từ 08:00 - 17:00\\nThứ 7: từ 08:00 - 12:00\",\"benefits\":[\"Nghỉ lễ, Tết và nghỉ phép: Được hưởng đầy đủ các ngày nghỉ lễ, Tết và chế độ nghỉ phép theo quy định của Nhà nước.\",\"Bảo hiểm: Công ty hỗ trợ BHXH – BHYT – BHTN sau 02 tháng thử việc theo chính sách của Công ty và quy định hiện hành.\",\"Thưởng lễ, Tết: Thưởng các dịp lễ, Tết theo chính sách của Công ty và kết quả hoạt động kinh doanh.\",\"Thưởng năng suất: Thưởng theo hiệu quả và năng suất làm việc.\",\"Thưởng cuối năm: Thưởng cuối năm dựa trên kết quả kinh doanh của Công ty và mức độ hoàn thành công việc của nhân viên.\",\"Cơ hội đi Hàn Quốc: Nhân viên có thành tích tốt trong công việc\",\"Hỗ trợ chỗ ở: Miễn phí chỗ lưu trú cho nhân viên ở xa,\"],\"description\":\"Thực hiện dịch thuật hồ sơ Việt – Anh / Anh – Việt phục vụ hồ sơ du học Hàn Quốc.\\nDịch các loại giấy tờ: học bạ, bảng điểm, bằng tốt nghiệp, giấy xác nhận, giấy khai sinh, căn cước/hộ chiếu, hồ sơ nhân thân, hồ sơ tài chính và các giấy tờ liên quan.\\nKiểm tra, đối chiếu bản gốc và bản dịch, đảm bảo chính xác tuyệt đối.\\nĐịnh dạng bản dịch theo đúng mẫu, đảm bảo tính thống nhất và chuyên nghiệp của hồ sơ\",\"requirements_text\":\"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn\\nCao Đẳng trở lên\\nChuyên môn:\\nBiên phiên dịch tiếng Anh\\nYêu cầu ứng viên:\\n- Có khả năng đọc hiểu và viết tiếng Anh tốt\\n- Sử dụng tốt Microsoft Word, Excel và các công cụ xử lý tài liệu\\n- Cẩn thận, tỉ mỉ, có trách nhiệm cao vì công việc liên quan trực tiếp đến hồ sơ của học sinh\\n- Ưu tiên ứng viên có kinh nghiệm dịch thuật hồ sơ du học, hồ sơ visa, hồ sơ hành chính hoặc hồ sơ giáo dục.\"}",
+  "usage": {
+    "input_tokens": 4891,
+    "output_tokens": 4899,
+    "total_tokens": 9790,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3903
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

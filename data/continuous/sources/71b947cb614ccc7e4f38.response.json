@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân Siêu Thị Điện Máy\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": \"Kế toán\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Thanh Hóa\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan-sieu-thi-dien-may/2339653.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Tinh thần ham học hỏi, cầu tiến\",\n    \"Trung thực\",\n    \"cẩn thận\",\n    \"nghiêm túc trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm xoay ca theo giờ của chi nhánh. Ca 6.5 tiếng/ngày hoặc 8 tiếng/ngày.\",\n  \"benefits\": [\n    \"Thu nhập: 7.000.000 – 8.000.000 VNĐ/tháng.\",\n    \"Ký HĐLĐ xác định thời hạn sau thời gian thử việc.\",\n    \"Phúc lợi đầy đủ: BHXH, BHTN, BHYT.\",\n    \"Chế độ sinh nhật, hiếu, hỉ; thưởng lễ, tết; lương tháng 13 theo kết quả kinh doanh năm.\",\n    \"Môi trường phát triển bền vững, được cọ xát, tích lũy thêm kinh nghiệm và làm việc trong môi trường năng động, bình đẳng, chuyên nghiệp.\"\n  ],\n  \"description\": \"Xử lý các giao dịch thanh toán cho khách hàng và theo dõi việc thanh toán từng khách hàng của nhân viên giao nhận (hoặc lái xe nếu lái xe giao hàng) chính xác, nhanh chóng\\nPhối hợp với các bộ phận liên quan tiến hành kiểm kê hàng hóa theo quy định công ty\\nLập báo cáo thu chi và nộp tiền đầy đủ về cho thủ quỹ hàng ngày.\\nTham gia và hỗ trợ bán hàng \\nThực hiện các nghiệp vụ khác theo yêu cầu của Giám đốc chi nhánh\",\n  \"requirements_text\": \"Tốt nghiệp trung cấp trở lên (Có thể làm việc theo ca)\\nTinh thần ham học hỏi, cầu tiến.\\nSử dụng tốt tin học văn phòng, có khả năng tiếp cận phần mềm hệ thống.\\nTrung thực, cẩn thận, nghiêm túc trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5080,
+    "output_tokens": 711,
+    "total_tokens": 5791,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

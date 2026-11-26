@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Phục Vụ - Không Yêu Cầu Kinh Nghiệm - Làm Việc Theo Ca - Tại Hà Nội\",\n  \"company_name\": \"CÔNG TY TNHH PIZZA BELGA\",\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Phục vụ\",\n  \"industry\": \"Nhà hàng và các dịch vụ ăn uống phục vụ lưu động\",\n  \"category\": null,\n  \"location\": \"Hà Nội: 225 Âu Cơ, Phường Tây Hồ (Phường Tây Hồ thuộc quận Tây Hồ cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-29\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-khong-yeu-cau-kinh-nghiem-lam-viec-theo-ca-tai-ha-noi/2346299.html\",\n  \"qualifications\": [\"Trung học phổ thông (Cấp 3) trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": [\"Tiếng Anh Giao tiếp cơ bản\"],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\\nMức lương: 27k/h\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Làm Việc Theo Ca\\n- Ca hỗn hợp (ngày & đêm)\\n- Chọn linh hoạt ca sáng 9h-15h hoặc chiều 16h-23h\\n- Có thể làm ít nhất 4 ca/tuần trong 6 tháng\\n- Có thể làm ít nhất 4 ca/tuần trong 6 tháng (chọn linh hoạt ca sáng 9h-15h hoặc chiều 16h-23h)\",\n  \"benefits\": [\n    \"Phụ cấp: Ăn trưa\",\n    \"Mức lương: 27k/h\",\n    \"Lương tăng theo khả năng làm việc (có tiềm năng lên trưởng ca)\",\n    \"Có hỗ trợ bữa ăn trong ca, thưởng doanh thu\",\n    \"Hỗ trợ bữa ăn trong ca\",\n    \"Thưởng doanh thu\"\n  ],\n  \"description\": \"- Đón tiếp và hướng dẫn khách vào bàn, giới thiệu menu nhà hàng\\n- Nhận order từ khách và truyền đạt chính xác đến bộ phận bếp/bar\\n- Đảm bảo món ăn, đồ uống được phục vụ đúng yêu cầu và tiêu chuẩn\\n- Hỗ trợ khách hàng trong suốt bữa ăn, xử lý các yêu cầu phát sinh\",\n  \"requirements_text\": \"Tổng quan — Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên  Tiếng Anh Giao tiếp cơ bản\\n\\nYêu cầu ứng viên\\n- Giao tiếp cơ bản tiếng Anh\\n- Có thể làm ít nhất 4 ca/tuần trong 6 tháng\\n- Không yêu cầu kinh nghiệm\\n- Có thể làm ít nhất 4 ca/tuần trong 6 tháng (chọn linh hoạt ca sáng 9h-15h hoặc chiều 16h-23h)\\n- Giao tiếp cơ bản tiếng Anh\\n\\nKiến thức ngành\\nNhà hàng / Khách sạn\\n\\nKỹ năng cần có\\nGiao tiếp cơ bản tiếng Anh\"\n}",
+  "usage": {
+    "input_tokens": 4727,
+    "output_tokens": 769,
+    "total_tokens": 5496,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

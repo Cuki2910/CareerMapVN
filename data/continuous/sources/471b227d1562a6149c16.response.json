@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Vận\",\n  \"company_name\": \"CÔNG TY TNHH KAMEREO\",\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": \"Thực phẩm / Đồ uống\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"XƯỞNG SẢN XUẤT CỦA CÔNG TY TNHH KAMEREO - LẦU 1 (Lô II-6, Đường số 11, nhóm CN2, KCN Tân Bình), Phường Thạnh Mỹ Tây, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/brand/kamereo/tuyen-dung/nhan-vien-kho-van-j2352915.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhanh nhẹn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7.5 - 9.3 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\nCa sáng: 5h - 13h30 (Nghỉ 1 ngày linh động/Tuần)  \\nCa đêm: 22h - 6h(Nghỉ 1 ngày linh động/Tuần)\",\n  \"benefits\": [\n    \"Thưởng gia nhập 1.500.000 VND.\",\n    \"Lương thử việc 100%. Xét tăng lương hàng năm.\",\n    \"Tặng phiếu mua hàng vào ngày sinh nhật.\",\n    \"12 ngày phép/năm\",\n    \"Thưởng Lễ, Tết, lương tháng 13.\",\n    \"Tham gia Bảo hiểm xã hội đầy đủ theo quy định nhà nước: ốm đau, thai sản, tai nạn, hưu trí, tử tuất.\",\n    \"Phúc lợi khác từ công ty: hiếu hỷ, tang chế, thai sản, lì xì Tết.\",\n    \"Môi trường làm việc thoải mái, trẻ trung, năng động.\"\n  ],\n  \"description\": \"- Tiếp nhận hàng hóa từ nhà cung cấp, kiểm tra số lượng, chất lượng, quy cách, hạn sử dụng, nhiệt độ.\\n- Sắp xếp hàng hóa theo đúng sơ đồ kho và quy định của từng nhóm hàng. \\n- Nhập số liệu hàng nhập lên hệ thống và lưu trữ các hồ sơ cần thiết.\\n- Soạn hàng theo đơn đặt hàng của khách hàng.\\n- Thực hiện các công việc 5S cuối ngày và các công việc khác được giao bởi cấp quản lý.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm.\\n- Có sức khỏe tốt, từng làm Kho hàng là một lợi thế.\\n- Thái độ làm việc chỉn chu, nhanh nhẹn.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4448,
+    "output_tokens": 760,
+    "total_tokens": 5208,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

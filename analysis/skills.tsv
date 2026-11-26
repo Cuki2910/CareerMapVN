@@ -1,0 +1,56 @@
+skill	group	recall	pattern
+Python	programming	1	\bpython\b
+R	programming	1	\brstudio\b|\bngôn ngữ r\b|\b(?:language|programming|lập trình|thành thạo|sử dụng)\s+r\b(?![&'])|\b(?:python|sql|sas|stata|spss)\s*(?:,|/|và|hoặc|or|and)\s*r\b(?![&'])|\br\s*(?:,|/|và|hoặc|or|and)\s*(?:python|sql|sas|stata|spss)\b
+SQL	database	1	\bsql\b|mysql|postgres|mssql|sqlite
+SAS	statistics	1	\bsas\b
+Scala	programming	1	\bscala\b
+MATLAB	programming	1	\bmatlab\b
+NoSQL	database	0	nosql|mongodb|cassandra
+Database administration	database	1	\bdba\b|database administrat|quản trị (?:hệ )?cơ sở dữ liệu
+Data governance & quality	database	1	data governance|quản trị dữ liệu|data quality|chất lượng dữ liệu|master data|\bmdm\b|data catalog|metadata
+Data modeling	database	1	data model(?:l?ing)?\b|mô hình hóa dữ liệu|dimensional model|star schema
+Power BI	bi_viz	1	power ?bi|\bpbi\b|\bdax\b
+Tableau	bi_viz	1	\btableau\b
+Looker / Data Studio	bi_viz	1	looker|data studio
+Qlik	bi_viz	1	\bqlik
+Superset / Metabase	bi_viz	1	superset|metabase|redash
+Dashboard & visualization	bi_viz	1	dashboard|trực quan hóa dữ liệu|data visuali[sz]ation|visuali[sz]ation
+Excel (advanced)	spreadsheet	1	pivot|\b[vhx]lookup|index ?\(? ?match|power query|power pivot|excel nâng cao|advanced excel|\bsumifs?\b|\bcountifs\b
+VBA / Macro	spreadsheet	1	\bvba\b|\bmacros?\b
+Excel	spreadsheet	0	\bexcel\b
+Google Sheets	spreadsheet	0	google sheets?|\bgg sheets?\b
+Google Analytics	web_product_analytics	1	google analytics|\bga ?4\b|universal analytics
+Tag Manager	web_product_analytics	1	tag manager
+A/B testing	web_product_analytics	1	\ba/?b[ -]?test|thử nghiệm a/b
+Product analytics tools	web_product_analytics	1	mixpanel|amplitude|appsflyer|clevertap
+SPSS	statistics	1	\bspss\b
+Stata	statistics	1	\bstata\b
+EViews	statistics	1	\be-?views\b
+Statistics	statistics	1	thống kê (?:mô tả|suy luận|học|ứng dụng|toán)|xác suất thống kê|kiến thức (?:về )?thống kê|phương pháp thống kê|mô hình thống kê|phân tích thống kê|statistic(?:s|al)\b|kinh tế lượng|econometric|hồi quy|regression|kiểm định giả thuyết|hypothesis test
+Forecasting	statistics	0	forecast|dự báo (?:nhu cầu|doanh số|doanh thu|bán hàng)
+Data analysis (generic)	statistics	0	phân tích (?:số liệu|dữ liệu)|data analy[sz]|xử lý (?:số liệu|dữ liệu)|khai phá dữ liệu|data mining|làm sạch dữ liệu|data cleaning
+Pandas / NumPy	ml_ai	1	\bpandas\b|\bnumpy\b|\bscipy\b
+Machine learning	ml_ai	1	machine learning|học máy|\bml ?(?:engineer|ops|model)|mlops|\bai/ml\b|\bml/ai\b
+Deep learning	ml_ai	1	deep learning|học sâu|neural network|mạng nơ-?ron|\bcnn\b|\brnn\b|\blstm\b
+NLP	ml_ai	1	\bnlp\b|natural language processing|xử lý ngôn ngữ tự nhiên
+Computer vision	ml_ai	1	computer vision|thị giác máy tính|opencv|object detection|nhận diện hình ảnh
+LLM / GenAI	ml_ai	1	\bllms?\b|large language model|generative ai|\bgen ?ai\b|\brag\b|langchain|prompt engineer|chatgpt|openai|\bgpt\b|\bgemini\b|midjourney|\bai tạo sinh
+Scikit-learn	ml_ai	1	scikit|sklearn
+TensorFlow / Keras	ml_ai	1	tensorflow|\bkeras\b
+PyTorch	ml_ai	1	pytorch
+Spark	big_data	1	\bspark\b|pyspark
+Hadoop ecosystem	big_data	1	hadoop|\bhive\b|\bhdfs\b|\bimpala\b
+Kafka / streaming	big_data	1	\bkafka\b|\bflink\b|spark streaming
+Databricks	big_data	1	databricks
+Airflow / orchestration	data_engineering	1	airflow|dagster|\bprefect\b|\bluigi\b
+dbt	data_engineering	1	\bdbt\b
+ETL / pipelines	data_engineering	1	\betl\b|\belt\b|data pipeline|pipeline dữ liệu|\bssis\b|informatica|talend
+Data warehouse / lake	data_engineering	1	data ?warehouse|kho dữ liệu|data lake|lakehouse|\bdwh\b|data mart
+Snowflake	data_engineering	1	snowflake
+BigQuery	data_engineering	1	big ?query
+Redshift	data_engineering	1	redshift
+AWS	cloud	0	\baws\b|amazon web services|sagemaker
+GCP	cloud	0	\bgcp\b|google cloud
+Azure	cloud	0	\bazure\b
+Credit & risk modeling	quant_risk	1	credit scor|chấm điểm tín dụng|scoring model|mô hình chấm điểm|risk model|mô hình rủi ro|\bifrs ?9\b|\becl\b|stress test|basel|value at risk
+Quantitative methods	quant_risk	1	quantitative|phân tích định lượng|mô hình định lượng|\bquant\b

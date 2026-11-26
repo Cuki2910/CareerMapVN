@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Bảo Vệ - Hậu Cần Ăn Ở Lại\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN CON ĐƯỜNG SÁNG\",\n  \"job_category\": \"Bảo vệ\",\n  \"sub_category\": \"Bảo vệ và hậu cần\",\n  \"industry\": \"Dịch vụ liên quan đến in\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Phường Phú Nhuận (Phường Phú Nhuận thuộc quận Phú Nhuận cũ) - Phạm vi làm việc trên toàn khu vực trên.\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-ve-hau-can-an-o-lai/2347083.html\",\n  \"qualifications\": [\"PTTH\"],\n  \"technical_skills\": [\"Sửa chữa điện nước đơn giản\"],\n  \"soft_skills\": [\"Cẩn thận\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 9 triệu\\nThu nhập:\\nTháng thứ 1 – tháng thứ 2: 7.000.000đ/tháng\\nTháng thứ 2 – tháng thứ 3: 8.000.000đ/tháng\\nSau tháng thứ 4 thu nhập 9.000.000đ/tháng\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Sáng từ 8g00 đến 12g00, Chiều từ 13g30 đến 17g30.\\nThời gian còn lại dành cho nghỉ ngơi và bảo vệ tại chỗ, sẵn sàng làm việc khi cần thiết.\\nMỗi tuần nghỉ 1 ngày.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thu nhập:\\nTháng thứ 1 – tháng thứ 2: 7.000.000đ/tháng\\nTháng thứ 2 – tháng thứ 3: 8.000.000đ/tháng\\nSau tháng thứ 4 thu nhập 9.000.000đ/tháng\",\n    \"Bao ăn 3 bữa/ngày trong những ngày làm việc.\",\n    \"Các khoản bảo hiểm theo quy định.\",\n    \"Ăn ở lại nơi làm việc.\"\n  ],\n  \"description\": \"Phụ trách các công việc bảo vệ và hậu cần:\\n* Sắp xếp, trông coi, bảo vệ tài sản và giữ an ninh khu vực.\\n* Sửa chữa điện nước đơn giản.\\n* Giao nhận hàng hóa, đồ dùng và các công việc hậu cần khác.\\n* Các nhiệm vụ khác trong khả năng hoàn thành của cá nhân.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Tuổi 35 - 50  Trung học phổ thông (Cấp 3) trở lên  Nam\\n\\nYêu cầu ứng viên\\n* Nam, 35 – 50 tuổi.\\n* Học vấn: PTTH.\\n* Cẩn thận.\\n* TUYỆT ĐỐI KHÔNG UỐNG RƯỢU-BIA, HÚT THUỐC.\\n\\nKỹ năng cần có\\nCẩn thận\"\n}",
+  "usage": {
+    "input_tokens": 4549,
+    "output_tokens": 756,
+    "total_tokens": 5305,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

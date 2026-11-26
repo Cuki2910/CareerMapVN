@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tài Xế Văn Phòng\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tai-xe-van-phong/2268338.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\",\n    \"Bằng lái xe hạng B trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Lái Xe Con\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Từ thứ Hai - Sáng thứ Bảy\",\n  \"benefits\": [\n    \"Thu nhập: 10-12tr/tháng\",\n    \"Phụ cấp ăn trưa: 40.000/bữa\",\n    \"Công làm việc: 25-26 công/tháng\",\n    \"Chế độ Lương, thưởng hấp dẫn: thưởng tháng 13, thưởng sinh nhật Công ty, thưởng các Lễ Tết …\",\n    \"Chế độ ưu đãi chăm sóc sức khỏe cho bản thân và người nhà khi thăm khám tại MEDLATEC\",\n    \"Tham gia BHXH, BHYT, BHTN theo quy định của Công ty và nhà nước\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Đưa đón, chuyên chở Ban Giám đốc và CBNV Công ty hoặc khách hàng;\\n- Thực hiện đúng các quy định an toàn giao thông & Luật giao thông đường bộ;\\n- Bảo quản, giữ gìn xe tốt, kiểm tra, bảo trì xe theo định kỳ;\\n- Báo cáo công việc thường xuyên, thực hiện các công việc khác khi có sự chỉ đạo của cán bộ quản lý trực tiếp và Ban giám đốc.\",\n  \"requirements_text\": \"- Độ tuổi: dưới 40 tuổi;\\n- Có bằng lái xe hạng B trở lên;\\n- Có ít nhất 1 năm lái xe văn phòng, xe số tự động;\\n- Thông thạo đường phố Hà Nội, có thể đi công tác dài ngày.\\n- Chịu được áp lực cao trong công việc, trung thực, thật thà, trách nhiệm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4769,
+    "output_tokens": 660,
+    "total_tokens": 5429,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

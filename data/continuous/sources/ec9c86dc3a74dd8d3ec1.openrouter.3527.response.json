@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Nutrition Consultant Supervisor / Giám Sát Bán Hàng - Thu Nhập Hấp Dẫn - Nhận Việc Ngay\",\n  \"company_name\": \"Công ty TNHH Vietnam Concentrix Services\",\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Sales Supervisor/Giám sát bán hàng\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh; Hà Nội; Cần Thơ; Đà Nẵng; và 1 địa điểm khác\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/brand/concentrixservices/tuyen-dung/nutrition-consultant-supervisor-giam-sat-ban-hang-thu-nhap-hap-dan-nhan-viec-ngay-j2365734.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp từ trung cấp trở lên\",\n    \"Ưu tiên ngành Kinh doanh, Dược,...\"\n  ],\n  \"technical_skills\": [\n    \"MS Office\",\n    \"Công cụ báo cáo\",\n    \"Theo dõi KPI\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng quản lý\",\n    \"Coaching\",\n    \"Giải quyết vấn đề\",\n    \"Giao tiếp\",\n    \"Phối hợp đa phòng ban\",\n    \"Tư duy phân tích\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:00 đến 16:00)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Lương cứng cạnh tranh + thưởng hiệu quả công việc\",\n    \"Lương Tháng 13 + Thử việc 100% lương + 14 ngày phép năm\",\n    \"Chế độ bảo hiểm full lương + Bảo hiểm sức khoẻ Aon\",\n    \"Hỗ trợ gửi xe, ăn trưa\",\n    \"Cơ hội thăng tiến và phát triển nghề nghiệp tại môi trường chuyên nghiệp và năng động\",\n    \"Cơ hội làm việc với các chuyên gia hàng đầu trong lĩnh vực và các cộng sự tài năng.\",\n    \"Làm việc trong môi trường minh bạch, tin cậy và truyền cảm hứng.\",\n    \"Tham gia các hoạt động gắn kết và well-being: Company events, Happy day, best sales....\",\n    \"Thu nhập khi đạt 100% KPI: Thoả thuận\",\n    \"Thu nhập tính theo tỷ lệ đạt KPI\",\n    \"Lương cứng không phụ thuộc doanh số\"\n  ],\n  \"description\": \"• Quản lý và giám sát hoạt động hằng ngày của đội ngũ NC (Field Sales)\\n• Phối hợp với Manager triển khai chiến lược kinh doanh.\\n• Thực hiện ghé thăm điểm bán, coaching và đánh giá hiệu suất nhân sự\\n• Theo dõi KPI: độ phủ, năng suất, tuân thủ, doanh số và cải thiện hiệu quả\\n• Phối hợp với các phòng ban (HR, Training, Marketing, Compliance...) đảm bảo vận hành trơn tru\\n• Đảm bảo tuân thủ quy định\\n• Báo cáo định kỳ về hiệu suất và đề xuất cải tiến.\",\n  \"requirements_text\": \"• Tốt nghiệp từ trung cấp (ưu tiên Kinh doanh, Dược,...)\\n• Ưu tiên ứng viên có kinh nghiệm quản lý đội ngũ field sales\\n• Kỹ năng quản lý, coaching và giải quyết vấn đề tốt\\n• Giao tiếp và phối hợp đa phòng ban hiệu quả\\n• Có tư duy phân tích, sử dụng thành thạo MS Office và công cụ báo cáo\"\n}",
+  "usage": {
+    "input_tokens": 4698,
+    "output_tokens": 4591,
+    "total_tokens": 9289,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3520
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

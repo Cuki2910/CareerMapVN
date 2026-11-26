@@ -6,3 +6,8 @@ __pycache__/
 /data/continuous/worker.lock
 ._*
 .DS_Store
+/data/raw/
+/data/analysis/*.parquet
+/data/analysis/llm_label.log
+/data/analysis/export/
+/data/analysis/results/

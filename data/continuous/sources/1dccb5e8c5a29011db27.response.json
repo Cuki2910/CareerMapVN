@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Thuật Viên - Lương Từ 10,300,000Vnđ - Vũng Tàu\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ KIỂM TRA KỸ THUẬT ALPHA\",\n  \"job_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"sub_category\": \"Kỹ Thuật Viên\",\n  \"industry\": \"Kiểm tra và phân tích kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-vien-luong-tu-10-300-000vnd-vung-tau/2335293.html\",\n  \"qualifications\": [\n    \"Trung cấp/Cao đẳng/Đại học các ngành kỹ thuật như Hàn, Cơ khí, Điện và các ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Welding Testing\",\n    \"Corrosion Survey\",\n    \"RBI\"\n  ],\n  \"soft_skills\": [\n    \"chịu khó\",\n    \"nhiệt tình\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10,300,000 vnđ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được hưởng đầy đủ các chế độ bảo hiểm theo quy định.\",\n    \"Được khám sức khỏe định kỳ.\",\n    \"Hợp đồng lao động dài hạn.\",\n    \"Được công ty đào tạo nghề sau khi tuyển dụng.\"\n  ],\n  \"description\": \"AlphaNDT chuyên cung cấp Dịch vụ kiếm tra Chất lượng(Quality Testing), Kiểm tra ăn mòn (Corrosion Survey), Kiếm tra đánh giá tính toàn vẹn công trình (Risk-Based Inspection) cho các công trình: Dầu khí (Oil & Gas), Điện gió (Wind Energy), Đóng và sửa chữa tàu thuyền (Ship Building & Repair), Chế tạo cơ khí (Mechanical Engineering), Xây dựng dân dụng (Civil Construction), vv bằng phương pháp Kiểm tra Không phá hủy (Non-Destructive Testing).\\nNhân sự sẽ được Công ty đào tạo để thực hiện các công việc Welding Testing, Corrosion Survey, RBI.\",\n  \"requirements_text\": \"- Tốt nghiệp Trung cấp/Cao đẳng/Đại học các ngành kỹ thuật như Hàn, Cơ khí, Điện và các ngành liên quan.\\n- Không yêu cầu kinh nghiệm, Công ty có chương trình đào tạo trong suốt quá trình làm việc.\\n- Có sức khỏe tốt, chịu khó, nhiệt tình trong công việc.\\n- Sẵn sàng tham gia các dự án theo yêu cầu công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4843,
+    "output_tokens": 745,
+    "total_tokens": 5588,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

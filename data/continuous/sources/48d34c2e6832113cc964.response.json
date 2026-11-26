@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nam Giao Hàng Bằng Xe Máy\",\n  \"company_name\": \"BƯU ĐIỆN TP. HỒ CHÍ MINH - CHI NHÁNH TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM\",\n  \"job_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"sub_category\": null,\n  \"industry\": \"Bưu chính\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-29\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nam-giao-hang-bang-xe-may/2201484.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Lái xe máy\",\n    \"Giao Nhận Hàng Hóa\",\n    \"smartphone Android\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp tốt\",\n    \"chịu khó\",\n    \"siêng năng\",\n    \"trung thực\",\n    \"có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"48h/tuần (6 ngày/tuần, off luân phiên)\",\n  \"benefits\": [\n    \"Thưởng Lễ, Tết, thưởng năng suất, thưởng chất lượng hàng tháng....\",\n    \"BHXH, BHYT, BHTN,…..theo Luật định\",\n    \"Phụ cấp cơm trưa, bồi dưỡng hiện vật, phụ cấp giao thông, chăm sóc sức khoẻ,....\",\n    \"Tham gia các hoạt động Đoàn thể, nghỉ mát, chăm lo thăm hỏi khi ốm đau,.....\",\n    \"Khám sức khỏe 2 lần/năm, trang bị phương tiện bảo hộ, BH tai nạn 24/7\",\n    \"Cơ hội thăng tiến nghề nghiệp cùng Bưu điện TP.HCM, môi trường làm việc chuyên nghiệp và thân thiện.\"\n  ],\n  \"description\": \"- Nhận sản phẩm từ bưu cục.  \\n- Giao nhận sản phẩm đến khách hàng.  \\n- Thu và nộp công nợ hàng ngày.  \\n- Địa điểm làm việc: ưu tiên sắp xếp khu vực gần ứng viên (Bình Chánh, Bình Tân, Bàu Bàng, Vĩnh Tân, Vũng Tàu….)\",\n  \"requirements_text\": \"- Nam, từ 18 - 45 tuổi  \\n- Có xe gắn máy, sử dụng smartphone Android  \\n- Có sức khỏe tốt, giao tiếp tốt, chịu khó, siêng năng, trung thực, có trách nhiệm trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5011,
+    "output_tokens": 727,
+    "total_tokens": 5738,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

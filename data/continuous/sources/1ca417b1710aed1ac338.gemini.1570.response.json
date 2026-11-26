@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phụ Kho (Nam, Không Yêu Cầu Kinh Nghiệm)\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-15\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phu-kho-nam-khong-yeu-cau-kinh-nghiem/2358401.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Biết lái xe ô tô là một lợi thế\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"nhanh nhẹn\",\n    \"nhiệt tình\",\n    \"không ngại việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h00- 17h30 từ T2-T7\",\n  \"benefits\": [\n    \"Được trả lương đầy đủ và đúng hạn\",\n    \"Được nghỉ CN hàng tuần, nếu làm thêm ngoài giờ hoặc CN được trả lương làm thêm\",\n    \"Làm việc tốt, hiệu suất công việc cao sẽ được thưởng thêm ngoài lương\"\n  ],\n  \"description\": \"- Nhập xuất hàng hóa ra vào kho\\n- Đi giao hàng trong HN cùng ô tô công ty\\n- Trao đổi công việc cụ thể hơn khi phỏng vấn. \\n- Địa điểm: Thạch Bàn, Long Biên, Hà Nội.\",\n  \"requirements_text\": \"- Nam, từ 20-45 tuổi\\n- Có sức khỏe tốt\\n- Trung thực, nhanh nhẹn, nhiệt tình, không ngại việc \\n- Không cần kinh nghiêm, công việc không quá nặng\\n- Biết lái xe ô tô là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4579,
+    "output_tokens": 561,
+    "total_tokens": 5140,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

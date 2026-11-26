@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bảo Vệ Cửa Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo vệ\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-29\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-ve-cua-hang/2344395.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"6 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định và có cơ hội thăng tiến\",\n    \"Được đào tạo và phát triển các kỹ năng phù hợp với vị trí công việc\",\n    \"Thu nhập tương xứng với trình độ và kết quả công việc\",\n    \"Ký HĐLĐ, đóng BHXH, BHYT, BHTN và hưởng đầy đủ các quyền lợi theo quy định của Nhà nước\",\n    \"Ăn trưa\"\n  ],\n  \"description\": \"Trông giữ phương tiện, tài sản của Khách hàng\\nKiểm soát người và phương tiện ra vào Phòng khám\\nGiữ gìn an ninh trật tự\\nThực hiện các công việc khác theo sự phân công của giám sát cửa hàng\",\n  \"requirements_text\": \"Sức khỏe tốt, có thể làm việc theo ca\\nTốt nghiệp Trung học phổ thông trở lên;\\nĐộ tuổi từ 18 đến 60 tuổi\\nƯu tiên: Bộ đội, Công an xuất ngũ, người đã có kinh nghiệm làm an ninh, bảo vệ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4633,
+    "output_tokens": 562,
+    "total_tokens": 5195,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

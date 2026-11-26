@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Hành Chính - Biết Tiếng Trung\",\n  \"company_name\": null,\n  \"job_category\": \"Hành chính tổng hợp\",\n  \"sub_category\": null,\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-hanh-chinh-biet-tieng-trung/1384550.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Cẩn thận\",\n    \"Tinh thần đội nhóm\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\\nNghỉ trưa 12h-13h30\",\n  \"benefits\": [\n    \"Thu nhập thoả thuận theo năng lực\",\n    \"Đóng BHXH theo quy định nhà nước\",\n    \"Môi trường làm việc trẻ trung, năng động\",\n    \"Cơ hội học hỏi, phát triển bản thân\"\n  ],\n  \"description\": \"- Giải quyết các khiếu nại thắc mắc, chăm sóc khách hàng Trung Quốc\\n- Làm các đề xuất OA thanh toán, thu mua\\n- Theo dõi hoá đơn báo chi\\n- Quản lý vật tư\\n- Theo dõi làm hợp đồng khách hàng\\n- Tiếp nhận tư vấn, xử lý các thắc mắc khiếu nại của khách hàng\\n- Thực hiện các công việc khác theo sự phân công của cấp trên.\",\n  \"requirements_text\": \"- Yêu cầu ứng viên có thể giao tiếp tiếng Trung lưu loát, ưu tiên có kinh nghiệm liên quan 1 năm trở lên.\\n- Ưu tiên người có nghiệp vụ hành chính, nhân sự, khả năng excel khá.\\n- Nhanh nhẹn, cẩn thận, tinh thần đội nhóm.\\n- Ưu tiên ứng viên có thể đi làm ở Trảng Bom, Đồng Nai\"\n}\n```",
+  "usage": {
+    "input_tokens": 4930,
+    "output_tokens": 627,
+    "total_tokens": 5557,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Thiết Bị Y Tế - Lương Từ 12-14 Triệu+ Thưởng\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh thiết bị/vật tư y tế\",\n  \"sub_category\": \"B2B\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-thiet-bi-y-te-luong-tu-12-14-trieu-thuong/2360739.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Chăm Sóc Khách Hàng\",\n    \"Kinh Doanh\",\n    \"Tư Vấn Bán Hàng\",\n    \"Tìm Kiếm Khách Hàng Tiềm Năng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Xử lí tình huống linh hoạt\",\n    \"Trách nhiệm với công việc\",\n    \"Giao Tiếp Với Khách Hàng\",\n    \"Xây Dựng Mối Quan Hệ Khách Hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)\",\n  \"benefits\": [\n    \"Lương hấp dẫn (12.000.000-14.000.000vnd) + thưởng\",\n    \"Được đào tạo và nâng cao kiến thức chuyên môn, kinh nghiệm lâm sàng.\",\n    \"Được làm việc trong môi trường chuyên nghiệp, năng động, lương thưởng xứng đáng\",\n    \"Được đảm bảo đầy đủ các chế độ: BHXH, BHYT, BHTN và các chế độ phúc lợi khác theo quy định của Công ty.\"\n  ],\n  \"description\": \"- Giới thiệu và tư vấn cho khách hàng (phòng khám nha khoa/ bệnh viện) có nhu cầu về sản phẩm của công ty.\\n- Tìm kiếm và thiết lập mối quan hệ với khách hàng mới\\n- Duy trì và chăm sóc mối quan hệ với khách hàng hiện có\\n- Chịu trách nhiệm về doanh số và tất cả các hoạt động bán hàng đối với địa bàn đã được phân công\\n- Tham gia các hội nghị/ hội thảo/ triển lãm ngành Nha khoa\\n- Báo cáo kết quả công việc và thực hiện công việc theo phân bổ từ BGĐ\",\n  \"requirements_text\": \"- Nam/nữ tốt nghiệp cao đẳng trở lên. \\n- Yêu thích ngành nghề Kinh doanh – CSKH.\\n- Có kinh nghiệm trên 1 năm, Ưu tiên có kinh nghiệm kinh doanh trong lĩnh vực Nha khoa , Implant nha khoa\\n- Ngoại hình ưa nhìn, tác phong nhanh nhẹn.\\n- Kỹ năng giao tiếp tốt, xử lí tình huống linh hoạt, có trách nhiệm với công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4953,
+    "output_tokens": 815,
+    "total_tokens": 5768,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

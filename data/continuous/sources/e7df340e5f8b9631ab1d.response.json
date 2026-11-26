@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Sản Xuất\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Công nhân sản xuất\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-san-xuat/2337431.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Autocad\",\n    \"máy tính\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 7 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Thưởng theo các dịp lễ tết lớn, thưởng cuối năm\",\n    \"Được bảo hiểm y tế dịch vụ bao gồm gói sức khỏe nội và ngoại trú hàng năm\",\n    \"Có chế độ nghỉ hè, du xuân hàng năm\",\n    \"Hưởng chế độ phúc lợi đầy đủ, được đóng BHXH, BHYT, BHTN, tham quan, nghỉ lễ, thưởng năng suất, nghỉ việc riêng theo quy định của Luật lao động hiện hành\"\n  ],\n  \"description\": \"• Thực hiện công việc lập trình và vận hành máy đột, laser, máy chấn.\\n• Đảm bảo an toàn lao động, vệ sinh khu vực làm việc, tuân thủ nội quy công ty.\\n• Thực hiện các công việc khác theo sự hướng dẫn và phân công của Quản lý.\\n• Biết sử dụng máy tính, Autocad.\",\n  \"requirements_text\": \"• Nghề chuyên ngành cơ khí.\\n• Không cần kinh nghiệm, được đào tạo khi làm việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4576,
+    "output_tokens": 569,
+    "total_tokens": 5145,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

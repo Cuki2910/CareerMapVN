@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Bảo Trì\",\n  \"company_name\": \"CÔNG TY TNHH TERA SURPLUS VIỆT NAM\",\n  \"job_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"sub_category\": \"Sửa chữa/Bảo trì máy công nghiệp\",\n  \"industry\": \"Sản xuất giày, dép\",\n  \"category\": null,\n  \"location\": \"Ấp 4, Xã Tam Ngãi (Xã Tam Ngãi thuộc huyện Cầu Kè cũ), Vĩnh Long\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-tri/2332690.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp sơ cấp trở lên các ngành điện, điện dân dụng, bảo trì, sửa chửa máy may công nghiệp\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm tra thiết bị, máy móc trong chuyền\",\n    \"Sửa chữa thiết bị máy may, máy tán, máy keo, máy viền\",\n    \"Kiểm tra rút gọn dây điện, dây hơi trong chuyền\",\n    \"Đổi lưu trình máy móc trong chuyền\",\n    \"Bảo dưỡng và vệ sinh thiết bị máy móc trong chuyền\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"6 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Lương theo quy định, phúc cấp đầy đủ\",\n    \"Thưởng, tặng quà theo quy định\",\n    \"Được tham gia BHXH\",\n    \"Được tham gia và hưởng các phúc lợi từ công đoàn: hiếu, hỷ, sinh nhật,...\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: 1 năm kinh nghiệm chuyên môn  Sơ cấp trở lên\\nChuyên môn: Sửa chữa/Bảo trì máy công nghiệp; Điện / Điện tử / Điện lạnh\\n\\nMô tả công việc\\n- Kiểm tra tất cả thiết bị, máy móc trong chuyền hàng ngày\\n- Sửa chữa thiết bị máy may, máy tán, máy keo, máy viền,…\\n- Kiểm tra rút gọn dây điện, dây hơi trong chuyền\\n- Đổi lưu trình máy móc trong chuyền\\n- Bảo dưỡng và vệ sinh tất cả thiết bị máy móc trong chuyền\",\n  \"requirements_text\": \"- Ưu tiên có kinh nghiệm\\n- Tốt nghiệp sơ cấp trở lên các ngành điện, điện dân dụng, bảo trì, sửa chửa máy may công nghiệp\\n\\nKiến thức ngành\\nĐiện / Điện tử / Điện lạnh\"\n}",
+  "usage": {
+    "input_tokens": 4459,
+    "output_tokens": 687,
+    "total_tokens": 5146,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

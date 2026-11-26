@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bưu Cục/Kho-Nam-Thử Việc 100% 9-14 Triệu - Đi Làm Ngay - Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Bưu chính\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-29\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-buu-cuc-kho-nam-thu-viec-100-9-14-trieu-di-lam-ngay-khong-yeu-cau-kinh-nghiem-ha-noi-ho-chi-minh/1927132.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Máy Tính Cơ Bản\",\n    \"Nhập Liệu\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Sắp xếp và tổ chức\",\n    \"Kiểm Tra Và Đối Chiếu\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nHai Bà Trưng: 08h30–18h30.\\nThanh Xuân: 08h00–18h00 hoặc 10h00–20h00.\\nThanh Trì: 08h00–18h00 hoặc 13h00–23h00.\\nNghỉ 1 ngày trong tuần theo sắp xếp\",\n  \"benefits\": [\n    \"Thu nhập (Lương +phụ cấp+ thưởng doanh số): 9-14 triệu\",\n    \"Thử việc: 01 tháng, thử việc hưởng 100% tổng lương.\",\n    \"Đóng BHXH ngay sau thử việc\",\n    \"Đầy đủ phúc lợi đãi ngộ, thưởng lễ tết.\",\n    \"Lương trả đều mồng 15 hàng tháng (KHÔNG CHẬM LƯƠNG)\",\n    \"Môi trường đoàn kết, vui trẻ, thoải mái, năng động, thẳng thắn, cơ chế thoáng, rõ ràng\"\n  ],\n  \"description\": \"- Nhận hàng của khách gửi đến bưu cục, tư vấn, báo giá, in phiếu gửi thu cước/COD của khách, ghi nhận thông tin xuất hóa đơn của khách.\\n- Sắp xếp, phân loại hàng, quét mã, nhập liệu tại kho/bưu cục; kiểm soát xuất, nhập, tồn và tình trạng hàng tập kết tại bưu cục\\n- Trả hàng, giao hàng hoàn và đối soát COD; nộp tiền COD, cước thu hàng ngày trước khi kết thúc ca hàng ngày.\\n- Chăm sóc, giải đáp thắc mắc cho khách về đơn hàng, giá, khiếu nại...\\n- Giữ vệ sinh, hình ảnh bưu cục; đề xuất vật tư, trang thiết bị đảm bảo hoạt động của bưu cục.\",\n  \"requirements_text\": \"Nam-Đi làm được luôn: Nhanh nhẹn, trung thực, cẩn thận, sức khỏe tốt, giao tiếp tốt.\\nĐộ tuổi: 18-30 (Sức khỏe tốt - có hàng nặng)\\nSử dụng máy tính tốt.\\nƯu tiên từng làm vị trí tương tự là lợi thế, được đào tạo nếu chưa có kinh nghiệm.\\nTốt nghiệp từ THPT\\nCa làm việc:\\nHai Bà Trưng: 08h30–18h30.\\nThanh Xuân: 08h00–18h00 hoặc 10h00–20h00.\\nThanh Trì: 08h00–18h00 hoặc 13h00–23h00.\\nNghỉ 1 ngày trong tuần theo sắp xếp\"\n}\n```",
+  "usage": {
+    "input_tokens": 5933,
+    "output_tokens": 1033,
+    "total_tokens": 6966,
+    "input_token_details": {
+      "cache_read": 2037
+    },
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

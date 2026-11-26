@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Kỹ Thuật Viên Ô Tô Xưởng Dịch Vụ - Lương Up To 15 Triệu - Đi Làm Ngay\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN SẢN XUẤT, THƯƠNG MẠI VÀ DỊCH VỤ Ô TÔ PTM\",\n  \"job_category\": \"Công nghệ kỹ thuật\",\n  \"sub_category\": \"Thợ sửa xe\",\n  \"industry\": \"Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan\",\n  \"category\": null,\n  \"location\": \"Hà Nội: Ô tô MG - 46 Láng Hạ, Phường Láng (Phường Láng thuộc quận Đống Đa cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-28\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-vien-o-to-xuong-dich-vu-luong-up-to-15-trieu-di-lam-ngay/2343519.html\",\n  \"qualifications\": [\"Sơ cấp trở lên\"],\n  \"technical_skills\": [\"kiến thức cơ bản về kỹ thuật ô tô\"],\n  \"soft_skills\": [\"Chăm chỉ\", \"Trung thực\", \"Có tinh thần trách nhiệm\", \"Có tinh thần học hỏi\", \"Phối hợp tốt với đồng nghiệp\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập 10–15 triệu++/tháng, tùy năng lực và kinh nghiệm.\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định.\",\n    \"Được nâng cao tay nghề và phát triển chuyên môn.\",\n    \"Các chế độ đãi ngộ theo chính sách của công ty.\"\n  ],\n  \"description\": \"- Thực hiện bảo dưỡng, sửa chữa ô tô theo sự phân công của quản lý xưởng.\\n- Kiểm tra, xác định và xử lý các vấn đề kỹ thuật của xe.\\n- Đảm bảo chất lượng cao trong sửa chữa, đảm bảo tiến độ công việc đúng theo yêu cầu, tuân thủ quy trình kỹ thuật và an toàn lao động.\\n- Giữ gìn vệ sinh, dụng cụ và khu vực làm việc.\",\n  \"requirements_text\": \"Tổng quan\\nYêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Sơ cấp trở lên\\nChuyên môn:\\nThợ sửa xe  Công nghệ kỹ thuật\\n\\nYêu cầu ứng viên\\n- Có kiến thức cơ bản về kỹ thuật ô tô; Ưu tiên các ứng viên có kinh nghiệm tại Đại lý của các hãng ô tô.\\n- Chăm chỉ, trung thực, có tinh thần trách nhiệm.\\n- Có tinh thần học hỏi, phối hợp tốt với đồng nghiệp.\\n- Chấp nhận đào tạo đối với ứng viên phù hợp.\\n\\nKiến thức ngành\\nCông nghệ kỹ thuật\\nKỹ năng cần có\\nkiến thức cơ bản về kỹ thuật ô tô\\nKỹ năng nên có\\nkinh nghiệm tại Đại lý của các hãng ô tô\"\n}",
+  "usage": {
+    "input_tokens": 4607,
+    "output_tokens": 755,
+    "total_tokens": 5362,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

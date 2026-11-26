@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kinh Doanh Du Lịch\",\n  \"company_name\": \"CÔNG TY TNHH DỊCH VỤ DU LỊCH GREENTOURS VIỆT NAM\",\n  \"job_category\": \"Du lịch\",\n  \"sub_category\": \"Sales Tour\",\n  \"industry\": \"Dịch vụ du lịch\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-du-lich-sales-tour-tieng-anh/2362105.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tìm kiếm khách hàng\",\n    \"Tư vấn\",\n    \"Chốt Sale\",\n    \"Giao Tiếp Tiếng Anh\"\n  ],\n  \"soft_skills\": [\n    \"Chủ động\",\n    \"Chịu được áp lực doanh số\",\n    \"Giao tiếp tiếng Anh tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 – Thứ 6 (T7 làm remote)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Cơ hội đi khảo sát, công tác\",\n    \"Môi trường năng động, phát triển lâu dài\"\n  ],\n  \"description\": \"##  Mô tả công việc \\n  * Tư vấn tour du lịch VN (khách quốc tế là chính)\\n  * Tìm kiếm, phát triển khách hàng B2B, B2C/đối tác\\n  * Xây dựng chương trình tour, chăm sóc khách hàng\\n  * Phối hợp vận hành đảm bảo chất lượng dịch vụ\\n\\n##  Thu nhập \\n  * Thu nhập: Thoả thuận\\n  * Lương cứng: 8 - 12 triệu VND \\n  * Lương cứng không phụ thuộc doanh số\\n\\n##  Quyền lợi ứng viên \\n  * Lương 8 – 12tr + hoa hồng + thưởng (không giới hạn)\\n  * Cơ hội đi khảo sát, công tác\\n  * Môi trường năng động, phát triển lâu dài\\n\\n###  Phúc lợi \\nThưởng tháng 13, Thưởng hiệu quả làm việc \\n\\n##  Địa điểm và thời gian \\n###  Địa điểm làm việc \\n  * **Hà Nội:** Tầng 23 Rox Tower, 136 Hồ Tùng Mậu, Phường Từ Liêm (Phường Từ Liêm thuộc quận Nam Từ Liêm cũ)\\n\\n###  Thời gian làm việc \\n  * Thứ 2 – Thứ 6 (T7 làm remote)\",\n  \"requirements_text\": \"###  Yêu cầu: \\n2 năm kinh nghiệm chuyên môn  Cao Đẳng trở lên  Tiếng Anh Giao tiếp thành thạo \\n##  Yêu cầu ứng viên \\n  * Có kinh nghiệm sale tour/du lịch là lợi thế\\n  * Giao tiếp tiếng Anh tốt (Hoặc có KN sale outbound từ 2 năm trở lên)\\n  * Kỹ năng tư vấn, chốt sale, tìm kiếm khách hàng\\n  * Chủ động, chịu được áp lực doanh số\\n\\n###  Kiến thức ngành \\nDu lịch \\n###  Kỹ năng cần có \\nTìm kiếm khách hàng, Tư vấn, Chốt Sale, Giao Tiếp Tiếng Anh \\n###  Kỹ năng nên có \\nSale Tour, du lịch\"\n}",
+  "usage": {
+    "input_tokens": 4502,
+    "output_tokens": 2147,
+    "total_tokens": 6649,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1270
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

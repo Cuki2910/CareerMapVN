@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Đội Trưởng Đội Thi Công\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Xây dựng khác\",\n  \"industry\": \"Công nghệ kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/doi-truong-doi-thi-cong/2228420.html\",\n  \"qualifications\": [\n    \"Bằng Cao đẳng\",\n    \"Đại học các chuyên ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Autocad\",\n    \"tin học văn phòng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thỏa thuận 25-30tr\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được đào tạo thêm để nâng cao nghiệp vụ chuyên môn\",\n    \"Lương tháng 13, thưởng các ngày lễ, Tết...\",\n    \"Khám sức khỏe định kỳ hàng năm\",\n    \"Xét tăng lương hàng năm, cơ hội thăng tiến\",\n    \"Chế độ nghỉ mát hàng năm, hàng quý theo kết quả kinh doanh của Công ty\",\n    \"Chế độ BHXH, BHYT, BHTN theo Luật\"\n  ],\n  \"description\": \"- Quản lý đội thi công, phân công và điều phối công việc.\\n- Quản lý kỹ thuật, hướng dẫn và giám sát thi công theo bản vẽ, tiêu chuẩn.\\n- Quản lý nhân sự, đào tạo, đánh giá và duy trì kỷ luật đội thi công.\\n- Kiểm soát tiến độ, chất lượng, an toàn và sử dụng vật tư, thiết bị.\\n- Báo cáo định kỳ và đột xuất về tiến độ, chất lượng, nhân sự và các vấn đề phát sinh; đề xuất giải pháp xử lý và cải tiến.\",\n  \"requirements_text\": \"- Bằng Cao đẳng , Đại học các chuyên ngành liên quan \\n- Thành thạo Autocad, tin học văn phòng\\n- Độ tuổi : 25-40\\n- Ít nhất 1 năm kinh nghiệm trong lĩnh vực quản lý dự án\"\n}\n```",
+  "usage": {
+    "input_tokens": 4721,
+    "output_tokens": 637,
+    "total_tokens": 5358,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

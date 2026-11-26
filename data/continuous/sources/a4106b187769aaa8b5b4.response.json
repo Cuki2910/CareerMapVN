@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Nhà Hàng ( Waiter, Waitress)\",\n  \"company_name\": null,\n  \"job_category\": \"Phục vụ\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nha-hang-waiter-waitress/2017281.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Nhiệt tình\",\n    \"Có trách nhiệm với công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Lương căn bản + chia tiền service charge, thưởng target\",\n    \"Chế độ tăng lương theo năng lực và thâm niên\",\n    \"Thưởng service charge & target hàng tháng\",\n    \"Trợ cấp suất ăn, gửi xe, đồng phục\",\n    \"Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho nhân viên chính thức\"\n  ],\n  \"description\": \"- Phục vụ thức ăn, đồ uống theo yêu cầu của khách\\n- Cung cấp thông tin về dịch vụ khi khách yêu cầu và giải quyết các phàn nàn của khách hàng\\n- Đảm bảo phục vụ theo tiêu chuẩn và vệ sinh khu vực phục vụ \\n- Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận\",\n  \"requirements_text\": \"- Ứng viên nhanh nhẹn, ngoại hình ưa nhìn.\\n- Tiếng Anh giao tiếp khá .\\n- Ưu tiên ứng viên đã có kinh nghiệm làm việc tại các khách sạn/Resort \\n- Trung thực, nhiệt tình, có trách nhiệm với công việc.\\n- Chưa có kinh nghiệm sẽ được đào tạo\"\n}\n```",
+  "usage": {
+    "input_tokens": 4702,
+    "output_tokens": 580,
+    "total_tokens": 5282,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

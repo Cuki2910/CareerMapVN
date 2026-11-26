@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kinh Doanh Thiết Bị/Vật Tư Phòng Thí Nghiệm ( Lab)\",\n  \"company_name\": \"CÔNG TY TNHH ĐẠT HIỂN\",\n  \"job_category\": \"Kinh Doanh\",\n  \"sub_category\": \"Kinh doanh thiết bị/vật tư y tế\",\n  \"industry\": \"Bán buôn máy móc, thiết bị và phụ tùng máy khác\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/kinh-doanh-thiet-bi-vat-tu-phong-thi-nghiem-lab/2328215.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Hóa phân tích hoặc các ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Kiến Thức Kỹ Thuật\",\n    \"tư vấn giải pháp\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"tố chất kinh doanh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)- Nghỉ T7 & CN\",\n  \"benefits\": [\n    \"Được đào tạo kiến thức sản phẩm, kỹ thuật ứng dụng và kỹ năng kinh doanh.\",\n    \"Có cơ hội làm việc với các dòng thiết bị phân tích và công nghệ phòng thí nghiệm.\",\n    \"Thu nhập gồm lương cơ bản và thưởng/hoa hồng theo chính sách công ty.\",\n    \"Có cơ hội phát triển chuyên môn và thăng tiến trong lĩnh vực kinh doanh thiết bị phân tích.\"\n  ],\n  \"description\": \"- Tìm kiếm, phát triển và chăm sóc khách hàng là các phòng thí nghiệm, trường đại học, viện nghiên cứu, nhà máy và trung tâm kiểm nghiệm.\\n- Tư vấn sản phẩm, báo giá và theo dõi đơn hàng theo lĩnh vực được phân công.\\n- Phối hợp với bộ phận kỹ thuật và các hãng sản xuất để hỗ trợ khách hàng.\\n- Duy trì mối quan hệ khách hàng và phát triển doanh số theo mục tiêu công ty.\",\n  \"requirements_text\": \"- Tốt nghiệp chuyên ngành Hóa phân tích hoặc các ngành liên quan.\\n- Có ít nhất 06 tháng kinh nghiệm làm việc trong phòng thí nghiệm (Lab) hoặc kinh nghiệm kinh doanh thiết bị, hóa chất, vật tư tiêu hao phòng thí nghiệm.\\n- Yêu thích công việc kinh doanh, có tố chất kinh doanh, giao tiếp tốt và tinh thần chủ động.\\n- Có khả năng học hỏi kiến thức kỹ thuật và tư vấn giải pháp phù hợp cho khách hàng.\\n- Có tinh thần trách nhiệm, trung thực, năng động và mong muốn phát triển nghề nghiệp lâu dài.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5038,
+    "output_tokens": 752,
+    "total_tokens": 5790,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

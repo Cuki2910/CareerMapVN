@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Pha Chế & Phục Vụ (Part-Time)\",\n  \"company_name\": null,\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Phục vụ\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-pha-che-phuc-vu-part-time/2354569.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Pha Chế\",\n    \"phục vụ\"\n  ],\n  \"soft_skills\": [\n    \"Chăm Sóc Khách Hàng\",\n    \"Trung thực\",\n    \"có trách nhiệm\",\n    \"đúng giờ\",\n    \"Nhanh nhẹn\",\n    \"sạch sẽ\",\n    \"gọn gàng\",\n    \"Có tinh thần học hỏi\",\n    \"hỗ trợ đồng đội\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"25 k - 27 k /giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"part-time\",\n  \"working_hours\": \"Ca ngày\\nPart-time: 10:00 – 14:00 hoặc 16:00 – 22:00\\nƯu tiên ứng viên có thể xoay ca linh hoạt. Hạn chế off cuối tuần và các ngày lễ\",\n  \"benefits\": [\n    \"Lương: 25.000 – 27.000đ/giờ (tùy năng lực).\",\n    \"Phụ cấp Part-time: 400.000đ/tháng.\",\n    \"Phát đồng phục miễn phí\",\n    \"Mỗi ngày được uống cafe miễn phí\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Pha chế và phục vụ các món kem, nước.\\n- Hỗ trợ bán hàng và chăm sóc khách hàng.\\n- Dọn dẹp, sắp xếp khu vực làm việc gọn gàng.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm, sẽ được hướng dẫn khi làm việc.\\n- Trung thực, có trách nhiệm và đúng giờ.\\n- Nhanh nhẹn, sạch sẽ, gọn gàng.\\n- Có tinh thần học hỏi và hỗ trợ đồng đội.\\n- Có thể làm việc vào cuối tuần hoặc lễ là một lợi thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 4819,
+    "output_tokens": 683,
+    "total_tokens": 5502,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

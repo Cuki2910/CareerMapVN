@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Warehouse Supervisor / Giám Sát Kho Vận (Kho Thực Phẩm)\",\"company_name\":\"GOOD FOOD CO., LTD\",\"job_category\":\"Kho vận / Logistics\",\"sub_category\":\"Giám sát kho vận (Kho thực phẩm)\",\"industry\":\"Bán buôn thực phẩm\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-12\",\"url\":\"https://www.topcv.vn/viec-lam/warehouse-supervisor-giam-sat-kho-van-kho-thuc-pham/2356621.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Excel\",\"Phần mềm quản lý kho/ERP\",\"Quản lý kho vận\",\"Theo dõi và phân tích năng suất nhân viên\"],\"soft_skills\":[\"Tinh thần trách nhiệm\",\"Quyết đoán\",\"Xử lý vấn đề tốt\",\"Khả năng tổ chức công việc theo sản lượng và thời gian\",\"Khả năng giao tiếp\",\"Quản lý đội ngũ\",\"Quản lý hiệu suất nhóm\"],\"languages_required\":null,\"experience_required\":4,\"salary\":\"15 - 20 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 2 - Thứ 6: 8:00 - 17:00\\nThứ 7: 8:00 - 12:00\",\"benefits\":[\"Mức lương cạnh tranh, hưởng 100% lương trong thời gian thử việc.\",\"Thưởng theo quý và thưởng năm.\",\"Môi trường làm việc năng động, cởi mở và hợp tác.\",\"Cơ hội phát triển nghề nghiệp và thăng tiến.\"],\"description\":\"1. Quản lý vận hành\\n• Điều phối hoạt động nhập, xuất và soạn hàng hằng ngày.\\n• Phân công công việc và nhân sự theo kế hoạch sản lượng.\\n• Theo dõi tiến độ đơn hàng và xử lý các vấn đề phát sinh.\\n• Đảm bảo hàng hóa được nhập/xuất đúng số lượng, mã hàng và thời gian.\\n\\n2. Quản lý hàng hóa\\n• Kiểm soát tồn kho, FIFO/FEFO và hạn sử dụng.\\n• Kiểm soát điều kiện bảo quản hàng thực phẩm, hàng mát/đông lạnh.\\n• Theo dõi hàng hư hỏng, cận date, sai lệch tồn kho.\\n• Tổ chức kiểm kê và xử lý chênh lệch.\\n\\n3. Quản lý nhân sự & năng suất\\n• Quản lý đội ngũ nhân viên kho.\\n• Phân công, hướng dẫn và kiểm soát công việc.\\n• Theo dõi sản lượng và năng suất từng nhân viên.\\n• Đánh giá KPI và đề xuất cải thiện năng suất.\\n• Đào tạo nhân viên mới và nhắc nhở tuân thủ quy trình.\\n\\n4. Chất lượng & an toàn\\n• Đảm bảo vệ sinh kho và an toàn thực phẩm.\\n• Kiểm soát nhiệt độ và điều kiện bảo quản.\\n• Đảm bảo nhân viên tuân thủ nội quy, PPE và quy định an toàn lao động.\\n• Phát hiện, cách ly và báo cáo hàng hóa không đạt yêu cầu.\\n\\n5. Báo cáo\\n• Báo cáo sản lượng nhập/xuất.\\n• Báo cáo năng suất nhân viên.\\n• Báo cáo tồn kho, hàng lỗi/hư hỏng và sai lệch.\\n• Báo cáo các sự cố và đề xuất cải tiến vận hành.\",\"requirements_text\":\"- Có từ 4 năm kinh nghiệm trong lĩnh vực kho vận; ưu tiên kho thực phẩm/FMCG.\\n- Có kinh nghiệm quản lý và điều phối đội nhóm.\\n- Có khả năng tổ chức công việc theo sản lượng và thời gian.\\n- Biết sử dụng Excel và phần mềm quản lý kho/ERP.\\n- Có khả năng theo dõi và phân tích năng suất nhân viên.\\n- Có tinh thần trách nhiệm, quyết đoán và xử lý vấn đề tốt.\\n\\nKiến thức ngành: Bán lẻ - Hàng tiêu dùng - FMCG, Thực phẩm / Đồ uống, Thương mại điện tử\\n\\nKỹ năng cần có: Xử lý tình huống, Quản Lý Đội Ngũ, Khả Năng Giao Tiếp, Quản Lý Hiệu Suất Nhóm, Quản Lý Kho Vận, phần mềm quản lý kho (ERP)\"}",
+  "usage": {
+    "input_tokens": 5306,
+    "output_tokens": 3421,
+    "total_tokens": 8727,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2097
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

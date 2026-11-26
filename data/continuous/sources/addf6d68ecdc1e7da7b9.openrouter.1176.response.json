@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Hành Chính Khu Vực Yêu Cầu Tiếng Trung\",\"company_name\":null,\"job_category\":\"Hành Chính\",\"sub_category\":\"Biên phiên dịch tiếng Trung\",\"industry\":\"Nhà hàng\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-13\",\"url\":\"https://www.topcv.vn/viec-lam/hanh-chinh-khu-vuc-yeu-cau-tieng-trung/2355457.html\",\"qualifications\":[\"Đại Học trở lên\",\"Biên phiên dịch tiếng Trung\",\"Tiếng Trung HSK 5 trở lên\"],\"technical_skills\":null,\"soft_skills\":[\"Năng động\",\"Chăm chỉ\",\"Sức khỏe tốt\",\"Chịu được áp lực cao\",\"Quản lý thời gian\",\"Giải quyết vấn đề\"],\"languages_required\":[\"Tiếng Trung (HSK 5 trở lên)\"],\"experience_required\":1,\"salary\":\"15 - 20 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Mức thu nhập: 15.000.000đ - 25.000.000đ/tháng (thỏa thuận).\",\"Thử việc 2 tháng nhận lương 85%, tạm khấu trừ thuế TNCN 10% (sẽ xuất chứng từ khấu trừ thuế để làm hoàn thuế nếu có nhu cầu).\",\"Làm việc trong môi trường năng động, chuyên nghiệp\",\"Cung cấp trang thiết bị, đồng phục đầy đủ để phục vụ công việc.\",\"Được đóng BHXH, BHYT, BHTN (đóng mức full lương)\",\"Ăn cơm theo ca tại nhà hàng\",\"Được hưởng các chính sách phúc lợi theo quy định của công ty (sinh nhật, trợ cấp giáo dục con cái, thâm niên...)\",\"Được đào tạo, nâng cao nghiệp vụ thường xuyên, có cơ hội đi tu nghiệp ở các Chi nhánh của Hai Di Lao tại nước ngoài.\",\"Có nhiều cơ hội thăng tiến lên các cấp quản lý trong công việc\"],\"description\":\"Hỗ trợ công tác hành chính cho các nhà hàng trong khu vực Hà Nội.\\nTheo dõi, tổng hợp quản lý chấm công nhân sự bộ phận và khu vực\\nTổng hợp báo cáo tình hình kinh doanh (doanh số, số bàn, ….) của các chi nhánh trong khu vực, \\nTheo dõi, tổng hợp, báo cáo và thanh toán các chi phí, hợp đồng, tài sản, thiết bị... của bộ phận.\\nLàm việc với các bộ phận nội bộ và bên ngoài (đối tác, nhà cung cấp, cơ quan chức năng) khi cần.\\nPhiên dịch, dịch thuật tài liệu hành chính, công văn khi cần\\nTổ chức các sự kiện nội bộ, đào tạo, họp định kỳ tại khu vực.\\nQuản lí sử dụng con dấu công ty, xử lý đóng mộc các văn bản hợp đồng hành chính\\nTổng hợp báo cáo tình hình hoạt động kinh doanh, kết quả hoạt động hàng tháng/quý/năm.\\nHọc nghiệp vụ các vị trí tại nhà hàng (11 vị trí nhân viên bao gồm Phục vụ, Lễ tân, Thu ngân,... và các vị trí Quản lí) \\nCác công việc hành chính khác theo yêu cầu của quản lý.\",\"requirements_text\":\"Yêu cầu tối thiểu 1 năm kinh nghiệm tại các vị trí hành chính hoặc tương đương\\nTrình độ tiếng Trung thành thạo 4 kỹ năng (nghe, nói, đọc, viết) từ HSK 5 trở lên\\nNăng động, chăm chỉ có sức khỏe tốt, chịu được áp lực cao trong công việc;\\nCó thể đi công tác khi cần;\\nƯu tiên ứng viên dưới 35 tuổi\\n\\nKỹ năng cần có\\nTiếng Trung giao tiếp\\n\\nKỹ năng nên có\\nQuản lý thời gian, Giải quyết vấn đề\"}",
+  "usage": {
+    "input_tokens": 5360,
+    "output_tokens": 8769,
+    "total_tokens": 14129,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 7554
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

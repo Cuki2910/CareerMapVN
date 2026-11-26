@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Tiếng Nhật - Không Cần Kinh Nghiệm Tại Đà Nẵng (Đi Làm Ngay)\",\"company_name\":\"CÔNG TY TNHH DTP PLUS DA NANG\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Nhật\",\"industry\":\"Quảng cáo\",\"category\":null,\"location\":\"Đà Nẵng\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-26\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-tieng-nhat-khong-can-kinh-nghiem-tai-da-nang-di-lam-ngay/2340922.html\",\"qualifications\":[\"Đại Học trở lên\",\"JLPT Tương đương N3 trở lên hoặc tốt nghiệp chuyên ngành tiếng Nhật\"],\"technical_skills\":[\"Sử dụng máy tính văn phòng cơ bản\",\"Dịch tài liệu tiếng Nhật\",\"Kiểm Tra Dữ Liệu\"],\"soft_skills\":[\"Chăm chỉ\",\"Có trách nhiệm\",\"Sẵn sàng tăng ca theo yêu cầu của công ty\"],\"languages_required\":[\"Tiếng Nhật\"],\"experience_required\":0,\"salary\":\"8 - 10 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian (có nhận Part-time)\",\"working_hours\":\"Ca xoay vòng không có ca cố định\\n- Ca 1: 8:00h đến 17:00h\\n- Ca 2: 14:00h đến 22:00h\\nCó nhận Nhân viên Part-time (tính lương theo giờ):\\n- Ca 1: 8:00h đến 12:00h\\n- Ca 2: 13:00h đến 17:00h\\n- Ca 2: 18:00h đến 22:00h\\nTrao đổi thêm khi nộp CV\",\"benefits\":[\"Được hưởng đầy đủ các chế độ BHXH, BHYT, BHTN,.. và các chế độ của công ty.\",\"Phụ cấp bằng JLPT từ 500 đến 2 triệu\",\"Từ tháng thứ 5 được hưởng thêm phụ cấp Tiếng Nhật\",\"Ngày nghỉ: 4 chủ nhật, 2 thứ bảy, 1 phép năm.\",\"Khám sức khỏe định kỳ hàng năm\",\"Điều chỉnh Lương một năm một lần.\",\"Phụ cấp năng lực được xét vào tháng 4,8,12 hằng năm, sẽ có tăng giảm.\",\"Tăng ca lễ tết nhân lương cao hơn quy định nhà nước.\",\"Hoạt động vui chơi camping hàng năm .\",\"Hưởng lương, thưởng tháng 13 ( theo tình hình kinh doanh của công ty )\",\"Thưởng nóng hấp dẫn khi làm tết ÂM LỊCH ( theo tình hình kinh doanh của công ty )\",\"Môi trường thân thiện, vui vẻ hoà đồng có người hướng dẫn hỗ trợ nhiệt tình trong quá trình học việc, đồng nghiệp cũ tươi trẻ hết mình với đồng nghiệp mới.\",\"Phúc lợi: Bảo hiểm xã hội, Bảo hiểm sức khỏe, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm, Thưởng tháng 13\"],\"description\":\"Dịch tài liệu tiếng Nhật\\nKiểm tra dữ liệu theo yêu cầu khách hàng Nhật\\nTrao đổi công việc qua Mail/Google Chat\\nLàm việc theo quy trình rõ ràng, chú trọng độ chính xác\\n\\nCó 2 ca làm việc:\\nCa 1 : 8h00 đến 17:00h\\nCa 2 :14h00 đến 22:00h\\n\\nCó nhận Nhân viên Partime (tính lương theo giờ)\\nCa 1 : 8h00 đến 12:00h\\nCa 2 :13h00 đến 17:00h\\nCa 2 :18h00 đến 22:00h\\nTrao đổi thêm khi nộp CV\",\"requirements_text\":\"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn\\nĐại Học trở lên\\nTiếng Nhật JLPT N3\\n\\nYêu cầu ứng viên:\\n- JLPT Tương đương N3 trở lên hoặc tốt nghiệp chuyên ngành tiếng Nhật\\n- Biết sử dụng máy tính văn phòng cơ bản\\n- Chăm chỉ, có trách nhiệm\\n- Sẵn sàng tăng ca theo yêu cầu của công ty\\n- Sẵn sàng đi làm ngay sau khi phỏng vấn\\n\\nKỹ năng cần có:\\nChăm chỉ, có trách nhiệm, Kiểm Tra Dữ Liệu, Sử dụng máy tính văn phòng cơ bản, Dịch tài liệu tiếng Nhật\"}",
+  "usage": {
+    "input_tokens": 5124,
+    "output_tokens": 5599,
+    "total_tokens": 10723,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4305
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

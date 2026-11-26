@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân Khách Sạn\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan-khach-san-cashier/2356969.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"làm việc độc lập và nhóm hiệu quả\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Mức lương cạnh tranh, có thể thương lượng\",\n    \"Thưởng lương tháng 13 và các dịp lễ, Tết\",\n    \"Nghỉ phép năm và khám sức khỏe định kỳ theo chính sách công ty\"\n  ],\n  \"description\": \"- Chào đón khách hàng, hỗ trợ hướng dẫn và giải đáp các thông tin liên quan đến dịch vụ thanh toán.\\n- Tiếp nhận thông tin order, kiểm tra và xác nhận chính xác các dịch vụ, món ăn, đồ uống trước khi thanh toán.\\n- Thực hiện lập hóa đơn, tính tiền và thanh toán cho khách bằng tiền mặt, thẻ ngân hàng hoặc các phương thức thanh toán khác.\\n- Kiểm tra, đối chiếu doanh thu và quản lý tiền mặt trong ca làm việc, đảm bảo tính chính xác và minh bạch.\\n- Tiếp nhận, xử lý các yêu cầu, thắc mắc hoặc vấn đề phát sinh liên quan đến hóa đơn và thanh toán.\\n- Thực hiện bàn giao quỹ, báo cáo doanh thu cuối ca và lưu trữ chứng từ theo quy định.\\n- Tuân thủ quy trình thanh toán, quy định của Công ty, đảm bảo tác phong chuyên nghiệp và bảo mật thông tin khách hàng.\\n- Phối hợp với các bộ phận liên quan và thực hiện các công việc khác theo phân công của Quản lý.\",\n  \"requirements_text\": \"- Học vấn: Tốt nghiệp THPT trở lên, không yêu cầu chuyên ngành/chứng chỉ.\\n- Ngoại ngữ: Tiếng Anh cơ bản.\\n- Kinh nghiệm: Tối thiểu 01 năm ở vị trí tương đương\\n- Kỹ năng: Giao tiếp tốt, làm việc độc lập và nhóm hiệu quả.\\n- Thái độ: Cầu tiến, chủ động học hỏi, linh hoạt, trung thực, tận tâm và tuân thủ nội quy công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4703,
+    "output_tokens": 720,
+    "total_tokens": 5423,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

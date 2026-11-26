@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Phục Vụ (Không Yêu Cầu Kinh Nghiệm) - Lương 8 Triệu+\",\n  \"company_name\": \"HỘ KINH DOANH HỒNG TRÀ NGÔ GIA\",\n  \"job_category\": null,\n  \"sub_category\": \"Phục vụ\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-khong-yeu-cau-kinh-nghiem-luong-8-trieu/2364768.html\",\n  \"qualifications\": [\"Trung học cơ sở (Cấp 2) trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Nhanh nhẹn\", \"Chăm chỉ\", \"Trung thực\", \"Có trách nhiệm trong công việc\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\\nLương & Chế độ: • Thu nhập Full-time: 8 – 12 triệu/tháng\\nLương thử việc: 25.000đ/giờ\\nLương chính thức (lên áo): 26.000đ/giờ\\nLương khi đi thi: 29.000đ/giờ (có phụ cấp tiền ăn)\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"- Ca hỗn hợp (ngày & đêm)\\n- Ca ngắn: 08h - 14h | 11h - 18h | 18h - 23h\\n  Ca dài: 08h - 15h | 17h - 23h | 08h - 17h | 14h - 23h\",\n  \"benefits\": [\n    \"Lương & Chế độ: • Thu nhập Full-time: 8 – 12 triệu/tháng\",\n    \"Lương thử việc: 25.000đ/giờ\",\n    \"Lương chính thức (lên áo): 26.000đ/giờ\",\n    \"Lương khi đi thi: 29.000đ/giờ (có phụ cấp tiền ăn)\",\n    \"Quyền lợi: Môi trường làm việc trẻ trung, hỗ trợ đào tạo tận tình. Nhân sự làm việc có năng lượng, nhiệt huyết sẽ được đào tạo thăng tiến lên Quản lý quán\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn  Trung học cơ sở (Cấp 2) trở lên  Nữ\\nChuyên môn: Phục vụ\\n\\nMô tả công việc\\n- Chào đón và order cho khách tới quán.\\n- Phục vụ, pha chế\\n- Chốt doanh thu, dọn dẹp, giữ vệ sinh khu vực quán\\n- Thực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Không cần kinh nghiệm, được đào tạo từ đầu\\nTuyển Nữ, 18 - 25 tuổi, nhanh nhẹn, trung thực.\\nCó thể xoay ca tới 23h tối\\nCó trách nhiệm trong công việc\\nKỹ năng cần có\\nNhanh nhẹn, Chăm chỉ\\nKỹ năng nên có\\nCười Nói Niềm Nở\"\n}",
+  "usage": {
+    "input_tokens": 4831,
+    "output_tokens": 796,
+    "total_tokens": 5627,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

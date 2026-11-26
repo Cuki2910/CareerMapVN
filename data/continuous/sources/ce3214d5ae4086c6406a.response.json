@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kinh Doanh - Thu Nhập Đến 50 Triệu+++ - Tại Bắc Ninh\",\n  \"company_name\": \"CÔNG TY TNHH THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU HOÀNG ĐỨC\",\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Sales Xuất nhập khẩu/Logistics khác\",\n  \"industry\": \"Bán buôn đồ dùng khác cho gia đình\",\n  \"category\": null,\n  \"location\": \"Trang Hạ, Phường Từ Sơn (Phường Từ Sơn thuộc Thành phố Từ Sơn cũ), Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-thu-nhap-den-50-trieu-tai-bac-ninh/2340914.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng máy tính\",\n    \"Sử dụng các nền tảng mạng xã hội (Facebook, Instagram, TikTok, WhatsApp)\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp và tư vấn khách hàng tốt\",\n    \"Tinh thần học hỏi, chủ động trong công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh giao tiếp cơ bản\",\n    \"Tiếng Pháp cơ bản\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thu nhập: Đến 50 triệu VND; Lương cứng: 7 - 15 triệu VND; Lương cứng không phụ thuộc doanh số\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 18:00); Nghỉ trưa tiếng rưỡi từ 12h-13h30\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Thu nhập: Lương cứng + % hoa hồng + thưởng doanh số.\",\n    \"Môi trường làm việc trẻ trung, năng động.\",\n    \"Được đào tạo kỹ năng sales và làm việc với khách hàng quốc tế.\",\n    \"Cơ hội phát triển lâu dài trong công ty.\"\n  ],\n  \"description\": \"Sản phẩm: Tóc nối xuất khẩu\\nThị trường: Châu Mỹ, châu Âu và châu Phi\\nTìm kiếm và phát triển khách hàng mới trên các nền tảng online (Facebook, Instagram, TikTok, WhatsApp...).\\nTư vấn và giới thiệu sản phẩm cho khách hàng quốc tế.\\nChăm sóc khách hàng, duy trì mối quan hệ với khách hàng hiện tại.\\nTrao đổi, hỗ trợ khách hàng trong quá trình đặt hàng và vận chuyển.\\nPhối hợp với bộ phận sản xuất và vận hành để xử lý đơn hàng.\",\n  \"requirements_text\": \"Yêu cầu:\\n- Không yêu cầu kinh nghiệm chuyên môn\\n- Tuổi 20 - 35\\n- Cao Đẳng trở lên\\n- Tiếng Anh Giao tiếp cơ bản\\n\\nYêu cầu ứng viên:\\n- Có kỹ năng giao tiếp và tư vấn khách hàng tốt.\\n- Có tinh thần học hỏi, chủ động trong công việc.\\n- Biết sử dụng máy tính và các nền tảng mạng xã hội.\\n- Biết Tiếng Anh/Tiếng Pháp cơ bản\\n- Ưu tiên ứng viên có kinh nghiệm Sales, Marketing hoặc bán hàng online.\\n- Sẵn sàng đi công tác nước ngoài theo kế hoạch của công ty\"\n}",
+  "usage": {
+    "input_tokens": 4975,
+    "output_tokens": 4016,
+    "total_tokens": 8991,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2959
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

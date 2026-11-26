@@ -1,0 +1,48 @@
+{
+  "job_title": "Trưởng Nhóm Triển Khai Tích Hợp Hệ Thống",
+  "company_name": null,
+  "job_category": "Công nghệ thông tin khác",
+  "sub_category": null,
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-30",
+  "url": "https://www.topcv.vn/viec-lam/truong-nhom-trien-khai-tich-hop-he-thong/2359064.html",
+  "qualifications": [
+    "Đại Học trở lên"
+  ],
+  "technical_skills": [
+    "SIEM",
+    "SOAR",
+    "Firewall",
+    "NAC",
+    "APT",
+    "WAF",
+    "IPS/IDS",
+    "Endpoint Security",
+    "Docker",
+    "Kubernetes"
+  ],
+  "soft_skills": [],
+  "languages_required": [],
+  "experience_required": 5.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+  "benefits": [
+    "Thu nhập thỏa thuận theo năng lực",
+    "Lương tháng thứ 13, thưởng lễ tết, sinh nhật, thưởng hiệu quả kinh doanh theo quy định và theo kết quả kinh doanh (Gói thu nhập 14-15 tháng lương)",
+    "Môi trường làm việc năng động, nhiều thử thách và cơ hội.",
+    "Review thu nhập 6 tháng/lần",
+    "Được hỗ trợ đào tạo và tài trợ tham gia các khóa học chuyên sâu về chuyên môn",
+    "Chế độ bảo hiểm theo quy định của Pháp luật và bảo hiểm chăm sóc sức khỏe cấp cao PTI",
+    "Các hoạt động văn hóa đa dạng: Câu lạc bộ thể thao, Team building, Du lịch hằng năm"
+  ],
+  "description": "Quản lý triển khai giải pháp ATTT\n* Chủ trì thiết kế, triển khai và tích hợp các giải pháp An toàn thông tin (SIEM, SOAR, Firewall, NAC, APT, WAF…) cho khách hàng.\n* Tư vấn, đề xuất giải pháp, kiến trúc hệ thống và phương án cấu hình kỹ thuật phù hợp với yêu cầu của khách hàng.\n* Điều phối và trực tiếp tham gia xử lý các sự cố kỹ thuật phức tạp liên quan đến hệ thống ATTT đã triển khai.\n* Phối hợp với các bộ phận liên quan, đối tác và nhà cung cấp trong quá trình triển khai, nghiệm thu và bàn giao hệ thống.\n* Nghiên cứu, đánh giá và triển khai thử nghiệm (PoC) các giải pháp, công nghệ ATTT mới.\nQuản lý và phát triển đội ngũ\n* Hướng dẫn, đào tạo và phát triển năng lực chuyên môn cho các thành viên trong nhóm.\n* Xây dựng, chuẩn hóa quy trình, tài liệu kỹ thuật và đề xuất các sáng kiến cải tiến nhằm nâng cao hiệu quả triển khai và chất lượng dịch vụ.\nThực hiện các công việc khác theo phân công của cấp quản lý",
+  "requirements_text": "* Có tối thiểu 05 năm kinh nghiệm trong lĩnh vực triển khai, tích hợp các giải pháp mạng và bảo mật; trong đó có ít nhất 2 năm kinh nghiệm quản lý hoặc dẫn dắt nhóm kỹ thuật.\n* Có kinh nghiệm chủ trì thiết kế, triển khai và tích hợp các giải pháp ATTT như Firewall, IPS/IDS, WAF, Endpoint Security, SIEM, SOAR, NAC…\n* Có kinh nghiệm quản lý, điều phối nguồn lực và kiểm soát tiến độ, chất lượng triển khai các dự án ATTT cho khách hàng.\n* Ưu tiên ứng viên từng đảm nhiệm vai trò Team Leader, Technical Lead hoặc phụ trách kỹ thuật tại các công ty tích hợp hệ thống (SI), đơn vị cung cấp giải pháp ATTT.\n* Có kinh nghiệm làm việc với các nền tảng ảo hóa, công nghệ container (Docker, Kubernetes) là một lợi thế."
+}

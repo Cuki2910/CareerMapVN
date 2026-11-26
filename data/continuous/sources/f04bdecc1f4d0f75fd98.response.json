@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kiểm Soát (KCS) Hồ Sơ Kế Toán Tại Hà Đông, Hà Nội, Thu Nhập Hấp Dẫn\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán\",\n  \"sub_category\": \"Chuyên môn Kế toán/Kiểm toán/Thuế khác\",\n  \"industry\": \"Kế toán\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-08\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kiem-soat-kcs-ho-so-ke-toan-tai-ha-dong-ha-noi-thu-nhap-hap-dan/2350642.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp các chuyên ngành liên quan\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Trung thực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Lương thỏa thuận theo năng lực\",\n    \"Được đóng bảo hiểm ngay sau tháng thử việc (Thử việc tối đa 01 tháng)\",\n    \"Thưởng, phụ cấp, phúc lợi theo quy định\",\n    \"Có cơ hội thăng tiến ở các vị trí quản lý cao hơn\"\n  ],\n  \"description\": \"1. Kiểm tra tính chính xác của hồ sơ chứng từ \\n2. Kiểm tra tính chính xác của hạch toán kế toán đáp ứng tới thông tư chính sách hiện hành \\n3. Kiểm tra tính chính xác của kết quả kinh doanh, báo cáo tài chính\\n4. Giải trình khi có đoàn thanh tra (có hỗ trợ công tác phí theo thực tế phát sinh)\",\n  \"requirements_text\": \"1. Tốt nghiệp các chuyên ngành liên quan\\n2. Đã có 3 năm là kế toán thuế và đã từng đi quyết toán thuế\\n3. Trung thực, chịu được áp lực công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4748,
+    "output_tokens": 624,
+    "total_tokens": 5372,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

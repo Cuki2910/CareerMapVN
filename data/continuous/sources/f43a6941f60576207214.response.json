@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Vận Hành Điện - Làm Việc Tại KCN Thăng Long - Thiên Lộc\",\n  \"company_name\": null,\n  \"job_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"sub_category\": \"Vận hành điện\",\n  \"industry\": \"Hoạt động bất động sản trên cơ sở phí hoặc hợp đồng\",\n  \"category\": null,\n  \"location\": \"Nhà điều hành khu công nghiệp Thăng Long, Xã Thiên Lộc, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-07\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-van-hanh-dien-lam-viec-tai-kcn-thang-long-thien-loc-ha-noi/2352386.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên chuyên ngành Điện, Hệ thống điện hoặc Điện công nghiệp\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\",\n    \"Vận Hành Hệ Thống Điện\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc theo ca\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Thưởng tháng thứ 13, thưởng đánh giá, thưởng hiệu quả công việc\",\n    \"Tham gia bảo hiểm đầy đủ, bảo hiểm tai nạn 24h + BHSK\",\n    \"Trợ cấp môi trường làm việc, trợ cấp đi lại, con nhỏ, suất ăn ca,...\",\n    \"Tham gia Du lịch công ty, Ngày hội gia đình, Tiệc cuối năm\",\n    \"Du lịch hàng năm\",\n    \"Ăn trưa\",\n    \"Xăng xe\"\n  ],\n  \"description\": \"Kiểm tra, theo dõi, vận hành, bảo dưỡng:\\n- Lưới điện trung áp và lưới điện hạ thế  \\n- Hệ thống điện mặt trời, điện mặt trời nổi, hệ thống pin lưu trữ\\n- Hệ thống phòng cháy chữa cháy\",\n  \"requirements_text\": \"- Tốt nghiệp trung cấp trở lên chuyên ngành Điện, Hệ thống điện hoặc Điện công nghiệp\\n- Kỹ năng tin học văn phòng  \\n- Làm việc theo ca, tăng ca làm thêm\"\n}\n```",
+  "usage": {
+    "input_tokens": 4688,
+    "output_tokens": 639,
+    "total_tokens": 5327,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

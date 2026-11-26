@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Phó Quản Lý Cửa Hàng - Xiaomi Store\",\n  \"company_name\": \"Xiaomi Store\",\n  \"job_category\": \"Quản Lý Cửa Hàng\",\n  \"sub_category\": \"Bán hàng điện thoại\",\n  \"industry\": \"Bán buôn tổng hợp\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/pho-quan-ly-cua-hang-xiaomi-store-ha-noi/2352888.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 5.0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\nThời gian làm việc: 8 giờ mỗi ngày (không bao gồm thời gian nghỉ), làm việc theo ca. Mỗi tuần nghỉ 1 ngày.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội: tham gia bảo hiểm từ ngày bắt đầu hợp đồng.\",\n    \"Bảo hiểm sức khỏe: Generali.\",\n    \"Nghỉ phép năm\"\n  ],\n  \"description\": \"Đón tiếp khách hàng một cách thân thiện và chuyên nghiệp.\\nNắm vững kiến thức về tất cả các sản phẩm; tư vấn và giải thích rõ ràng cho khách hàng.\\nChủ động đạt được các chỉ tiêu doanh số cá nhân được giao.\",\n  \"requirements_text\": \"Kỹ năng chuyên môn: Kỹ năng giao tiếp tốt.\\nKinh nghiệm làm việc: Tối thiểu 5 năm kinh nghiệm.\\nƯu tiên ứng viên có kinh nghiệm bán hàng tại cửa hàng trong ngành điện thoại di động hoặc điện tử tiêu dùng.\\nGiới tính: Không yêu cầu.\\nĐộ tuổi: Không yêu cầu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4701,
+    "output_tokens": 545,
+    "total_tokens": 5246,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

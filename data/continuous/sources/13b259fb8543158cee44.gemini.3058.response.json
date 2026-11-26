@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Kỹ Thuật (Sale Engineer)\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng kỹ thuật cơ khí\",\n  \"sub_category\": \"Sale Engineer\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-ky-thuat-sale-engineer/2311848.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kiến Thức Về Sản Phẩm Kỹ Thuật\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Chủ động, ham học hỏi, có tinh thần cầu tiến\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nNửa ngày thứ 7\",\n  \"benefits\": [\n    \"Thu nhập: lương cứng + hoa hồng không giới hạn theo năng lực (trung bình 14 - 20 triệu/tháng)\",\n    \"Đầy đủ BHXH, lương tháng 13\",\n    \"Du lịch, teambuilding hằng năm\",\n    \"Được đào tạo kiến thức sản phẩm và kỹ năng bán hàng\"\n  ],\n  \"description\": \"• Tư vấn, giới thiệu sản phẩm máy móc, thiết bị công nghiệp (thương hiệu Festo - Đức)\\n• Tìm kiếm và phát triển khách hàng doanh nghiệp\\n• Phối hợp với đội ngũ kỹ thuật để tư vấn giải pháp phù hợp\\n• Chăm sóc khách hàng và báo cáo công việc định kỳ\",\n  \"requirements_text\": \"• Có kinh nghiệm ở vị trí tương đương\\n• Có khả năng giao tiếp tốt\\n• Chủ động, ham học hỏi, có tinh thần cầu tiến\\n• Ưu tiên ứng viên có nền tảng, kiến thức về kỹ thuật\"\n}\n```",
+  "usage": {
+    "input_tokens": 5000,
+    "output_tokens": 601,
+    "total_tokens": 5601,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng\",\n  \"company_name\": \"Secodee & Goût De Jun\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng thời trang\",\n  \"industry\": \"May mặc / Thời trang\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-secodee-got-de-jun/2329237.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"xử lý tình huống tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"5.5 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n- Thời gian làm việc (xoay ca linh động)  \\n+ Parttime: Đăng ký tối thiểu 5h/ngày, 5ca/tuần  \\n+ Fulltime: 8h/ngày 1 tuần off 1 ngày\",\n  \"benefits\": [\n    \"Thử việc 2 tháng, tháng đầu nhận 85%, tháng thứ 2 nhận 100%\",\n    \"Thử việc tháng đầu: 4,675,000đ/tháng + thưởng vận hành + thưởng kinh doanh\",\n    \"Thử việc tháng thứ 2: 5,500,000đ/tháng + thưởng vận hành + thưởng kinh doanh\",\n    \"Sau 2 tháng thử việc sẽ đóng BHXH theo pháp luật\",\n    \"Thu nhập từ 7 – 10M/tháng\"\n  ],\n  \"description\": \"- Bán hàng – kiểm kê hàng hóa\\n- Trưng bày sản phẩm\\n- Vệ sinh cửa hàng\\n- Xử lý các tình huống phát sinh cơ bản tại cửa hàng (phản hồi khách hàng, hàng lỗi, đổi trả…).\",\n  \"requirements_text\": \"- Nữ, từ đủ 16 tuổi\\n- Có kinh nghiệm trong ngành thời trang, đặc biệt là bán hàng là 1 lợi thế\\n- Kỹ năng giao tiếp và xử lý tình huống tốt\\n- Có trách nhiệm, trung thực và tinh thần làm việc chủ động.\\n- Yêu thích thời trang, có gu thẩm mỹ và cập nhật xu hướng tốt là một lợi thế.  \\n- Thời gian làm việc (xoay ca linh động)  \\n+ Parttime: Đăng ký tối thiểu 5h/ngày, 5ca/tuần\\n+ Fulltime: 8h/ngày 1 tuần off 1 ngày\"\n}\n```",
+  "usage": {
+    "input_tokens": 5132,
+    "output_tokens": 737,
+    "total_tokens": 5869,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

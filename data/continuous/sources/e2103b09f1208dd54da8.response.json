@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân\",\n  \"company_name\": null,\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Lễ tân/Đón tiếp\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-thanh-xuan-ha-noi/2347358.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Làm việc nhóm\",\n    \"Trung thực\",\n    \"Khả năng sắp xếp công việc\",\n    \"Khả Năng Quan Sát\",\n    \"Tinh Thần Trách Nhiệm\",\n    \"Tinh Thần Học Hỏi\",\n    \"Tác phong chuyên nghiệp\",\n    \"Nhanh nhạy\",\n    \"Ngoại hình chỉn chu\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 06:00 đến 14:00)\\nTuần được Nghỉ 1 buổi\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng doanh thu và các dịp lễ, Tết\",\n    \"Môi trường làm việc chuyên nghiệp, văn minh và thân thiện\",\n    \"Được đào tạo, nâng cao kỹ năng chuyên môn và có cơ hội phát triển bản thân\"\n  ],\n  \"description\": \"- Đón tiếp, hướng dẫn và hỗ trợ khách hàng khi đến làm việc tại Công ty/Khách sạn.\\n- Tiếp nhận và giải đáp các yêu cầu, thắc mắc của khách hàng.\\n- Thực hiện công việc lễ tân, quản lý khu vực sảnh và đảm bảo không gian luôn gọn gàng, ngăn nắp.\\n- Phối hợp với các bộ phận liên quan để hỗ trợ khách hàng và xử lý công việc phát sinh.\\n- Thực hiện các công việc khác theo phân công của Quản lý.\",\n  \"requirements_text\": \"- Nữ, độ tuổi từ 23–30.\\n- Có kinh nghiệm ở vị trí Lễ tân là lợi thế; ưu tiên ứng viên từng làm việc trong lĩnh vực khách sạn.\\n- Ngoại hình chỉn chu, tác phong chuyên nghiệp, gọn gàng, ngăn nắp.\\n- Trung thực, chính trực, có tinh thần trách nhiệm cao.\\n- Chủ động, có khả năng sắp xếp công việc và làm việc nhóm tốt.\\n- Nhanh nhạy, có khả năng quan sát và tinh thần học hỏi cao.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5042,
+    "output_tokens": 755,
+    "total_tokens": 5797,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

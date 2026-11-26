@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Sản Xuất Giá Kệ – Không Cần Kinh Nghiệm - Lương 10–20 Triệu, Hỗ Trợ Ăn Ở\",\n  \"company_name\": null,\n  \"job_category\": \"Công nhân sản xuất\",\n  \"sub_category\": \"Sản xuất\",\n  \"industry\": \"Sản xuất, Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"1085 Phúc Diễn, Phường Xuân Phương, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-san-xuat-gia-ke-khong-can-kinh-nghiem-luong-1020-trieu-ho-tro-an-o/2341009.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Hàn\",\n    \"Kiểm Đếm\",\n    \"Đóng Gói\",\n    \"bốc xếp\",\n    \"phụ máy cắt\",\n    \"phụ máy chấn\",\n    \"phụ máy đột dập\",\n    \"Biết hàn\",\n    \"kinh nghiệm làm xưởng cơ khí\"\n  ],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"trung thực\",\n    \"chịu khó học việc\",\n    \"sức khỏe tốt\",\n    \"chịu được công việc nặng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Ăn trưa\",\n    \"Xăng xe\",\n    \"Được cấp Điện thoại\",\n    \"Hỗ trợ ăn trưa, chỗ ở, xăng xe; phụ cấp khi đi lắp đặt công trình\",\n    \"Nghỉ Lễ Tết theo quy định\",\n    \"Cấp đồ bảo hộ lao động\",\n    \"Được đào tạo nghề miễn phí\"\n  ],\n  \"description\": \"Vận hành và phụ máy cắt, chấn, đột dập thép theo hướng dẫn của tổ trưởng\\nPhụ hàn, mài, hoàn thiện chi tiết; hỗ trợ khâu sơn tĩnh điện\\nBốc xếp, đóng gói, kiểm đếm thành phẩm giá kệ\\nĐi lắp đặt giá kệ tại công trình khách hàng (có phụ cấp riêng)\\nGiữ vệ sinh và tuân thủ an toàn lao động tại xưởng\",\n  \"requirements_text\": \"Nam/nữ 18–45 tuổi, sức khỏe tốt, chịu được công việc nặng\\nChăm chỉ, trung thực, chịu khó học việc\\nKhông cần bằng cấp hay kinh nghiệm. Ưu tiên người đã biết hàn hoặc từng làm xưởng cơ khí\"\n}\n```",
+  "usage": {
+    "input_tokens": 4872,
+    "output_tokens": 817,
+    "total_tokens": 5689,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

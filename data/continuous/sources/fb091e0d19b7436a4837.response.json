@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kế Hoạch\",\n  \"company_name\": null,\n  \"job_category\": \"Kế hoạch sản xuất\",\n  \"sub_category\": null,\n  \"industry\": \"Xây dựng, Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-hoach/2358290.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Word\",\n    \"Excel\",\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00), T2-T7, 7h30-17h (nghỉ trưa 11h30-13h00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng các dịp lễ 8/3, 20/10,... Tết âm lịch\",\n    \"Đóng đầy đủ BHXH, BHYT,...chế độ nghỉ phép đầy đủ\",\n    \"Môi trường làm việc chuyên nghiệp\",\n    \"Cơ hội thăng tiến\",\n    \"Cơ hội phát triển chuyên môn\"\n  ],\n  \"description\": \"-Lập kế hoạch và theo dõi tiến độ sản xuất\\n- Lên đề xuất yêu cầu mua vật tư, nguyên vật liệu\\n-Theo dõi quá trình sản xuất hằng ngày tại xưởng để đảm bảo đúng tiến độ theo kế hoạch.\\n-Cập nhật và lập bảng theo dõi tiến độ sản xuất theo từng mã hàng, đơn hàng...\\n-Báo cáo tiến độ sản xuất hằng ngày/tuần/tháng cho sếp.\\n-Một số công việc khác theo yêu cầu của cấp trên\",\n  \"requirements_text\": \"-Nữ,có 02 năm kinh nghiệm, ưu tiên ứng viên làm trong các cty nội thất, xây dựng....\\n-Tốt nghiệp cao đẳng trở lên các chuyên ngành\\n-Thành thạo vi tính văn phòng word, excel\"\n}\n```",
+  "usage": {
+    "input_tokens": 4853,
+    "output_tokens": 648,
+    "total_tokens": 5501,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

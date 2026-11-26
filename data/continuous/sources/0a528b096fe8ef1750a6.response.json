@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Kho vận\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho/2351028.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"chủ động trong công việc\",\n    \"sắp xếp công việc khoa học\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"10 - 13 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 09:00 đến 18:30). Từ thứ 2 tới Chủ nhật (9h - 18h30). Nghỉ trưa từ 12h - 13h30. Nghỉ một ngày bất kỳ trong tuần.\",\n  \"benefits\": [\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Ghi nhận đặc biệt (thưởng nóng) hàng quý dựa trên nỗ lực và kết quả công việc\",\n    \"Các khoản thưởng chung, ngày Lễ, Tết\",\n    \"Có 12 ngày nghỉ phép năm\",\n    \"Được Công ty hỗ trợ quỹ đào tạo hằng năm, phục vụ phát triển năng lực trong công việc\"\n  ],\n  \"description\": \"Mục đích của công việc\\n- Đảm bảo hoàn thành các đơn hàng phát sinh trong ngày\\n- Chuẩn bị hàng hóa và vật tư đầy đủ để đảm bảo vận hành\\nNhiệm vụ và trách nhiệm chính của công việc\\n- Chuẩn bị hàng hóa trước khi đóng hàng\\n- Đóng gói hàng hóa và bàn giao cho đơn vị vận chuyển\\n- Nhận hàng mới và hàng luân chuyển\\n- Kiểm kê kho định kỳ tuần, tháng.\\n- Sắp xếp kho và dọn dẹp vệ sinh nơi làm việc\\n- Thực hiện các công việc theo sự phân công của quản lý\",\n  \"requirements_text\": \"- Giới tính Không yêu cầu\\n- Độ tuổi Từ 22 đến 35 tuổi\\n- Bằng cấp Tốt nghiệp THPT trở lên\\n- Kinh nghiệm Có kinh nghiệm trên 6 tháng ở vị trí tương đương\\n- Kiến thức chuyên môn - Không yêu cầu\\n- Kỹ năng\\n+ Chủ động trong công việc\\n+ Biết cách sắp xếp, tổ chức công việc khoa học\\n- Thái độ/Tính cách\\n+ Nhanh nhẹn, trung thực, thật thà không ngại việc\\n+ Kỹ tính, cẩn thận và nhanh nhạy, có sức khỏe tốt\"\n}\n```",
+  "usage": {
+    "input_tokens": 5122,
+    "output_tokens": 791,
+    "total_tokens": 5913,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

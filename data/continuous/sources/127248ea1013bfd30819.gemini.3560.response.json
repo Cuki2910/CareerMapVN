@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Nhóm Seller Etsy/Tiktok Shop\",\n  \"company_name\": null,\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Sales Supervisor\",\n  \"industry\": \"Thương mại điện tử\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-nhom-seller-etsy-tiktok-shop/2327266.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Etsy\",\n    \"Tiktok Shop\"\n  ],\n  \"soft_skills\": [\n    \"Quản lý\",\n    \"Mắt thẩm mỹ\",\n    \"Phát triển team\",\n    \"Làm việc nhóm\",\n    \"Nghiên cứu\",\n    \"Sáng tạo\",\n    \"Trung thực\",\n    \"Trách nhiệm\",\n    \"Chủ động\",\n    \"Chăm chỉ\",\n    \"Tỉ mỉ\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 09:00 đến 18:00), Thứ 7 (từ 09:00 đến 16:00), Thứ bảy chỉ làm vào quý 4\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch trong và ngoài nước\",\n    \"Thưởng sinh nhật, lễ, Tết\",\n    \"Review định kỳ dựa trên sự đóng góp của công ty\",\n    \"Hỗ trợ thiết bị, tools trong quá trình làm việc\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Khai thác, phát triển và bán hàng trên nền tảng Etsy hoặc Tiktok Shop\\n- Nghiên cứu, tìm kiếm xu hướng tại thị trường Mỹ và châu Âu\\n- Phối hợp với các phòng ban để hoàn thành công việc được giao\\n- Thực hiện các công việc khác theo sự phân công của cấp trên\\n- Mở rộng và phát triển team, đào tạo các member trong team\\n- Báo cáo làm việc với BOD\",\n  \"requirements_text\": \"- Kinh nghiệm từ 1-2 năm về quản lý team seller Etsy hoặc Tiktok Shop\\n- Mắt thẩm mỹ cao, có kỹ năng quản lý, phát triển team\\n- Tiếng anh khá tốt trở lên (trên 650 TOEIC/5.5 IELTS)\\n- Ưu tiên người trẻ (dưới 30), trung thực, trách nhiệm và chủ động, chăm chỉ và tỉ mỉ.\\n- Đam mê nghiên cứu và sáng tạo và thích làm việc nhóm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5036,
+    "output_tokens": 745,
+    "total_tokens": 5781,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Dịch Vụ - Không Yêu Cầu Kinh Ngiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kỹ thuật\",\n  \"sub_category\": \"Nhân viên môi trường\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội, Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-dich-vu-khong-yeu-cau-kinh-ngiem/2358769.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"lắp đặt thiết bị bắt côn trùng\",\n    \"thay thế bẫy diệt côn trùng\",\n    \"phun thuốc khử khuẩn\",\n    \"phun thuốc phòng\",\n    \"diệt côn trùng\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"hoạt bát\",\n    \"trung thực\",\n    \"có trách nhiệm\",\n    \"gắn bó lâu dài\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"15 - 17 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\nCa ngày : Từ 8h00 – 12h và 13h– 17h  \\nCa đêm : Từ 17h00 – hết việc (thường trước 24h00)- được nghỉ giữa ca 1h  \\nThứ 2 đến Thứ 6, Nghỉ Thứ 7, CN.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Xăng xe\",\n    \"Cước điện thoại\",\n    \"Được cấp Điện thoại\"\n  ],\n  \"description\": \"Mô tả công việc \\n  * Đi đến khách hàng (Nhà máy, nhà hàng, căn hộ, quán cà phê ..) Tiến hành thực hiện lắp đặt, thay thế, setup các loại thiết bị bắt côn trùng.\\n  * Lắp đặt, thay thế các loại bẫy, bả diệt côn trùng\\n  * Phun thuốc khử khuẩn, phun thuốc phòng, diệt côn trùng\\n  * Các công việc khác theo yêu cầu của quản ly.\",\n  \"requirements_text\": \"Yêu cầu ứng viên \\n  * Bằng cấp: Tốt nghiệp THPT trở lên.\\n  * Số năm kinh nghiệm: Không yêu cầu (khi vào sẽ được đào tạo).\\n  * Yêu cầu giới tính: NAM.\\n  * Yêu cầu độ tuổi: Từ 18 – 45 tuổi.\\n  * Nhanh nhẹn, hoạt bát, trung thực và có trách nhiệm trong công việc, gắn bó lâu dài với công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5532,
+    "output_tokens": 824,
+    "total_tokens": 6356,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

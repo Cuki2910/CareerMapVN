@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Văn Phòng - Vinhomes Grand Park Quận 9\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân Viên Văn Phòng\",\n  \"sub_category\": \"Chuyên môn khác\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-phong-vinhomes-grand-park-quan-9/2102012.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"Word\",\n    \"máy tính\"\n  ],\n  \"soft_skills\": [\n    \"có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"• 7h45 – 17h15 (nghỉ trưa 1h30)  \\n• Nghỉ Chủ Nhật hàng tuần  \\n• Giải lao sáng 30p · chiều 15p\",\n  \"benefits\": [\n    \"Thưởng chuyên cần: 500K/tháng\",\n    \"Thưởng theo hiệu quả công việc\",\n    \"Hỗ trợ bằng cấp nếu có: ĐH 1tr · CĐ 500K\",\n    \"Thử việc 1 tháng, hưởng lương cơ bản\",\n    \"Văn phòng ổn định, môi trường trẻ trung\",\n    \"Cơ hội phát triển & gắn bó lâu dài\",\n    \"Xét tăng thu nhập theo năng lực\",\n    \"Team building, du lịch cùng công ty\",\n    \"Đóng BHXH đầy đủ\"\n  ],\n  \"description\": \"Cung cấp dịch vụ quản lý hệ thống cho khách hàng.\\n•Làm việc trên máy tính (có sẵn thiết bị)\\n• Nhập liệu & xử lý dữ liệu (có training) \\n• Cập nhật, tổng hợp thông tin hằng ngày \\n• Sử dụng Excel, Word cơ bản\",\n  \"requirements_text\": \"• Độ tuổi phù hợp văn phòng (ưu tiên Gen Z)\\n• Chưa có kinh nghiệm sẽ được hướng dẫn\\n• Biết sử dụng máy tính cơ bản\\n• Có trách nhiệm trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4632,
+    "output_tokens": 648,
+    "total_tokens": 5280,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

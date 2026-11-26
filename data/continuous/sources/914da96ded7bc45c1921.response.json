@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Trợ Lý Tiếng Trung\",\n  \"company_name\": \"CÔNG TY TNHH AURA ONE INTERNATIONAL\",\n  \"job_category\": \"Biên phiên dịch\",\n  \"sub_category\": \"Biên phiên dịch tiếng Trung\",\n  \"industry\": \"Bán buôn đồ dùng khác cho gia đình\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Phường Thủ Đức (Phường Thủ Đức thuộc Thành phố Thủ Đức cũ) - Phạm vi làm việc trên toàn khu vực trên.\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-tieng-trung/2361140.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": [\"Dịch Thuật\", \"Soạn Thảo Hợp Đồng\", \"Biên phiên dịch Trung-Việt\"],\n  \"soft_skills\": null,\n  \"languages_required\": [\"Tiếng Trung\"],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)\\nnghỉ hai ngày cuối tuần (đối với nhóm khởi nghiệp, thỉnh thoảng làm thêm giờ)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Phụ cấp: Ăn trưa, Xăng xe\",\n    \"Thời gian thử việc 2 tháng, lương thử việc 85%\",\n    \"Lương thỏa thuận theo năng lực\",\n    \"Bảo hiểm xã hội, bữa trưa, hỗ trợ đi lại; nghỉ hai ngày cuối tuần (đối với nhóm khởi nghiệp, thỉnh thoảng làm thêm giờ)\"\n  ],\n  \"description\": \"- Trách nhiệm: Trợ lý dịch thuật và dịch văn bản hàng ngày tại công ty, bao gồm các cuộc họp, đàm phán thương mại, tiếp xúc với nhà cung cấp, đồng hành tại cơ quan chính phủ.\\n\\n- Dịch và soạn thảo hợp đồng, giấy tờ, văn bản, thư từ, đảm bảo thông tin được truyền đạt chính xác, không bỏ sót, không đoán mò.\\n\\n- Giúp đỡ các vấn đề hành chính địa phương tại Trung Quốc, như xin tạm trú, giấy phép làm việc, công chứng, ngân hàng, thuế, ưu tiên kinh nghiệm dịch thuật, trợ lý, hành chính\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung cấp trở lên\\n\\nYêu cầu ứng viên\\n- Ưu tiên kinh nghiệm làm việc tại doanh nghiệp Trung Quốc.\\n- Ưu tiên người có kinh nghiệm về đăng ký giấy tờ, đàm phán riêng, có thể trực tiếp đàm phán\\n- Có kỹ năng tiếng trung thành thạo\\n\\nKỹ năng cần có\\nDịch Thuật, Soạn Thảo Hợp Đồng, Biên phiên dịch Trung-Việt\\n\\nKỹ năng nên có\\nKinh Nghiệm Hành Chính, Kinh Nghiệm Dịch Thuật, Kinh nghiệm trợ lý, làm việc tại doanh nghiệp Trung Quốc\"\n}",
+  "usage": {
+    "input_tokens": 4548,
+    "output_tokens": 757,
+    "total_tokens": 5305,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

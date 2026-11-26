@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Sản Xuất Ắc Quy\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Công nhân lắp ráp\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Đại lộ Tôn Đức Thắng, Phường An Hải, Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-san-xuat-ac-quy/2310302.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9.5 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"BHXH\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Hưởng các chế độ Lễ, Tết...theo quy định của Nhà nước\",\n    \"Các khoản phụ cấp theo quy chế của Công ty\"\n  ],\n  \"description\": \"Thực hiện các nghiệp vụ:\\n- Hàn, lắp ráp ắc quy\\n- Nạp điện ắc quy \\n- Sản xuất tấm cực ắc quy\",\n  \"requirements_text\": \"- Nam/nữ: Từ 18 tuổi trở lên\\n- Sức khỏe tốt, không mắc các tệ nạn xã hội.\\n- Có nguyện vọng làm việc lâu dài\"\n}\n```",
+  "usage": {
+    "input_tokens": 4515,
+    "output_tokens": 500,
+    "total_tokens": 5015,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

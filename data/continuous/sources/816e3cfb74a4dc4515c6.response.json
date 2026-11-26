@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Data Processing Intern\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán\",\n  \"sub_category\": \"Data Processing\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/data-processing-intern/2358859.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Graduated in major Accounting, Auditing, Finance or relevant\"\n  ],\n  \"technical_skills\": [\n    \"Excel\"\n  ],\n  \"soft_skills\": [\n    \"Hard working\",\n    \"meticulous\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thực tập\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 15:00 đến 00:00)\\n3PM - 12AM (Mon - Fri)\",\n  \"benefits\": [\n    \"Attractive internship allowance\",\n    \"An English-speaking environment\",\n    \"Opportunity to promote to full-time\"\n  ],\n  \"description\": \"Daily conducting the invoice processing workflow;\\nDaily processing credit card transactions into system;\\nWeekly Accounting tasks such as prepare quality of earnings report, opening balance sheet report, joint venture distribution calculation report, online revenue reconciliation report, operating cash matching report;\\nQuarterly Accounting task such as inventory counting process (night shift) and AR conversion;\\nOther accounting tasks required by the clients;\\nPreparing Excel documents for further analysis;\\nOther ad-hoc tasks from management.\",\n  \"requirements_text\": \"Graduated in major Accounting, Auditing, Finance or relevant\\nGood at Excel\\nGood at English to communicate with Onshore\\nWilling to work nightshift when needed (5-6 days each quarter)\\nHard working and meticulous\\nHas the intention to commit to full time position after the internship.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4587,
+    "output_tokens": 553,
+    "total_tokens": 5140,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

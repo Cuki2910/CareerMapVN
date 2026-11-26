@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Cơ Khí\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Phú Thọ\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-co-khi/1791334.html\",\n  \"qualifications\": [\n    \"Trung cấp chuyên ngành cơ khí chế tạo máy\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm Tra Chất Lượng Sản Phẩm\",\n    \"Đọc Bản Vẽ Kỹ Thuật\",\n    \"Sử Dụng Dụng Cụ Cơ Khí\",\n    \"Vận Hành Máy Móc Cơ Khí\",\n    \"Sửa Chữa Máy Móc Cơ Khí\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\n3 ca xoay:\\nCa sáng: 6h - 14h\\nCa chiều: 14h - 22h\\nCa đêm: 22h- 6h\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Được cấp Máy tính\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Xét tăng lương, thưởng các ngày lễ lớn trong năm lên tới hơn 1.000.000 đồng/ngày\",\n    \"Được hỗ trợ, tạo điều kiện để nâng cao năng lực, kiến thức chuyên môn\",\n    \"Tham gia các hoạt động, event 20/10, 8/03, sinh nhật công ty,...\"\n  ],\n  \"description\": \"- Thực hiện sửa chữa máy móc thiết bị (đi làm theo ca): Kiểm tra, giám sát các hoạt động của thiết bị máy móc và sửa chữa kịp thời khi có sự cố.\\n- Tham gia vận hành hệ thống thiết bị phụ trợ như: AHU, chiller, máy nén khí,....\\n- Triển khai thực hiện các kế hoạch bảo trì bảo dưỡng thiết bị máy móc trong tổ cơ khí.\\n- Tham gia việc hiệu chỉnh, lắp mới, cải tạo MMTB\\n- Tham gia đề xuất tiêu chuẩn kỹ thuật phụ tùng thay thế liên quan mảng phụ trách.\\n- Thực hiện các công việc khác theo chỉ đạo của cấp trên.\",\n  \"requirements_text\": \"1. Trình độ chuyên môn: Tốt nghiệp Trung cấp chuyên ngành cơ khí chế tạo máy   \\n2. Kinh nghiệm công tác: Tối thiểu 3 năm kinh nghiệm ở vị trí tương đương.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4982,
+    "output_tokens": 788,
+    "total_tokens": 5770,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

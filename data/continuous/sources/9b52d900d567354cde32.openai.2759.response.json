@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kho Tại Hà Nội\",\n  \"company_name\": \"CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU AZ-TEK VIỆT NAM\",\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Bán buôn thiết bị và linh kiện điện tử, viễn thông\",\n  \"category\": null,\n  \"location\": \"Hà Nội: 19 TT5B Linh Đàm, Phường Hoàng Liệt (Phường Hoàng Liệt có thể thuộc các quận Hoàng Mai, Thanh Trì cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-tai-ha-noi/2187575.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\",\n    \"Ưu tiên ứng viên có bằng lái xe B2\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Có tinh thần trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\n- Làm việc 6 ngày/tuần\\n- Chiều thứ Bảy được tính tăng ca\",\n  \"benefits\": [\n    \"Tổng thu nhập 10 - 15 triệu/tháng\",\n    \"Thưởng nhân viên khi làm đủ mốc thời gian đến 2 triệu\",\n    \"Có thưởng Tết và các dịp Lễ rõ ràng theo quy định\",\n    \"Được đóng đầy đủ BHXH, BHYT, BHTN\",\n    \"Có lương tăng ca cuối tuần, lương tăng ca ngày lễ\",\n    \"Phúc lợi nghỉ mát, hiếu hỉ, thâm niên theo quy chế công ty\",\n    \"Ưu tiên ứng viên có bằng lái xe B2 (có thêm phụ cấp lái xe)\"\n  ],\n  \"description\": \"- Kiểm tra, tiếp nhận và sắp xếp hàng hóa trong kho.\\n- Dán tem, nhãn sản phẩm theo quy định.\\n- Đóng gói hàng hóa đảm bảo đúng quy cách và tiêu chuẩn vận chuyển.\\n- Theo dõi tình trạng hàng hóa nhập, xuất và tồn kho.\\n- Hỗ trợ giao nhận hàng hóa theo yêu cầu.\\n- Thực hiện bốc xếp, di chuyển hàng hóa trong kho.\\n- Thực hiện các công việc khác liên quan đến kho vận theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\n\\nYêu cầu ứng viên\\n- Trên 18 tuổi.\\n- Nhanh nhẹn, trung thực.\\n- Có tinh thần trách nhiệm trong công việc.\\n- Làm việc 6 ngày/tuần.\\n- Chiều thứ Bảy được tính tăng ca.\\n- Ưu tiên ứng viên có bằng lái xe B2 (có thêm phụ cấp lái xe)\"\n}",
+  "usage": {
+    "input_tokens": 4644,
+    "output_tokens": 774,
+    "total_tokens": 5418,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

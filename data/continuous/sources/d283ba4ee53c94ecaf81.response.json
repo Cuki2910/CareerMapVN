@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho/2359150.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"tin học văn phòng\",\n    \"phần mềm bán hàng\"\n  ],\n  \"soft_skills\": [\n    \"chăm chỉ\",\n    \"nhanh nhẹn\",\n    \"cẩn thận\",\n    \"trung thực\",\n    \"có trí nhớ tốt\",\n    \"có trách nhiệm với công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"7.5 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h30-17h30 (1 Tuần off 1 buổi)\",\n  \"benefits\": [\n    \"Tham gia BHXH khi hết thử việc\",\n    \"hưởng phép năm\",\n    \"du lịch hàng năm\",\n    \"thưởng lễ tết\",\n    \"lương tháng 13\",\n    \"thưởng sáng kiến\",\n    \"thưởng thâm niên\",\n    \"thưởng cống hiến\",\n    \"review lương theo năng lực\",\n    \"Tham gia các chương trình đào tạo, teambuilding của Công ty.\",\n    \"Mua hàng nội bộ với giá ưu đãi\"\n  ],\n  \"description\": \"Soạn hàng theo đơn hàng được giao\\nVệ sinh, kiểm tra số lượng chất lượng hàng hóa theo đơn trước khi đóng gói\\nĐóng gói đơn hàng và giao cho đơn vị vận chuyển\\nXuất nhập, phân loại, sắp xếp, bảo quản hàng hóa trong kho\\nTiếp nhận và xử lý yêu cầu đổi trả hàng của khách hàng\\nTheo dõi, kiểm kê kho định kỳ\\nThực hiện các công việc khác theo yêu cầu của quản lý trực tiếp.\",\n  \"requirements_text\": \"Nam/ nữ, tối thiểu 6 tháng kinh nghiệm ở vị trí tương đương;\\nTốt nghiệp trung cấp trở lên\\nBiết sử dụng tin học văn phòng và các phần mềm bán hàng;\\nCó thể tăng ca khi cần\\nChăm chỉ, nhanh nhẹn, cẩn thận, trung thực, có trí nhớ tốt, có trách nhiệm với công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4800,
+    "output_tokens": 671,
+    "total_tokens": 5471,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

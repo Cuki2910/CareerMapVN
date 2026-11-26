@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Nhắc Phí - Không Yêu Cầu Kinh Nghiệm - Đi Làm Ngay - Tại TP.HCM / Hà Nội\",\"company_name\":\"CÔNG TY LUẬT TNHH NGƯỜI ĐỒNG HÀNH\",\"job_category\":\"Ngân hàng / Tài chính\",\"sub_category\":\"Chuyên viên xử lý nợ\",\"industry\":\"Ngân hàng, Tài chính, Luật / Pháp chế\",\"category\":null,\"location\":\"Hồ Chí Minh, Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-17\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-nhac-phi-khong-yeu-cau-kinh-nghiem-di-lam-ngay-tai-tp-hcm-ha-noi/1896525.html\",\"qualifications\":[\"Tốt nghiệp trung học phổ thông trở lên\"],\"technical_skills\":[\"Vi tính văn phòng cơ bản\",\"Kỹ Năng Sử Dụng Tin Học Văn Phòng\",\"Kiến Thức Về Tín Dụng\",\"Kiến Thức Về Pháp Luật\"],\"soft_skills\":[\"Kỹ năng đàm phán\",\"Kỹ năng Thuyết phục\",\"Kỹ năng lắng nghe\",\"Kỹ năng xử lý tình huống\",\"Có tinh thần học hỏi\",\"Chủ động trong công việc\",\"Nhanh nhẹn, hoạt bát\",\"Có tinh thần kỷ luật\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"15 - 20 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00); Thứ 7 (từ 08:00 đến 12:00)\",\"benefits\":[\"Lương cơ bản không hạn chế mức tối đa. Mức lương tối thiểu: 5.500.000 đồng/tháng;\",\"Thù lao (hoa hồng) hấp dẫn: từ 40% đến 55% theo doanh thu;\",\"Có lương cố định hàng tháng trong cả thời gian học việc và thử việc;\",\"Tham gia bảo hiểm theo luật định và bảo hiểm tai nạn 24/24;\",\"Thưởng: thưởng Quý, lương tháng 13 và thưởng năm theo năng lực;\",\"Đánh giá nâng lương định kỳ 02 lần/năm;\",\"Được đào tạo kỹ năng làm việc trong suốt quá trình làm việc tại Công ty;\",\"Đặc biệt: Nhận lương trước - làm việc sau;\",\"Hỗ trợ nuôi con đến đủ 18 tuổi.\"],\"description\":\"- Gọi điện hướng dẫn khách hàng các phương thức thanh toán phí;\\n- Hỗ trợ giải đáp các thắc mắc liên quan đến hồ sơ;\\n- Theo dõi và hỗ trợ khách hàng hoàn thành nghĩa vụ thanh toán để giảm thiểu các rủi ro pháp lý cho khách hàng;\\n- Cập nhật thông tin thu thập mới và kết quả làm việc lên hệ thống;\\n- Các công việc khác theo chỉ đạo từ cấp trên.\",\"requirements_text\":\"Giới tính: Nam/Nữ;\\nĐộ tuổi: Từ 18- 35 tuổi;\\nTốt nghiệp trung học phổ thông trở lên;\\nKhông có tiền án tiền sự;\\nKhông yêu cầu kinh nghiệm, sẽ được đào tạo;\\nVi tính văn phòng cơ bản;\\nCó xe gắn máy để đi lại;\\nCó tinh thần học hỏi, chủ động trong công việc;\\nNhanh nhẹn, hoạt bát, có tinh thần kỷ luật.\\n\\nKiến thức ngành: Ngân hàng, Tài chính, Luật / Pháp chế\\nKỹ năng cần có: Kỹ năng đàm phán, Kỹ năng Thuyết phục, Kiến Thức Về Tín Dụng, Kiến Thức Về Pháp Luật\\nKỹ năng nên có: Kỹ năng lắng nghe, Kỹ năng xử lý tình huống, Kỹ Năng Sử Dụng Tin Học Văn Phòng\"}",
+  "usage": {
+    "input_tokens": 5249,
+    "output_tokens": 3632,
+    "total_tokens": 8881,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2470
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

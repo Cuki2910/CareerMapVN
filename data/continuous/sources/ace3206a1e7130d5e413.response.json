@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Trực Page/Support Marketing (8 - 12 Triệu) Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing\",\n  \"sub_category\": \"Trực page\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG, Thương mại điện tử\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-truc-page-support-marketing-8-12-trieu-khong-yeu-cau-kinh-nghiem/2303484.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao Tiếp Vui Vẻ\",\n    \"tư duy linh hoạt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nCa sáng: 8h15 - 17h30  \\nCa chiều: 13h - 22h\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Được cấp Điện thoại, Máy tính\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Hỗ trợ khách hàng qua tin nhắn (Chat page).\\n- Nhận cuộc gọi đến giải đáp thắc mắc thông tin của khách hàng về sản phẩm, chính sách bảo hành.\\n- Khảo sát mức độ hài lòng của khách hàng về sản phẩm/ dịch vụ. (Không sale/ không áp doanh số)\",\n  \"requirements_text\": \"- Tuổi: 20 - 24 tuổi\\n- Không yêu cầu kinh nghiệm, nhưng cần tinh thần sẵn sàng không ngại học hỏi. \\n- Chịu được áp lực. Gõ văn bản nhanh, không nói giọng địa phương \\n- Hoạt bát, nhanh nhẹn, chu đáo, trách nhiệm.\\n- Cần đảm bảo 2 ca làm việc (8h15 - 17h30) hoặc (13h - 22h)\"\n}\n```",
+  "usage": {
+    "input_tokens": 5226,
+    "output_tokens": 666,
+    "total_tokens": 5892,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

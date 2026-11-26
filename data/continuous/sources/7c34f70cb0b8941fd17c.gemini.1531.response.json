@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Cơ Khí\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-co-khi-luong-14-16-trieu-chua-co-kinh-nghiem-duoc-dao-tao/2334752.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"hàn\",\n    \"cắt\",\n    \"khoan\",\n    \"mài\",\n    \"thiết kế\"\n  ],\n  \"soft_skills\": [\n    \"gắn bó ổn định, lâu dài\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"14 - 16 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 17:00)\\n1 tháng được nghỉ 1 ngày thứ 7 có lương\",\n  \"benefits\": [\n    \"Team building\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng quý, thưởng lễ Tết (Âm – Dương), 30/4 – 1/5, 2/9 và thưởng đột xuất theo thành tích & sáng kiến cải tiến\",\n    \"Làm thêm được tính 150% – 300% lương\",\n    \"Phúc lợi đầy đủ, 1 năm có 12 ngày phép, không nghỉ hết được thanh toán lại bằng lương\",\n    \"BHXH, BHYT, BHTN theo quy định\",\n    \"Nghỉ mát, teambuilding, các chương trình thi đua\",\n    \"Chế độ thăm hỏi, sinh nhật, hiếu – hỉ, sinh con...\",\n    \"Môi trường làm việc: Thân thiện – hòa đồng – hỗ trợ lẫn nhau\",\n    \"Được đào tạo nâng cao tay nghề và có lộ trình thăng tiến rõ ràng\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Thực hiện các công việc cơ bản trong xưởng cơ khí chế tạo.\\n  * Sử dụng thành thạo các kỹ năng cơ khí như: hàn, cắt, khoan, mài...\\n  * Đảm bảo sản phẩm đúng kỹ thuật, chất lượng và tiến độ sản xuất.\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n  * Nam, tuổi từ 25 – 45, có kinh nghiệm thực tế trong môi trường xưởng cơ khí.\\n  * Chưa có kinh nghiệm sẽ được đào tạo, hướng dẫn công việc.\\n  * Ưu tiên thợ tay nghề cao và mong muốn gắn bó ổn định, lâu dài.\\n  * Nếu biết thiết kế sẽ được hưởng mức lương cao hơn.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5093,
+    "output_tokens": 835,
+    "total_tokens": 5928,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

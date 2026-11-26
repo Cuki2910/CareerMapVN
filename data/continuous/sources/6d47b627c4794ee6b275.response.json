@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Phụ Bếp Chiên/Mì - Đi Làm Ngay\",\n  \"company_name\": null,\n  \"job_category\": \"Thực phẩm / Đồ uống\",\n  \"sub_category\": \"Phụ bếp\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/phu-bep-chien-mi-di-lam-ngay/2362856.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Phụ Bếp\",\n    \"Sơ Chế Thực Phẩm\",\n    \"Bếp chiên\",\n    \"Bếp mỳ\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"chăm chỉ\",\n    \"chịu khó\",\n    \"có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Mức lương từ 10 triệu/tháng\",\n    \"Có thưởng theo doanh thu nhà hàng, thưởng lễ, thưởng Tết đầy đủ\",\n    \"Có kinh nghiệm có thể trao đổi thêm về lương/thưởng\",\n    \"Có nhận đào tạo đối với các bạn chưa có kinh nghiệm\",\n    \"Có cơ hội học và thi tay nghề để lên vị trí bếp chảo\",\n    \"Hỗ trợ cơm 2 bữa/ngày\",\n    \"Nghỉ ca 2 tiếng/ngày\",\n    \"Off 4 ngày/tháng\",\n    \"Thưởng lễ, Tết theo chính sách nhà hàng\",\n    \"Môi trường làm việc ổn định, thân thiện\"\n  ],\n  \"description\": \"- Chuẩn bị nguyên liệu và sơ chế thực phẩm\\n- Đứng bếp chiên hoặc bếp mỳ và chế biến món ăn theo công thức và quy trình của nhà hàng\\n- Đảm bảo chất lượng món ăn, thời gian ra món\\n- Giữ gìn vệ sinh khu vực bếp, dụng cụ và tuân thủ quy định VSATTP\\n- Hỗ trợ các công việc khác theo phân công của Bếp trưởng\",\n  \"requirements_text\": \"- Có kinh nghiệm phụ bếp, đặc biệt ở vị trí bếp chiên hoặc bếp mỳ là lợi thế.\\n- Nhanh nhẹn, chăm chỉ, chịu khó và có trách nhiệm\\n- Có thể làm việc theo ca và trong môi trường bếp nhà hàng\"\n}\n```",
+  "usage": {
+    "input_tokens": 4833,
+    "output_tokens": 749,
+    "total_tokens": 5582,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

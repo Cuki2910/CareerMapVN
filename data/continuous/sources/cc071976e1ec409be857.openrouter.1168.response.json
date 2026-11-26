@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Phiên Dịch - Phòng Đối Ngoại\",\"company_name\":\"CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TÂN VIỆT MỸ\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Anh\",\"industry\":\"Bán buôn máy móc, thiết bị và phụ tùng máy khác\",\"category\":null,\"location\":\"Hồ Chí Minh: Xã Bình Hưng (Xã Bình Hưng thuộc huyện Bình Chánh cũ)\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-04\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-phien-dich-phong-doi-ngoai/2349273.html\",\"qualifications\":[\"Đại Học trở lên\"],\"technical_skills\":[\"Tiếng Anh\",\"Quản lý các văn bản giấy tờ\"],\"soft_skills\":[\"Làm việc đội nhóm\",\"Tinh thần trách nhiệm cao trong công việc\",\"Có tính kỷ luật và đoàn kết\",\"Chuyên cần và siêng năng\",\"Ngoại hình dễ nhìn\"],\"languages_required\":[\"Tiếng Anh\"],\"experience_required\":0,\"salary\":\"8 - 12 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Được hướng dẫn, hỗ trợ giúp đỡ và đào tạo thêm trong công việc\",\"Môi trường làm việc năng động, thân thiện, cơ hội thăng tiến\",\"Được đào tạo thêm để nâng cao nghiệp vụ chuyên môn\"],\"description\":\"1. MÔ TẢ CÔNG VIỆC\\n- Liên hệ, giao dịch với nước ngoài bằng điện thoại, email\\n- Tiếp xúc với người nước ngoài tại các hội chợ, triển lãm và các sự kiện khác\\n- Tiếp nhận điện thoại , fax, mail cho cty\\n- Các công việc hành chánh.\",\"requirements_text\":\"2. YÊU CẦU :\\n- Nữ, Yêu cầu độ tuổi: 20 - 35 tuổi\\n- Có khả năng làm việc đội nhóm tốt\\n- Có kinh nghiệm quản lý các văn bản giấy tờ\\n- Tinh thần trách nhiệm cao trong công việc\\n- Có tính kỷ luật và đoàn kết\\n- Chuyên cần và siêng năng\\n- Ngoại ngữ khá, nghe nói viết tiếng Anh tốt\\n- Ngoại hình dễ nhìn\"}",
+  "usage": {
+    "input_tokens": 4729,
+    "output_tokens": 2539,
+    "total_tokens": 7268,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 1804
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

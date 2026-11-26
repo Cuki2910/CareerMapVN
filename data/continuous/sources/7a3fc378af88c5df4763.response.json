@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Chăm Sóc Thú Thí Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Y tế / Dược phẩm\",\n  \"sub_category\": \"Chuyên môn khác\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-cham-soc-thu-thi-nghiem/2358313.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên chuyên ngành chăn nuôi, Thú y\"\n  ],\n  \"technical_skills\": [\n    \"Word\",\n    \"Excel\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc độc lập\",\n    \"Kỹ năng lắng nghe\",\n    \"Tỉ mỉ, cẩn thận, chịu khó\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 16:30)\",\n  \"benefits\": [\n    \"Môi trường làm việc năng động\",\n    \"Được hưởng đầy đủ các quyền lợi theo Luật lao động: BHXH, BHYT, nghỉ phép năm, nghỉ lễ quốc gia, …\",\n    \"Chính sách thưởng vào các dịp lễ , tết, chế độ chăm sóc sức khỏe…\",\n    \"Được đào tạo chuyên môn nghiệp vụ theo yêu cầu công việc\",\n    \"Các chế độ khác theo quy định của Công ty\"\n  ],\n  \"description\": \"Vệ sinh và quản lý chuồng trại hàng ngày: Thay lót chuồng, vệ sinh và khử trùng định kỳ để ngăn ngừa dịch bệnh và nhiễm chéo\\nCho động vật ăn uống theo chế độ dinh dưỡng quy định.\\nQuan sát hàng ngày các dấu hiệu lâm sàng để sớm phát hiện các bất thường của dịch bệnh.\\nTheo dõi và ghi chép nhật ký hàng ngày.\",\n  \"requirements_text\": \"Tốt nghiệp trung cấp chuyên ngành chăn nuôi, Thú y\\nTỉ mỉ, cẩn thận, chịu khó và tuân thủ nghiêm ngặt theo quy trình (SOP).\\nSức khỏe tốt, ưu tiên nơi ở tại Củ Chi.\\nCó thể trực vào các ngày lễ tết, và sẵn sàng làm ngoài giờ khi có yêu cầu của lãnh đạo đơn vị\"\n}\n```",
+  "usage": {
+    "input_tokens": 4752,
+    "output_tokens": 664,
+    "total_tokens": 5416,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

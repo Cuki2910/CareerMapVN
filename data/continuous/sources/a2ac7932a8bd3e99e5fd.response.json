@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Chăm Sóc Khách Hàng / Tư Vấn / Sales Căn Hộ (Data Nóng - Hỗ Trợ MKT) - Lương Cứng 6 -15 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Chăm sóc khách hàng\",\n  \"sub_category\": \"Sales Căn Hộ\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-28\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-cham-soc-khach-hang-tu-van-sales-can-ho-data-nong-ho-tro-mkt-luong-cung-6-15-trieu/2330435.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [],\n  \"languages_required\": [],\n  \"experience_required\": 0.0,\n  \"salary\": \"6 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Đóng BHXH đầy đủ\",\n    \"Hoa hồng lên đến 45% doanh thu, tương đương 30 – 80 triệu/căn\",\n    \"Thưởng nóng hấp dẫn: 20 - 30 - 40 - 100 triệu/căn ngay khi chốt giao dịch\",\n    \"Rổ hàng trực tiếp từ Tập đoàn Bcons, sản phẩm căn hộ và nhà phố đa dạng, dễ bán\",\n    \"Công ty hỗ trợ chi phí Marketing\",\n    \"Được đào tạo bài bản từ A-Z bởi đội ngũ quản lý nhiều năm kinh nghiệm\"\n  ],\n  \"description\": \"- Tư vấn và giới thiệu các dự án căn hộ, nhà phố của Bcons đến khách hàng.\\n- Khai thác DATA khách hàng do Công ty cung cấp, đồng thời phát triển nguồn khách hàng mới.\\n- Hỗ trợ khách hàng tham quan dự án, tư vấn và chốt giao dịch.\",\n  \"requirements_text\": \"- Không cần kinh nghiệm – Được đào tạo bài bản từ A-Z bởi đội ngũ quản lý nhiều năm kinh nghiệm.\\n- Có laptop và phương tiện di chuyển cá nhân.\\n- Chủ động học hỏi, nghiêm túc, có mục tiêu phát triển lâu dài với nghề Bất động sản.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5220,
+    "output_tokens": 691,
+    "total_tokens": 5911,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

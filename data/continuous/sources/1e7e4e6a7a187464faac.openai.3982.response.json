@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Lấy Mẫu Thí Nghiệm\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN PHÁT TRIỂN VÀ ĐẦU TƯ XÂY DỰNG VINCONS\",\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Chuyên môn Xây dựng khác\",\n  \"industry\": \"Hoạt động bất động sản trên cơ sở phí hoặc hợp đồng\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Dự án Cần Giờ, Xã Cần Giờ (Xã Cần Giờ thuộc huyện Cần Giờ cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-lay-mau-thi-nghiem/2231197.html\",\n  \"qualifications\": [\"Trung học phổ thông (Cấp 3) trở lên\"],\n  \"technical_skills\": [\n    \"Lấy mẫu thí nghiệm vật tư, vật liệu tại công trình theo quy định\",\n    \"Kiểm soát và hoàn thiện hồ sơ vật liệu đầu vào của công trình theo quy định\"\n  ],\n  \"soft_skills\": [\n    \"Khả năng chịu áp lực tiến độ công việc cao\",\n    \"Cẩn thận\",\n    \"Chăm chỉ\",\n    \"Nhiệt tình\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm 6 ngày, nghỉ 1 ngày/tuần\",\n  \"benefits\": [\n    \"Mức lương hấp dẫn;\",\n    \"Được tham gia đóng bảo hiểm theo quy định của Nhà nước, hưởng các phúc lợi hấp dẫn từ TĐ Vingroup;\",\n    \"Được làm việc trong môi trường chuyên nghiệp, năng động và hiệu quả, có cơ hội thăng tiến;\",\n    \"Ký hợp đồng lao động chính thức sau 02 tháng thử việc.\"\n  ],\n  \"description\": \"- Thực hiện các công tác lấy mẫu thí nghiệm vật tư, vật liệu... tại công trình theo quy định;\\n- Phối hợp với Chủ đầu tư, Tư vấn giám sát trong công tác thí nghiệm tại phòng thí nghiệm;\\n- Tuân thủ theo sự phân công công việc của Chỉ huy trưởng/Đội trưởng;\\n- Thực hiện triển khai kiểm soát và hoàn thiện các hồ sơ vật liệu đầu vào của công trình theo quy định.\",\n  \"requirements_text\": \"Tổng quan – Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\n\\nYêu cầu ứng viên\\n- Ưu tiên UV có kinh nghiệm từ 01 năm trở lên\\n- Chấp nhận sv mới ra trường từng thực tập tại các công ty Xây dựng;\\n- Khả năng chịu áp lực tiến độ công việc cao, cẩn thận, chăm chỉ, nhiệt tình.\"\n}",
+  "usage": {
+    "input_tokens": 4491,
+    "output_tokens": 700,
+    "total_tokens": 5191,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

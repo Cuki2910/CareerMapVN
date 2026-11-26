@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng - Tại Cửa Hàng - Tân Bình\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN KOME88\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-tai-cua-hang-tan-binh/2354812.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Thu Ngân\",\n    \"Fillet cá hồi\",\n    \"Cắt sashimi\"\n  ],\n  \"soft_skills\": [\n    \"Chăm Sóc Khách Hàng\",\n    \"Bán Hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 09:30 đến 18:30)\\n09:30 – 18:30, nghỉ 01 ngày/tuần\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Xét tăng lương hàng năm\",\n    \"12 ngày phép/năm\"\n  ],\n  \"description\": \"- Bán hàng, thu ngân, tư vấn và chăm sóc khách hàng tại cửa hàng.\\n- Nắm rõ thông tin, giá bán và tồn kho của các sản phẩm: cá hồi, bò, hải sản tươi/đông lạnh.\\n- Soạn hàng, đóng gói, hút chân không và xử lý đơn hàng từ Shopee, Lazada, Grab...\\n- Fillet cá hồi, cắt sashimi theo yêu cầu đơn hàng (có đào tạo).\\n- Kiểm tra, sắp xếp, trưng bày và bảo quản hàng hóa; theo dõi hàng cận date, hư hỏng.\\n- Phối hợp với bộ phận vận hành xử lý đơn hàng, phản hồi và các vấn đề phát sinh.\\n- Đảm bảo vệ sinh, an toàn hàng hóa và hình ảnh chuyên nghiệp của thương hiệu.\\n- Thực hiện các công việc khác theo phân công của Quản lý.\",\n  \"requirements_text\": \"- Ưu tiên ứng viên có kinh nghiệm bán hàng, thu ngân, sử dụng máy bán hàng, chăm sóc khách hàng và có tay nghề fillet cá hồi, cắt sashimi.\\n- Tỉ mỉ, cẩn thận, có ý thức giữ gìn chất lượng và hình thức hàng hóa.\\n- Có khả năng thích nghi và sẵn sàng hỗ trợ khi được điều động làm việc tại các siêu thị ở TP.HCM, Chi nhánh Quận 12 hoặc Cửa hàng Lam Sơn (Đã có nhân viên tại cái siêu thị).\"\n}\n```",
+  "usage": {
+    "input_tokens": 5010,
+    "output_tokens": 775,
+    "total_tokens": 5785,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

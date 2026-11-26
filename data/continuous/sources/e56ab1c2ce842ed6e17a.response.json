@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bảo Trì Máy May\",\n  \"company_name\": null,\n  \"job_category\": \"Sửa chữa/Bảo trì máy công nghiệp\",\n  \"sub_category\": \"Công nghệ kỹ thuật\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-tri-may-may/2280756.html\",\n  \"qualifications\": [\n    \"Trung cấp, cao đẳng, đại học\",\n    \"Chuyên ngành kỹ thuật bảo trì máy may\"\n  ],\n  \"technical_skills\": [\n    \"Kỹ thuật bảo trì máy may\",\n    \"Kỹ thuật bảo trì trong ngành may mặc\"\n  ],\n  \"soft_skills\": [\n    \"Chịu khó\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được đào tạo nâng cao chuyên môn và kỹ năng.\",\n    \"Được hưởng 100% lương trong thời gian thử việc.\",\n    \"Môi trường làm việc thân thiện và năng động.\",\n    \"Tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm 24/7, bảo hiểm tai nạn lao động.\"\n  ],\n  \"description\": \"- Thực hiện bảo trì sửa chữa máy may\\n- Thực hiện bảo trì sửa chữa thiết bị theo đúng quy trình\\n- Thực hiện đạt yêu cầu chất lượng công việc trong ca làm việc\\n- Bàn giao cho ca sau tiếp tục thực hiện công việc\",\n  \"requirements_text\": \"- Tốt nghiệp Trung cấp, cao đẳng, đại học \\n- Chuyên ngành kỹ thuật bảo trì máy may\\n- Có kiến thức về kỹ thuật bảo trì trong ngành may mặc\\n- Có thể đi ca\\n- Chịu khó trong môi trường hóa chất\\n- Thực hiện đạt yêu cầu chất lượng công việc trong ca làm việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4598,
+    "output_tokens": 592,
+    "total_tokens": 5190,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Kinh Doanh\",\n  \"company_name\": \"Công ty Cổ phần Harami-trade\",\n  \"job_category\": \"Kinh doanh\",\n  \"sub_category\": \"Kinh doanh\",\n  \"industry\": \"Môi giới hợp đồng hàng hóa và chứng khoán\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-kinh-doanh/2359545.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Có đam mê với kinh doanh\",\n    \"Chủ động học hỏi, sẵn sàng trải nghiệm công việc thực tế\",\n    \"Có tinh thần trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30); Thứ 7 (từ 08:00 đến 11:30); Linh hoạt\",\n  \"benefits\": [\n    \"Đào tạo bài bản từ kiến thức thị trường hàng hóa phái sinh đến kỹ năng tư vấn khách hàng\",\n    \"Có mentor đồng hành, hướng dẫn trong quá trình làm việc\",\n    \"Được tiếp cận công việc thực tế: tìm kiếm, tư vấn và chăm sóc khách hàng\",\n    \"Hỗ trợ tài liệu và dấu mộc thực tập\",\n    \"Phụ cấp, hoa hồng theo năng lực và kết quả công việc\",\n    \"Cơ hội trở thành nhân viên chính thức sau kỳ thực tập nếu phù hợp\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Tìm kiếm và tiếp cận khách hàng tiềm năng có nhu cầu tìm hiểu về giao dịch hàng hóa phái sinh.\\n- Tìm hiểu nhu cầu của khách hàng, phối hợp với nhân viên kinh doanh để giới thiệu sản phẩm và dịch vụ của Harami-Trade.\\n- Chăm sóc khách hàng sau khi liên hệ, ghi nhận câu hỏi và chuyển cho nhân viên phụ trách giải đáp.\",\n  \"requirements_text\": \"- Có đam mê với kinh doanh \\n- Chủ động học hỏi, sẵn sàng trải nghiệm công việc thực tế\\n- Có tinh thần trách nhiệm\\nKiến thức ngành: Tài chính\"\n}\n```",
+  "usage": {
+    "input_tokens": 4637,
+    "output_tokens": 653,
+    "total_tokens": 5290,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

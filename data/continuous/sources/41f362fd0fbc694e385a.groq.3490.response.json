@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Thực Tập Sinh Hành Chính\",\n  \"company_name\": null,\n  \"job_category\": \"Hành Chính\",\n  \"sub_category\": \"Hành chính tổng hợp\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Cantavil Premier 01 Song Hành, Phường Bình Trưng, Thành phố Thủ Đức cũ, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-hanh-chinh/2362034.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Soạn Thảo Văn Bản\",\n    \"Lưu Trữ Tài Liệu\",\n    \"Sự Cẩn Thận Và Tỉ Mỉ\",\n    \"Sử Dụng Thiết Bị Văn Phòng\",\n    \"Chăm Sóc Khách Hàng\",\n    \"Quản Lý Văn Phòng Phẩm\",\n    \"Năng Nổ Và Chủ Động\"\n  ],\n  \"soft_skills\": [\n    \"kỹ năng giao tiếp tốt\",\n    \"thái độ lịch sự\",\n    \"thân thiện\",\n    \"tác phong chuyên nghiệp\",\n    \"cẩn thận\",\n    \"tỉ mỉ\",\n    \"chu đáo\",\n    \"có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"5 - 6 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 18:00). Sáng: Từ 8h00 đến 12h00. Chiều: Từ 13h00 đến 18h00. Nghỉ trưa từ 12h00 đến 13h00.\",\n  \"benefits\": [\n    \"Làm việc và trao dồi kiến thức tại Doanh nghiệp với quy mô lớn, chuyên nghiệp.\",\n    \"Được hỗ trợ phụ cấp lương trong thời gian thực tập.\",\n    \"Được tham gia vào tất cả hoạt động sự kiện hội nghị liên quan.\",\n    \"Hỗ trợ tài liệu, dấu mộc xác nhận thực tập.\"\n  ],\n  \"description\": \"- Hỗ trợ công tác lễ tân, tiếp đón và hướng dẫn khách đến Công ty.\\n- Tiếp nhận, xử lý và chuyển tiếp các cuộc gọi đến.\\n- Hỗ trợ tiếp nhận, phân loại, luân chuyển và lưu trữ công văn, thư từ, hồ sơ, tài liệu.\\n- Quản lý phòng họp, sắp xếp lịch họp và chuẩn bị cơ sở vật chất phục vụ các cuộc họp.\\n- Thực hiện các công việc hành chính văn phòng khác theo yêu cầu.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm, sẽ được đào tạo.\\n- Bạn yêu thích môi trường doanh nghiệp, mong muốn học hỏi và trải nghiệm các công việc hành chính văn phòng thực tế.\\n- Có kỹ năng giao tiếp tốt, thái độ lịch sự, thân thiện và tác phong chuyên nghiệp.\\n- Cẩn thận, tỉ mỉ, chu đáo và có trách nhiệm trong công việc.\\n- Có thể thực tập theo thời gian và kế hoạch làm việc của Công ty.\"\n}",
+  "usage": {
+    "input_tokens": 4334,
+    "output_tokens": 1656,
+    "total_tokens": 5990,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 877
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

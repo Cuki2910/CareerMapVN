@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thu Ngân Nhà Hàng (Ca Tối)\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN DỊCH VỤ ẨM THỰC THÀNH CÔNG\",\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": null,\n  \"industry\": \"Nhà hàng và các dịch vụ ăn uống phục vụ lưu động\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-ngan-nha-hang-ca-toi/2336209.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Siêng năng và chủ động trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"5 - 6 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 17:00 đến 22:00); Ca làm việc từ 17h - 22h. Phát sinh công việc sau 22h tính tăng ca\",\n  \"benefits\": [\n    \"Lương 5 - 6 triệu\",\n    \"Thưởng (Tip + doanh thu + sản lượng)\",\n    \"Ăn ca tại nhà hàng\",\n    \"Chế độ phúc lợi theo quy định của Công ty: Sinh Nhật, Lễ, Tết, Hiếu, Hỷ, Lương tháng 13, teambuilding, BHXH…\",\n    \"Nghỉ 4 ngày bất kỳ/tháng\"\n  ],\n  \"description\": \"- Thực hiện công việc thu tiền, thanh toán tiền cho khách hàng.\\n- Tổng hợp doanh thu, chuyển chứng từ về phòng Kế toán.\\n- Báo cáo doanh thu ngày hôm trước cho Kế toán.\\n- Nghe điện thoại, nhận thông tin đặt bàn, ghi nhận thông tin vào sổ theo dõi thông tin đặt bàn.\\n- Tiếp đón, hướng dẫn khách vào nhà hàng.\\n- Ca làm việc từ 17h - 22h (phát sinh công việc sau 22h tính tăng ca).\",\n  \"requirements_text\": \"- Độ tuổi: 18 - 30\\n- Siêng năng và chủ động trong công việc.\\n- Ưu tiên ứng viên có kinh nghiệm làm thu ngân tại các nhà hàng, trung tâm thương mại, cửa hàng …\"\n}\n```",
+  "usage": {
+    "input_tokens": 4661,
+    "output_tokens": 663,
+    "total_tokens": 5324,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

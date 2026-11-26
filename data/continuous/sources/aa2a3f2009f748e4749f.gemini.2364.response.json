@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Nhận Hàng - Siêu Thị Lotte Mart\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"sub_category\": null,\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hà Nội và 6 nơi khác\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nhan-hang-sieu-thi-lotte-mart/2347247.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"nhanh nhẹn\",\n    \"trung thực\",\n    \"nhiệt tình\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Hàn\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Từ 7 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\n08h00/ca\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Thưởng tháng lương 13+\",\n    \"Phụ cấp ngoại ngữ (Anh/Hàn): Up to 2.000.000 VNĐ/tháng\",\n    \"Phụ cấp ăn trưa: 50.000 VNĐ/ngày (1.300.000 VNĐ/tháng)\",\n    \"Chế độ BHXH, BHYT, BHTN đóng trên tổng lương\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"Môi trường làm việc chuyên nghiệp, năng động\",\n    \"Thưởng Lễ, Tết, sinh nhật, hiếu hỉ, 8/3,... theo quy định Công ty & Công đoàn\"\n  ],\n  \"description\": \"• Kiểm tra chứng từ, đối soát số lượng (gồm hàng khuyến mãi), phối hợp kiểm tra chất lượng và giấy chứng nhận.\\n• Hỗ trợ nhập liệu chính xác vào hệ thống, báo ngành hàng nhận ngay để tránh ùn ứ.\\n• Kiểm đếm, hỗ trợ xuất kho qua cổng an ninh, bàn giao phiếu đã ký cho nhập liệu.\\n• Báo cáo Xuất - Nhập - Tồn theo ca, giữ vệ sinh khu vực làm việc và làm theo chỉ đạo cấp trên.\",\n  \"requirements_text\": \"• Học vấn: Tốt nghiệp THPT trở lên.\\n• Kinh nghiệm & Kiến thức:\\n- Ưu tiên có kinh nghiệm làm kho, nhận hàng hoặc làm việc tại các chuỗi bán lẻ/siêu thị.\\n- Ưu tiên hiểu biết về các mặt hàng, sản phẩm siêu thị.\\n• Tố chất & Yêu cầu chung:\\n- Sức khỏe tốt, nhanh nhẹn, trung thực, nhiệt tình.\\n- Sẵn sàng làm việc theo ca (bao gồm ca gãy/xoay ca), làm việc ngày Lễ, Tết\"\n}\n```",
+  "usage": {
+    "input_tokens": 5677,
+    "output_tokens": 794,
+    "total_tokens": 6471,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

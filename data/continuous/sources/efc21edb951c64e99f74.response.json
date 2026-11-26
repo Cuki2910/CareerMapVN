@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phụ Xưởng Sản Xuất - Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": null,\n  \"job_category\": \"Thợ cơ khí\",\n  \"sub_category\": null,\n  \"industry\": \"Xây dựng, Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"600 Đỗ Mười, Phường An Phú Đông, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phu-xuong-san-xuat-khong-yeu-cau-kinh-nghiem/2364601.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Gia Công Cơ Khí\",\n    \"uốn sắt\",\n    \"Cắt sắt\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00). Sáng: 07h30 – 11h30. Chiều: 13h00 – 17h00.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Phụ cấp: Ăn trưa\",\n    \"Phụ cấp chuyên cần\",\n    \"Phụ cấp tăng ca\",\n    \"Thưởng các dịp lễ, Tết\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định\",\n    \"Môi trường làm việc ổn định, có cơ hội gắn bó lâu dài\"\n  ],\n  \"description\": \"Thực hiện gia công, sản xuất các sản phẩm phục vụ ngành xây dựng như: giàn giáo, mâm, thang, xe cải tiến và các thiết bị công trình.\\nThực hiện các công đoạn sản xuất như cắt sắt, uốn sắt và gia công sản phẩm theo hướng dẫn.\\nHỗ trợ các bộ phận liên quan trong quá trình sản xuất tại nhà máy.\\nSắp xếp, kiểm tra và phân loại hàng hóa sau sản xuất.\\nThực hiện giao nhận hàng hóa theo yêu cầu.\\nThực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Nam, độ tuổi từ 18 – 35.\\nSiêng năng, chịu khó, có tinh thần trách nhiệm trong công việc.\\nCó sức khỏe tốt, sẵn sàng tham gia các công việc sản xuất, gia công tại nhà máy.\\nCó ý thức kỷ luật và mong muốn gắn bó lâu dài với công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5104,
+    "output_tokens": 737,
+    "total_tokens": 5841,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Phụ Bếp/Bếp Lạnh\",\n  \"company_name\": \"CÔNG TY TNHH KHÁCH SẠN VÀ DU LỊCH HERITAGE HÀ NỘI\",\n  \"job_category\": \"Đầu bếp\",\n  \"sub_category\": \"Phụ Bếp/Bếp Lạnh\",\n  \"industry\": \"Khách sạn và dịch vụ lưu trú tương tự; Dịch vụ lưu trú ngắn ngày khác\",\n  \"category\": null,\n  \"location\": \"Hà Nội: số nhà 42-44 Hàm Long, Phường Cửa Nam (Phường Cửa Nam thuộc quận Hoàn Kiếm cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phu-bep-bep-lanh/2017297.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhiệt tình và say mê công việc\",\n    \"Chịu được áp lực công việc\",\n    \"Có tinh thần trách nhiệm cao trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": null,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Lương căn bản + chia tiền service charge, thưởng target\",\n    \"Chế độ tăng lương theo năng lực và thâm niên\",\n    \"Thưởng service charge & target hàng tháng\",\n    \"Trợ cấp suất ăn, gửi xe, đồng phục\",\n    \"Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho nhân viên chính thức\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Dưới 1 năm kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\nChuyên môn: Đầu bếp\\n\\nMô tả công việc\\n* Hỗ trợ nhân viên Bếp Chính/Bếp nấu ăn: Chuẩn bị công cụ dụng cụ, Gia vị, Nguyên vật liệu, Kiểm tra chất lượng nguyên vật liệu, Sơ chế...luôn đảm bảo vệ sinh an toàn thực phẩm trong Bếp.\\n* Nhận, kiểm hàng hóa nhập/lưu kho..\\n* Giữ gìn vệ sinh và bảo quản các máy móc thiết bị, công cụ dụng cụ trong bếp\\n* Phối hợp nhân viên nhà hàng chế biến món ăn theo yêu cầu của khách .\\n* Thực hiện các công việc nấu theo chỉ đạo của cấp trên\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n* Nam 22 - 30 tuổi.\\n* Nhiệt tình và say mê công việc, chịu được áp lực công việc .\\n* Có tinh thần trách nhiệm cao trong công việc.\\n* Có sức khỏe tốt, không mắc các bệnh truyền nhiễm, bệnh da liễu hay dị ứng khi tiếp xúc với thực phẩm.\"\n}",
+  "usage": {
+    "input_tokens": 4627,
+    "output_tokens": 705,
+    "total_tokens": 5332,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

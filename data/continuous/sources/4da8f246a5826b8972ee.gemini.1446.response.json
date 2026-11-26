@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giám Sát Nhóm Phân Tích Nghiệp Vụ SAP PP/MM\",\n  \"company_name\": null,\n  \"job_category\": \"Business Analyst\",\n  \"sub_category\": \"SAP PP/MM\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tòa nhà Eurowindow, số 2 Tôn Thất Tùng, Đống Đa, Phường Kim Liên, Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-sat-nhom-phan-tich-nghiep-vu-sap-pp-mm/2353772.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên thuộc các khối ngành Kinh tế, Tài chính hoặc Hệ thống thông tin\"\n  ],\n  \"technical_skills\": [\n    \"SAP PP/MM\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 4,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Từ thứ hai đến hết thứ sáu và 02 ngày thứ bảy/ tháng\",\n  \"benefits\": [\n    \"Mức lương thỏa thuận theo năng lực\",\n    \"Thực hiện đầy đủ các chế độ bảo hiểm bắt buộc cho NLĐ\",\n    \"Nghỉ 2 T7 + 4 CN/tháng\",\n    \"12 ngày phép/năm\",\n    \"Chế độ ốm đau, thai sản, hiếu hỉ, sinh nhật, tặng quà 8/3,20/10, 1/6, rằm trung thu...\",\n    \"Chế độ thăm quan, nghỉ mát, teambuilding\",\n    \"Chế độ thưởng các ngày lễ, tết\"\n  ],\n  \"description\": \"• Tham gia các dự án AMS và các dự án triển khai hệ thống theo yêu cầu.\\n• Thu thập, phân tích và đánh giá mức độ ảnh hưởng của các yêu cầu nghiệp vụ; tư vấn và thiết kế giải pháp đáp ứng yêu cầu.\\n• Xây dựng các tài liệu thiết kế, tài liệu FS (Functional Specification) và tài liệu hướng dẫn sử dụng.\\n• Cấu hình hệ thống để đáp ứng các yêu cầu nghiệp vụ.\\n• Xây dựng và thực hiện các kịch bản kiểm thử.\\n• Đào tạo người dùng; hỗ trợ kiểm thử ở mức người dùng (UAT) và thu thập xác nhận kiểm thử từ người dùng.\",\n  \"requirements_text\": \"• Trình độ học vấn: Tốt nghiệp đại học trở lên thuộc các khối ngành Kinh tế, Tài chính hoặc Hệ thống thông tin.\\n• Tối thiểu 04 năm kinh nghiệm tư vấn nghiệp vụ SAP PP/MM trong các dự án triển khai và hỗ trợ.\\n• Đã tham gia ít nhất 01 dự án triển khai SAP PP/MM trọn vòng đời (full cycle), đảm nhiệm vai trò chủ chốt trong tư vấn nghiệp vụ phân hệ PP/MM.\\n• Có kinh nghiệm tham gia phát triển các luồng tích hợp giữa các hệ thống.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4819,
+    "output_tokens": 785,
+    "total_tokens": 5604,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

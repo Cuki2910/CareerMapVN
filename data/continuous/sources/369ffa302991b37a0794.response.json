@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bảo Trì Máy\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": null,\n  \"industry\": \"Điện / Điện tử / Điện lạnh, Cơ khí / Tự động hóa, Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-tri-may/2358515.html\",\n  \"qualifications\": [\n    \"Trung cấp nghề trở lên\",\n    \"Ngành: cơ khí, cơ điện, hàn - kỹ nghệ sắt, nguội, điện công nghiệp\"\n  ],\n  \"technical_skills\": [\n    \"Sửa Chữa Máy Móc\",\n    \"Bảo Trì Định Kỳ\",\n    \"Kỹ Thuật Cơ Khí Điện\",\n    \"máy cắt\",\n    \"máy hàn\",\n    \"máy mài\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"9 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:00 đến 16:00)\",\n  \"benefits\": [\n    \"Tăng lương định kỳ hàng năm\",\n    \"Sinh nhật\",\n    \"thăm hỏi\",\n    \"nghỉ dưỡng hàng năm\",\n    \"team building\",\n    \"Môi trường làm việc chuyên nghiệp, năng động, thân thiện và hòa hợp\",\n    \"Tham gia đầy đủ các chế độ BHXH, BHYT, TCTN, KPCĐ theo quy định của pháp luật\"\n  ],\n  \"description\": \"- Biết về điện tự động hóa   \\n- Cơ bản về cơ khí   \\n- Bảo trì vận hành Điện Nước   \\n- Làm việc: 7h00 - 16h00 (Có tăng ca)   \\n- Địa điểm: 6/8 khu phố Đồng An 3, Phường Bình Hòa, Bình Dương.\",\n  \"requirements_text\": \"- Trình độ Trung Cấp nghề trở lên   \\n- Ngành: cơ khí, cơ điện, hàn - kỹ nghệ sắt, nguội, điện công nghiệp   \\n- Có ít nhất 1 năm kinh nghiệm trong cùng lĩnh vực   \\n- Sử dụng thành thạo các công cụ hỗ trợ, các thiết bị cầm tay (máy cắt, máy hàn, máy mài..)   \\n- Biết nguyên lý sensor, timer, thiết bị đóng ngắt khí nén, motor điện, van thủy lực, biến tần các loại...\"\n}\n```",
+  "usage": {
+    "input_tokens": 4807,
+    "output_tokens": 713,
+    "total_tokens": 5520,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Thuật Viên Sửa Chữa Tại Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-vien-sua-chua-tai-kho/1521437.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sửa Chữa\",\n    \"Sửa Chữa Máy Móc\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h00 - 17h00 Từ Thứ 2 đến sáng Thứ 7\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Được cấp Máy tính\",\n    \"Được tham gia các khóa đào tạo, nâng cao trình độ, kỹ thuật\",\n    \"Được cấp đồng phục, thẻ công ty đầy đủ\",\n    \"Có chế độ nghỉ phép năm, BHXH, BHYT,… theo quy định của Luật LĐ\",\n    \"Được định hướng phát triển nghề nghiệp rõ ràng, cơ hội thăng tiến rộng mở\"\n  ],\n  \"description\": \"Làm việc tại trung tâm bảo hành của công ty.\\nNhận các sản phẩm cần bảo hành từ Admin (máy lọc nước, điện lạnh, gia dụng).\\nSửa chữa, bảo dưỡng, khắc phục các lỗi của sản phẩm.\\nTư vấn khách hàng thay thế linh kiện và sử dụng gói dịch vụ bảo hành.\\nBáo cáo số lượng hàng bảo hành theo tuần, theo tháng.\\nBáo cáo lỗi hư hỏng thường gặp (nếu có).\",\n  \"requirements_text\": \"Nam từ 20 - 38 tuổi,\\nƯu tiên từ 1 năm trở lên các công việc, ngành nghề liên quan đến mảng điện nước, điện lạnh, điện dân dụng,… có kinh nghiệm đa dạng về kĩ thuật.\\nƯu tiên ứng viên đã có kinh nghiệm làm việc tại các trung tâm bảo hành\\nKỹ năng giao tiếp khá có đam mê với kinh doanh và kỹ thuật.\\nTrách nhiệm cao, tận tâm với công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4790,
+    "output_tokens": 700,
+    "total_tokens": 5490,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

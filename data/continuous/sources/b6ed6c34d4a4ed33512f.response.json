@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Phụ Tùng Ô Tô, Xe Máy - Lương 12-15 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": \"Kho vận\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-24\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-phu-tung-o-to-xe-may-luong-12-15-trieu-ha-noi/2338991.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng được máy tính cơ bản để nhập liệu, quản lý kho\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"cẩn thận\",\n    \"có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h-12h, 13h30-17h30\\nNghỉ 4 ngày/tháng\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp: Ăn trưa 30.000đ/ngày công\",\n    \"Thử việc: 85% lương thử việc theo mức 8.000.000đ\",\n    \"Lương chính thức: 12.000.000 – 15.000.000đ/tháng\",\n    \"Nghỉ 4 ngày/tháng\",\n    \"Đóng BHXH sau khi ký hợp đồng chính thức\"\n  ],\n  \"description\": \"- Nhập, xuất kho phụ tùng phục vụ dịch vụ sửa chữa, bảo dưỡng, bảo hành xe máy.\\n- Theo dõi tồn kho, kiểm kê định kỳ, báo cáo hàng thiếu, hàng tồn.\\n- Xử lý công việc theo yêu cầu của quản lý.\",\n  \"requirements_text\": \"- Đã từng làm nhân viên kho phụ tùng (ưu tiên phụ tùng xe máy, ô tô).\\n- Trung thực, cẩn thận, có trách nhiệm.\\n- Sử dụng được máy tính cơ bản để nhập liệu, quản lý kho.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4645,
+    "output_tokens": 650,
+    "total_tokens": 5295,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

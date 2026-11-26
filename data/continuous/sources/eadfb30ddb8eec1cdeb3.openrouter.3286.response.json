@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kế Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán/Kiểm toán/Thuế\",\n  \"sub_category\": \"Kế toán\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Phường Việt Hưng, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-toan-luong-tu-10-15-trieu/2362846.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Đại học/Cao đẳng chuyên ngành Kế toán, Kiểm toán, Tài chính hoặc các ngành Kinh tế liên quan.\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\",\n    \"Excel (các hàm tính toán, tổng hợp dữ liệu)\",\n    \"Phần mềm kế toán (MISA, Fast...)\",\n    \"Hạch toán\",\n    \"Báo cáo\",\n    \"Xuất hóa đơn\",\n    \"Lưu trữ chứng từ kế toán\",\n    \"Lập & nộp tờ khai thuế\",\n    \"BCTC năm\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Lương từ 10 triệu - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00); Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Lương từ 10 triệu - 15 triệu\",\n    \"Được tham gia đầy đủ BHXH, BHYT, BHTN theo quy định của Luật Lao động.\",\n    \"Thưởng tháng lương thứ 13, thưởng các dịp Lễ, Tết, sinh nhật, hiếu hỉ và du lịch/nghỉ mát hàng năm cùng công ty.\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định, đồng nghiệp thân thiện\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Kiểm tra tính hợp lệ của chứng từ; thực hiện xuất hóa đơn điện tử, hạch toán các nghiệp vụ kinh tế phát sinh hàng ngày vào phần mềm kế toán.\\n- Lập và nộp các tờ khai thuế định kỳ (GTGT, TNCN, TNDN...), báo cáo tình hình sử dụng hóa đơn và các báo cáo nội bộ theo yêu cầu của Kế toán trưởng.\\n- Theo dõi công nợ phải thu – phải trả, đối chiếu số liệu sổ sách với thực tế.\\n- Soát xét số liệu cuối kỳ, thực hiện bút toán kết chuyển và phối hợp lập Báo cáo tài chính (BCTC) năm.\\n- Sắp xếp, hoàn thiện và lưu trữ hệ thống hồ sơ, chứng từ kế toán khoa học, đảm bảo sẵn sàng phục vụ công tác thanh tra\",\n  \"requirements_text\": \"Yêu cầu:\\n- 1 năm kinh nghiệm chuyên môn\\n- Trung cấp trở lên\\nChuyên môn: Kế toán/Kiểm toán/Thuế khác; Kế toán\\nYêu cầu ứng viên:\\n- Tốt nghiệp Đại học/Cao đẳng chuyên ngành Kế toán, Kiểm toán, Tài chính hoặc các ngành Kinh tế liên quan.\\n- Yêu cầu từ 01 năm kinh nghiệm kế toán thực tế (chấp nhận sinh viên mới ra trường nắm vững nghiệp vụ định khoản, sẽ được đào tạo bài bản).\\n- Thành thạo tin học văn phòng, đặc biệt là Excel (các hàm tính toán, tổng hợp dữ liệu) và đã từng sử dụng phần mềm kế toán (MISA, Fast...).\\nKiến thức ngành: Kế toán\\nKỹ năng cần có: Excel, Hạch Toán, báo cáo, xuất hóa đơn, Lưu Trữ Chứng Từ Kế Toán, Lập & nộp tờ khai thuế, BCTC năm\"\n}",
+  "usage": {
+    "input_tokens": 4781,
+    "output_tokens": 5067,
+    "total_tokens": 9848,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3910
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

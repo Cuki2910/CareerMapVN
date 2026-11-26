@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên May Kiêm QC\",\n  \"company_name\": null,\n  \"job_category\": \"May mặc / Thời trang\",\n  \"sub_category\": \"Thợ may\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"16 Lê Trung Nghĩa, Phường Tân Bình (Phường Tân Bình thuộc quận Tân Bình cũ), Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-may-kiem-qc/2362296.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Qc\",\n    \"Kiểm Tra Chất Lượng\",\n    \"May Mẫu\",\n    \"đọc hiểu thông số rập\"\n  ],\n  \"soft_skills\": [\n    \"kỹ tính\",\n    \"cẩn thận\",\n    \"tỉ mỉ\",\n    \"tinh thần trách nhiệm\",\n    \"chủ động\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"- May mẫu các sản phẩm đồng phục công sở: quần tây, sơmi, chân váy, đầm, blazer/vest.\\n- Đọc hiểu thông số, rập và yêu cầu kỹ thuật sản phẩm để may mẫu chuẩn form, đúng kiểu dáng và yêu cầu thiết kế.\\n- Kiểm tra chất lượng sản phẩm từ các đơn vị gia công: form dáng, đường may, thông số, chất liệu, độ hoàn thiện và các lỗi kỹ thuật.\\n- Phát hiện lỗi, đánh giá chất lượng và phối hợp với đơn vị gia công để chỉnh sửa, đảm bảo sản phẩm đạt tiêu chuẩn trước khi bàn giao khách hàng.\\n- Kiểm soát chất lượng sản phẩm đồng phục phân khúc cao cấp, đảm bảo tính đồng đều và chỉn chu.\",\n  \"requirements_text\": \"- Có ít nhất 3 năm kinh nghiệm may mẫu hàng thời trang, ưu tiên đồng phục công sở, vest hoặc hàng thời trang cao cấp.\\n- Tay nghề may tốt, đường may sắc nét, xử lý kỹ thuật may tinh tế.\\n- Có mắt thẩm mỹ, am hiểu form dáng và kết cấu sản phẩm.\\n- Tính cách kỹ tính, cẩn thận, tỉ mỉ, có khả năng phát hiện những lỗi nhỏ trong sản phẩm.\\n- Có tinh thần trách nhiệm, chủ động và yêu cầu cao về chất lượng công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4887,
+    "output_tokens": 739,
+    "total_tokens": 5626,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

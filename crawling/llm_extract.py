@@ -122,6 +122,7 @@ def initialize_chat_model():
 
     providers = []
     for provider, endpoint, default_model in (
+        ("openai", "https://api.openai.com/v1", "gpt-4.1-mini"),
         ("gemini", "https://generativelanguage.googleapis.com/v1beta/openai/", "gemini-3.5-flash-lite"),
         ("groq", "https://api.groq.com/openai/v1", "openai/gpt-oss-120b"),
         ("openrouter", "https://openrouter.ai/api/v1", "particle-ai/particle-1:free"),
@@ -133,12 +134,12 @@ def initialize_chat_model():
         if provider == "openrouter" and not (model.endswith(":free") or model == "openrouter/free"):
             raise ValueError("OPENROUTER_MODEL must be a :free model or openrouter/free")
         providers.append((provider, ChatOpenAI(
-            api_key=api_key, base_url=endpoint, model=model,
+            api_key=api_key, base_url=os.environ.get(f"{provider.upper()}_BASE_URL", "").strip() or endpoint, model=model,
             use_responses_api=False, temperature=0, timeout=60,
             max_retries=0, max_tokens=12000,
         )))
     if not providers:
-        raise ValueError("Missing configuration: set GEMINI_API_KEY, GROQ_API_KEY or OPENROUTER_API_KEY")
+        raise ValueError("Missing configuration: set OPENAI_API_KEY, GEMINI_API_KEY, GROQ_API_KEY or OPENROUTER_API_KEY")
     return ProviderRouter(providers)
 
 

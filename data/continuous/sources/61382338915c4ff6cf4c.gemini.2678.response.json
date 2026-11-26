@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Thuật Viên Sơn Ô Tô (Nhận Đào Tạo Nghề)\",\n  \"company_name\": null,\n  \"job_category\": \"Kỹ Thuật Viên\",\n  \"sub_category\": \"Thợ sơn\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-vien-son-o-to-nhan-dao-tao-nghe/2305682.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên các chuyên ngành liên quan đến ô tô\"\n  ],\n  \"technical_skills\": [\n    \"Sơn sửa chữa\",\n    \"Làm nền\",\n    \"Đánh bóng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Hưởng mức lương cạnh tranh, thu nhập thoả đáng theo năng lực\",\n    \"Cơ hội thăng tiến cao\",\n    \"Môi trường làm việc chuyên nghiệp, năng động\",\n    \"Được đóng BHXH, BHYT theo quy định của Nhà nước.\",\n    \"Được tham gia các khóa đào tạo nâng cao nghiệp vụ trong và ngoài Công ty\",\n    \"Chế độ Phúc lợi hấp dẫn: phép năm, đồng phục, nghỉ mát, ăn trưa tại công ty, thưởng tháng lương 13, thưởng theo kết quả hoàn thành công việc, lễ tết,……\"\n  ],\n  \"description\": \"- Thực hiện quy trình phục vụ khách hàng theo tiêu chuẩn của Toyota\\n- Tiếp nhận lệnh sửa chữa theo phân công, Sơn sửa chữa các xe vào Xưởng.\\n- Thực hiện làm nền, sơn và đánh bóng các xe ở mức độ sửa chữa trung bình.\\n- Sử dụng thành thạo các trang thiết bị sơn trong xưởng\\n- Giữ gìn vệ sinh khu vực làm việc, dụng cụ, thiết bị theo tiêu chuẩn 5S\\n- Chủ động học hỏi, nâng cao tay nghề thông qua các chương trình đào tạo nội bộ và cấp chứng chỉ\",\n  \"requirements_text\": \"- Tốt nghiệp trung cấp trở lên các chuyên ngành liên quan đến ô tô\\n- Hoặc đã có kinh nghiệm làm việc tại các gara ô tô\\n- Ứng viên chưa có kinh nghiệm sẽ được đào tạo có trả lương\"\n}\n```",
+  "usage": {
+    "input_tokens": 4689,
+    "output_tokens": 681,
+    "total_tokens": 5370,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

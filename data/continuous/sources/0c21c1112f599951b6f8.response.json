@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nấu Ăn & Tạp Vụ\",\n  \"company_name\": null,\n  \"job_category\": \"Đầu bếp\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nau-an-tap-vu/2347078.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Điện Thoại\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"chu đáo\",\n    \"Bảo Mật\",\n    \"Nấu ăn ngon\",\n    \"Chủ động ghi nhớ và sắp xếp công việc\",\n    \"Coi trọng vệ sinh cá nhân và vệ sinh thực phẩm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc và nghỉ ngơi có sự đan xen, linh hoạt. Tổng thời gian nghỉ ngơi là 10 giờ mỗi ngày. Mỗi tháng nghỉ 1 ngày.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bao ăn 3 bữa\"\n  ],\n  \"description\": \"Nấu các món ăn lành mạnh, không trùng lặp trong tuần cho sếp.\\nCác công việc hậu cần sinh hoạt và sức khỏe của sếp.\\nVệ sinh các khu vực trong căn nhà.\\nCác công việc khác trong khả năng hoàn thành của cá nhân.\",\n  \"requirements_text\": \"Nữ 35 – 50 tuổi, tốt nghiệp PTTH\\nTRUNG THỰC – Chu đáo – Bảo mật.\\nNẤU ĂN NGON.\\nChủ động ghi nhớ và sắp xếp công việc.\\nCoi trọng vệ sinh cá nhân và vệ sinh thực phẩm.\\nBiết sử dụng điện thoại để tìm kiếm thông tin, gửi hình ảnh, mua hàng, đặt xe ...\"\n}\n```",
+  "usage": {
+    "input_tokens": 4639,
+    "output_tokens": 576,
+    "total_tokens": 5215,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

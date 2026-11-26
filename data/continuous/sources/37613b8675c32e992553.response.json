@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Đóng Gói Hàng - Nhận Việc Ngay - Làm Tại Bình Tân (Có Tăng Ca)\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": \"Đóng Gói\",\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-dong-goi-hang-nhan-viec-ngay-lam-tai-binh-tan-co-tang-ca/2201630.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"vi tính cơ bản\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Tới 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc giờ hành chính : 7h30 - 17h00 (nghỉ trưa 1,5 tiếng), nghỉ 1 ngày trong tuần\",\n  \"benefits\": [\n    \"Thu nhập: 9.000.000 - 11.000.000 VNĐ/tháng (tùy năng lực).\",\n    \"Tăng ca tính tiền riêng\",\n    \"Phụ cấp tiền xăng riêng\",\n    \"Được tham gia đầy đủ chế độ BHXH, BHYT theo Luật lao động\",\n    \"Nghỉ Lễ, Tết theo quy định\"\n  ],\n  \"description\": \"- Soạn hàng theo đơn hàng phát sinh trên các sàn TMĐT (Shopee, TikTok Shop).\\n- Đóng gói hàng hóa đúng quy cách, đảm bảo đủ số lượng và đúng sản phẩm.\\n- In và dán mã vận đơn, bàn giao hàng cho đơn vị vận chuyển.\\n- Nhập/xuất hàng và cập nhật số lượng tồn kho trên hệ thống.\\n- Kiểm tra tình trạng hàng hóa, báo cáo hàng lỗi, thiếu, hư hỏng hoặc chênh lệch tồn kho.\\n- Xử lý hàng hoàn , đổi trả theo quy định\",\n  \"requirements_text\": \"- Tốt nghiệp THPT trở lên.\\n- Ưu tiên ứng viên có thể nhận việc ngay\\n- Có kinh nghiệm làm kho sàn TMĐT là một lợi thế\\n- Biết sử dụng vi tính cơ bản\\n- Chấp nhận công việc tăng ca\"\n}\n```",
+  "usage": {
+    "input_tokens": 4948,
+    "output_tokens": 692,
+    "total_tokens": 5640,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

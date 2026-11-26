@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Phòng Hành Chính Nhân Sự\",\n  \"company_name\": null,\n  \"job_category\": \"Hành chính / Nhân sự\",\n  \"sub_category\": \"Trưởng phòng nhân sự\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-phong-hanh-chinh-nhan-su/2361510.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"20 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nThời gian làm việc:   \\nTừ thứ 2 - sáng Thứ 7   \\nSáng: 8h00-12h00  \\nChiều: 13h30-17h30\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Khám sức khỏe định kỳ\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng tháng 13\",\n    \"Ăn trưa\",\n    \"Cước điện thoại\",\n    \"Được cấp Điện thoại, Máy tính\",\n    \"Bảo hiểm BHYT\",\n    \"Bảo hiểm BHTN\",\n    \"Hỗ trợ nơi ở cho nhân sự ở xa\"\n  ],\n  \"description\": \"Tuyển dụng – Ưu tiên trọng tâm\\nĐào tạo và phát triển nhân sự\\nC&B và quan hệ lao động: Phối hợp với nhân viên để tính và chi trả lương thưởng, phúc lợi; chế độ BHXH, công đoàn và đối thoại tại nơi làm việc.\\nHành chính và quản trị nội bộ\\nQuản lý và phát triển hệ thống Hành chính Nhân sự \\nTham mưu cho Ban Giám đốc các giải pháp phát triển nguồn nhân lực phù hợp với định hướng công ty.\",\n  \"requirements_text\": \"Giới tính: Ưu tiên nữ. Độ tuổi: từ 27 tuổi trở lên.\\nÍt nhất 2 năm ở vị trí tương đương, đã từng làm quy mô công ty từ 50 người trở lên..\\nƯu tiên có thế mạnh về tuyển dụng.\\nAm hiểu về pháp lý,bộ Luật lao động, BHXH, công đoàn;\\nTin học văn phòng tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4878,
+    "output_tokens": 718,
+    "total_tokens": 5596,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

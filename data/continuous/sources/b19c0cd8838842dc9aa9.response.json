@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chủ Quản PMC\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Kế hoạch sản xuất\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chu-quan-pmc/2362842.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kế hoạch\",\n    \"Vật tư\",\n    \"PMC\"\n  ],\n  \"soft_skills\": [\n    \"Quản lý nhóm\",\n    \"Giao Tiếp Tiếng Trung\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 3.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), 26 công/ tháng\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp xăng xe: 700.000 VNĐ/ tháng\",\n    \"Tiền chuyên cần: 700.000 VNĐ/ tháng\",\n    \"Phụ cấp nhà trọ: 700.000 VNĐ/ tháng- áp dụng cho lao động ngoại tỉnh theo quy định\",\n    \"Cung cấp suất cơm trưa miễn phí tại nhà máy- bữa tối cộng 25.000 VNĐ tăng ca từ 2h trở lên( cộng vào lương)\",\n    \"Chế độ phúc lợi đầy đủ: Bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế, bảo hiểm sức khoẻ 24/24. Theo quy định của pháp luật.\",\n    \"Quà lễ tết, giáng sinh, lễ tạ ơn, kỷ niệm tròn năm vào công ty, thưởng tết, tiệc tất niên cuối năm.\"\n  ],\n  \"description\": \"Quản lý kế hoạch sản xuất, vật tư và tiến độ giao hàng của bộ phận.  \\nPhân tích đơn hàng, năng lực sản xuất và tồn kho để xây dựng kế hoạch tổng thể.  \\nKiểm soát tình trạng vật tư, cảnh báo thiếu hụt và thúc đẩy phương án xử lý.  \\nTheo dõi tiến độ thực hiện kế hoạch, điều chỉnh khi có thay đổi đơn hàng/năng lực.  \\nĐiều phối công việc của nhân viên PMC và phối hợp Sản xuất, Kho, Mua hàng.  \\nTheo dõi KPI, tồn kho, giao hàng và báo cáo các rủi ro cho cấp trên.\",\n  \"requirements_text\": \"Từ 3 năm kinh nghiệm PMC/kế hoạch/vật tư;  \\nƯu tiên có kinh nghiệm quản lý nhóm tại nhà máy.  \\nTiếng Trung giao tiếp khá trở lên; ưu tiên đọc viết tốt để trao đổi kế hoạch và báo cáo.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4962,
+    "output_tokens": 807,
+    "total_tokens": 5769,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

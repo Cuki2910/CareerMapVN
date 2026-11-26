@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bảo Hành (Có Thể Đi Công Tác)\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tây Ninh, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-hanh-co-the-di-cong-tac/2302350.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên / chuyên ngành Điện, Điện dân dụng…\",\n    \"Chứng chỉ ngành nghề liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Điện Tử\",\n    \"Bảo hành\",\n    \"Tin học VP\",\n    \"Hiểu nguyên lý điện 1 pha – 3 pha\",\n    \"Đọc và hiểu sơ đồ mạch điện\",\n    \"Vi tính văn phòng cơ bản\",\n    \"Kiến thức và kỹ năng xử lý sự cố kỹ thuật\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": [],\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Được tham gia BHXH, BHYT, BHTN theo quy định\",\n    \"Thưởng các ngày lễ tết, Thưởng lương tháng 13\",\n    \"Chế độ nghỉ các ngày lễ, tết theo quy định\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Tiếp nhận sản phẩm, thông tin và yêu cầu bảo hành từ khách hàng/đại lý\\n  * Kiểm tra tình trạng sản phẩm, xác định lỗi và nguyên nhân hư hỏng\\n  * Báo cáo các lỗi sản phẩm thường gặp, lỗi phát sinh bất thường và đề xuất phương án xử lý/cải thiện\\n  * Thực hiện các công việc khác theo sự phân công của Quản lý\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n  * Tốt nghiệp Trung cấp/ chuyên ngành Điện, Điện dân dụng…\\n  * Chứng chỉ ngành nghề liên quan\\n  * Có thể đi công tác\\n  * Có kiến thức và kỹ năng xử lý sự cố kỹ thuật\\n  * Vi tính văn phòng cơ bản\\n  * Hiểu nguyên lý điện 1 pha – 3 pha\\n  * Đọc và hiểu sơ đồ mạch điện\\n  * Không sợ độ cao\\n  * Ưu tiên ứng viên có 1 năm ở vị trí tương đương\"\n}\n```",
+  "usage": {
+    "input_tokens": 4865,
+    "output_tokens": 715,
+    "total_tokens": 5580,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

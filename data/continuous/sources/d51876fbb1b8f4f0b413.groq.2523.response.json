@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Kỹ Thuật Viên Hàn Thép\",\n  \"company_name\": \"Công ty Cổ phần Công nghiệp KIMSEN\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-25\",\n  \"url\": \"https://www.topcv.vn/brand/congnghiepkimsen/tuyen-dung/ky-thuat-vien-han-thep-j2341072.html\",\n  \"qualifications\": [\n    \"Trung cấp\"\n  ],\n  \"technical_skills\": [\n    \"setup vận hành robot hàn\",\n    \"đọc, hiểu bản vẽ kỹ thuật\",\n    \"sử dụng các dụng cụ đo kiểm\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"Nhanh nhẹn\",\n    \"Chịu áp lực công việc cao\",\n    \"Làm kíp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 13 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Mức lương khởi điểm sau khi tiếp nhận chính thức từ khoảng 8 triệu VND - 13 triệu VND (Có thể thỏa thuận với trường hợp ứng viên vượt trội về năng lực/kinh nghiệm);\",\n    \"Môi trường làm việc an toàn, chuyên nghiệp, thân thiện (áp dụng hệ thống Quản lý chất lượng/ Quản lý môi trường theo tiêu chuẩn ISO 9001/ ISO 14001/ IATF 16949 và phương pháp 5S, Kaizen);\",\n    \"Cơ hội được đào tạo chuyên môn, kỹ năng làm việc; nhiều cơ hội phát triển, thăng tiến;\",\n    \"Được đóng BHXH, BHYT, ngày nghỉ phép năm theo quy định;\",\n    \"Được hưởng các chế độ phúc lợi; thưởng các dịp Lễ, Tết theo quy định của Công ty; thưởng sáng kiến, thưởng nhân viên của năm...;\",\n    \"Được tham gia các hoạt động do Công ty tổ chức: du lịch, teambuilding...;\",\n    \"Được cấp phát đồng phục làm việc theo tiêu chuẩn Công ty;\",\n    \"Khám sức khỏe định kì tại các cơ sở uy tín;\",\n    \"Phụ cấp ăn trưa tại Nhà máy và một số phụ cấp khác theo quy định của Công ty;\",\n    \"Công ty có xe đưa đón nhân viên theo tuyến Hà Nội - Bắc Ninh và Bắc Giang - Bắc Ninh.\"\n  ],\n  \"description\": \"- Thực hiện công việc **hàn các chi tiết, cấu kiện kim loại** theo bản vẽ và quy trình kỹ thuật.\\n- **Gia công, sửa chữa** các chi tiết, kết cấu kim loại khi có yêu cầu.\\n- **Kiểm tra chất lượng mối hàn**, đảm bảo không có các khuyết tật như rỗ khí, nứt, ngấu...\",\n  \"requirements_text\": \"- **Tốt nghiệp Trung cấp** hoặc có kinh nghiệm làm công nhân ở lĩnh vực hàn thép.\\n- **Ưu tiên biết setup vận hành robot hàn.**\\n- Trung thực, nhanh nhẹn, chịu áp lực công việc cao.\\n- Có khả năng đọc, hiểu bản vẽ kỹ thuật.\\n- Có khả năng sử dụng các dụng cụ đo kiểm, kiểm tra sản phẩm sau gia công.\\n- Có khả năng đi làm kíp.\\n- Ưu tiên ứng viên am hiểu về 5S, Kaizen.\"\n}",
+  "usage": {
+    "input_tokens": 4179,
+    "output_tokens": 2503,
+    "total_tokens": 6682,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1659
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

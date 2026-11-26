@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Phụ Bếp Full Time Và Part Time\",\n  \"company_name\": \"HỘ KINH DOANH ĂN VẶT BA TỶ\",\n  \"job_category\": null,\n  \"sub_category\": \"Phụ bếp\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"479/12 Nguyễn Kiệm, Phường Đức Nhuận (Phường Đức Nhuận thuộc quận Phú Nhuận cũ), Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/phu-bep-full-time-va-part-time/2310810.html\",\n  \"qualifications\": [\"Sơ cấp trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Siêng năng\", \"Chăm chỉ\", \"Chịu được áp lực công việc\", \"Có Tinh thần trách nhiệm\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 7.3 triệu\\nFULL TIME\\nLương: 7.300.000 đồng/tháng.\\nPART TIME\\nLương: 25k/1 giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Full Time Và Part Time\",\n  \"working_hours\": \"- Ca hỗn hợp (ngày & đêm)\\n- Full time: 07:00 - 17:00 & 08:00 - 18:000 - Nghỉ trưa 30 phút. - Nghỉ 02 ngày/tháng.\\nPart time: 7h - 13h/8h - 14h/9h - 15h\",\n  \"benefits\": [\n    \"Bảo hiểm sức khỏe\",\n    \"Phụ cấp: Ăn trưa, Xăng xe\",\n    \"FULL TIME: Lương: 7.300.000 đồng/tháng.\",\n    \"FULL TIME: Phụ cấp công việc: 500.000 đồng/tháng.\",\n    \"FULL TIME: Phụ cấp xăng xe giao hàng giữa bếp và 2 cửa hàng (khoảng 1km): 300.000 đồng/tháng.\",\n    \"FULL TIME: Thử việc 01 tháng, hưởng 85% lương chính thức.\",\n    \"FULL TIME: Xét tăng lương định kỳ 06 tháng/lần.\",\n    \"PART TIME: Lương: 25k/1 giờ\",\n    \"PART TIME: Phụ cấp xăng xe giao hàng giữa bếp và cửa hàng: 200.000 đồng/tháng.\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn  Sơ cấp trở lên\\nQuyền lợi: Bảo hiểm sức khỏe  Phụ cấp: Ăn trưa, Xăng xe\\nChuyên môn: Phụ bếp\\n\\nMô tả công việc\\n- Sơ chế nguyên liệu làm rau câu, bánh flan, tàu hủ và các món nước.\\n- Chuẩn bị nguyên liệu như lá dứa, trứng, sữa,...\\n- Nấu rau câu theo quy trình của cửa hàng.\\n- Đóng gói, bảo quản thành phẩm.\\n- Dọn dẹp, giữ gìn vệ sinh khu vực bếp và dụng cụ.\\n- Thực hiện các công việc khác theo sự phân công của Quản lý.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm, có người hướng dẫn.\\n- Siêng năng, chăm chỉ, chịu được áp lực công việc.\\n- Có Tinh thần trách nhiệm\\n- Mong muốn gắn bó lâu dài\"\n}",
+  "usage": {
+    "input_tokens": 4559,
+    "output_tokens": 816,
+    "total_tokens": 5375,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

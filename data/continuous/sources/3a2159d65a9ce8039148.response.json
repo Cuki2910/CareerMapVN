@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Lễ Tân (Yêu Cầu Tiếng Anh)\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN ĐẦU TƯ TÂY TÂY NAM\",\n  \"job_category\": \"Hành chính văn phòng\",\n  \"sub_category\": \"Lễ tân/Đón tiếp\",\n  \"industry\": \"Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Phường Thạnh Mỹ Tây (Phường Thạnh Mỹ Tây thuộc quận Bình Thạnh cũ) - Phạm vi làm việc trên toàn khu vực trên.\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-yeu-cau-tieng-anh/2361864.html\",\n  \"qualifications\": [\"Sơ cấp trở lên\"],\n  \"technical_skills\": [\"Hành chính văn phòng\", \"trực điện thoại\"],\n  \"soft_skills\": [\"Xử lý tình huống\", \"Giọng nói rõ ràng\", \"Tác phong chuyên nghiệp\"],\n  \"languages_required\": [\"Tiếng Anh Giao tiếp cơ bản\"],\n  \"experience_required\": 0,\n  \"salary\": \"10 - 16 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thu nhập cạnh tranh, thưởng KPI, thưởng dự án, tháng 13 và các dịp Lễ/Tết.\",\n    \"Xét tăng lương định kỳ hằng năm.\",\n    \"Tham gia BHXH, BHYT, BHTN theo quy định pháp luật.\",\n    \"Hỗ trợ ăn trưa, gửi xe, công tác phí tùy vị trí.\",\n    \"Du lịch, teambuilding hằng năm và môi trường làm việc chuyên nghiệp.\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\"\n  ],\n  \"description\": \"Chuyên môn: Lễ tân/Đón tiếp\\n\\nMô tả công việc\\n* Đón tiếp khách hàng, đối tác\\n* Trực điện thoại, tiếp nhận thư từ, chuyển phát nhanh\\n* Hỗ trợ cơ bản công tác hành chính văn phòng.\",\n  \"requirements_text\": \"Tổng quan\\nYêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Sơ cấp trở lên  Tiếng Anh Giao tiếp cơ bản\\n\\nYêu cầu ứng viên\\n* Nữ, ngoại hình ưa nhìn\\n* Giao tiếp được tiếng Anh\\n* Giọng nói rõ ràng\\n* Tác phong chuyên nghiệp và xử lý tình huống tốt.\\n\\nKỹ năng cần có\\nXử lý tình huống, Hành chính văn phòng, Giao Tiếp Tiếng Anh, trực điện thoại\"\n}",
+  "usage": {
+    "input_tokens": 4676,
+    "output_tokens": 733,
+    "total_tokens": 5409,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

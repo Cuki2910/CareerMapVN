@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng - CSKH - Phỏng Vấn Đi Làm Ngay\",\n  \"company_name\": null,\n  \"job_category\": \"In ấn / Xuất bản\",\n  \"sub_category\": \"Thu ngân\",\n  \"industry\": \"In ấn / Xuất bản\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-cskh-phong-van-di-lam-ngay/2335590.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"tích cực\",\n    \"hòa đồng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:15 đến 17:30)\\nThứ 7 (từ 08:15 đến 15:00)\",\n  \"benefits\": [\n    \"Thưởng tính giá (1tr/tháng)\",\n    \"Được thưởng Lễ, Tết, ...\",\n    \"Được tham gia BHXH, BHYT, BHTN.\",\n    \"Làm việc giờ hành chính, nghỉ Chủ nhật.\",\n    \"Môi trường làm việc sạch sẽ, có điều hòa.\",\n    \"Những vấn đề khác trao đổi khi phỏng vấn...\"\n  ],\n  \"description\": \"· Tiếp nhận đơn hàng từ khách hàng có sẵn.\\n· Tư vấn và báo giá cho khách hàng.\\n· Chốt đơn và quản lý đơn hàng.\\n· Chăm sóc khách hàng.\\n· Thu chi hàng ngày, đối chiếu công nợ, xuất hóa đơn VAT\\n· Chi tiết trao đổi khi phỏng vấn.\",\n  \"requirements_text\": \"· Trung thực, tích cực và hòa đồng trong công việc;\\n· Ứng viên chưa biết hoặc chưa nhiều kinh nghiệm được đào tạo thêm hoặc đào tạo từ đầu.\\n· Phù hợp với các ứng viên đã từng làm Thu Ngân, Kế Toán, Kế Toán Bán Hàng, Chăm Sóc Khách Hàng, Theo Dõi Đơn Hàng, ...\"\n}\n```",
+  "usage": {
+    "input_tokens": 4930,
+    "output_tokens": 641,
+    "total_tokens": 5571,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

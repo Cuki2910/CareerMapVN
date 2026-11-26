@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Trưởng Ca Bán Hàng Đồ Chơi\",\n  \"company_name\": \"Công Ty TNHH BÁN LẺ PHƯƠNG NAM\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi; B2B\",\n  \"industry\": \"Bán lẻ sách, báo, tạp chí, văn phòng phẩm\",\n  \"category\": null,\n  \"location\": \"Thanh Hóa: Lô 16 - Khu đô thị Nam, Phường Hạc Thành (Phường Hạc Thành thuộc Thành phố Thanh Hóa cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-ca-ban-hang-do-choi/2348960.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp từ Cao đẳng trở lên chuyên ngành Quản trị kinh doanh, Kinh tế, ....\"\n  ],\n  \"technical_skills\": [\n    \"Quản lý cửa hàng bán lẻ\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng điều hành tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Mức lương xứng đáng với năng lực và kinh nghiệm.\",\n    \"Thưởng hiệu quả công việc, thưởng định kỳ, thưởng các dịp lễ, Tết theo quy định của công ty.\",\n    \"Hưởng đầy đủ các chế độ phúc lợi theo quy định của Luật Lao động: BHXH, BHYT, BHTN.\",\n    \"Chính sách ngày phép, nghỉ lễ, phép năm theo quy định.\",\n    \"Được tham gia các hoạt động teambuilding, du lịch nghỉ mát hàng năm của công ty.\",\n    \"Cơ hội được đào tạo nâng cao chuyên môn, nghiệp vụ, phát triển kỹ năng mềm.\",\n    \"Môi trường làm việc năng động, chuyên nghiệp, thân thiện, cơ hội thăng tiến rõ ràng.\",\n    \"Khám sức khỏe định kỳ hàng năm.\"\n  ],\n  \"description\": \"- Lập kế hoạch trọng tâm công việc trong ngày/ tuần/ tháng.\\n- Vệ sinh và trưng bày (quầy kệ, hàng hóa).\\n- Đặt hàng và xử lý hàng , thanh lý, giảm giá.\\n- Kế hoạch trang trí mùa vụ, show window, quầy chuyên đề,..\\n- Kế hoạch đào tạo nhân viên\\n- Triển khai kế hoạch đến nhân viên trong ca.\\n- Giám sát kết quả thực hiện của nhân viên.\",\n  \"requirements_text\": \"Tổng quan – Yêu cầu:\\n2 năm kinh nghiệm chuyên môn  Tuổi 25 - 30  Cao Đẳng trở lên\\n\\nYêu cầu ứng viên\\n- Ứng viên tốt nghiệp từ Cao đẳng trở lên chuyên ngành Quản trị kinh doanh, Kinh tế, ....\\n- Có từ 2 năm kinh nghiệm quản lý cửa hàng Bán lẻ, kinh doanh ngành Sách, Đồ chơi...\\n- Kỹ năng điều hành tốt.\"\n}",
+  "usage": {
+    "input_tokens": 4452,
+    "output_tokens": 750,
+    "total_tokens": 5202,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

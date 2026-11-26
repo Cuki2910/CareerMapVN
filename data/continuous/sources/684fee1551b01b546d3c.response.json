@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thợ Cơ Khí\",\n  \"company_name\": null,\n  \"job_category\": \"Thợ cơ khí\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: 161 Quốc Lộ 1A (phường Bình Chiểu cũ, gần cầu vượt Gò Dưa), Phường Tam Bình (Phường Tam Bình thuộc Thành phố Thủ Đức cũ)\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tho-co-khi/2342363.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Chấn\",\n    \"Cắt\",\n    \"Hàn\",\n    \"Làm inox\",\n    \"Lắp ráp cơ bản\"\n  ],\n  \"soft_skills\": [\n    \"Chịu được áp lực công việc cao\",\n    \"Tinh thần trách nhiệm tự giác trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00) + tăng ca\",\n  \"benefits\": [\n    \"Thu nhập thỏa thuận theo năng lực thực tế của ứng viên. (mức lương thỏa thuận + tăng ca (nếu có))\",\n    \"Được hưởng lương, thưởng và các chế độ khác theo quy định của Công ty (thưởng ngày lễ, tết, thưởng cuối năm, du lịch nghỉ mát, nghỉ phép)\",\n    \"Môi trường làm việc lâu dài, ổn định, chuyên nghiệp, năng động, cơ hội thăng tiến dễ dàng\",\n    \"Được hưởng đầy đủ chế độ BHXH, BHYT, ngày phép năm, nghỉ lễ, tết theo Luật lao động\"\n  ],\n  \"description\": \"- Thực hiện sản xuất gia công chi tiết cơ khí: Chấn, Cắt, Hàn, Làm inox (dán xương, kính,...), Lắp ráp cơ bản, Xuất nhập hàng,... (thang máy)\\n- Công việc cụ thể sẽ được trao đổi trực tiếp khi phỏng vấn và được sắp xếp phù hợp với kỹ năng của từng ứng viên.\",\n  \"requirements_text\": \"- chấp nhận sinh viên mới ra trường.\\n- Chịu được áp lực công việc cao.\\n- Tinh thần trách nhiệm tự giác trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4582,
+    "output_tokens": 662,
+    "total_tokens": 5244,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

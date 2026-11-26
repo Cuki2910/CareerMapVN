@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Điện Thoại\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng điện thoại\",\n  \"sub_category\": null,\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"678-679 Kha Vạn Cân, Linh Xuân Thủ Đức, Phường Linh Xuân, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-dien-thoai-uu-tien-di-lam-ngay/2210975.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp tốt\",\n    \"thuyết phục\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"7.5 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\n- Ca 1: 8h - 17h  \\n- Ca 2: 12h - 21h  \\n- Ca 3: 8h - 21h  \\nLàm việc xoay ca, nghỉ 1 ngày bất kỳ trong tuần.\",\n  \"benefits\": [\n    \"Lương thử việc: Lương cứng 7 triệu/tháng + 500k phụ cấp + hoa hồng thử việc 2 tháng.\",\n    \"Thưởng quý, thưởng năm, thưởng lễ Tết.\",\n    \"Tham gia BHXH, BHYT và các phụ cấp theo quy định.\"\n  ],\n  \"description\": \"· Đón tiếp và hỗ trợ khách hàng tại cửa hàng, bán hàng trực tiếp tại cửa hàng\\n· Tư vấn dịch vụ, tiếp nhận và theo dõi đơn hàng.\\n· Trực hotline, giải đáp thông tin cho khách hàng. \\n· Quản lý hàng hóa tại cửa hàng, hỗ trợ kiểm kho.\\n· Hỗ trợ các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"· Nữ, giao tiếp tốt, thái độ thân thiện với khách hàng.\\n· Kinh nghiệm từ 1 năm trong các chuỗi/hệ thống bán lẻ. \\n· Có trách nhiệm, trung thực và chủ động trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4917,
+    "output_tokens": 643,
+    "total_tokens": 5560,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

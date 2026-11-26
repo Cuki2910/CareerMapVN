@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Giám Sát Bán Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Sales\",\n  \"sub_category\": \"Sales Supervisor\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-sat-ban-hang/1412556.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên ngành Quản trị kinh doanh\",\n    \"Cao đẳng trở lên ngành Marketing\",\n    \"Cao đẳng trở lên ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\",\n    \"Phần mềm quản lý khách hàng (CRM)\"\n  ],\n  \"soft_skills\": [\n    \"Lập kế hoạch\",\n    \"Thuyết phục\",\n    \"Đàm phán\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 – Thứ 6, 09:00 – 18:00.\",\n  \"benefits\": [\n    \"Thu nhập thỏa thuận theo năng lực, cộng thưởng theo doanh số đội.\",\n    \"Thời gian làm việc: Thứ 2 – Thứ 6, 09:00 – 18:00.\",\n    \"Lộ trình thăng tiến lên Trưởng phòng Kinh doanh theo kết quả.\",\n    \"Đóng BHXH, BHYT, BHTN đầy đủ theo quy định pháp luật khi ký hợp đồng lao động.\",\n    \"Nghỉ phép năm, nghỉ lễ Tết theo Bộ luật Lao động.\",\n    \"Môi trường trẻ, cởi mở; được hướng dẫn dùng các công cụ AI trong công việc hằng ngày.\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Quản lý, phân việc và kèm cặp đội nhân viên kinh doanh bán giải pháp phần mềm và dịch vụ của công ty.\\n- Xây dựng kế hoạch bán hàng theo tháng, giao chỉ tiêu và theo dõi kết quả từng người.\\n- Đào tạo nhân viên mới về sản phẩm, kỹ năng tư vấn và chăm sóc khách hàng.\\n- Trực tiếp hỗ trợ các khách hàng lớn, xử lý phản hồi và khiếu nại.\\n- Phân tích số liệu bán hàng và báo cáo định kỳ cho quản lý.\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Không yêu cầu kinh nghiệm quản lý  Cao Đẳng trở lên\\n\\nYêu cầu ứng viên\\n* Tốt nghiệp Cao đẳng trở lên ngành Quản trị kinh doanh, Marketing hoặc ngành liên quan.\\n* Tối thiểu 1 năm kinh nghiệm bán hàng; từng quản lý hoặc trưởng nhóm kinh doanh là lợi thế.\\n* Kỹ năng lập kế hoạch, thuyết phục và đàm phán tốt.\\n* Dùng thành thạo tin học văn phòng và phần mềm quản lý khách hàng (CRM).\"\n}",
+  "usage": {
+    "input_tokens": 4571,
+    "output_tokens": 2510,
+    "total_tokens": 7081,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1795
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

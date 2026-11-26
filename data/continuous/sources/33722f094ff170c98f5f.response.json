@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Điều Phối Phương Tiện Vận Tải\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Giám sát/Điều phối vận tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/dieu-phoi-phuong-tien-van-tai/2239944.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên các chuyên ngành Logistics, Vận tải\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chịu được áp lực công việc cường độ cao\",\n    \"Cẩn thận\",\n    \"tỉ mỉ\",\n    \"trung thực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"9 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 làm từ 08h00 đến 12h00.\",\n  \"benefits\": [\n    \"Xét tăng lương định kì hàng năm, cơ hội thăng tiến rõ ràng\",\n    \"Thưởng: Lương tháng 13, thưởng nhân viên xuất sắc tháng, thưởng phòng ban xuất sắc quý, thưởng lễ, tết\",\n    \"Đóng đầy đủ bảo hiểm XH, BHYT, BHTN cho người lao động\",\n    \"Du lịch nghỉ mát 1 năm/ 1 lần cho nhân viên\",\n    \"Khám sức khỏe định kỳ 1 năm/ 1 lần\",\n    \"Chúc mừng sinh nhật và tặng quà cho nhân viên\"\n  ],\n  \"description\": \"• Hỗ trợ lập kế hoạch và điều phối xe; sắp xếp tuyến đường (Xe container).\\n• Tiếp nhận đơn hàng, theo dõi giao nhận, xử lý sự cố phát sinh.\\n• Kiểm soát các chứng từ nhiên liệu, lộ phí, hóa đơn và chi phí vận hành.\\n• Tìm kiếm, làm việc và ký hợp đồng với nhà cung cấp dịch vụ vận tải.\\n• Thực hiện báo cáo định kỳ.\",\n  \"requirements_text\": \"• Tốt nghiệp Cao Đẳng trở lên các chuyên ngành Logistics, Vận tải,...\\n• Có kinh nghiệm từ 1 năm ở vị trí tương đương.\\n• Chịu được áp lực công việc cường độ cao.\\n• Cẩn thận, tỉ mỉ và trung thực vì tính chất công việc tiếp xúc khá nhiều với giấy tờ, hồ sơ, dữ liệu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4796,
+    "output_tokens": 705,
+    "total_tokens": 5501,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

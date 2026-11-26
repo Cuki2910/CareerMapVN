@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Thuật Máy In\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"industry\": \"In ấn / Xuất bản\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-may-in/2295717.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận hành máy in nhanh KTS ( KONICA, RICOH )\",\n    \"Lắp ráp, sửa chữa, bảo hành máy\",\n    \"Chạy thử để kiểm tra máy in\"\n  ],\n  \"soft_skills\": [\n    \"ham học hỏi\",\n    \"cầu tiến\",\n    \"tỉ mỉ\",\n    \"có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Được đào tạo bài bản về tính năng kỹ thuật của các dòng máy hiện đại nhất hiện nay.\",\n    \"Môi trường năng động, cơ hội thăng tiến rõ ràng.\",\n    \"Du lịch, Team-Building hằng năm\",\n    \"Nghỉ phép : 12 ngày/năm\",\n    \"Thưởng Lễ Tết, Tháng 13, thưởng theo danh hiệu đóng góp hoặc các thưởng khác tùy kết quả kinh doanh mỗi năm.\",\n    \"Bảo hiểm Xã hội, y tế, thất nghiệp,.. đầy đủ theo Luật.\",\n    \"Tiền công sửa máy cho khách hàng kỹ thuật được hưởng đủ 100%.\"\n  ],\n  \"description\": \"- Nắm cách thức vận hành máy in nhanh KTS ( KONICA, RICOH ). \\n- Lắp ráp, sửa chữa, bảo hành máy khi có sự cố xảy ra.\\n- Chạy thử để kiểm tra máy in.\\n- Tham gia tư vấn cách thức vận hành thiết bị, máy móc cho khách hàng.\",\n  \"requirements_text\": \"- Không yêu cầu bằng cấp, kinh nghiệm.\\n- Có năm kinh nghiệm về các loại máy in nhanh, photocopy là lợi thế\\n- Cần có tinh thần ham học hỏi, cầu tiến, tỉ mỉ và có trách nhiệm trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4760,
+    "output_tokens": 685,
+    "total_tokens": 5445,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

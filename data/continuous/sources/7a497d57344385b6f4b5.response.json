@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Sản Xuất Gỗ- Pallet Gỗ\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": \"Công nhân xưởng gỗ\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-san-xuat-go-pallet-go/2131415.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"thật thà\",\n    \"có tinh thần trách nhiệm với công việc\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"Từ 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Tăng ca: Có chế độ tính lương tăng ca đầy đủ khi phát sinh công việc.\",\n    \"Bảo hiểm: Đóng BHXH, BHYT đầy đủ theo quy định của Nhà nước. Tham gia BHTN 24h, khám sức khỏe định kỳ\",\n    \"Nghỉ lễ: Nghỉ lễ, Tết theo quy định Nhà nước\"\n  ],\n  \"description\": \"- Thực hiện làm pallet gỗ theo kích thước yêu cầu.\\n- Đóng kiện gỗ cho hàng hóa xuất khẩu/vận chuyển tại xưởng hoặc tại nhà máy khách hàng.\\n- Gia cố, chằng buộc container\\n- Các công việc khác theo sự sắp xếp của quản lý xưởng.\",\n  \"requirements_text\": \"- Giới tính: Nam/Nữ (Sức khỏe tốt).\\n- Chăm chỉ, thật thà, có tinh thần trách nhiệm với công việc.\\n- Ưu tiên người lái được xe nâng, xe tải hoặc ở gần khu vực Tân Chi là 1 lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4587,
+    "output_tokens": 566,
+    "total_tokens": 5153,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

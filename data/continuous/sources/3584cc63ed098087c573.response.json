@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kế Toán Viên\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN VIGLACERA GLASSKOTE\",\n  \"job_category\": \"Kế toán\",\n  \"sub_category\": \"Kế toán chi phí/giá thành\",\n  \"industry\": \"Sản xuất thủy tinh và sản phẩm từ thủy tinh\",\n  \"category\": null,\n  \"location\": \"Số 158 Phú Diễn, Phường Phú Diễn, Hà Nội (Phường Phú Diễn có thể thuộc các quận Bắc Từ Liêm, Cầu Giấy cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-toan-vien/2362941.html\",\n  \"qualifications\": [\"Đại Học trở lên\"],\n  \"technical_skills\": [\n    \"Kế Toán Tổng Hợp\",\n    \"Quản Lý Thu Chi\",\n    \"Sử Dụng Phần Mềm Kế Toán\",\n    \"Đối Chiếu Công Nợ\"\n  ],\n  \"soft_skills\": [\"Cẩn thận\", \"Có trách nhiệm\"],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"11 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc: Toàn thời gian cố định (từ thứ 2 đến sáng thứ 7)\\n- Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\n- Thứ 2 đến Thứ 6: 8h-17h\\n  Thứ 7: 8h-12h\",\n  \"benefits\": [\n    \"Môi trường làm việc thân thiện, có nhiều cơ hội thăng tiến và ổn định lâu dài.\",\n    \"Được nghỉ lễ, tết theo quy định và du lịch theo chính sách công ty.\",\n    \"Hưởng đầy đủ các quyền lợi theo luật Lao động (BHXH, BHYT & BHTN…), lễ, tết và các quyền lợi khác.\",\n    \"Thưởng lễ tết,... theo quy định công ty\"\n  ],\n  \"description\": \"- Hạch toán các nghiệp vụ kinh tế phát sinh trong tháng.\\n- Theo dõi khấu hao, phân bổ CCDC và chi phí trả trước.\\n- Theo dõi, đối chiếu công nợ.\\n- Các công việc khác dưới sự phân công, hướng dẫn của Kế toán trưởng.\\n- Thời gian làm việc: Toàn thời gian cố định (từ thứ 2 đến sáng thứ 7)\\nCông việc sẽ được hướng dẫn cụ thể khi tiếp nhận\",\n  \"requirements_text\": \"- Ưu tiên ứng viên nữ.\\n- Có khoảng 1-2 năm kinh nghiệm kế toán.\\n- Ưu tiên biết sử dụng phần mềm MISA.\\n- Cẩn thận, có trách nhiệm và nắm vững nghiệp vụ chuyên môn.\\nKiến thức ngành\\nKế toán\\nKỹ năng cần có\\nKế Toán Tổng Hợp, Quản Lý Thu Chi, Sử Dụng Phần Mềm Kế Toán, Đối Chiếu Công Nợ\\nKỹ năng nên có\\nkỹ năng quản lý thời gian, Hiểu Biết Về Luật Thuế Hiện Hành\"\n}",
+  "usage": {
+    "input_tokens": 4622,
+    "output_tokens": 790,
+    "total_tokens": 5412,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

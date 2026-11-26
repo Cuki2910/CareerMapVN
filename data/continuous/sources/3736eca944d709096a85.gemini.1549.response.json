@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Gia Công Cơ Khí\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-gia-cong-co-khi/2325021.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Đọc và hiểu bản vẽ cơ khí\",\n    \"Cắt\",\n    \"Hàn\",\n    \"Mài\",\n    \"Khoan\",\n    \"Lắp ráp\"\n  ],\n  \"soft_skills\": [\n    \"Tinh thần trách nhiệm\",\n    \"Chăm chỉ\",\n    \"Mong muốn gắn bó lâu dài\",\n    \"Ý thức tuân thủ quy trình, chất lượng và an toàn trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:40 đến 17:00), 1 tháng nghỉ 1 ngày thứ 7\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Môi trường chuyên nghiệp và có cơ hội tiếp cận phương pháp, tiêu chuẩn làm việc của doanh nghiệp Nhật Bản\",\n    \"Được đào tạo và nâng cao tay nghề, chuyên môn\",\n    \"Cơ hội phát triển nghề nghiệp và thăng tiến lâu dài\",\n    \"Được tham gia đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định\",\n    \"Thưởng và các chế độ phúc lợi theo chính sách của Công ty\",\n    \"Môi trường làm việc ổn định, thân thiện và hướng đến phát triển lâu dài\"\n  ],\n  \"description\": \"• Thực hiện gia công, chế tạo và lắp ráp các sản phẩm cơ khí theo bản vẽ và yêu cầu kỹ thuật; \\n• Thực hiện các công việc cắt, hàn, mài, khoan, lắp ráp và các công việc cơ khí khác theo sự phân công;\\n• Đảm bảo chất lượng sản phẩm và tuân thủ quy định an toàn lao động.\",\n  \"requirements_text\": \"• Biết đọc và hiểu bản vẽ cơ khí.\\n• Có kinh nghiệm làm việc trong lĩnh vực gia công cơ khí.\\n• Đã từng làm việc tại công ty cơ khí của Nhật Bản là một lợi thế.\\n• Có tinh thần trách nhiệm, chăm chỉ và mong muốn gắn bó lâu dài.\\n• Có ý thức tuân thủ quy trình, chất lượng và an toàn trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 735,
+    "total_tokens": 5486,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

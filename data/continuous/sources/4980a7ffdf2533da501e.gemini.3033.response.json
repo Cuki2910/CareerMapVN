@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Sales Engineer\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng kỹ thuật cơ khí\",\n  \"sub_category\": \"Sales Engineer\",\n  \"industry\": \"Điện / Điện tử / Điện lạnh\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/sales-engineer/2364854.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học chuyên ngành Điện, Tự động hóa, Cơ khí hoặc các chuyên ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Đọc Bản Vẽ Kỹ Thuật\",\n    \"đọc sơ đồ điện\",\n    \"Đọc tài liệu kỹ thuật\"\n  ],\n  \"soft_skills\": [\n    \"Tìm kiếm khách hàng\",\n    \"Đàm phán\",\n    \"tư vấn giải pháp\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00), Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng kết quả kinh doanh\",\n    \"Phụ cấp công tác\",\n    \"Phụ cấp ăn trưa tại công ty\",\n    \"Thưởng lễ, Tết, tháng 13\",\n    \"nghỉ mát, liên han và các chế độ khác theo quy định của công ty\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"Tìm kiếm khách hàng: Tiếp cận các Doanh nghiệp, nhà máy hoặc đối tác dự án cần giải pháp kỹ thuật.\\nTư vấn giải pháp: Phối hợp với bộ phận kỹ thuật để tư vấn đưa ra các cấu hình, thiết bị, các giải pháp máy móc phù hợp với nhu cầu của khách hàng.\\nĐàm phán và chốt đơn: Báo giá, thương thảo điều khoản hợp đồng và theo dõi tiến độ giao hàng, hỗ trợ khách hàng sau bán hàng.\\nCập nhật thông tin thị trường, đối thủ cạnh tranh và đề xuất phương án phát triển kinh doanh.\",\n  \"requirements_text\": \"Tốt nghiệp Cao đẳng/Đại học chuyên ngành Điện, Tự động hóa, Cơ khí hoặc các chuyên ngành liên quan.\\nCó từ 01 năm kinh nghiệm sale t nhà máy công nghiệp, nhà thầu kỹ thuật hoặc đơn vị cung cấp thiết bị công nghiệp.\\nĐọc hiểu tài liệu kỹ thuật tiếng Anh/ tiếng Trung\\nCó khả năng đọc bản vẽ kỹ thuật, sơ đồ điện, catalogue thiết bị. Sẵn sàng đi công tác các nhà máy khu vực miền Bắc\"\n}\n```",
+  "usage": {
+    "input_tokens": 5128,
+    "output_tokens": 763,
+    "total_tokens": 5891,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Khảo Sát Qua Điện Thoại (Cati)\",\n  \"company_name\": null,\n  \"job_category\": \"Nghiên cứu thị trường\",\n  \"sub_category\": \"Market Research\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: 217, Điện Biên Phủ, Phường Gia Định (Phường Gia Định thuộc quận Bình Thạnh cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-07\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-khao-sat-qua-dien-thoai-cati/2305227.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Điện thoại HĐH Android\"\n  ],\n  \"soft_skills\": [\n    \"Giọng nói dễ nghe\",\n    \"không nói lắp\",\n    \"không nói giọng vùng miền\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"3 - 5.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:30 đến 17:30)\\n• Ca 1: 8h30 – 12h30  \\n• Ca 2: 13h30 – 17h30\",\n  \"benefits\": [\n    \"Được đào tạo và hướng dẫn công việc\",\n    \"Làm việc trong môi trường thân thiện, năng động\",\n    \"Có cơ hội học hỏi, phát triển bản thân\",\n    \"Hưởng các chế độ lương, thưởng theo chính sách của công ty\"\n  ],\n  \"description\": \"Gọi điện phỏng vấn người tiêu dùng qua điện thoại theo danh sách có sẵn (Không tiếp thị, không bán hàng)\\nCó bảng câu hỏi sẵn, chỉ cần hỏi theo bảng câu hỏi\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Từ 18 tuổi trở lên  Trung học phổ thông (Cấp 3) trở lên  Nữ\\nGiọng nói dễ nghe, không nói lắp, nói giọng vùng miền\\nCó điện thoại HĐH Android để gọi khảo sát, sử dụng sim của công ty\\nĐăng ký ca làm hàng tuần (Tối thiểu 5 ca/ tuần)\\n· Ca 1: 8h30 – 12h30\\n· Ca 2: 13h30 – 17h30\"\n}\n```",
+  "usage": {
+    "input_tokens": 4680,
+    "output_tokens": 688,
+    "total_tokens": 5368,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

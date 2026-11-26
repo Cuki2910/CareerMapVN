@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Kỹ Thuật Viên Bảo Trì Line - KCN Vsip Bắc Ninh\",\n  \"company_name\": \"Công ty TNHH Taixin Printing Vina\",\n  \"job_category\": \"Bảo trì, sửa chữa\",\n  \"sub_category\": \"Bảo trì, sửa chữa khác\",\n  \"industry\": \"In ấn\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh: KCN Vsip, Xã Đại Đồng (Xã Đại Đồng thuộc huyện Tiên Du cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-vien-bao-tri-line-kcn-vsip-bac-ninh/2201681.html\",\n  \"qualifications\": [\"Tốt nghiệp từ trung cấp trở lên\"],\n  \"technical_skills\": [\n    \"Bảo Trì Máy\",\n    \"Kiến thức cơ bản về đấu nối điện và sửa chữa cơ khí\",\n    \"Xử lý sự cố liên quan đến điện hoặc cơ khí\"\n  ],\n  \"soft_skills\": [\"Chăm chỉ chịu khó trong công việc\"],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nCó thể đi làm ca ngày/ đêm\",\n  \"benefits\": [\n    \"Được đi du lịch 1 lần trong 1 năm\",\n    \"Quà chúc mừng sinh nhật\",\n    \"Công ty có xe đưa đón dành cho tất cả nhân viên\",\n    \"Được hưởng chế độ BHYT, BHXH, BHTN theo quy định\",\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\",\n    \"Xăng xe\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"* Bảo trì máy của bộ phận tự động hóa trong sản xuất\\n* Có khả năng xử lý sự cố liên quan đến điện hoặc cơ khí\\n* Chăm chỉ chịu khó trong công việc, có thể đi làm ca ngày/ đêm\\n* Chi tiết công việc trao đổi cụ thể trong buổi phỏng vấn\",\n  \"requirements_text\": \"Tổng quan — Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n* Có ít nhất 1 năm kinh nghiệm\\n* Tốt nghiệp từ trung cấp trở lên\\n* Có kiến thức cơ bản về đấu nối điện và sửa chữa cơ khí\\n* Có thể đi làm ca ngày/ đêm\\n\\nKiến thức ngành\\nIn ấn / Xuất bản\\n\\nKỹ năng cần có\\nBảo Trì Máy\\n\\nKỹ năng nên có\\nBảo Trì Máy\"\n}",
+  "usage": {
+    "input_tokens": 4504,
+    "output_tokens": 697,
+    "total_tokens": 5201,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Vận Chuyển Theo Xe/ Bốc Xếp Hàng Hóa\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Bốc xếp hàng hóa\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-chuyen-theo-xe-boc-xep-hang-hoa/2352825.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Có sức khỏe tốt\",\n    \"chịu khó\",\n    \"chăm chỉ\",\n    \"tinh thần phối hợp làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc 8 tiếng/ngày: 7h30 – 17h00. Nghỉ Chủ nhật.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Phụ cấp ăn trưa\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định\",\n    \"Chế độ lễ, Tết và phúc lợi đầy đủ\"\n  ],\n  \"description\": \"## Mô tả công việc\\n  * Đi theo xe tải giao nhận hàng hóa khu vực Bình Dương & TP.HCM (tuyến ngắn, khoảng cách di chuyển dưới 40 km/chuyến).\\n  * Hỗ trợ bốc xếp, sắp xếp và giao hàng là phụ tùng ô tô.\\n  * Trọng lượng hàng khoảng 20–30 kg.\\n  * Phối hợp cùng 2 tài xế trong mỗi chuyến để vận chuyển hàng hóa an toàn, đúng tiến độ.\\n  * Kiểm tra số lượng hàng hóa khi lên/xuống xe.\\n  * Hỗ trợ giữ gìn vệ sinh và bảo quản hàng hóa trong quá trình vận chuyển.\\n\\n## Yêu cầu ứng viên\\n  * Có sức khỏe tốt, chịu khó, chăm chỉ.\\n  * Ưu tiên ứng viên từng làm bốc xếp, giao hàng hoặc vận chuyển.\\n  * Có tinh thần phối hợp làm việc nhóm.\\n\\n### Kiến thức ngành\\nLogistic / Vận tải\\n\\n## Quyền lợi ứng viên\\n  * Lương cứng: 8.300.000 VNĐ + 1.000.000 VNĐ (phụ cấp khi chính thức) + ăn trưa\\n  * Tổng thu nhập: khoảng 9 – 10 triệu/tháng.\\n  * Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định.\\n  * Chế độ lễ, Tết và phúc lợi đầy đủ.\\n\\n### Phúc lợi\\nBảo hiểm xã hội, Thưởng hiệu quả làm việc\\n\\n### Phụ cấp\\nĂn trưa\\n\\n## Địa điểm và thời gian\\n### Địa điểm làm việc\\n  * **Hồ Chí Minh:** Số 881, Đường Mỹ Phước - Tân Vạn, Khu phố Bình Thung 1, Phường Dĩ An (Phường Dĩ An thuộc Thành phố Dĩ An cũ)\\n\\n### Thời gian làm việc\\n  * Làm việc 8 tiếng/ngày: 7h30 – 17h00. Nghỉ Chủ nhật.\",\n  \"requirements_text\": \"### Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\n\\n## Yêu cầu ứng viên\\n  * Có sức khỏe tốt, chịu khó, chăm chỉ.\\n  * Ưu tiên ứng viên từng làm bốc xếp, giao hàng hoặc vận chuyển.\\n  * Có tinh thần phối hợp làm việc nhóm.\"\n}",
+  "usage": {
+    "input_tokens": 4400,
+    "output_tokens": 2010,
+    "total_tokens": 6410,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1062
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

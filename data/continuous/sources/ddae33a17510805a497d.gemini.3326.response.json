@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kế Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán / Kiểm toán / Thuế\",\n  \"sub_category\": \"Kế toán\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tây Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-toan/2325794.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp CĐ, ĐH các chuyên ngành liên quan kế toán, tài chính, quản trị kinh doanh\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"07:30 - 16:30, T2 – T6, nghỉ trưa 11h30-12h30 / Thứ 7 làm đến 14h00 , nghỉ chủ nhật\",\n  \"benefits\": [\n    \"bảo hiểm full lương\",\n    \"Công ty hỗ trợ cơm trưa và cơm chiều tại Văn phòng\",\n    \"Cấp thiết bị làm việc đầy đủ - Smartphone, Sim 4G, Laptop\",\n    \"BHXH đóng trên tổng lương, Bảo hiểm 24h, Khám sức khỏe hàng năm\",\n    \"Thưởng Lễ, tết: Giỗ tổ hùng vương (10/03), 08/03, 02/09, 20/10, 30/04, 01/05, Tết dương lịch, Tết Âm lịch, sinh nhật\",\n    \"Lương tháng 13, thưởng hiệu quả công việc\",\n    \"Chính sách cho NV có gia đình, con nhỏ...\",\n    \"Chính sách hiểu hỉ/ ốm đau\",\n    \"Hỗ trợ làm việc online khi cần\",\n    \"Đào tạo và hướng dẫn chuyên môn, lộ trình công việc cụ thể.\"\n  ],\n  \"description\": \"- Hạch toán thu chi tiền mặt, kiểm tra chứng từ\\n- Hạch toán ngân hàng Làm chứng từ, hồ sơ ngân hàng\\n- Đối chiếu tồn quỹ\\n- Theo dõi các khoản công nợ nội bộ ( tạm ứng, phải thu , phải trả khác )\\n- Nhập liệu hóa đơn mua hàng\\n- Nắm được thuế là lợi thế\",\n  \"requirements_text\": \"- Tốt nghiệp CĐ, ĐH các chuyên ngành liên quan kế toán, tài chính, quản trị kinh doanh\\n- Không kinh nghiệm được đào tạo\\n- Độ tuổi từ 22-40\\n- Biết về thuế là 1 lợi thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 4876,
+    "output_tokens": 734,
+    "total_tokens": 5610,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

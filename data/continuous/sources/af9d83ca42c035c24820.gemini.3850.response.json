@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Hỗ Trợ Hợp Đồng ( Nghỉ Chủ Nhật )\",\n  \"company_name\": null,\n  \"job_category\": \"Tài chính/Ngân hàng/Bảo hiểm\",\n  \"sub_category\": \"Chuyên môn Tài chính/Ngân hàng/Bảo hiểm khác\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2027-01-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ho-tro-hop-dong-nghi-chu-nhat/2211807.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng cơ bản\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 18:00)\",\n  \"benefits\": [\n    \"Lương CB: 6.800,000 VNĐ đến 8.000,000 VNĐ ( tuỳ theo kinh nghiệm)+ Thưởng năng lực\",\n    \"Tổng thu nhập từ 10.000.000 VNĐ trở lên\",\n    \"Thời gian: 8h30 - 18h, nghỉ trưa 1 tiếng rưỡi, nghỉ cố định chủ nhật\",\n    \"Có 12 ngày phép/năm, nghỉ ngày 1 tây hàng tháng\",\n    \"Tổng thu nhập từ 10 triệu đến 30 triệu (Bonus không giới hạn)\",\n    \"Môi trường làm việc chuyên nghiệp, trang bị đầy đủ thiết bị\",\n    \"Được hưởng BHYT, BHXH, BHTN, lương tháng 13 và các phúc lợi khác\"\n  ],\n  \"description\": \"Thực hiện liên hệ đến khách hàng để thông báo về quá trình tất toán các kỳ hợp đồng vay mua trả góp/ tiêu dùng còn lại của họ theo Data có sẵn .\\n Hướng dẫn KH các phương thức thanh toán phù hợp, hỗ trợ giải đáp những thắc mắc liên quan đến khoản vay và phí phát sinh.\\n Đảm bảo các công việc do quản lý phân công.\",\n  \"requirements_text\": \"Có kinh nghiệm làm ở các mảng dịch vụ khách hàng, tài chính, ngân hàng, luật là 1 lợi thế\\n Biết tin học văn phòng cơ bản\\n Không yêu cầu ngoại hình, không giới hạn độ tuổi/giới tính\"\n}\n```",
+  "usage": {
+    "input_tokens": 4809,
+    "output_tokens": 699,
+    "total_tokens": 5508,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

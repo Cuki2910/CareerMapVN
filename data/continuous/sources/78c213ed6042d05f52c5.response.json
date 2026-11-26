@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Quản Lý Ngành Hàng\",\n  \"company_name\": \"Công ty Cổ phần MediaMart Việt Nam\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng điện máy\",\n  \"industry\": \"Bán buôn đồ dùng khác cho gia đình\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Bắc Ninh, Quảng Ninh, Sơn La, Hà Tĩnh, Nghệ An, Huế, Quảng Trị\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-nganh-hang/947669.html\",\n  \"qualifications\": [\"Tốt nghiệp tối thiểu Trung cấp\"],\n  \"technical_skills\": [\"Tin học văn phòng\"],\n  \"soft_skills\": [\"Kỹ năng quản lý\", \"Xử lý tình huống\"],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 15 triệu\\nThu nhập 10 -15tr/tháng +++ (Thu nhập = Lương cơ bản + Phụ cấp + Thưởng)\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc theo ca xoay: Ca 1: 8h - 15h/Ca 2: 14h30 - 21h30\\n- Ca hỗn hợp (ngày & đêm)\\n- Ca sáng: 8-15h/ Ca chiều: 14h30-21h30\",\n  \"benefits\": [\n    \"Thu nhập 10 -15tr/tháng +++ (Thu nhập = Lương cơ bản + Phụ cấp + Thưởng)\",\n    \"Được hưởng đầy đủ chế độ bảo hiểm theo quy định\",\n    \"Được tham gia các chương trình đào tạo nâng cao chuyên môn, nghiệp vụ\",\n    \"Cơ hội thăng tiến rộng mở trong hệ thống của MediaMart\",\n    \"Được nghỉ phép 12 ngày/ năm.\"\n  ],\n  \"description\": \"Chuyên môn: Bán hàng điện máy, B2C, B2B, Direct Sales\\n\\nMô tả công việc\\n- Tổ chức hoạt động bán hàng tại các ngành hàng trong siêu thị điện máy\\n- Quản lý nhân viên và hàng hóa tại bộ phận\\n- Thực hiện việc trưng bày hàng hóa và thực hiện các hoạt động Marketing theo yêu cầu của quản lý siêu thị và công ty.\\n- Thực hiện các công việc khác theo sự chỉ đạo của lãnh đạo công ty và siêu thị.\\n- Làm việc theo ca xoay: Ca 1: 8h - 15h/Ca 2: 14h30 - 21h30\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  1 năm kinh nghiệm quản lý  Tuổi 25 - 35  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n- Nam 23 - 35 tuổi. Tốt nghiệp tối thiểu Trung cấp\\n- Có kinh nghiệm làm Quản lý ngành hàng/Trưởng ngành hàng/Giám sát bán hàng tối thiểu 1 năm tại các Hệ thống siêu thị bán lẻ\\n- Ưu tiên ứng viên có kinh nghiệm trong ngành điện máy\\n\\nKỹ năng cần có\\nKỹ năng quản lý, Tin học văn phòng, Xử lý tình huống\"\n}",
+  "usage": {
+    "input_tokens": 5895,
+    "output_tokens": 786,
+    "total_tokens": 6681,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

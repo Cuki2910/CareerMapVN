@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành\",\n  \"company_name\": null,\n  \"job_category\": \"Vận hành chung\",\n  \"sub_category\": null,\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh/2363970.html\",\n  \"qualifications\": [\n    \"Trung cấp\",\n    \"Cao đẳng\"\n  ],\n  \"technical_skills\": [\n    \"sử dụng smartphone\"\n  ],\n  \"soft_skills\": [\n    \"trung thực\",\n    \"trách nhiệm\",\n    \"chủ động trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Thử việc 100% lương\"\n  ],\n  \"description\": \"- Vận hành & tiếp hàng cho máy bán hàng tự động (có xe van hỗ trợ)\\n- Thu tiền, kiểm kê & đối soát doanh thu\\n- Ghi nhận sự cố & báo cho bộ phận kỹ thuật xử lý\\n- Ưu tiên ứng viên đã có kinh nghiệm (chưa có sẽ được đào tạo)\\n- Chi tiết sẽ trao đổi thêm trong buổi phỏng vấn\",\n  \"requirements_text\": \"- Nam, tuổi từ 20 – 30\\n- Tốt nghiệp Trung cấp / Cao đẳng\\n- Sức khỏe tốt, trung thực, trách nhiệm\\n- Biết dùng smartphone, chủ động trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4636,
+    "output_tokens": 545,
+    "total_tokens": 5181,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

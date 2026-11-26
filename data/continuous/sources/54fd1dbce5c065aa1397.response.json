@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Văn Phòng - Kênh Chat Ứng Dụng Giao Hàng\",\n  \"company_name\": \"Công Ty Trách Nhiệm Hữu Hạn Việt Mỹ - SSU\",\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-14\",\n  \"url\": \"https://www.topcv.vn/brand/vietmyssu/tuyen-dung/nhan-vien-van-phong-kenh-chat-ung-dung-giao-hang-j2326878.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"vi tính văn phòng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thử việc 7.000.000 - Chính thức 8.600.000\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"07:00 – 21:30 (xoay ca 8h/ngày). Nghỉ giữa ca 60 phút/ca, nghỉ 1 ngày/tuần.\",\n  \"benefits\": [\n    \"Hỗ trợ phụ cấp trong thời gian đào tạo (nhận sau khi vào chính thức).\",\n    \"Phụ cấp khấu hao thiết bị 600.000đ/tháng\",\n    \"Hỗ trợ chi phí gửi xe: 15.000đ/ngày làm việc tại công ty.\",\n    \"Công ty thực hiện đầy đủ các chế độ BHXH,BHYT, BHTN theo quy định.\",\n    \"12 ngày nghỉ phép/năm đối với nhân viên ký hợp đồng lao động chính thức.\",\n    \"Thưởng lễ tết,sinh nhật (tùy theo quy định của công ty).\",\n    \"Được làm việc trong môi trường trẻ trung, năng động và có cơ hội học hỏi kinh nghiệm làm việc.\"\n  ],\n  \"description\": \"• Tiếp nhận hỗ trợ từ tài xế và khách hàng sử dụng dịch vụ Ahamove qua kênh chat.\\n• Hỗ trợ hướng dẫn khách hàng/ tài xế về thông tin tài khoản và tư vấn sử dụng dịch vụ.\\n• Hỗ trợ ghi nhận và chuyển thông tin cho phòng ban liên quan khi nằm ngoài phạm vi xử lý.\\n• Đảm bảo các chỉ số KPI được yêu cầu.\",\n  \"requirements_text\": \"• Thao tác vi tính văn phòng tốt và yêu cầu test đánh máy >= 50 WPM..\\n• Có laptop cá nhân, được hỗ trợ phụ cấp khấu hao thiết bị 300.000đ/ tháng\\n• Không vướng bận công việc, có thể làm việc xoay ca, sắp xếp ngẫu nhiên không cố định.\\n• Ưu tiên ứng viên làm việc Lễ/Tết và tăng ca theo điều động của công ty (không thường xuyên).\"\n}\n```",
+  "usage": {
+    "input_tokens": 4508,
+    "output_tokens": 780,
+    "total_tokens": 5288,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

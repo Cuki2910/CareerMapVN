@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Phiên Dịch Tiếng Trung\",\"company_name\":\"Công ty CP Xây Lắp và Dịch vụ Toàn Cầu\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Phiên dịch tiếng Trung\",\"industry\":\"Xây dựng\",\"category\":null,\"location\":\"Hải Phòng, Nước Ngoài\",\"country\":\"Việt Nam, Campuchia\",\"posting_date\":null,\"deadline\":\"2026-12-20\",\"url\":\"https://www.topcv.vn/viec-lam/phien-dich-tieng-trung/2289903.html\",\"qualifications\":[\"Đại Học trở lên\",\"Tiếng Trung HSK 5/6 hoặc tương đương\"],\"technical_skills\":[\"Thành thạo MS Office\",\"Dịch thuật văn bản nhanh\",\"Dịch thuật chuẩn xác thuật ngữ kỹ thuật Xây dựng/Cơ khí\",\"Am hiểu quy trình dịch hiện trường/giao ban liên quan đến thiết bị thi công và hồ sơ kỹ thuật\"],\"soft_skills\":[\"Giao tiếp khéo léo\",\"Xử lý tình huống phát sinh linh hoạt\",\"Nhanh nhẹn, chịu khó\",\"Sẵn sàng cắm chốt/làm việc trực tiếp tại Ban chỉ huy dự án\"],\"languages_required\":[\"Tiếng Trung (HSK 5/6 hoặc tương đương)\",\"Tiếng Việt\"],\"experience_required\":2,\"salary\":\"20.000.000đ - 35.000.000đ/tháng\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\"benefits\":[\"Mức lương: 20.000.000đ - 35.000.000đ/tháng\",\"Làm việc tại dự án Đường sắt tốc độ cao Hà Nội - Quảng Ninh hoặc làm việc tại Dự án Điện gió Campuchia địa điểm: Cửa khẩu O Raing (Đắk Đam), tỉnh Mondulkiri, Campuchia.\",\"Thưởng các ngày Lễ, Tết: 30/4, 01/5, 02/9, 01/01, lương tháng 13; thưởng dự án.\",\"Thưởng đột xuất khi hoàn thành xuất sắc nhiệm vụ;, nhân viên tiêu biểu; thưởng thâm niên,...\",\"Được tham gia đầy đủ các chế độ BHXH, BHYT, BHTN;\",\"Được thăm hỏi ốm đau, thai sản; tặng quà Sinh nhật, 8/3, 20/10, Trung -Thu cho con em CBNV;\",\"Môi trường làm việc vui vẻ, năng động, sáng tạo, ưu tiên người trẻ dám nghĩ dám làm;\",\"Quà tặng, du lịch trong và ngoài nước hàng năm theo chế độ Công ty;\",\"Công ty hỗ trợ toàn bộ chỗ ở tiện nghi và bếp ăn 3 bữa/ngày tại dự án.\",\"Ghi danh dấu ấn sự nghiệp tại Siêu dự án trọng điểm Quốc gia.\"],\"description\":\"Phiên dịch trực tiếp (cabin/hiện trường) trong các buổi làm việc, giao ban giữa Ban Chỉ huy dự án GCS với Chuyên gia/Kỹ sư/Nhà thầu thiết bị Trung Quốc.\\nDịch thuật các tài liệu kỹ thuật, bản vẽ thi công, quy trình vận hành thiết bị, hồ sơ máy móc từ tiếng Trung sang tiếng Việt và ngược lại.\\nHỗ trợ công tác hậu cần, sinh hoạt và trao đổi công việc hàng ngày của chuyên gia Trung Quốc tại bãi đúc dầm Quảng Ninh.\",\"requirements_text\":\"Yêu cầu: 2 năm kinh nghiệm chuyên môn; Đại Học trở lên; Tiếng Trung HSK 5.\\n\\nYêu cầu ứng viên:\\n- Kinh nghiệm: Tối thiểu 02 năm làm Phiên dịch viên Tiếng Trung tại các công trình Xây dựng, Cầu đường, Hạ tầng hoặc Ban Quản lý Dự án/Bãi đúc.\\n- Chuyên môn:\\n  - Năng lực Tiếng Trung thành thạo (HSK 5/6 hoặc tương đương), giao tiếp phản xạ tốt và dịch thuật chuẩn xác thuật ngữ kỹ thuật Xây dựng/Cơ khí.\\n  - Am hiểu quy trình dịch hiện trường/giao ban liên quan đến thiết bị thi công và hồ sơ kỹ thuật.\\n  - Có kinh nghiệm hỗ trợ hậu cần, giao tiếp sinh hoạt cho Chuyên gia/Nhà thầu Trung Quốc.\\n- Kỹ năng: Thành thạo MS Office, dịch thuật văn bản nhanh; giao tiếp khéo léo, xử lý tình huống phát sinh linh hoạt.\\n- Khác: Nhanh nhẹn, chịu khó; sẵn sàng cắm chốt/làm việc trực tiếp tại Ban chỉ huy dự án.\\n- Kiến thức ngành: Xây dựng\"}",
+  "usage": {
+    "input_tokens": 5336,
+    "output_tokens": 4695,
+    "total_tokens": 10031,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3278
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

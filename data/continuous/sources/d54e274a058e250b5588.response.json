@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Đặt Lịch Hẹn\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn thẩm mỹ/Spa\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"514 Bạch Mai, Phường Bạch Mai, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-dat-lich-hen/2361903.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thời vụ\",\n  \"working_hours\": \"Làm việc theo ca, có thể chọn các ca sau:\\n+08h00-12h00\\n+14h00-18h00\\n+16h00-20h00\",\n  \"benefits\": [\n    \"Thù lao: 25-30k/h\"\n  ],\n  \"description\": \"+ Gọi điện và đặt lịch hẹn cho khách. Số lượng gọi tối thiểu 80 khách/ca, số lượng lịch đặt tối thiểu 20 lịch/ca.   \\n+ Làm việc tại phòng khám, có hỗ trợ chuyên môn từ đội ngũ khúc xạ nhãn khoa.\",\n  \"requirements_text\": \"- Trình độ tốt nghiệp THPT trở lên là được.\\n- Đã có kinh nghiệm gọi điện/telesale/đặt lịch khách hẹn.\\n- Đảm bảo làm được xuyên suốt tất cả các ngày từ 19/11 đến hết 30/11/2026.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4664,
+    "output_tokens": 511,
+    "total_tokens": 5175,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

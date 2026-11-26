@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Japanese Cuisine Chef\",\n  \"company_name\": null,\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Bếp trưởng\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/japanese-cuisine-chef/2361384.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\",\n    \"Food Safety and Hygiene Certificate\"\n  ],\n  \"technical_skills\": [\n    \"Japanese cuisine\",\n    \"knife skills\",\n    \"sushi and sashimi preparation\",\n    \"Kaiseki cooking techniques\"\n  ],\n  \"soft_skills\": [\n    \"attention to detail\",\n    \"sense of responsibility\",\n    \"ability to work in a professional kitchen environment\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00); ca chiều tối; nhà hàng mở cửa 17:00–23:00\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Insurance coverage in accordance with Vietnamese labor regulations\",\n    \"Staff meals during working shifts\",\n    \"Annual leave in accordance with labor regulations\",\n    \"Performance-based bonuses depending on business results\"\n  ],\n  \"description\": \"Prepare and cook Japanese dishes, including Kaiseki cuisine, in accordance with the Head Chef's standards and recipes.\\nTake charge of the counter section, preparing and presenting dishes directly in front of guests.\\nHandle the preparation, storage, and preservation of seafood and imported ingredients.\\nMaintain cleanliness and hygiene in the kitchen area in compliance with food safety and hygiene regulations.\",\n  \"requirements_text\": \"At least 3 years of experience in Japanese cuisine at a Japanese restaurant.\\nProficient in knife skills, sushi and sashimi preparation, and basic Kaiseki cooking techniques.\\nPossess a Food Safety and Hygiene Certificate or be willing to attend the required food safety training.\\nGood attention to detail, a strong sense of responsibility, and the ability to work in a professional kitchen environment.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4619,
+    "output_tokens": 626,
+    "total_tokens": 5245,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

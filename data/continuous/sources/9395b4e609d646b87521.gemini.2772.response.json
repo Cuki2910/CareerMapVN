@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Quản Lý Nhà Hàng Nhật\",\n  \"company_name\": \"GYUKATSU YOSAKURA\",\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Quản Lý Nhà Hàng\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"146 Phan Kế Bính, Phường Ba Đình, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-nha-hang-nhat-15m-18m-gyukatsu-yosakura/2141489.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Điều Hành Hoạt Động Nhà Hàng\",\n    \"An toàn vệ sinh thực phẩm\",\n    \"Kỹ Năng Đào Tạo Nhân Viên\",\n    \"Kỹ Năng Làm Việc Dưới Áp Lực Cao\",\n    \"Quản Lý Kho Và Đặt Hàng\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"trách nhiệm\",\n    \"tinh thần dịch vụ tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Nhật\",\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 2.0,\n  \"salary\": \"15 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc linh động không cố định, đảm bảo vận hành hiện trường trơn tru và suôn sẻ, có mặt tại quán giờ cao điểm. 1 tháng nghỉ 4 ngày và 1 ngày phép\",\n  \"benefits\": [\n    \"Phụ cấp ăn trưa 40.000vnđ/ngày.\",\n    \"Phụ cấp đi lại 500.000vnđ/tháng\",\n    \"BHXH theo quy định.\",\n    \"Xét duyệt tăng lương định kỳ 3-6 tháng.\",\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"- Giám sát vận hành, đảm bảo chất lượng dịch vụ & món ăn\\n- Tuyển dụng, sắp xếp ca, đào tạo & giám sát nhân sự\\n- Xử lý vấn đề và chăm sóc khách hàng\\n- Kiểm soát chất lượng phục vụ, thời gian lên món, vệ sinh và đảm bảo quy trình\\n- Phối hợp với bếp trưởng, leader bếp và các bộ phận liên quan để đảm bảo vận hành ổn định.\\n- Trực tiếp tiếp nhận, xử lý phản hồi và khiếu nại của khách hàng.\\n- Theo dõi doanh thu, chi phí nhân sự, Google Review và các chỉ số vận hành.\\n- Thực hiện báo cáo ngày, tuần, tháng đầy đủ và đúng hạn.\",\n  \"requirements_text\": \"- 2 năm kinh nghiệm vị trí giám sát hiện trường (ưu tiên F&B Nhật)\\n- Tiếng Nhật N3 hoặc Tiếng Anh\\n- Nhanh nhẹn, trách nhiệm, tinh thần dịch vụ tốt\"\n}\n```",
+  "usage": {
+    "input_tokens": 5182,
+    "output_tokens": 814,
+    "total_tokens": 5996,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

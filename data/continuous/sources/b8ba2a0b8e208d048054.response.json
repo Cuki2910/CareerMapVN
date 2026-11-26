@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Trưởng Nhóm Kho (Warehouse Leader)\",\"company_name\":\"Công ty TNHH CJ Logistics Vina\",\"job_category\":\"Kho vận\",\"sub_category\":\"Trưởng kho/Giám sát kho\",\"industry\":\"Kho bãi và lưu giữ hàng hóa\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/truong-nhom-kho-warehouse-leader/2323928.html\",\"qualifications\":[\"Tối thiểu tốt nghiệp cao đẳng chuyên ngành liên quan\",\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Quản lý kho hàng hiện đại\",\"Cải tiến quy trình\",\"Xử lý vấn đề\",\"Giải quyết xung đột\",\"An toàn lao động\",\"An ninh kho hàng\",\"Tiêu chuẩn chất lượng hàng hóa\"],\"soft_skills\":[\"Khả năng giao tiếp tốt\",\"Kỹ năng giải quyết các vấn đề\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Làm việc xoay ca theo tuần. Ca 12 tiếng, 8 tiếng + 4 tiếng tăng ca.\",\"benefits\":[\"BHXH, BHYT, BHTN: Công Ty đóng 100% cho nhân viên (bao gồm cả phần nhân viên phải đóng theo luật).\",\"BHXH nội trú & bảo hiểm tai nạn 24/24.\",\"Mỗi năm nhân viên được khám sức khỏe 1 lần.\",\"NLĐ được hưởng 12 ngày phép năm theo luật nhà nước quy định.\",\"Đảm bảo lương tháng 13.\",\"Công đoàn (Nếu có tham gia công đoàn).\"],\"description\":\"Mô tả công việc\\n- Giám sát nhân viên kho thực hiện đúng theo các quy trình hoạt động kho vận.\\n- Phối hợp chặt chẽ với bộ phận dữ liệu quản lý tồn kho để đảm bảo chính xác về tồn kho và thực hiện các phương án tối ưu hóa tồn kho.\\n- Giám sát để ngăn ngừa các sự cố trong quá trình xuất, nhập và lưu kho hàng hóa. Bám sát quy trình và nội quy để xử lý hoặc đề xuất hình thức xử lý những sự cố nhằm đảm bảo xuất, nhập hàng hóa chính xác vị trí, mã hàng, batch, số lượng, chất lượng, đúng tiến độ, thứ tự ưu tiên và hợp lý trong ca làm việc.\\n- Phối hợp với nhân viên quản lý chất lượng để giám sát việc xử lý, kiểm soát kịp thời và nhận diện chính xác hàng hóa hư hỏng trong ca làm việc.\\n- Hoàn chỉnh các báo cáo về hoạt động kho trong ca làm việc.\\n- Phân tích, điều tra nguyên nhân nếu tồn kho bị sai lệch\\n- Sắp xếp nguồn lực nhằm đảm bảo các hoạt động nhập xuất hàng đáp ứng yêu cầu của khách hàng\\n- Ghi nhận KPI của nhà thầu, sử dụng, điều phối nguồn lực từ nhà thầu hiệu quả và hiệu suất cao.\\n- Kiểm soát việc tuân thủ quy định vận hành trong kho và quy định về an toàn lao động\",\"requirements_text\":\"Học vấn\\n- Tối thiểu tốt nghiệp cao đẳng chuyên ngành liên quan\\n\\nKinh nghiệm\\n- Có ít nhất 1 năm kinh nghiệm trong hoạt động khai thác kho hàng trong đó có 1 năm làm giám sát kho hiện đại hoặc trung tâm phân phối\\n\\nKỹ năng chuyên môn\\n- Được đào tạo cơ bản và nâng cao về quản lý kho hàng hiện đại\\n- Được đào tạo các kỹ năng cải tiến quy trình, xử lý vấn đề, giải quyết xung đột\\n- Được đào tạo về an toàn, an ninh trong kho hàng tiêu chuẩn chất lượng hàng hóa\\n\\nKỹ năng mềm\\n- Khả năng giao tiếp tốt.\\n- Kỹ năng giải quyết các vấn đề.\\n\\nKiến thức ngành\\nKho vận\\n\\nKỹ năng cần có\\nGiao tiếp, an toàn lao động, Giải quyết vấn đề, Xử lý vấn đề, Cải Tiến Quy Trình, Giải Quyết Xung Đột, quản lý kho hàng hiện đại, an ninh kho hàng\"}",
+  "usage": {
+    "input_tokens": 5200,
+    "output_tokens": 3415,
+    "total_tokens": 8615,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2114
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

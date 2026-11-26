@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Cộng Tác Viên Vận Hành SMS Brandname\",\n  \"company_name\": null,\n  \"job_category\": \"Vận hành chung\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-tac-vien-van-hanh-sms-brandname/2214266.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Typing\",\n    \"Excel/Word\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận, tỉ mỉ\",\n    \"Giao tiếp tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Từ 8.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Khác\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 17:30); Nhân sự có thể làm thêm ngoài thời gian quy định khi cần xử lý công việc phát sinh\",\n  \"benefits\": [\n    \"Thiết bị: Máy tính\",\n    \"Thu nhập: 8.500.000 đồng\",\n    \"Được tham gia các hoạt động gắn kết cùng công ty\",\n    \"Được đào tạo nghiệp vụ và làm việc trong môi trường công nghệ năng động, được đồng nghiệp nhiệt tình hỗ trợ, có cơ hội học hỏi, tích lũy kinh nghiệm\",\n    \"Làm việc giờ hành chính, nghỉ cuối tuần T7, CN\",\n    \"Được cung cấp đầy đủ trang thiết bị, tài liệu để làm việc\",\n    \"Có cơ hội trở thành nhân viên chính thức và phát triển nghề nghiệp lâu dài tại Công ty\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"- Chịu trách nhiệm tiếp nhận và xử lý các yêu cầu triển khai dịch vụ SMS Brandname của khách hàng, đảm bảo đúng tiến độ và quy định. \\n- Thực hiện khai báo Tên định danh (Brandname), mẫu tin nhắn (Template) và cập nhật thông tin trên hệ thống.\\n- Tiếp nhận và xử lý đơn hàng của khách hàng\\n- Phối hợp với các bộ phận liên quan để đảm bảo dịch vụ được triển khai chính xác và hiệu quả.\",\n  \"requirements_text\": \"- Cẩn thận, tỉ mỉ trong việc xử lý dữ liệu,\\n- Phân tích, nhận định yêu cầu từ KH, phản hồi nhanh chóng để đảm bảo thời gian xử lý,\\n- Có khả năng tư vấn và giao tiếp KH (là lợi thế)\\n- Sử dụng word, excel thành thạo, thao tác máy tính và sử dụng được các tool tra cứu công nghệ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4750,
+    "output_tokens": 725,
+    "total_tokens": 5475,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

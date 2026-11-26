@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Trạm Giao Nhận Tại Bắc Ninh - Hải Phòng - Phú Thọ - Ninh Bình - Quảng Ninh - Thanh Hóa - Thái Nguyên\",\"company_name\":\"CÔNG TY TNHH SPX EXPRESS\",\"job_category\":\"Logistic / Vận tải\",\"sub_category\":\"Kho vận\",\"industry\":\"Bưu chính\",\"category\":null,\"location\":\"Bắc Ninh, Hưng Yên, Hải Phòng, Phú Thọ, Ninh Bình, Quảng Ninh, Thanh Hóa, Thái Nguyên\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2027-01-27\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-tram-giao-nhan-tai-bac-ninh-hai-phong-phu-tho-ninh-binh-quang-ninh-thanh-hoa-thai-nguyen/1934021.html\",\"qualifications\":[\"Trung học phổ thông (Cấp 3) trở lên\"],\"technical_skills\":[\"Tin học văn phòng\"],\"soft_skills\":[\"Giao tiếp rõ ràng, rành mạch, tư duy logic\",\"Kỹ năng xử lý tình huống\",\"Kỹ năng làm việc nhóm\",\"Trung thực, cẩn thận và tỉ mỉ trong công việc\",\"Kỹ năng giải quyết vấn đề\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"9,000,000 - 11,000,000 VNĐ/tháng. Chưa bao gồm OT và phụ cấp đi sớm về muộn.\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Ca ngày; Thời gian làm việc 8h/ngày (cụ thể có nhiều ca, sẽ do Trưởng bưu cục sắp xếp). Nghỉ 1 ngày bất kỳ/tuần. Sẵn sàng làm việc xoay ca để đáp ứng vận hành (ca làm việc 8h/ngày, một tuần nghỉ 1 ngày bất kỳ).\",\"benefits\":[\"Thu nhập 9,000,000 - 11,000,000 VNĐ/tháng. Chưa bao gồm OT và phụ cấp đi sớm về muộn.\",\"Thử việc nhận 100% lương + phụ cấp.\",\"Công ty cấp laptop làm việc.\",\"Đóng bảo hiểm full lương.\",\"Nghỉ phép 20 ngày/năm nhận nguyên lương.\",\"Thưởng tháng 13 và thưởng hiệu quả công việc cuối năm (trung bình 2 - 3 tháng thưởng Tết).\",\"Cơ hội thăng tiến lên vị trí Leader.\",\"Review lương 1 năm/1 lần.\",\"Tham gia các khóa đào tạo nội bộ phát triển năng lực xử lý công việc.\"],\"description\":\"Xử lý hàng hóa bao gồm:\\n- Tiếp nhận hàng mới về kho mỗi ngày.\\n- Phân loại, sắp xếp hàng hóa theo khu vực.\\n- Xử lý đơn hàng\\n- Kiểm tra số lượng hàng hóa trong kho.\\n\\nQuản lý nhân sự bao gồm:\\n- Phân chia đơn hàng và điều phối shipper đi giao.\\n- Chủ động xử lý các tình huống, sự vụ tại kho và báo cáo lên Trưởng bưu cục.\",\"requirements_text\":\"Yêu cầu ứng viên:\\n- Có kinh nghiệm làm việc tại kho hàng hóa hoặc các đơn vị vận chuyển là lợi thế. (Không có kinh nghiệm được đào tạo).\\n- Giao tiếp rõ ràng, rành mạch, tư duy logic.\\n- Kỹ năng xử lý tình huống, kỹ năng làm việc nhóm và kỹ năng tin học văn phòng.\\n- Có tính cách trung thực, cẩn thận và tỉ mỉ trong công việc.\\n- Độ tuổi từ: 2004 - 1988. Sẵn sàng làm việc xoay ca để đáp ứng vận hành (ca làm việc 8h/ngày, một tuần nghỉ 1 ngày bất kỳ).\\n\\nKiến thức ngành: Logistic / Vận tải, Kho vận\\nKỹ năng cần có: Kỹ năng giao tiếp, Làm việc nhóm, Tin học văn phòng, Xử lý tình huống\\nKỹ năng nên có: Kỹ năng giải quyết vấn đề, Kinh Nghiệm Làm Việc Trong Môi Trường Logistics\"}",
+  "usage": {
+    "input_tokens": 13679,
+    "output_tokens": 5103,
+    "total_tokens": 18782,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3859
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

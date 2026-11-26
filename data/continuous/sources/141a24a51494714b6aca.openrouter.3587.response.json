@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nữ Nhân Viên Kinh Doanh/Tư Vấn Ngành Thực Phẩm Làm Việc Tại Văn Phòng Có Data Sẵn Thu Nhập 12-30tr/Tháng\",\"company_name\":\"CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN HÀ LƯƠNG\",\"job_category\":\"Sales\",\"sub_category\":\"Telesales / Online Sales / B2B\",\"industry\":\"Bán buôn thực phẩm\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-01\",\"url\":\"https://www.topcv.vn/viec-lam/nu-nhan-vien-kinh-doanh-tu-van-nganh-thuc-pham-lam-viec-tai-van-phong-co-data-san-thu-nhap-12-30tr-thang/2340183.html\",\"qualifications\":[\"Trung học cơ sở (Cấp 2) trở lên\"],\"technical_skills\":[\"Kĩ năng tin học văn phòng cơ bản\"],\"soft_skills\":[\"Nhanh nhẹn\",\"Năng động\",\"Có trách nhiệm cao trong công việc được giao\",\"Đam mê với công việc sale\",\"Kỹ năng giao tiếp\",\"Kỹ năng thuyết phục khách hàng\",\"Có tinh thần cầu tiến và gắn bó với công ty\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"12 - 30 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\"benefits\":[\"Có hỗ trợ Data\",\"Bảo hiểm xã hội\",\"Phụ cấp thâm niên\",\"Lương cơ bản + Lương KPI + Thương % doanh số khách hàng cũ + mới = thu nhập trung bình từ 12.000.000 - 30.000.000. Công thức tính lương được trao đổi cụ thể khi phỏng vấn (Không giới hạn thu nhập, theo năng lực bản thân).\",\"Gắn bó càng lâu, quyền lợi càng lớn : Hưởng tiền Thâm niên từ năm thứ 2, tri ân những cống hiến của bạn.\",\"Đảm bảo quyền lợi BHXH : Đóng đầy đủ khi vào làm việc.\",\"Được hỗ trợ ngay 5 - 10 triệu khi mua phương tiện đi lại, giúp bạn di chuyển và làm việc hiệu quả.\",\"Thu nhập ngày càng tăng cao : Định kỳ tháng 4 hàng năm , tăng lương hấp dẫn từ 5% - 10% , công nhận những đóng góp và nỗ lực\",\"Môi trường phát triển toàn diện : việc làm trong không gian thân thiện, đồng nghiệp chuyên nghiệp,\",\"Du lich năm theo chính sách công ty.\",\"Được cấp 1 điện thoại riêng phục vụ cho công việc\",\"Team building\",\"Du lịch hàng năm\",\"Xăng xe\",\"Được cấp Điện thoại\"],\"description\":\"Làm tại văn phòng không phải đi thị trường:\\nCông việc chính là thực hiện 2 nhiệm vụ : Chăm sóc khách hàng cũ (80%) và tìm kiếm khách hàng mới qua các nền tảng mạng xã hội\\n- Chăm sóc khách cũ công ty bàn giao: Tạo mối quan hệ tốt với khách hàng.\\n- Thực hiện các công việc bán hàng như tư vấn sản phẩm,báo giá, giải đáp thắc mắc của khách hàng về các vấn đề hàng hóa, vận chuyển,\\n- Khai thác tìm kiếm khách hàng mới trên các nền tảng mạng xã hội\\n- Ngành hàng kinh doanh (kênh sỉ nhà phân phối bánh kẹo, nước uống hàng nhập khẩu Hàn Quốc).\\n- Lợi thế là công ty nhập khẩu trực tiếp từ Hàn Quốc nên các mặt hàng được nhập khẩu chính ngạch, mẫu mã đa dạng, hàng hóa dễ bán, là lợi thế cho sale khai thác khách hàng dễ dàng đem lại thu nhập ổn định.\",\"requirements_text\":\"- Giới tính: Nữ. Có kinh nghiệm ít nhất 1 năm về sale/bán hàng/tư vấn.\\n- Kĩ năng tin học văn phòng cơ bản\\n- Nhanh nhẹn, năng động, có trách nhiệm cao trong công việc được giao, đam mê với công việc sale\\n- Có kỹ năng giao tiếp và thuyết phục khách hàng.\\n- Có tinh thần cầu tiến và gắn bó với công ty.\\n### Kỹ năng cần có\\nKỹ năng giao tiếp, kỹ năng tin học văn phòng, Kỹ Năng Thuyết Phục Khách Hàng\"}",
+  "usage": {
+    "input_tokens": 5548,
+    "output_tokens": 5328,
+    "total_tokens": 10876,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3968
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

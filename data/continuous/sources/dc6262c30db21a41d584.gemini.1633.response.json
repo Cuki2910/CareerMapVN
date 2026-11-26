@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Giao Hàng Xe Máy\",\n  \"company_name\": null,\n  \"job_category\": \"Shipper\",\n  \"sub_category\": \"Nhân viên giao hàng\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Quận 6, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-giao-hang-xe-may-thu-nhap-len-den-11-trieu-tai-quan-6-tp-ho-chi-minh/2349484.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Việt\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Phụ cấp xăng xe: 1 triệu/tháng\",\n    \"Được tham gia BHXH và các chế độ theo qui định\"\n  ],\n  \"description\": \"- Thực hiện việc giao nhận hàng hóa\\n- Chịu trách nhiệm giao nhận hàng hóa là Văn Phòng Phẩm đúng quy định Công ty về số lượng, chất lượng, địa điểm, thời gian giao hàng....\\n- Kiểm tra đầy đủ thông tin của hàng hóa & chứng từ được giao/nhận\\n- Thời gian cố định từ 7:30 đến 16:30 (từ thứ 2 đến thứ 7) nghỉ trưa 1 tiếng, chủ nhật nghỉ, lễ/ tết nghỉ theo luật lao động.\\n-Thực hiện công việc theo sự sắp xếp của quản lý.\",\n  \"requirements_text\": \"- Biết đọc, biết viết\\n- Có phương tiện đi lại để đáp ứng yêu cầu công việc (xe tự túc)\\n- Ưu tiên có kinh nghiệm giao nhận hàng hóa trong phạm vi thành phố Hồ Chí Minh\\n- Hồ sơ lý lịch có xác minh rõ ràng: gồm SYLL, đơn xác nhận hạnh kiểm, CCCD, ....sao y công chứng.\\n- Địa điểm làm việc: An Dương Vương, Quận 6, Thành phố Hồ Chí Minh\"\n}\n```",
+  "usage": {
+    "input_tokens": 4980,
+    "output_tokens": 646,
+    "total_tokens": 5626,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

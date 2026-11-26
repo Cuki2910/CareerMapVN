@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN THIẾT BỊ CÔNG NGHỆ DIGIZONE\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Sản xuất sản phẩm điện tử dân dụng\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-lam-viec-tai-digizone-store-da-nang-di-lam-ngay/2105854.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Quản Lý Kho\",\n    \"Kiểm Kê Kho\",\n    \"Sử Dụng Máy Tính Cơ Bản\"\n  ],\n  \"soft_skills\": [\n    \"chăm chỉ\",\n    \"trung thực\",\n    \"có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"7 – 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Giờ hành chính: Thứ 2 – Thứ 7\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Tham gia BHXH, BHYT, BHTN đầy đủ theo quy định\",\n    \"Thưởng lễ, Tết và các chế độ phúc lợi của công ty\",\n    \"Môi trường làm việc năng động, ổn định, cơ hội gắn bó lâu dài\"\n  ],\n  \"description\": \"Tiếp nhận hàng hóa, kiểm tra số lượng và tình trạng hàng khi nhập kho.\\nSắp xếp, phân loại và bảo quản hàng hóa trong kho theo đúng quy định.\\nThực hiện xuất kho theo đơn hàng và bàn giao cho bộ phận liên quan.\\nTheo dõi, cập nhật số liệu nhập – xuất – tồn kho.\\nĐảm bảo kho bãi gọn gàng, sạch sẽ, tuân thủ quy định an toàn kho.\\nPhối hợp với các bộ phận khác để xử lý các vấn đề liên quan đến hàng hóa.\",\n  \"requirements_text\": \"Nam/ Nữ, sức khỏe tốt, chăm chỉ, trung thực và có trách nhiệm trong công việc.\\nTốt nghiệp Trung cấp trở lên.\\nCó kinh nghiệm làm việc tại kho hàng, logistics hoặc kho thiết bị công nghệ là lợi thế.\\nBiết sử dụng máy tính cơ bản (Excel hoặc phần mềm quản lý kho).\"\n}\n```",
+  "usage": {
+    "input_tokens": 4914,
+    "output_tokens": 691,
+    "total_tokens": 5605,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Công nhân vận hành máy\",\n  \"industry\": \"Sản xuất, Xây dựng\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/1896804.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Tốt nghiệp nghề, trung cấp, ...\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Cnc\",\n    \"Kiểm Tra Chất Lượng Sản Phẩm\",\n    \"Đọc Hiểu Bản Vẽ Kỹ Thuật\",\n    \"Sử Dụng Các Dụng Cụ Đo Kiểm\",\n    \"Bảo Trì Máy Cnc Cơ Bản\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:20)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\",\n    \"Bảo hiểm xã hội, BHYT, BHTN theo quy định pháp luật hiện hành\",\n    \"Thưởng các ngày lễ tết, sinh nhật theo quy định chung của công ty\",\n    \"Lương tháng 13, thưởng hiệu quả kinh doanh cuối năm\",\n    \"Được hưởng chế độ tham quan, nghỉ mát, và teambuilding ít nhất 1 lần/ năm\",\n    \"Được khám sức khỏe định kỳ 1 lần/năm\",\n    \"Được tiếp cận các chương trình đào tạo và nguồn lực hỗ trợ phát triển cá nhân theo quy chế Công ty\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Ăn trưa\"\n  ],\n  \"description\": \"- Thao tác máy CNC và tạo các biên dạng cho sản phẩm\\n- Làm mộng âm dương cho các sản phẩm\\n- Nhám mịn các chi tiết sản phẩm\\n- Kiểm tra lại kích thước, kiểu dáng đúng theo yêu cầu/ bản vẽ\\n- Thực hiện các công việc khác theo yêu cầu của Quản lý\",\n  \"requirements_text\": \"- Nam/nữ tốt nghiệp nghề, trung cấp, ...\\n- Nhanh nhẹn, sức khỏe tốt, không ngại vất vả\\n- Độ tuổi dưới 45\\n- Có kinh nghiệm vận hành máy CNC là một lợi thế\\n- Chưa có kinh nghiệm sẽ được đào tạo\"\n}\n```",
+  "usage": {
+    "input_tokens": 4839,
+    "output_tokens": 757,
+    "total_tokens": 5596,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

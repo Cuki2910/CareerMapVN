@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kế Toán Thuế\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán/Kiểm toán/Thuế\",\n  \"sub_category\": \"Kế toán thuế\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-thue/2364088.html\",\n  \"qualifications\": [\n    \"Cao đẳng/ đại học chuyên ngành kế toán\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 4.0,\n  \"salary\": \"15 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7: 8h-12h\",\n  \"benefits\": [\n    \"Thưởng các ngày Lễ, Tết.\",\n    \"BHYT,BHXH, các quyền lợi cơ bản khác của người lao động.\",\n    \"Cơ hội thăng tiến và phát triển nghề nghiệp cao.\",\n    \"Du lịch hàng năm và có cơ hội tham gia khảo sát, hội chợ, các tour của công ty.\"\n  ],\n  \"description\": \"- Lập tờ khai thuế GTGT, thuế TNDN, thuế TNCN, hồ sơ hoàn thuế GTGT (nếu có), thuế môn bài và các hồ sơ khác nộp cho cơ quan thuế theo quy định hiện hành. \\n- Quyết toán thuế năm\\n- Tập hợp hóa đơn chứng từ chi phí, thu chi phát sinh hàng ngày, kiểm tra và hoàn thiện tính chính xác hợp lý hợp lệ của hóa đơn chứng từ. \\n- Lập Báo cáo tài chính và nộp Báo cáo theo đúng quy định Nhà nước. \\n- Xử lý tất cả các vấn đề liên quan đến hóa đơn GTGT xuất cho khách hàng \\n- Báo cáo công việc theo yêu cầu\\n- Thực hiện các công việc khác theo yêu cầu của lãnh đạo\",\n  \"requirements_text\": \"- Tốt nghiệp cao đẳng/ đại học chuyên ngành kế toán\\n- Có ít nhất 4 năm kinh nghiệm tại vị trí tương đương.\\n- Đã từng lên báo cáo tài chính là một lợi thế.\\n- Chăm chỉ, chịu được áp lực công việc\\n- Nắm vững các quy định về thuế hiện hành\"\n}\n```",
+  "usage": {
+    "input_tokens": 4762,
+    "output_tokens": 675,
+    "total_tokens": 5437,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

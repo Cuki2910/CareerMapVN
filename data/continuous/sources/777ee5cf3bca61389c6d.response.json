@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Japanese Translation Intern\",\n  \"company_name\": null,\n  \"job_category\": \"Biên phiên dịch tiếng Nhật\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/japanese-translation-intern/1836479.html\",\n  \"qualifications\": [\n    \"Bachelor's degree in Linguistics, Business Administration\"\n  ],\n  \"technical_skills\": [\n    \"Microsoft Office: Word, Excel, PowerPoint\",\n    \"Doors system\"\n  ],\n  \"soft_skills\": [\n    \"Good communication\",\n    \"Willing to learn\",\n    \"Attention to Detail\",\n    \"Cultural Sensitivity\"\n  ],\n  \"languages_required\": [\n    \"English\",\n    \"Japanese\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"full-time\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Working in one of the Best Places to Work in Vietnam and Top 30 of the Most Innovative Companies all over the world\",\n    \"Join in a dynamic and fast-growing global company (English-speaking environment), with opportunity to work in global projects and being a part of innovation team contributing initiative ideas to the hi-tech world\",\n    \"Engage in our diverse training programs which surely help strengthen both your personal and professionalism\",\n    \"Monthly Internship allowance + Meal & Parking allowance\",\n    \"1 day of paid leave per month\",\n    \"Good benefits of company activities such as: football, badminton, yoga, Aerobic, team building…\"\n  ],\n  \"description\": \"Receive specification documents from customer.\\nImport the content of specification in various formats (word, excel, pdf, matrix...) into Doors system, manage version, set attribute and layout as per customer requirement.\\nEnsure consistency of attribute, layouts for all modules.\\nReflect changes of specification into system when having updates.\\nDevelop and manage project metrics.\\nBe in charge of other activities such as system configuration management, baseline copy, tracking report...\\nTranslate technical documents JP-EN\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn Đại Học trở lên [ Tiếng Nhật JLPT N2 ]\\nBachelor's degree in Linguistics, Business Administration.\\nCan submit recommendation letter from university\\nCan work fulltime (from Monday to Friday)\\nGood at English communication\\nJapanese at least N2 or above\\nProficient in Microsoft Office: Word, Excel, PowerPoint.\\nWilling to learn, good communication\"\n}\n```",
+  "usage": {
+    "input_tokens": 4742,
+    "output_tokens": 697,
+    "total_tokens": 5439,
+    "input_token_details": {
+      "cache_read": 2034
+    },
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

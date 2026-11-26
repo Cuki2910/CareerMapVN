@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Hành Lý ( Bellman)\",\n  \"company_name\": \"CÔNG TY TNHH KHÁCH SẠN VÀ DU LỊCH HERITAGE HÀ NỘI\",\n  \"job_category\": \"Dịch vụ khách sạn\",\n  \"sub_category\": \"Bellman (nhân viên hành lý)\",\n  \"industry\": \"Khách sạn và dịch vụ lưu trú tương tự; Dịch vụ lưu trú ngắn ngày khác\",\n  \"category\": null,\n  \"location\": \"Hà Nội: số nhà 42-44 Hàm Long, Phường Cửa Nam (Phường Cửa Nam thuộc quận Hoàn Kiếm cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-hanh-ly-bellman/2017315.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhiệt tình và say mê công việc.\",\n    \"Tính trách nhiệm trong công việc cao\",\n    \"Chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\\nLương căn bản + chia tiền service charge, thưởng target\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Chế độ tăng lương theo năng lực và thâm niên\",\n    \"Thưởng service charge & target hàng tháng\",\n    \"Trợ cấp suất ăn, gửi xe, đồng phục\",\n    \"Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho nhân viên chính thức\"\n  ],\n  \"description\": \"* Niềm nở chào đón khách tới Khách sạn.\\n* Mở cửa, chào đón khách, nhận và đưa hành lý của khách lên phòng.\\n* Hướng dẫn và giới thiệu cơ sở vật chất và dịch vụ của khách sạn.\\n* Giải đáp các thắc mắc của khách hàng.\\n* Làm các công việc theo yêu cầu của Cấp trên.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n* Nam từ 20 - 30 tuổi\\n* Ưu tiên ứng viên có kinh nghiệm tại các khách sạn/ Resort\\n* Nhiệt tình và say mê công việc.\\n* Tính trách nhiệm trong công việc cao\\n* Chịu được áp lực công việc\"\n}",
+  "usage": {
+    "input_tokens": 4503,
+    "output_tokens": 621,
+    "total_tokens": 5124,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

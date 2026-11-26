@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kinh Doanh B2B / Sales Logistics - Thu Nhập Upto 20 Triệu+/ Tháng (Đi Làm Ngay)\",\"company_name\":\"CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ 3N\",\"job_category\":\"Kinh doanh / Sales\",\"sub_category\":\"Sales Logistics\",\"industry\":\"Logistic / Vận tải\",\"category\":null,\"location\":\"Hồ Chí Minh - Tòa nhà Golden King, 15 Nguyễn Lương Bằng, Phường Tân Mỹ (Phường Tân Mỹ thuộc Quận 7 cũ)\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-03\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-b2b-sales-logistics-thu-nhap-upto-20-trieu-thang-di-lam-ngay/2333284.html\",\"qualifications\":[\"Đại Học trở lên\",\"Tốt nghiệp chuyên ngành có liên quan\"],\"technical_skills\":null,\"soft_skills\":[\"Đàm phán\",\"Giao tiếp\",\"Thuyết phục\",\"Năng động\",\"Ham học hỏi\",\"Tinh thần trách nhiệm\",\"Khả năng làm việc độc lập\"],\"languages_required\":[\"Tiếng Anh Đọc hiểu\",\"Tiếng Trung Đọc hiểu\"],\"experience_required\":2,\"salary\":\"Đến 20 triệu VND\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30); Thứ 7 (từ 08:00 đến 12:00); Nghỉ Chiều Thứ 7 và Chủ nhật hằng tuần.\",\"benefits\":[\"Thu nhập lên đến 20.000.000 VNĐ/tháng.\",\"Lương cứng ổn định, không phụ thuộc doanh số.\",\"Thu nhập gồm lương cơ bản và hoa hồng theo chính sách công ty.\",\"Hoa hồng theo doanh số, có thể lên đến 20–30% theo chính sách áp dụng.\",\"Thưởng tháng 13 và các chế độ khác theo quy định công ty.\",\"Thưởng quý/năm theo chính sách công ty.\",\"Được đào tạo chuyên môn, nâng cao kỹ năng bán hàng và phát triển bản thân.\",\"Môi trường làm việc trẻ trung, vui vẻ, hòa đồng.\",\"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định pháp luật.\",\"Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\"],\"description\":\"- Tìm kiếm, phát triển và chăm sóc khách hàng trong lĩnh vực Logistics, vận tải quốc tế và vận tải nội địa.\\n- Phối hợp với các bộ phận nghiệp vụ để trao đổi thông tin, tư vấn và đáp ứng nhu cầu của khách hàng.\\n- Đàm phán, thương lượng các điều khoản hợp đồng với khách hàng.\\n- Theo dõi hoạt động kinh doanh và thực hiện báo cáo công việc định kỳ theo tuần, tháng, quý.\",\"requirements_text\":\"- Tốt nghiệp chuyên ngành có liên quan.\\n- Có ít nhất 2 năm kinh nghiệm trong lĩnh vực kinh doanh.\\n- Có kỹ năng giao tiếp, đàm phán và thuyết phục tốt.\\n- Năng động, ham học hỏi, có tinh thần trách nhiệm và khả năng làm việc độc lập.\\n- Ưu tiên ứng viên có khả năng sử dụng tốt tiếng Anh và tiếng Trung.\\n- Ưu tiên ứng viên sinh sống tại khu vực Quận 7, Nhà Bè.\\n\\nKiến thức ngành: Logistic / Vận tải\\nKỹ năng cần có: Đàm phán, Giao tiếp, thuyết phục\\nKỹ năng nên có: Tiếng Trung, Tiếng Anh\"}",
+  "usage": {
+    "input_tokens": 5406,
+    "output_tokens": 4029,
+    "total_tokens": 9435,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2929
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

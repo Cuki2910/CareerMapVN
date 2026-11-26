@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Content Branding Thẩm Mỹ\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing\",\n  \"sub_category\": \"Content\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/content-branding-tham-my/1274385.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sáng tạo nội dung\",\n    \"Viết Nội Dung\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc đội nhóm\",\n    \"Khả năng sáng tạo\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"13 - 17 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)\",\n  \"benefits\": [\n    \"Môi trường làm việc năng động, vui vẻ, thân thiện, chuyên nghiệp.\",\n    \"Được đào tạo thường xuyên và phát triển bản thân, cơ hội thăng tiến cao trong công việc.\",\n    \"Được uống nước ép, coffee free mỗi ngày.\",\n    \"Team buiding, sinh nhật, thưởng cuối năm, nghỉ lễ tết theo quy định.\"\n  ],\n  \"description\": \"- Quản lý, lên kế hoạch xây dựng thương hiệu bao gồm: nội dung, ý tưởng, hình ảnh...\\n- Chịu trách nhiệm phối hợp và sản xuất nội dung truyền thông cho chiến lược marketing.\\n- Viết kịch bản video/livestream, biên tập nội dung cho kênh facebook, tiktok. \\n- Sản xuất content chất lượng cho các kênh social, facebook. \\n- Hoàn thành các công việc khác theo sự phân công của cấp trên.\",\n  \"requirements_text\": \"- Trên 3 năm kinh nghiệm lĩnh vực làm đẹp, đã làm tại các phòng khám da liễu, phẫu thuật thẩm mỹ.\\n- Khả năng sáng tạo, phân phối nội dung cho các kênh và đo lường kết quả.\\n- Có kiến thức căn bản về Marketing, thị trường.\\n- Có khả năng làm việc đội nhóm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4743,
+    "output_tokens": 609,
+    "total_tokens": 5352,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

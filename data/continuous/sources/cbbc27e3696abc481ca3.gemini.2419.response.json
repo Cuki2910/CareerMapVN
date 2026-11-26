@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Part Time (Biết Tiếng Anh) - Không Yêu Cầu Kinh Nghiệm - Thu Nhập Từ 10-25 Triệu/Tháng + Hoa Hồng - Tại Hoàn Kiếm, Hà Nội\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng thời trang\",\n  \"industry\": \"May mặc / Thời trang\",\n  \"category\": null,\n  \"location\": \"20 Tràng Tiền, Phường Hoàn Kiếm, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-part-time-biet-tieng-anh-khong-yeu-cau-kinh-nghiem-thu-nhap-tu-10-25-trieu-thang-hoa-hong-tai-hoan-kiem-ha-noi/2359359.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8,000,0000 Triệu/Tháng + Commission\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\nThứ 2 - Chủ nhật (từ 09:00 đến 20:00)  \\nNghỉ 2 ngày bất kì\",\n  \"benefits\": [\n    \"Lương: 8,000,0000 Triệu/Tháng + Commission\",\n    \"Được tư vấn, hỗ trợ xây dựng phong cách cá nhân.\",\n    \"Được hưởng chính sách mua hàng nội bộ.\",\n    \"Nhiều cơ hội thăng tiến cho NV có năng lực tốt và gắn bó với công ty.\"\n  ],\n  \"description\": \"Tư vấn bán hàng và chăm sóc khách hàng.\\nTheo dõi đơn hàng của khách, đảm bảo đơn hàng được giao đúng hẹn.\\nCập nhật xu hướng mạng xã hội và phân tích hướng đón nhận & tương tác của khách hàng với form dáng, chất liệu sản phẩm.\\nGiữ gìn vệ sinh cửa hàng.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên  Tiếng Anh Giao tiếp thành thạo\\nKỹ năng giao tiếp tốt\\nNgoại hình ưa nhìn là một lợi thế\\nTiếng Anh lưu loát\\nChịu khó học hỏi và tiếp thu ngành được đào tạo (bán hàng và kiến thức chuyên môn)\\nCó kinh nghiệm trong các ngành thời trang và hospitality là lợi thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 5131,
+    "output_tokens": 751,
+    "total_tokens": 5882,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Quản Lý Vận Hành\",\"company_name\":\"CÔNG TY CỔ PHẦN GIAO HÀNG TIẾT KIỆM\",\"job_category\":\"Logistics / Vận tải\",\"sub_category\":\"Quản lý/Trưởng phòng vận hành\",\"industry\":\"Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải\",\"category\":null,\"location\":\"Hưng Yên, Hải Phòng\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-16\",\"url\":\"https://www.topcv.vn/viec-lam/quan-ly-van-hanh/2359041.html\",\"qualifications\":[\"Đại Học trở lên\",\"Tốt nghiệp Đại học\"],\"technical_skills\":[\"Quản Lý Nhân Sự\",\"Quản Lý\",\"Thương Mại Điện Tử\",\"Vận tải\",\"Giao nhận\",\"Logistic / Vận tải\",\"Kho vận\"],\"soft_skills\":[\"Giao tiếp\",\"Ứng biến linh hoạt\",\"Có trách nhiệm trong công việc\",\"Khả năng quản lý nhân sự linh hoạt\"],\"languages_required\":null,\"experience_required\":2,\"salary\":\"17 - 20 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7; 6 ngày/tuần (thứ 2- thứ 7)\",\"benefits\":[\"Mức lương: 17-20 triệu/ tháng, review tăng lương định kỳ theo năng lực và thâm niên;\",\"Môi trường năng động, được tiếp xúc với nhiều thử thách và có nhiều cơ hội phát triển;\",\"Cơ hội hợp tác, thảo luận cùng các cấp quản lý tại GHTK, giúp mở rộng kiến thức, kỹ năng và học hỏi các chuyên gia về ngành E-logistics tại GHTK;\",\"Được trao quyền quản lý, ra quyết định;\",\"Gói bảo hiểm chăm sóc sức khỏe Generali và các chính sách đặc biệt dành cho cấp quản lý (sau khi được bổ nhiệm);\",\"Các chế độ thưởng lễ, tết, thưởng quý, teambuilding, sinh nhật, trung thu, 8/3, 20/10, 1/6… theo quy định Công ty và đầy đủ các chế độ khác theo quy định của luật.\",\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Team building\",\"Du lịch hàng năm\",\"Thưởng tháng 13\",\"Thưởng hiệu quả làm việc\"],\"description\":\"- Chịu trách nhiệm về toàn bộ quy trình vận hành, đội ngũ nhân viên của khu vực phụ trách (nhân viên vận hành, nhân viên giao nhận hàng hóa);\\n- Đưa ra quyết định, chịu trách nhiệm giải quyết các vấn đề phát sinh trong quá trình vận hành;\\n- Triển khai các dự án mới; đề xuất các giải pháp cần thiết để nâng cao kết quả vận hành, chất lượng dịch vụ của công ty tại khu vực phụ trách;\\n- Lập và thực hiện kế hoạch, mục tiêu tăng trưởng của tỉnh;\\n- Cập nhật tình hình khu vực quản lý với cấp trên theo định kỳ;\\n- Có trách nhiệm kết nối các bộ phận trong khu vực quản lý;\",\"requirements_text\":\"- Nam/Nữ, 23 - 33 tuổi. Tốt nghiệp Đại học, có laptop cá nhân;\\n- Có trách nhiệm trong công việc, luôn bám sát và giải quyết vấn đề đến cùng;\\n- Kỹ năng giao tiếp tốt và ứng biến linh hoạt;\\n- Không ngại di chuyển, công tác; có khả năng quản lý nhân sự một cách linh hoạt;\\n- Ưu tiên có kinh nghiệm quản lý hoặc kinh nghiệm trong lĩnh vực giao nhận, vận tải, thương mại điện tử hoặc đã từng là leader ở các câu lạc bộ, đội, nhóm ở trường đại học.\\n\\nKiến thức ngành: Logistic / Vận tải, Kho vận\\nKỹ năng cần có: Giao tiếp, Quản Lý Nhân Sự, Ứng Biến Linh Hoạt\\nKỹ năng nên có: Quản Lý, Thương Mại Điện Tử, vận tải, Giao Nhận\"}",
+  "usage": {
+    "input_tokens": 5169,
+    "output_tokens": 4617,
+    "total_tokens": 9786,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3387
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

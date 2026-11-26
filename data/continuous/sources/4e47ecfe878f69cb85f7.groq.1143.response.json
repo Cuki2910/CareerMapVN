@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Lái Xe\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN PCS LOGISTICS\",\n  \"job_category\": \"Logistics\",\n  \"sub_category\": \"Tài xế xe tải\",\n  \"industry\": \"Chuyển phát\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-lai-xe/2353255.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\",\n    \"Bằng lái xe hàng B2 trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng phần mềm giao nhận\",\n    \"Thông thuộc địa hình\",\n    \"Sử dụng các phần mềm, ứng dụng, app giao nhận trên điện thoại\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc từ thứ 2 đến hết thứ 7\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng KPI\",\n    \"Thưởng năng lực\",\n    \"Thưởng giới thiệu khách hàng\",\n    \"Chế độ nghỉ phép, du lịch định kì hằng năm\",\n    \"Các phúc lợi bổ sung khách theo quy định của công ty\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Vận hành giao nhận, thu phát hàng hóa từ Bưu cục Hải Phòng đi các điểm trong khu vực\\n  * Phối hợp cùng đội kinh doanh giải quyết đơn hàng cho khách hàng\\n  * Thao tác trên App xử lí đơn hệ thống cho khách\\n  * Phối hợp cùng đội xe Tổng công ty xử lí các hàng hóa chung.\\n\\nQuyền lợi ứng viên\\n  * Đóng bảo hiểm, khám sức khỏe định kì\\n  * Lương cứng + lương vận hành theo sản lượng: từ 10-15 triệu\\n  * Thưởng KPI, thưởng năng lực, thưởng giới thiệu khách hàng\\n  * Chế độ nghỉ phép, du lịch định kì hằng năm\\n  * Các phúc lợi bổ sung khách theo quy định của công ty.\\n\\nPhúc lợi\\nBảo hiểm xã hội, Khám sức khỏe định kỳ, Team building, Du lịch hàng năm, Thưởng tháng 13, Thưởng hiệu quả làm việc\\n\\nĐịa điểm làm việc\\n  * Hải Phòng: Số 526 đường 208, Phường An Dương (Phường An Dương thuộc quận An Dương cũ)\\n\\nThời gian làm việc\\n  * Làm việc từ thứ 2 đến hết thứ 7\",\n  \"requirements_text\": \"* Tuổi: Từ 20 - 50\\n* Bằng lái xe hàng B2 trở lên vận hành xe tải 1.25T\\n* Sức khỏe tốt, có kinh nghiệm làm việc trước đó tại các đơn vị vận tải là một lợi thế\\n* Có khả năng sử dụng các phần mềm, ứng dụng, app giao nhận trên điện thoại\\n* Thông thuộc địa hình khu vực Hải Phòng, Hải Dương, Quảng Ninh\"\n}",
+  "usage": {
+    "input_tokens": 4369,
+    "output_tokens": 2543,
+    "total_tokens": 6912,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1730
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

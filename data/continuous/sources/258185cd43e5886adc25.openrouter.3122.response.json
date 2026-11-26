@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kỹ Thuật Viễn Thông\",\"company_name\":\"Công ty Cổ phần viễn thông FPT\",\"job_category\":\"Viễn thông\",\"sub_category\":\"Kỹ thuật viên viễn thông\",\"industry\":\"Hoạt động viễn thông khác\",\"category\":null,\"location\":\"Đà Nẵng\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-06\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-vien-thong/2320769.html\",\"qualifications\":[\"Tốt nghiệp Trung cấp, Cao đẳng chuyên ngành Điện: Điện – điện tử, Điện công nghiệp, Điện tử Công nghiệp, Điện dân dụng, Điện lạnh, Điện tử viễn thông, CNTT hoặc các chuyên ngành liên quan về điện, CNTT, Viễn Thông\"],\"technical_skills\":[\"Sửa chữa/Bảo trì điện tử/viễn thông\",\"IT - Phần cứng và máy tính\",\"Điện / Điện tử / Điện lạnh\",\"Viễn thông\",\"Triển khai, bảo trì, khắc phục lỗi kỹ thuật dịch vụ Internet, truyền hình FPT, thiết bị báo cháy và dịch vụ viễn thông\",\"Nâng cấp dịch vụ truyền hình FPT, hệ thống Wifi, Camera và các dịch vụ gia tăng\",\"Tư vấn, hướng dẫn sử dụng và cài đặt dịch vụ\"],\"soft_skills\":[\"Siêng năng\",\"Có tư duy luôn lấy khách hàng làm trọng tâm\",\"Phối hợp với các bộ phận liên quan\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"10 - 15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\"benefits\":[\"Lương tháng 13 và thưởng thi đua, thưởng top nhân viên xuất sắc của năm\",\"Chế độ bảo hiểm: BHYT, BHXH, BHTN, BH tai nạn 24/24, khám sức khỏe định kỳ và an toàn lao động.\",\"Được hưởng chế độ bảo hiểm sức khỏe riêng (TIN Care), mua sản phẩm dịch vụ của của Công ty với giá ưu đãi\",\"Tham gia nghỉ mát, team building hàng năm.\",\"Được tham gia các chương trình đào tạo về kỹ năng, phương pháp làm việc.\",\"Môi trường làm việc trẻ trung, năng động, tôn trọng phát triển cá nhân. Trang thiết bị hiện đại, sẵn sàng cho nhân viên.\"],\"description\":\"Triển khai, Bảo trì, khắc phục lỗi kỹ thuật liên quan đến dịch vụ Internet, dịch vụ truyền hình FPT, thiết bị báo cháy và các dịch vụ viễn thông tại nhà khách hàng.\\nTriển khai nâng cấp dịch vụ truyền hình FPT, hệ thống Wifi, Camera và các dịch vụ gia tăng khác trên đường truyền Internet tại nhà khách hàng.\\nGhi nhận phản hồi trực tiếp từ khách hàng, phối hợp với các bộ phận liên quan trong việc nâng cao chất lượng dịch vụ của công ty.\\nTư vấn, hướng dẫn sử dụng và cài đặt các dịch vụ đi kèm do FPT Telecom cung cấp cho khách hàng (Truyền hình FPT,Camera , thiết bị wifi, thiết bị báo cháy..).\",\"requirements_text\":\"- Nam, có sức khỏe tốt, tuổi từ 20-35.\\n- Siêng năng, có phương tiện di chuyển cá nhân.\\n- Tốt nghiệp Trung cấp, Cao đẳng chuyên ngành Điện: Điện – điện tử, Điện công nghiệp, Điện tử Công nghiệp, Điện dân dụng, Điện lạnh, Điện tử viễn thông, CNTT hoặc các chuyên ngành liên quan về điện, CNTT, Viễn Thông\\n- Có tư duy luôn lấy khách hàng làm trọng tâm.\\n- Ứng viên chưa có kinh nghiệm sẽ được đào tạo trước khi bắt đầu công việc\\n\\nKiến thức ngành: IT - Phần cứng và máy tính, Điện / Điện tử / Điện lạnh, Viễn thông\"}",
+  "usage": {
+    "input_tokens": 5165,
+    "output_tokens": 4924,
+    "total_tokens": 10089,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3672
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

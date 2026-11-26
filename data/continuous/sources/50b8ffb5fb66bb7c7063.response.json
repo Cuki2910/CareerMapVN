@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Hỗ Trợ Xác Nhận Thông Tin\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN CALL CALL HOTLINE\",\n  \"job_category\": \"Tài chính / Ngân hàng\",\n  \"sub_category\": \"Chuyên môn khác\",\n  \"industry\": \"Tài chính, Ngân hàng\",\n  \"category\": null,\n  \"location\": \"345 Phạm Văn Bạch, Phường Tân Sơn, Tân Bình, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/brand/cch/tuyen-dung/nhan-vien-ho-tro-xac-nhan-thong-tin-j2331660.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Xử lý tình huống\",\n    \"Giao Tiếp Qua Điện Thoại\",\n    \"Telemarketing\",\n    \"Kinh Nghiệm Telesales\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 18:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Thưởng tháng 13\",\n    \"Môi trường làm việc trẻ trung, năng động\",\n    \"Thử việc nhận 100% LCB\",\n    \"Được cung cấp thiết bị làm việc\",\n    \"Tham gia BHXH đầy đủ sau thử việc\",\n    \"Ngày nghỉ lễ, phép hằng năm\",\n    \"Thưởng lương T13, contest tháng, Lễ/Tết, Teambuilding\",\n    \"Được cấp Điện thoại, Máy tính\"\n  ],\n  \"description\": \"- Nhận Data khách hàng đến từ hệ thống\\n- Liên hệ xác minh, ghi nhận thông tin khách hàng theo yêu cầu\\n- Nhập liệu, cập nhật trạng thái hồ sơ và ghi chú kết quả làm việc lên hệ thống phần mềm của công ty\\n- Hướng dẫn khách hàng hoàn tất hồ sơ, thủ tục theo quy trình\\n- Thực hiện các công việc khác do quản lý trực tiếp yêu cầu theo quy định.\",\n  \"requirements_text\": \"- Nam/ Nữ/LGBT\\n- Tốt nghiệp THPT trở lên\\n- Giao tiếp, xử lý tình huống tốt\\n- KHÔNG YÊU CẦU KINH NGHIỆM, có đào tạo từ đầu\\n- Có khả năng giao tiếp qua điện thoại, giọng nói rõ ràng, mạch lạc .\\n- Có kinh nghiệm về telesales – telemarketing-CSKH là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4542,
+    "output_tokens": 751,
+    "total_tokens": 5293,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

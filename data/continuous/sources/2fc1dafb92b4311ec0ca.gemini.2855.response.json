@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Gọi Điện Nhắc Lịch - Đào Tạo Có Lương\",\n  \"company_name\": \"Công ty TNHH Vietnam Concentrix Services\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/brand/concentrixservices/tuyen-dung/nhan-vien-goi-dien-nhac-lich-dao-tao-co-luong-j2362519.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"đàm phán\",\n    \"thuyết phục\",\n    \"chăm chỉ\",\n    \"chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 28 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 18:00)\",\n  \"benefits\": [\n    \"Thu nhập từ 9.000.000 - 28.000.000 VNĐ/tháng\",\n    \"Lương cứng 6.470.000 VNĐ\",\n    \"Hoa hồng từ 5.000.000 - 20.000.000 VNĐ\",\n    \"Thử việc 60 ngày nhận 100% lương\",\n    \"Được tham gia đầy đủ bảo hiểm theo quy định\",\n    \"Lương tháng 13, thưởng Lễ, Tết\",\n    \"14 ngày phép/năm\",\n    \"Được đào tạo bài bản quy trình làm việc\",\n    \"Chính sách thăng tiến rõ ràng\"\n  ],\n  \"description\": \"- Gọi điện cho khách hàng đang sử dụng các dịch vụ vay của ngân hàng\\n- Nhắc khách hàng thanh toán đúng hạn\\n- Thuyết phục khách hàng hoàn trả các khoản vay theo cam kết\\n- Hỗ trợ khách hàng các điểm thanh toán\",\n  \"requirements_text\": \"- Tốt nghiệp từ THCS trở lên\\n- Giao tiếp tốt, có khả năng đàm phán, thuyết phục\\n- Chăm chỉ, chịu được áp lực công việc\\n- Có thể nhận việc ngay\"\n}\n```",
+  "usage": {
+    "input_tokens": 4387,
+    "output_tokens": 677,
+    "total_tokens": 5064,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

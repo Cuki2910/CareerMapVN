@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Buồng Phòng\",\n  \"company_name\": null,\n  \"job_category\": \"Buồng phòng\",\n  \"sub_category\": null,\n  \"industry\": \"Khách sạn và dịch vụ lưu trú\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-buong-phong/2017308.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"siêng năng\",\n    \"chịu khó\",\n    \"chủ động\",\n    \"trách nhiệm trong công việc\",\n    \"chăm chỉ\",\n    \"thật thà\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Chế độ tăng lương theo năng lực và thâm niên\",\n    \"Thưởng service charge & target hàng tháng\",\n    \"Trợ cấp suất ăn, gửi xe, đồng phục\",\n    \"Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho nhân viên chính thức\"\n  ],\n  \"description\": \"- Đưa vỏ chăn, ga, gối đến khách hàng\\n- Đảm bảo vệ sinh sạch sẽ trong phòng khách sẵn sàng trước khi đón khách\\n- Đảm bảo tất các các khu vực công cộng như hành lang, cầu thang bộ, thang máy và các đồ đạc ít sử dụng được lau dọn hàng ngày \\n- Hỗ trợ các bộ phận khác trong công việc khi cần\\n- Báo cáo cho cấp trên về bất kỳ các hỏng hóc, tổn hại nào trong phòng khách cũng như khu vực công cộng\",\n  \"requirements_text\": \"- Nam/ Nữ, có sức khỏe tốt\\n- Đã có kinh nghiệm buồng phòng ít nhất 1 năm \\n- Trung thực, siêng năng, chịu khó, chủ động, trách trong công việc\\n- Chăm chỉ, thật thà\"\n}\n```",
+  "usage": {
+    "input_tokens": 4702,
+    "output_tokens": 602,
+    "total_tokens": 5304,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

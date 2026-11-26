@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Hỗ Trợ Khách Hàng Kênh Chat - Thử Việc 100% Lương\",\n  \"company_name\": \"Công ty TNHH Vietnam Concentrix Services\",\n  \"job_category\": \"Hỗ trợ khách hàng\",\n  \"sub_category\": \"Trực page\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Công viên phần mềm Quang Trung, Phường Trung Mỹ Tây (Phường Trung Mỹ Tây thuộc Quận 12 cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/brand/concentrixservices/tuyen-dung/nhan-vien-ho-tro-khach-hang-kenh-chat-thu-viec-100-luong-j2362517.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp THPT/ Trung Cấp / Cao Đẳng/ Đại Học\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"11 - 13 triệu\\nTổng thu nhập: 11.000.000 – 13.000.000 VNĐ/tháng\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"* Ca hỗn hợp (ngày & đêm)\\n* Xoay ca 5 ngày/ tuần\",\n  \"benefits\": [\n    \"Hưởng 100% lương trong thời gian thử việc (2 tháng)\",\n    \"Tham gia các chế độ bảo hiểm theo quy định của Luật Lao động\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"14 ngày nghỉ phép/năm\",\n    \"Lương tháng thứ 13\",\n    \"Khám sức khỏe định kỳ hàng năm\",\n    \"Làm việc trong môi trường năng động, chuyên nghiệp với nhiều cơ hội thăng tiến\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\nChuyên môn: Chuyên môn Trực page\\n\\nMô tả công việc\\n* Tiếp nhận và hỗ trợ khách hàng đa kênh: call, email, chat, tin nhắn\\n* Cung cấp thông tin rõ ràng, chính xác nhằm nâng cao sự hài lòng của khách hàng\\n* Duy trì chất lượng dịch vụ và trải nghiệm người dùng ở mức cao\",\n  \"requirements_text\": \"* Tốt nghiệp THPT/ Trung Cấp / Cao Đẳng/ Đại Học\\n* Độ tuổi 18-35 tuổi\\n* Được sử dụng tiếng Anh trong môi trường làm việc quốc tế\"\n}",
+  "usage": {
+    "input_tokens": 4213,
+    "output_tokens": 642,
+    "total_tokens": 4855,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

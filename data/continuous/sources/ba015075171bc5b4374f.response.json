@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Phiên Dịch Tiếng Trung\",\n  \"company_name\": \"Công ty TNHH Lưu trữ năng lượng mặt trời Việt Nam\",\n  \"job_category\": null,\n  \"sub_category\": \"Biên phiên dịch tiếng Trung\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phien-dich-tieng-trung/2355789.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Đại học\",\n    \"Tiếng Trung HSK 5\"\n  ],\n  \"technical_skills\": [\n    \"Word\",\n    \"Excel\",\n    \"PowerPoint\",\n    \"Tiếng Trung\",\n    \"Tin học văn phòng\",\n    \"Phiên Dịch\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"12.000.000 – 18.000.000 VNĐ / tháng (Tùy theo năng lực và kinh nghiệm, có thể đàm phán trực tiếp).\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7, 08:30–18:00 (Nghỉ trưa 1h30p)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Đầy đủ các chế độ BHXH\",\n    \"Nghỉ lễ theo quy định\",\n    \"Môi trường làm việc năng động\"\n  ],\n  \"description\": \"Mô tả công việc\\n  * Hỗ trợ Ban lãnh đạo theo dõi công việc và tổng hợp báo cáo.\\n  * Phiên dịch Trung – Việt trong quá trình làm việc.\\n  * Thực hiện công tác hành chính, quản lý hồ sơ, chấm công, tính lương và thưởng.\\n  * Hỗ trợ tuyển dụng, sắp xếp lịch phỏng vấn và kết nối thông tin nội bộ.\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Tuổi 22 - 30  Cao Đẳng trở lên  Nữ  Tiếng Trung HSK 5\\n\\nYêu cầu ứng viên:\\n  * Ngoại ngữ: Tiếng Trung HSK 5 trở lên, đã tốt nghiệp Đại học/ Cao đẳng. Trình độ phiên dịch khẩu ngữ tốt.\\n  * Kinh nghiệm: Ưu tiên từng làm theo dõi đơn hàng (sales order), phản hồi tin nhắn khách hàng trên các nền tảng thương mại/mạng xã hội. Ưu tiên từng làm trợ lý tiếng Trung.\\n  * Kỹ năng: Thành thạo tin học văn phòng (Word, Excel, PowerPoint).\\n  * Độ tuổi: 22 – 30 tuổi (Nữ).\\n  * Ngoại hình: Ngoại hình khá, chỉn chu, giao tiếp tốt.\"\n}",
+  "usage": {
+    "input_tokens": 4449,
+    "output_tokens": 2254,
+    "total_tokens": 6703,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1525
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

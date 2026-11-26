@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư IT\",\n  \"company_name\": \"Công ty TNHH LITEON Việt Nam\",\n  \"job_category\": \"IT\",\n  \"sub_category\": \"IT - Phần cứng và máy tính\",\n  \"industry\": \"Sản xuất linh kiện điện tử khác\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2027-01-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-it/2319551.html\",\n  \"qualifications\": [\n    \"Cao đẳng hoặc Cử nhân trở lên\"\n  ],\n  \"technical_skills\": [\n    \"C++\",\n    \"It\",\n    \"Network\",\n    \"IT/Software\",\n    \"Windows Server\",\n    \"Cisco\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 3,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 2 - Thứ 6 & 2 ngày Thứ 7 trong tháng\",\n  \"benefits\": [\n    \"Hưởng 100% lương trong thời gian thử việc\",\n    \"Mức lương cạnh tranh\",\n    \"Nghỉ Chủ nhật + 2 Thứ Bảy/tháng\",\n    \"12 ngày phép/năm\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định\",\n    \"Môi trường chuyên nghiệp\",\n    \"Nhiều cơ hội đào tạo & phát triển lâu dài\"\n  ],\n  \"description\": \"- Lập kế hoạch, quản lý, vận hành và bảo trì phòng máy chủ.\\n- Quản lý, cấu hình và bảo trì hệ thống mạng và các thiết bị mạng như switch, firewall.\\n- Quản trị và bảo trì hệ thống cơ sở dữ liệu.\\n- Lập kế hoạch và triển khai các dự án liên quan đến hạ tầng CNTT và an toàn/bảo mật thông tin.\\n- Trực on-call và xử lý các sự cố hệ thống phát sinh.\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng hoặc Cử nhân trở lên\\n- Có từ 3-5 năm kinh nghiệm trong lĩnh vực hạ tầng CNTT, quản trị hệ thống và mạng; có kinh nghiệm với Windows Server, Cisco, quản trị cơ sở dữ liệu và xử lý sự cố. Ưu tiên có kinh nghiệm trong môi trường sản xuất.\\n- Sử dụng thành thạo tiếng Anh hoặc tiếng Trung trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4737,
+    "output_tokens": 698,
+    "total_tokens": 5435,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

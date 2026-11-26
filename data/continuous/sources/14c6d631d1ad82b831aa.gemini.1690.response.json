@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân Kiêm Bán Vé - Không Yêu Cầu Kinh Nghiệm - Làm Việc Tại Bitexco\",\n  \"company_name\": null,\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-kiem-ban-ve-khong-yeu-cau-kinh-nghiem-lam-viec-tai-bitexco/2191053.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Xử lý tình huống\",\n    \"Trách nhiệm\",\n    \"Đúng giờ\",\n    \"Chịu được áp lực công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Từ 8.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\nXoay ca:\\nCa 1: 09:30 – 18:30\\nCa 2: 13:00 – 22:00\\nNghỉ: 1 buổi/tuần (4 buổi/tháng)\",\n  \"benefits\": [\n    \"Lương: 8.500.000 VNĐ/tháng\",\n    \"Phụ cấp xăng xe: 300.000 VNĐ/tháng\",\n    \"Thưởng hiệu suất\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN\",\n    \"Thưởng Tết, các ngày lễ theo quy định công ty\",\n    \"Môi trường làm việc năng động, hiện đại tại Bitexco\"\n  ],\n  \"description\": \"• Duy trì và vận hành hoạt động hàng ngày của cửa hàng (mở/đóng ca, kiểm tra, giữ vệ sinh, hỗ trợ khách hàng) \\n• Bán vé, tư vấn và giới thiệu dịch vụ \\n• Quản lý tiền mặt, xuất hóa đơn \\n• Quay/chụp và đăng video quảng bá \\n• Làm việc với các đối tác, mở rộng kênh hợp tác và KOL/creator \\n• Thực hiện các công việc khác theo phân công của quản lý\",\n  \"requirements_text\": \"• Ngoại hình ưa nhìn, tác phong chuyên nghiệp, thân thiện \\n• Giao tiếp tốt, có kỹ năng xử lý tình huống \\n• Không sử dụng điện thoại cho việc riêng trong giờ làm \\n• Có trách nhiệm, đúng giờ, chịu được áp lực công việc \\n• Không tranh cãi với khách hàng \\n• Ưu tiên ứng viên có Tiếng Anh, Tiếng Trung giao tiếp và kinh nghiệm lễ tân/bán vé\"\n}\n```",
+  "usage": {
+    "input_tokens": 5036,
+    "output_tokens": 794,
+    "total_tokens": 5830,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

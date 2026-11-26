@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Điều Phối Xe\",\"company_name\":\"CÔNG TY TNHH Ô TÔ BẮC ÂU SÀI GÒN\",\"job_category\":\"Giám sát/Điều phối vận tải\",\"sub_category\":\"Điều phối xe\",\"industry\":\"Đại lý, môi giới, đấu giá hàng hóa\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-11\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-dieu-phoi-xe-xuong-dich-vu-o-to/2355407.html\",\"qualifications\":[\"Tốt nghiệp THPT trở lên\",\"Có giấy phép lái xe hạng B2 trở lên còn hiệu lực\"],\"technical_skills\":[\"Lái xe thành thạo\",\"Kỹ năng lùi, đỗ xe trong không gian hẹp\",\"Quản lý thời gian\",\"Hiểu biết cơ bản về ô tô\",\"Sắp xếp và điều phối lịch hẹn\"],\"soft_skills\":[\"Nhanh nhẹn\",\"Trung thực\",\"Cẩn thận\",\"Có trách nhiệm với xe và tài sản của khách hàng\",\"Phối hợp tốt với Cố vấn dịch vụ, Kỹ thuật viên\",\"Chịu được áp lực lúc cao điểm\",\"Tuân thủ kỷ luật, quy định an toàn lao động\",\"Kỹ năng làm việc nhóm\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"9 - 12 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Lương, thưởng lễ tết, lương tháng 13, thưởng hiệu quả hoạt động kinh doanh, lương năng suất tháng\",\"Phụ cấp cơm trưa;\",\"Tham gia BHXH, BH sức khỏe nhân viên và người thân, khám sức khỏe định kỳ hằng năm, du lịch định kỳ hằng năm,…\",\"Nghỉ phép năm, nghỉ lễ, nghỉ chế độ ốm đau, thai sản, ma chay - hiếu hỉ...\"],\"description\":\"Tiếp nhận lệnh sửa chữa từ Cố vấn dịch vụ/Quản đốc; xác định khoang, thứ tự và thời điểm đưa xe vào xưởng.\\nLái và luân chuyển xe vào/ra các khoang chức năng (tiếp nhận, sửa chữa chung, đồng, sơn, rửa xe, chăm sóc xe, kiểm tra cuối) theo tiến độ công việc.\\nPhối hợp Quản đốc, Kỹ thuật viên để bố trí xe hợp lý, tránh ùn tắc, tận dụng tối đa khoang làm việc.\\nĐưa xe đã hoàn thành ra khu vực giao xe; ưu tiên xe hẹn giao sớm, xe sửa gấp.\\nCập nhật vị trí, trạng thái xe trên DMS Cyber/bảng điều phối/bảng tiến độ xe.\\nThực hiện điều chuyển xe giữa các kho/bãi xe khi có yêu cầu phát sinh.\\nSắp xếp xe trong xưởng gọn gàng, đúng sơ đồ; đảm bảo lối đi, lối thoát hiểm thông thoáng.\\nTuân thủ nghiêm quy định an toàn khi lái xe trong xưởng: tốc độ, tín hiệu, khoảng cách, người đi bộ.\\nPhản ánh kịp thời sự cố, va quẹt, ùn tắc, đề xuất cải tiến quy trình luân chuyển xe.\",\"requirements_text\":\"- Tốt nghiệp THPT trở lên.\\n- Có giấy phép lái xe hạng B2 trở lên còn hiệu lực.\\n- Ưu tiên có từ 01 năm kinh nghiệm lái xe, điều phối xe hoặc làm việc tại xưởng dịch vụ/đại lý ô tô.\\n- Lái xe thành thạo; kỹ năng lùi, đỗ xe trong không gian hẹp.\\n- Nhanh nhẹn, trung thực, cẩn thận, có trách nhiệm với xe và tài sản của khách hàng.\\n- Phối hợp tốt với Cố vấn dịch vụ, Kỹ thuật viên; chịu được áp lực lúc cao điểm.\\n- Tuân thủ kỷ luật, quy định an toàn lao động.\\n\\nKiến thức ngành: Cơ khí / Tự động hóa\\nKỹ năng cần có: Quản lý thời gian, Hiểu biết cơ bản về ô tô, Sắp Xếp Và Điều Phối Lịch Hẹn\\nKỹ năng nên có: Kỹ năng làm việc nhóm\"}",
+  "usage": {
+    "input_tokens": 5266,
+    "output_tokens": 5265,
+    "total_tokens": 10531,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3930
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

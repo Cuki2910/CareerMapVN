@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": null,\n  \"industry\": \"IT - Phần mềm, Điện / Điện tử / Điện lạnh\",\n  \"category\": null,\n  \"location\": \"Đắk Lắk\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat/2259777.html\",\n  \"qualifications\": [\n    \"Trung cấp/Cao đẳng trở lên chuyên ngành Điện, Điện tử, Cơ điện, CNTT hoặc ngành liên quan\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chăm Chỉ\",\n    \"Cẩn Thận\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian linh động, xoay ca.\\nCó thể làm việc cuối tuần, Lễ/Tết theo yêu cầu công việc.\",\n  \"benefits\": [\n    \"Thưởng hiệu quả công việc.\",\n    \"Tham gia BHXH, BHYT, BHTN theo quy định.\",\n    \"Được đào tạo chuyên môn kỹ thuật rạp phim.\",\n    \"Môi trường làm việc năng động, có cơ hội phát triển chuyên môn.\"\n  ],\n  \"description\": \"Kiểm tra, vận hành hệ thống kỹ thuật, thiết bị phòng chiếu và cơ sở vật chất tại Trung tâm.\\nThực hiện lắp đặt, sửa chữa, bảo trì, bảo dưỡng thiết bị trong phạm vi chuyên môn.\\nTiếp nhận, xử lý sự cố kỹ thuật và báo cáo cấp trên khi cần thiết.\\nThực hiện chép phim, kiểm tra và test phim trước suất chiếu theo phân công.\\nQuản lý thiết bị, công cụ dụng cụ và thực hiện các công việc khác theo yêu cầu.\",\n  \"requirements_text\": \"Nam, tốt nghiệp Trung cấp/Cao đẳng trở lên chuyên ngành Điện, Điện tử, Cơ điện, CNTT hoặc ngành liên quan.\\nKhông yêu cầu kinh nghiệm. Có đào tạo cho người chưa có kinh nghiệm/ mới ra trường\\nCẩn thận, trách nhiệm, chủ động trong công việc.\\nCó thể làm ca xoay, cuối tuần và Lễ/Tết.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4759,
+    "output_tokens": 626,
+    "total_tokens": 5385,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

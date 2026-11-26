@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Tại Showroom (Part Time/ Full Time)\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng tại showroom\",\n  \"industry\": \"May mặc / Thời trang, Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Quận 10, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-tai-showroom-part-time-full-time-quan-10-ho-chi-minh/2329681.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Livestream\",\n    \"Sử dụng mạng xã hội\",\n    \"Sử dụng các sàn thương mại điện tử\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Tự tin\",\n    \"Tư vấn thuyết phục\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"6 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n 9:00-21:00\",\n  \"benefits\": [\n    \"Lương cơ bản + hoa hồng theo doanh số\",\n    \"Thưởng khi đạt hoặc vượt mục tiêu doanh số\",\n    \"Hưởng đầy đủ chế độ theo quy định của pháp luật (BHXH, BHYT)\",\n    \"Được đào tạo kỹ năng bán hàng và kiến thức về sản phẩm\",\n    \"Môi trường làm việc năng động, chuyên nghiệp, có cơ hội phát triển bản thân\",\n    \"Có hỗ trợ Data\"\n  ],\n  \"description\": \"I. MỤC TIÊU CÔNG VIỆC\\n• Đảm bảo doanh số bán hàng theo kế hoạch.\\n• Mang lại trải nghiệm mua sắm hài lòng cho khách hàng tại cửa hàng \\nII. NHIỆM VỤ CỤ THỂ\\n• Tư vấn và bán hàng tại cửa hàng: mỹ phẩm, bóp ví\\n• Đón tiếp khách hàng, tư vấn về các loại mỹ phẩm và các mẫu bóp ví phù hợp với nhu cầu.\\n• Hướng dẫn khách hàng về cách sử dụng, bảo quản sản phẩm.\\n• Quản lý hàng hóa:\\n• Sắp xếp, trưng bày sản phẩm gọn gàng, bắt mắt.\\n• Kiểm tra, theo dõi tình trạng hàng tồn kho.\\n• Chăm sóc khách hàng:\\n• Xử lý các vấn đề phát sinh tại cửa hàng (đổi trả, khiếu nại, bảo hành).\\n• Tạo thiện cảm và giữ mối quan hệ với khách hàng thân thiết.\",\n  \"requirements_text\": \"• Ứng viên có kinh nghiệm livestream hoặc biết livestream\\n• Kỹ năng:\\n• Giao tiếp tốt, tự tin, tư vấn thuyết phục.\\n• Sử dụng thành thạo mạng xã hội và các sàn thương mại điện tử.\\n• Kinh nghiệm: ứng viên đã có kinh nghiệm bán hàng thời trang, phụ kiện.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5129,
+    "output_tokens": 810,
+    "total_tokens": 5939,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

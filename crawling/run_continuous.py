@@ -15,6 +15,7 @@ from urllib.parse import urljoin, urlsplit
 from dotenv import load_dotenv
 
 import llm_extract as crawler
+from export_csv import export_csv
 from models.schemas import JobAdSchema
 
 
@@ -162,6 +163,11 @@ async def run(args, stop):
             if path.name.startswith("._"):
                 continue
             completed.add(job_id(str(JobAdSchema.model_validate(json.loads(path.read_text())).url)))
+        csv_output = (crawler.BASE_DIR.parent / "data/CareerMapVN_jobs.csv"
+                      if output == crawler.BASE_DIR.parent / "data/continuous"
+                      else output / "CareerMapVN_jobs.csv")
+        if completed:
+            export_csv(output / "jobs", csv_output)
         searches = getattr(args, "search_url", None) or ["https://www.topcv.vn/tim-viec-lam-data-analyst"]
         all_categories = getattr(args, "all_categories", False)
         if all_categories:
@@ -356,6 +362,7 @@ async def run(args, stop):
                     await wait(pause if quota or blocked else max(args.interval - (time.monotonic() - started), 1))
                     continue
                 write_json(output / "jobs" / (identifier + ".json"), data)
+                export_csv(output / "jobs", csv_output)
                 completed.add(job_id(url))
                 state["completed_total"] = len(completed)
                 state["failures"].pop(url, None)
@@ -363,7 +370,8 @@ async def run(args, stop):
                 state["status"] = "running"
                 event("job_completed", url=url, job_title=data["job_title"],
                       elapsed_seconds=round(time.monotonic() - started, 3),
-                      output=str(output / "jobs" / (identifier + ".json")), completed_total=len(completed))
+                      output=str(csv_output), source_record=str(output / "jobs" / (identifier + ".json")),
+                      completed_total=len(completed))
                 await wait(max(1, args.interval - (time.monotonic() - started)))
         except BaseException as error:
             state["status"] = "failed"

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân Fitness\",\n  \"company_name\": null,\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-fitness/1528478.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tin học cơ bản\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc nhóm\",\n    \"Quản lý thời gian\",\n    \"Giao tiếp\",\n    \"Chăm Sóc Khách Hàng\",\n    \"kỹ năng tổ chức\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"5.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca làm việc: (Xoay ca linh hoạt)\\n+ Sáng: 05h45 – 14h15 \\n+ Chiều: 13h30 – 22h00. Chiều thứ 7, CN làm đến 21h.\",\n  \"benefits\": [\n    \"Mức lương: 5.500.000/26 ngày công\",\n    \"Môi trường làm việc thân thiện, năng động. Được đào tạo thêm để nâng cao nghiệp vụ chuyên môn.\",\n    \"Hỗ trợ chi phí gửi xe tháng\",\n    \"Được cung cấp thiết bị làm việc (đồng phục, máy tính).\",\n    \"Tham gia các hoạt động khác: Liên hoan, du lịch, teambuilding,... theo quy định của Công ty.\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Trực quầy lễ tân, đón tiếp và hỗ trợ khách hàng đến sử dụng dịch vụ tại CLB.\\n- Thực hiện check-in/check-out, hướng dẫn khách hàng mới về quy định và dịch vụ của phòng tập.\\n- Hỗ trợ khách hàng trong quá trình sử dụng dịch vụ; tiếp nhận và giải đáp các thắc mắc, phản hồi của khách.\\n- Hướng dẫn khách thanh toán và phối hợp bàn giao hồ sơ, chứng từ cho các bộ phận liên quan.\\n- Theo dõi, kiểm tra cơ sở vật chất, vệ sinh và các khu vực phục vụ khách hàng, đảm bảo tiêu chuẩn vận hành của CLB.\\n- Phối hợp với các phòng ban nhằm nâng cao trải nghiệm khách hàng.\\n- Thực hiện các công việc khác theo phân công của Quản lý trực tiếp hoặc Ban Lãnh đạo.\",\n  \"requirements_text\": \"- Làm việc 26 công/tháng. Có thể làm xoay ca.\\n- Ngoại hình ưa nhìn, phong cách ăn mặc lịch sự.\\n- Kỹ năng giao tiếp tốt, nhanh nhẹn, thật thà.\\n- Biết sử dụng tin học cơ bản.\\n- Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực dịch vụ, lễ tân tòa nhà, khách sạn.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4788,
+    "output_tokens": 802,
+    "total_tokens": 5590,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

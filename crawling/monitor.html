@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CareerMapVN / Crawler Monitor</title>
+<style>
+:root{--paper:#f3f1e7;--ink:#183b31;--muted:#63736a;--line:#d4dacd;--green:#164d3d;--yellow:#f1ca61;--white:#fffef8;--red:#9a362b}
+*{box-sizing:border-box}body{margin:0;color:var(--ink);font:15px/1.5 "Trebuchet MS",sans-serif;background:radial-gradient(ellipse at 95% 0%,#dfe8d4 0,transparent 46%),var(--paper)}button,input,select{font:inherit}button,a,input,select{outline-offset:4px}button,a{touch-action:manipulation}button{cursor:pointer}button:disabled{cursor:default;opacity:.45}main{width:min(1480px,calc(100% - 48px));margin:32px auto 56px}.mono{font-family:Menlo,Consolas,monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase}.masthead{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--ink);padding-bottom:16px;gap:16px}.brand{font-weight:bold}.connection{display:flex;align-items:center;gap:9px;color:var(--muted)}.dot{width:8px;height:8px;background:var(--green);border-radius:50%;box-shadow:0 0 0 4px #164d3d13}.intro{display:flex;justify-content:space-between;align-items:end;gap:24px;margin:32px 0 24px}h1{font:normal clamp(38px,5vw,66px)/1.04 Georgia,serif;letter-spacing:-.045em;margin:8px 0 12px}p{margin:0;color:var(--muted)}.download{background:var(--ink);color:var(--white);padding:13px 20px;text-decoration:none;border-radius:4px;white-space:nowrap}.stats{display:grid;grid-template-columns:1.35fr 1fr 1fr;gap:14px;margin-bottom:20px}.card{padding:24px;border:1px solid var(--line);background:#fffef88c;border-radius:6px}.total{background:var(--green);color:var(--white);position:relative;overflow:hidden}.total:after{content:"";width:180px;height:180px;border:24px solid #ffffff0b;border-radius:50%;position:absolute;right:-60px;bottom:-80px}.number{font:normal 56px/1.1 Georgia,serif;letter-spacing:-.05em;margin:12px 0}.total p{color:#c2d7c9}.statline{margin-top:10px;font-size:13px;color:var(--muted)}.status{display:inline-flex;background:#e4eddf;padding:4px 10px;border-radius:3px;margin:14px 0 4px;font-weight:bold}.status.bad{background:#f5ddd4;color:var(--red)}.status.wait{background:#f8e8b8;color:#685213}.running-job{font-size:12px;overflow-wrap:anywhere;margin-top:10px}.workspace{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:20px}.panel{background:var(--white);border:1px solid var(--line);border-radius:6px;min-width:0}.panel-head{padding:18px 20px;border-bottom:1px solid var(--line)}h2{font:normal 25px/1.2 Georgia,serif;margin:0 0 6px}.toolbar{display:flex;gap:12px;padding:16px 20px;align-items:end;flex-wrap:wrap}.search{flex:1;min-width:160px}label{display:block;font-size:12px;color:var(--muted);margin-bottom:5px}input,select{width:100%;padding:10px;border:1px solid var(--line);background:var(--white);border-radius:3px;color:var(--ink)}.size{width:90px}.table-wrap{overflow:auto;max-height:560px;border-block:1px solid var(--line)}table{border-collapse:separate;border-spacing:0;font-size:12px;min-width:100%}th,td{text-align:left;vertical-align:top;border-bottom:1px solid var(--line);padding:12px 14px;min-width:180px;max-width:270px}th{position:sticky;top:0;background:#e9eddf;z-index:1;font:11px Menlo,monospace;white-space:nowrap}td:first-child,th:first-child{position:sticky;left:0;background:var(--white);min-width:240px;max-width:270px;box-shadow:1px 0 var(--line)}th:first-child{background:#e9eddf;z-index:2}.cell{white-space:pre-line;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}.job-button{border:0;padding:0;background:none;text-align:left;color:var(--green);font-weight:bold;text-decoration:underline;text-underline-offset:3px}.pagination{display:flex;align-items:center;justify-content:space-between;padding:14px 20px;gap:12px;color:var(--muted);font-size:12px}.page-buttons{display:flex;gap:8px}.page-buttons button,.close{padding:7px 12px;background:var(--white);border:1px solid var(--line);border-radius:3px;color:var(--ink)}.events{list-style:none;padding:0;margin:0;max-height:715px;overflow:auto}.events li{padding:13px 18px;border-bottom:1px solid var(--line)}.event-name{font-size:12px;font-weight:bold;overflow-wrap:anywhere}.event-meta{font-size:11px;color:var(--muted);margin-top:4px;overflow-wrap:anywhere}.error{background:#f5ddd4;color:var(--red);padding:12px 18px;border-radius:4px;margin-bottom:18px}.empty{padding:24px;color:var(--muted)}footer{display:flex;justify-content:space-between;gap:15px;margin-top:20px;font-size:11px;color:var(--muted)}dialog{width:min(850px,calc(100% - 32px));max-height:85vh;padding:24px;background:var(--white);border:1px solid var(--line);border-radius:6px;color:var(--ink)}dialog::backdrop{background:#10271fb3}.dialog-top{display:flex;justify-content:space-between;align-items:start;gap:18px}dl{margin-bottom:0}dt{font:11px Menlo,monospace;color:var(--muted);padding-top:16px;border-top:1px solid var(--line)}dd{margin:6px 0 18px;white-space:pre-wrap;overflow-wrap:anywhere}.reveal{animation:reveal .5s ease-out both}@keyframes reveal{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:1050px){.workspace{grid-template-columns:minmax(0,1fr)}.events{max-height:260px}}@media(max-width:650px){main{width:calc(100% - 28px);margin-top:20px}.intro{align-items:start;flex-direction:column;margin-top:24px}.stats{grid-template-columns:1fr}.card{padding:18px}.number{font-size:48px}.masthead{align-items:start;flex-direction:column;gap:9px}.pagination,footer{align-items:start;flex-direction:column}.table-wrap{max-height:440px}.download{width:100%;text-align:center}}@media(prefers-reduced-motion:reduce){.reveal{animation:none}}
+</style>
+<main>
+  <header class="masthead"><div class="brand mono">CareerMapVN / Field Notes</div><div class="connection mono"><span class="dot" id="connection-dot"></span><span id="connection">Connecting</span></div></header>
+  <section class="intro reveal"><div><span class="mono">Live collection / Vietnam</span><h1>A dataset in the making.</h1><p>Follow the crawler and explore live recruitment data.</p></div><a class="download" href="/download.csv" download>Download CSV ↓</a></section>
+  <div id="error" class="error" role="alert" hidden></div>
+  <section class="stats reveal" aria-label="Crawler statistics">
+    <article class="card total"><span class="mono">CSV records</span><div class="number" id="count">—</div><p><span id="columns">—</span> columns · <span id="file-size">—</span></p></article>
+    <article class="card"><span class="mono">Crawler / <span id="pid">PID —</span></span><div><span class="status" id="status">Checking</span></div><div class="statline" id="updated">—</div><p class="running-job" id="current-job"></p></article>
+    <article class="card"><span class="mono">Pending jobs</span><div class="number" id="pending">—</div><p class="statline"><span id="requests">—</span> API calls · <span id="provider">—</span></p><p class="statline" id="resume">This monitor does not control the crawler</p></article>
+  </section>
+  <section class="workspace reveal">
+    <article class="panel"><div class="panel-head"><h2>Dataset explorer</h2><p id="file-path">data/CareerMapVN_jobs.csv</p></div>
+      <div class="toolbar"><div class="search"><label for="search">Tìm trong tất cả cột</label><input id="search" type="search" maxlength="200" placeholder="Tên công việc, địa điểm, kỹ năng…"></div><div class="size"><label for="size">Số dòng</label><select id="size"><option>10</option><option selected>25</option><option>50</option><option>100</option></select></div></div>
+      <div class="table-wrap" tabindex="0" role="region" aria-label="Bảng CSV, cuộn ngang để xem đủ 18 cột"><table aria-label="Dữ liệu tuyển dụng"><thead id="thead"></thead><tbody id="tbody"></tbody></table><p id="empty" class="empty" hidden>Không có bản ghi phù hợp.</p></div>
+      <div class="pagination"><span id="results" aria-live="polite">Đang tải dữ liệu…</span><div class="page-buttons"><button id="previous" type="button" disabled>← Trước</button><button id="next" type="button" disabled>Sau →</button></div></div>
+    </article>
+    <aside class="panel"><div class="panel-head"><h2>Activity feed</h2><p>Recent crawler events</p></div><ol class="events" id="events"></ol></aside>
+  </section>
+  <footer><span>READ-ONLY · LOCAL MONITOR · Refreshes every 5 seconds</span><span>CSV is the source of truth; records are counted directly from the file.</span></footer>
+</main>
+<dialog id="detail" aria-labelledby="detail-title"><div class="dialog-top"><h2 id="detail-title">Chi tiết bản ghi</h2><button class="close" id="close-detail" type="button">Đóng ✕</button></div><dl id="detail-fields"></dl></dialog>
+<script>
+const byId = id => document.getElementById(id);
+const number = value => value == null ? '—' : new Intl.NumberFormat('vi-VN').format(value);
+const time = value => value ? new Date(value).toLocaleString('en-GB') : 'No updates yet';
+const labels = {starting:'Starting',crawling:'Fetching page',extracting:'Extracting',running:'Running',waiting:'Waiting',idle:'Idle',stopped:'Stopped',failed:'Failed',error:'Waiting after error'};
+let page = 1, pages = 1, timer, searchTimer, version = 0;
+function text(id, value) { byId(id).textContent = value; }
+function renderStatus(state) {
+  text('count', number(state.csv_records)); text('columns', number(state.csv_columns));
+  text('file-size', `${(state.csv_bytes / 1024 / 1024).toFixed(2)} MB`);
+  text('pending', number(state.pending_total)); text('requests', number(state.requests_total)); text('pid', `PID ${state.pid || '—'}`);
+  const status = state.worker_alive ? (labels[state.status] || state.status || 'Running') : (state.status === 'failed' ? 'Stopped after error' : 'Stopped');
+  text('status', status); byId('status').className = `status ${!state.worker_alive || state.status === 'failed' ? 'bad' : ['waiting','error','idle'].includes(state.status) ? 'wait' : ''}`;
+  text('updated', `Last status update: ${time(state.updated_at)}`); text('current-job', state.worker_alive ? (state.current_url || '') : 'The crawler process is not running.');
+  const provider = state.events.find(event => event.provider);
+  text('provider', provider ? provider.provider : 'No provider yet');
+  text('resume', state.worker_alive && state.resume_at ? `Expected to resume: ${time(state.resume_at)}` : 'Read-only monitor; crawl timing is unchanged.');
+  const events = byId('events'); events.replaceChildren();
+  for (const event of state.events) {
+    const item = document.createElement('li'), name = document.createElement('div'), meta = document.createElement('div');
+    name.className = 'event-name'; name.textContent = event.event;
+    meta.className = 'event-meta'; meta.textContent = [time(event.timestamp), event.provider, event.elapsed_seconds == null ? '' : `${event.elapsed_seconds}s`].filter(Boolean).join(' · ');
+    item.append(name, meta); events.append(item);
+  }
+  if (!state.events.length) { const item = document.createElement('li'); item.textContent = 'No events yet.'; events.append(item); }
+}
+function showDetail(row, columns) {
+  text('detail-title', row.job_title || 'Chi tiết bản ghi'); const fields = byId('detail-fields'); fields.replaceChildren();
+  for (const column of columns) { const term = document.createElement('dt'), value = document.createElement('dd'); term.textContent = column; value.textContent = row[column] || '—'; fields.append(term, value); }
+  byId('detail').showModal();
+}
+function renderJobs(data) {
+  page = data.page; pages = data.pages; const header = document.createElement('tr');
+  for (const column of data.columns) { const cell = document.createElement('th'); cell.scope = 'col'; cell.textContent = column; header.append(cell); }
+  byId('thead').replaceChildren(header); const body = byId('tbody'); body.replaceChildren();
+  for (const row of data.rows) {
+    const line = document.createElement('tr');
+    data.columns.forEach((column, index) => { const cell = document.createElement('td'), content = document.createElement(index === 0 ? 'button' : 'div'); content.className = index === 0 ? 'cell job-button' : 'cell'; content.textContent = row[column] || '—'; if (index === 0) { content.type = 'button'; content.addEventListener('click', () => showDetail(row, data.columns)); } cell.append(content); line.append(cell); });
+    body.append(line);
+  }
+  byId('empty').hidden = data.rows.length !== 0; text('results', `${number(data.total)} bản ghi · Trang ${number(page)} / ${number(pages)}`);
+  byId('previous').disabled = page <= 1; byId('next').disabled = page >= pages;
+}
+async function getJson(url) { const response = await fetch(url, {cache:'no-store'}); if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); }
+async function refresh() {
+  clearTimeout(timer); const request = ++version;
+  try {
+    const query = new URLSearchParams({q:byId('search').value, page, size:byId('size').value});
+    const [state, jobs] = await Promise.all([getJson('/api/status'), getJson(`/api/jobs?${query}`)]);
+    if (request !== version) return;
+    renderStatus(state); renderJobs(jobs); byId('error').hidden = true;
+    text('connection', `Live · ${new Date().toLocaleTimeString('en-GB')}`); byId('connection-dot').style.background = 'var(--green)';
+  } catch (error) {
+    if (request !== version) return;
+    text('connection', 'Monitor disconnected'); byId('connection-dot').style.background = 'var(--red)';
+    text('error', 'Unable to load updates. Keeping the current data on screen and retrying in 5 seconds.'); byId('error').hidden = false;
+  } finally { if (request === version) timer = setTimeout(refresh, 5000); }
+}
+byId('search').addEventListener('input', () => { clearTimeout(searchTimer); searchTimer = setTimeout(() => { page = 1; refresh(); }, 250); });
+byId('size').addEventListener('change', () => { page = 1; refresh(); });
+byId('previous').addEventListener('click', () => { if (page > 1) { page--; refresh(); } });
+byId('next').addEventListener('click', () => { if (page < pages) { page++; refresh(); } });
+byId('close-detail').addEventListener('click', () => byId('detail').close());
+refresh();
+</script>
+</html>

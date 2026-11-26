@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kế Toán Dịch Vụ - Đi Làm Ngay Tại Thủ Đức - Thu Nhập Lên Đến 15 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán / Kiểm toán / Thuế\",\n  \"sub_category\": \"Kế toán\",\n  \"industry\": \"Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-toan-dich-vu-di-lam-ngay-tai-thu-duc-thu-nhap-len-den-15-trieu/2356297.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"Phần mềm kế toán\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Có trách nhiệm\",\n    \"Kỹ năng giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Lương thỏa thuận theo năng lực\",\n    \"Thưởng\",\n    \"Đầy đủ chế độ BHXH, BHYT, BHTN\",\n    \"Được đào tạo và có cơ hội phát triển nghề nghiệp\"\n  ],\n  \"description\": \"Thu thập, kiểm tra và hạch toán chứng từ kế toán; kiểm tra hóa đơn, chứng từ.\\nTheo dõi công nợ, hàng tồn kho, tài sản cố định và công cụ dụng cụ (nếu có).\\nĐối chiếu số liệu với khách hàng định kỳ.\\nLập và nộp các tờ khai thuế, báo cáo hóa đơn, hồ sơ hoàn/miễn giảm và quyết toán thuế.\\nLập Báo cáo tài chính, quyết toán thuế, và giải trình số liệu.\\nTư vấn kế toán, thuế, BHXH; hướng dẫn hồ sơ và cập nhật quy định mới.\\nLàm việc với cơ quan thuế, chuẩn bị hồ sơ giải trình, hỗ trợ thanh tra và theo dõi kết quả.\",\n  \"requirements_text\": \"Tốt nghiệp Cao đẳng/Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.\\nThành thạo Excel và phần mềm kế toán.\\nCẩn thận, trung thực, có trách nhiệm; kỹ năng giao tiếp tốt.\\nCó kinh nghiệm kế toán dịch vụ là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4838,
+    "output_tokens": 756,
+    "total_tokens": 5594,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

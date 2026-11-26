@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên PG OUTLET\",\n  \"company_name\": null,\n  \"job_category\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"sub_category\": \"Kinh doanh kênh MT\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-pg-outlet/2345850.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp tốt\",\n    \"Sự tự tin và trung thực trong công việc\",\n    \"Thái độ cầu tiến, sẵn sàng học hỏi\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca sáng: 7h – 16h00 (nghỉ 1 tiếng ăn)\\nCa chiều: 13h00 – 22h00 (nghỉ 1 tiếng ăn)\\nNghỉ 4 ngày/tháng + 1 ngày phép\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Bảo hiểm y tế\",\n    \"Bảo hiểm thất nghiệp\",\n    \"Thưởng tháng 13\",\n    \"Thưởng doanh số\",\n    \"Thâm niên\",\n    \"Môi trường làm việc thân thiện\",\n    \"Đào tạo bài bản về sản phẩm & kỹ năng bán hàng\",\n    \"Hỗ trợ thêm tiền xăng đi lại, tiền ăn, phí gửi xe (nếu có)\"\n  ],\n  \"description\": \"Tư vấn và thuyết phục khách hàng mua sản phẩm  \\nTrưng bày, sắp xếp hàng hóa trên kệ  \\nVệ sinh sản phẩm, quầy kệ  \\nBáo cáo hình ảnh sự kiện qua Zalo  \\nHỗ trợ quản lý gian hàng thực hiện các Event tại các siêu thị\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Tuổi 18 - 35  Trung học phổ thông (Cấp 3) trở lên  Nữ  Có phương tiện di chuyển\\nCó phương tiện di chuyển \\nKỹ năng giao tiếp tốt. \\nSự tự tin và trung thực trong công việc \\nThái độ cầu tiến, sẵn sàng học hỏi \\nĐộ tuổi từ 18–30 (Nữ)\"\n}\n```",
+  "usage": {
+    "input_tokens": 5001,
+    "output_tokens": 699,
+    "total_tokens": 5700,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

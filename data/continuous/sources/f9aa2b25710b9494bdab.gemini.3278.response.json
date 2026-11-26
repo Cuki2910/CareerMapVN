@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thủ Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Trưởng kho/Giám sát kho\",\n  \"sub_category\": \"Logistic / Vận tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-kho/2353840.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Quản Lý Xuất Nhập Tồn\",\n    \"Kiểm Kê Hàng Hóa\",\n    \"ecount\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"cẩn thận\",\n    \"có tinh thần trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 17 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Từ thứ 2 đến sáng thứ 7: 8h00 - 17h00\\nTừ sáng thứ 2 đến sáng thứ 7: 8h00 - 12h00\",\n  \"benefits\": [\n    \"Tham gia BHXH, BHYT, BHTN theo quy định của pháp luật.\",\n    \"Thưởng hiệu quả công việc, thưởng lễ tết theo chính sách Công ty.\",\n    \"Môi trường làm việc: Trẻ trung, năng động, có cơ hội học hỏi và phát triển trong lĩnh vực logistics.\",\n    \"Hoạt động nội bộ: Tham gia các chương trình team building, year-end party, sinh nhật, sự kiện kết nối nhân viên.\"\n  ],\n  \"description\": \"1. Tiếp nhận hàng hóa nhập kho, kiểm tra số lượng, chất lượng theo chứng từ\\n2. Thực hiện việc xuất kho theo kế hoạch của điều hành, đảm bảo đúng số lượng, chủng loại\\n3. Cập nhật dữ liệu xuất – nhập kho vào hệ thống ecount\\n4. Sắp xếp hàng hóa trong kho khoa học, an toàn, theo dõi và báo cáo kịp thời các vấn đề liên quan đến hàng hóa trong kho\\n5. Kiểm kê kho định kỳ hoặc theo yêu cầu\\n6. Đảm bảo an toàn, vệ sinh kho\\n7. Quản lý, điều động bốc xếp trong ca làm việc\\n8. Các công việc khác theo yêu cầu\\nBáo cáo công việc trực tiếp cho Quản lý kho\",\n  \"requirements_text\": \"1. Tốt nghiệp Trung cấp trở lên.\\n2. Có kinh nghiệm trong lĩnh vực xuất nhập kho.\\n3. Ưu tiên ứng viên biết lái xe nâng.\\n4. Trung thực, cẩn thận, có tinh thần trách nhiệm trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4711,
+    "output_tokens": 732,
+    "total_tokens": 5443,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

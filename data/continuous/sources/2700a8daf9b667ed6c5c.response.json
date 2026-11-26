@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật - Sửa Chữa Xe Tải\",\n  \"company_name\": null,\n  \"job_category\": \"Kỹ thuật\",\n  \"sub_category\": \"Sửa Chữa Xe Tải\",\n  \"industry\": \"Công nghệ kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-sua-chua-xe-tai-luong-20-25-trieu-thu-viec-100-luong-di-lam-ngay/2343344.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"động cơ\",\n    \"Sửa chữa xe tải nặng\",\n    \"hộp số\",\n    \"sửa chữa xe tải trung\",\n    \"kỹ thuật xe tải\",\n    \"cầu xe\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"20 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Thưởng tháng, thưởng quý, thưởng năm\",\n    \"Phụ cấp xăng xe, điện thoại, laptop\",\n    \"Phúc lợi các dịp lễ tết, sinh nhật\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"Cơ hội được đào tạo nâng cao trình độ tại Bắc Kinh, Trung Quốc\",\n    \"Ăn trưa\",\n    \"Cước điện thoại\",\n    \"Được cấp Điện thoại, Máy tính\",\n    \"Thử việc 100% lương\"\n  ],\n  \"description\": \"- Xử lý các vấn đề kỹ thuật tại hiện trường liên quan đến xe, động cơ, hộp số, cầu xe ...\\n- Xác nhận, phối hợp, xử lý các vấn đề khó, nghiêm trọng hoặc phát sinh hàng loạt hiện trường.\\n- Hỗ trợ kỹ thuật từ xa cho đại lý dịch vụ, khách hàng đầu cuối.\\n- Phối hợp với cấp trên để cung cấp hướng dẫn và hỗ trợ kỹ thuật nhằm xử lý khiếu nại của khách hàng đầu cuối.\",\n  \"requirements_text\": \"- Có từ 3 năm kinh nghiệm trở lên trong lĩnh vực sửa chữa xe tải trung, tải nặng.\\n- Không yêu cầu bằng cấp tối thiểu\\n- Ứng viên có kinh nghiệm sẽ nhận việc ngay\"\n}\n```",
+  "usage": {
+    "input_tokens": 5154,
+    "output_tokens": 731,
+    "total_tokens": 5885,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

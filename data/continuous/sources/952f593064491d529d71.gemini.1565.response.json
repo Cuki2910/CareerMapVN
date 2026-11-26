@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân May\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN CÔNG NGHIỆP FEDERAL BAY\",\n  \"job_category\": \"May mặc / Thời trang\",\n  \"sub_category\": \"Thợ may\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Tây Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-may/2351867.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"Siêng năng\",\n    \"Sức Khỏe Tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8.5 - 13 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"- Trực tiếp may hoàn thiện hoặc may công đoạn các sản phẩm theo sự phân công trên chuyền sản xuất.\\n- Đảm bảo đường may đúng tiêu chuẩn kỹ thuật, đường kim mũi chỉ đẹp và đạt năng suất định mức.\\n- Thực hiện các công việc phụ trợ sản xuất như: cắt chỉ, gấp xếp, đóng gói, phân loại bán thành phẩm, đơm nút, phụ chuyền...\\n- Được hướng dẫn và đào tạo công việc trực tiếp khi vào làm.\",\n  \"requirements_text\": \"- Nam/Nữ có sức khỏe tốt, chăm chỉ, siêng năng.\\n- Tuân thủ quy định an toàn lao động và kỷ luật nhà xưởng.\\n- Ưu tiên: Ứng viên có kinh nghiệm thao tác máy may công nghiệp (đối với vị trí công nhân tay nghề may).\"\n}\n```",
+  "usage": {
+    "input_tokens": 4711,
+    "output_tokens": 537,
+    "total_tokens": 5248,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

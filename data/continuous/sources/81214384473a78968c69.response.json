@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kỹ Thuật Đội Xe\",\"company_name\":null,\"job_category\":\"Logistic / Vận tải\",\"sub_category\":\"Dịch vụ vận tải khác\",\"industry\":\"Logistic / Vận tải\",\"category\":null,\"location\":\"Hồ Chí Minh: 16 đường số 15, KCX Linh Trung, Thủ Đức, Phường Linh Xuân\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-29\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-doi-xe/2345743.html\",\"qualifications\":[\"Tốt nghiệp Trung cấp/Cao đẳng trở lên chuyên ngành Cơ khí ô tô, Công nghệ kỹ thuật ô tô hoặc các ngành liên quan.\"],\"technical_skills\":[\"Kiến thức cơ bản về cấu tạo, nguyên lý hoạt động và kỹ thuật sửa chữa, bảo dưỡng ô tô\",\"Kiểm tra, đánh giá tình trạng phương tiện\",\"Nhận biết các lỗi kỹ thuật và đề xuất phương án xử lý\"],\"soft_skills\":null,\"languages_required\":null,\"experience_required\":1,\"salary\":\"12 - 15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nTừ thứ 2 đến sáng thứ 7: 8h00 - 17h00\\nTừ sáng thứ 2 đến sáng thứ 7: 8h00 - 12h00\",\"benefits\":[\"Phúc lợi: Tham gia BHXH, BHYT, BHTN theo quy định của pháp luật.\",\"Thưởng: Thưởng hiệu quả công việc, thưởng lễ tết theo chính sách Công ty.\",\"Môi trường làm việc: Trẻ trung, năng động, có cơ hội học hỏi và phát triển trong lĩnh vực logistics.\",\"Hoạt động nội bộ: Tham gia các chương trình team building, year-end party, sinh nhật, sự kiện kết nối nhân viên.\"],\"description\":\"1. Trợ lý kỹ thuật, bảo trì, bảo dưỡng\\n- Tư vấn, hỗ trợ Quản lý Đội xe và tài xế các vấn đề liên quan đến kỹ thuật và tình trạng vận hành của phương tiện.\\n- Theo dõi lịch bảo trì, bảo dưỡng định kỳ của từng phương tiện; chủ động nhắc lịch đến Quản lý Đội xe/tài xế.\\n- Theo dõi quá trình bảo dưỡng, xem xét phiếu sửa chữa và tư vấn hạng mục bảo dưỡng.\\n- Đánh giá tình trạng thực tế của xe, đề xuất phương án xử lý đối với các xe thường xuyên phát sinh lỗi hoặc có chi phí sửa chữa cao.\\n- Quản lý hồ sơ kỹ thuật, lịch sử sửa chữa và tình trạng hoạt động của từng phương tiện.\\n2. Quản lý tài sản\\n- Thực hiện kiểm tra định kỳ/đột xuất tình trạng phương tiện, bao gồm ngoại quan, nội thất, lốp, đèn, còi, camera và các hạng mục liên quan.\\n- Kiểm tra tình trạng và số lượng các vật dụng, trang thiết bị được cấp phát cho từng phương tiện. Lập biên bản bản ghi nhận các trường hợp mất mát, hư hỏng hoặc trầy, bẩn xe.\\n- Theo dõi thời hạn đăng kiểm, bảo hiểm, giấy tờ phương tiện và các yêu cầu pháp lý liên quan đến điều kiện lưu hành.\\n3. An toàn đội xe\\n- Kiểm tra việc thực hiện quy trình kiểm tra an toàn: làm bài kiểm tra an toàn trước vận hành, quy trình bật công tắc an toàn, quy trình giờ làm việc và dừng nghỉ của lái xe và các quy định an toàn khác của công ty.\\n- Theo dõi hệ thống định vị, kịp thời phát hiện và cảnh báo các trường hợp có dấu hiệu bất thường hoặc nguy cơ mất an toàn trong quá trình vận hành.\\n- Theo dõi, xử lý báo cáo sự cố xe, xử lý sự cố, tai nạn\\n- Tổ chức tối thiểu 01 buổi đào tạo hoặc hướng dẫn kỹ năng lái xe an toàn mỗi tháng cho đội ngũ tài xế.\",\"requirements_text\":\"Tốt nghiệp Trung cấp/Cao đẳng trở lên chuyên ngành Cơ khí ô tô, Công nghệ kỹ thuật ô tô hoặc các ngành liên quan.\\nCó tối thiểu 01 năm kinh nghiệm ở vị trí kỹ thuật ô tô, bảo trì – bảo dưỡng phương tiện hoặc các công việc liên quan đến quản lý đội xe.\\nCó kiến thức cơ bản về cấu tạo, nguyên lý hoạt động và kỹ thuật sửa chữa, bảo dưỡng ô tô.\\nCó khả năng kiểm tra, đánh giá tình trạng phương tiện, nhận biết các lỗi kỹ thuật và đề xuất phương án xử lý.\\nKiến thức ngành: Logistic / Vận tải\"}",
+  "usage": {
+    "input_tokens": 5399,
+    "output_tokens": 4331,
+    "total_tokens": 9730,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2814
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

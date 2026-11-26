@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho (Biết Tiếng Trung) - Hợp Đồng 1 Năm\",\n  \"company_name\": \"LX PANTOS VIETNAM\",\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Xuất nhập khẩu / Hải quan\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-18\",\n  \"url\": \"https://www.topcv.vn/brand/lxpantos/tuyen-dung/nhan-vien-kho-biet-tieng-trung-hop-dong-1-nam-j2335180.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"MS Outlook\",\n    \"MS Office\"\n  ],\n  \"soft_skills\": [\n    \"Chủ động trong công việc\",\n    \"giao tiếp tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc: 8:00 - 17:00, thứ 2 - thứ 6. 2 buổi sáng thứ 7 làm tại nhà mỗi tháng.\\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nWorking time: Mon - Thu: 8:00 - 18:00, Fri: 08:00 - 17:00\",\n  \"benefits\": [\n    \"Mức lương hấp dẫn\",\n    \"Môi trường làm việc thuần lành, không toxic, không drama\",\n    \"Sếp và đồng nghiệp rất hỗ trợ và thân thiện\",\n    \"Thưởng: Lương tháng 13\",\n    \"BHXH, BHYT, BHTN đóng full lương\",\n    \"12 ngày nghỉ phép, 2 ngày nghỉ hè\"\n  ],\n  \"description\": \"1. Vận hành kho\\n  * Giám sát nhân viên kho của nhà cung cấp.\\n  * Đảm bảo các hoạt động nhận hàng, lưu kho, soạn hàng, đóng gói và xuất hàng được thực hiện chính xác và đúng thời hạn.\\n\\n2. Quản lý tồn kho\\n  * Xây dựng và duy trì quy trình kiểm soát tồn kho.\\n  * Giảm thiểu chênh lệch, sai lệch hàng tồn kho và đảm bảo tính chính xác của dữ liệu tồn kho.\\n\\n3. An toàn và tuân thủ\\n  * Duy trì môi trường làm việc sạch sẽ, an toàn trong kho.\\n  * Đảm bảo các thiết bị được vận hành đúng quy trình và an toàn.\\n\\n4. Báo cáo\\n  * Đảm bảo tính chính xác của dữ liệu phục vụ công tác chốt số liệu cuối tháng (monthly cut-off) và lập hóa đơn (billing).\\n  * Thực hiện các báo cáo vận hành theo yêu cầu.\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học\\n- Biết tiếng Trung (chủ yếu đọc và viết)\\n- Có 1-2 năm kinh nghiệm làm kho \\n- Biết sử dụng MS Outlook, MS Office\\n- Chủ động trong công việc, giao tiếp tốt\"\n}\n```",
+  "usage": {
+    "input_tokens": 4508,
+    "output_tokens": 838,
+    "total_tokens": 5346,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

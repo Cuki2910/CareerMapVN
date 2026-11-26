@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật\",\n  \"company_name\": null,\n  \"job_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"sub_category\": \"Sửa chữa/Bảo trì điện tử/viễn thông\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat/2362682.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên chuyên ngành Điện, Kỹ thuật Điện, Điện lạnh, sửa chữa ô tô\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Từ 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc theo ca\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định và có cơ hội thăng tiến\",\n    \"Được đào tạo và phát triển các kỹ năng phù hợp với vị trí công việc\",\n    \"Thu nhập tương xứng với trình độ và kết quả công việc\",\n    \"Ký HĐLĐ, đóng BHXH, BHYT, BHTN và hưởng đầy đủ các quyền lợi theo quy định của Nhà nước\",\n    \"Trang bị đầy đủ đồng phục, bảo hộ lao động, phương tiện bảo vệ cá nhân\",\n    \"Được tham gia các tổ chức Chính trị, Chính trị xã hội\",\n    \"Được mua bảo hiểm chăm sóc sức khỏe toàn diện\",\n    \"Miễn phí ăn giữa ca\",\n    \"Ăn trưa\"\n  ],\n  \"description\": \"- Theo dõi tình trạng hoạt động của máy móc, trang thiết bị, hệ thống kỹ thuật và nhà xưởng trong ca trực;\\n- Thực hiện kiểm tra, sửa chữa, bảo dưỡng máy móc, trang thiết bị và hệ thống kỹ thuật theo phân công;\\n- Vận hành, theo dõi hệ thống xử lý nước thải, khí thải và các hệ thống phụ trợ khác theo đúng quy trình;\\n- Ghi nhận, báo cáo kịp thời sự cố kỹ thuật phát sinh và phối hợp xử lý theo\",\n  \"requirements_text\": \"- Nam giới;\\n- Tốt nghiệp Trung cấp trở lên chuyên ngành Điện, Kỹ thuật Điện, Điện lạnh, sửa chữa ô tô;\\n- Có tối thiểu 01 năm kinh nghiệm ở các vị trí tương đương.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4626,
+    "output_tokens": 687,
+    "total_tokens": 5313,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

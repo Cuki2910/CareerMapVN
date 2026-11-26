@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Giao Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"sub_category\": null,\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"CN2, KCN Từ Liêm, Phường Xuân Phương, Nam Từ Liêm, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-giao-hang/1874280.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Quản lý thời gian\",\n    \"Lái Xe An Toàn\",\n    \"Thông Thạo Đường Phố\",\n    \"Giao Tiếp Cơ Bản\",\n    \"Sử Dụng Bản Đồ Ứng Dụng Định Vị\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Thật thà\",\n    \"Có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"12 - 16 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Lương cứng từ 9tr (lương cơ bản + phụ cấp chuyên cần + hỗ trợ khác) + lương KPI tính theo % giá trị đơn hàng giao được trong tháng\",\n    \"Tham gia du xuân/nghỉ mát/teambuilding… hàng năm\",\n    \"Thưởng tháng lương thứ 13, các ngày lễ…\",\n    \"Tham gia BHXH, BHYT đầy đủ theo quy định\"\n  ],\n  \"description\": \"- Giao hàng bằng xe máy hoặc đi theo xe ô tô của công ty để giao hàng cho khách\\n- Nhận đơn hàng và phiếu giao hàng từ điều phối/thủ kho\\n- Xếp, dỡ hàng hóa, chở hàng đúng quy cách\\n- Bảo quản tốt hàng hóa khi giao\\n- Bảo quản tốt tài sản, công cụ, dụng cụ trong công tác giao hàng\\n- Giao hàng cho khách hàng đảm bảo chất lượng hàng hóa, kịp thời về thời gian đúng địa điểm.\\n- Để khách hàng kiểm tra và ký nhận sản phẩm, thu tiền hàng hóa theo hóa đơn (nếu có) và nộp lại cho NV điều phối kho\\n- Cập nhật tiến độ giao hàng, các tình huống phát sinh nhanh chóng cho quản lý trực tiếp và các bộ phận liên quan để xử lý.\",\n  \"requirements_text\": \"- Nam, có giấy phép lái xe máy và xe máy để giao hàng\\n- Sức khỏe tốt, nhanh nhẹn \\n- Trung thực, thật thà, có trách nhiệm với công việc \\n- Thông thạo đường xá Hà Nội\"\n}\n```",
+  "usage": {
+    "input_tokens": 4754,
+    "output_tokens": 775,
+    "total_tokens": 5529,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,60 @@
+{
+  "job_title": "Chuyên Viên Chính Kiến Trúc Hệ Thống (Senior System Engineer)",
+  "company_name": "TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI",
+  "job_category": "IT - Phần mềm",
+  "sub_category": "System Engineer",
+  "industry": "Sửa chữa, bảo dưỡng máy móc, thiết bị",
+  "category": null,
+  "location": "Phường Cầu Giấy (Phường Cầu Giấy thuộc quận Cầu Giấy cũ), Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-20",
+  "url": "https://www.topcv.vn/viec-lam/chuyen-vien-chinh-kien-truc-he-thong-senior-system-engineer/2363056.html",
+  "qualifications": [
+    "Có chứng chỉ AWS Certified Solutions Architect – Professional, chứng chỉ ảo hoá/private cloud (VMware VCP, OpenStack), TOGAF hoặc IASA CITA-Professional.",
+    "Tốt nghiệp ĐH trở lên chuyên ngành CNTT, KHMT, Kỹ thuật phần mềm, Kỹ thuật máy tính, Hệ thống thông tin hoặc liên quan."
+  ],
+  "technical_skills": [
+    "System Design",
+    "Solution Architecture",
+    "Microservices, Event-Driven, Monolith, Serverless",
+    "Hạ tầng on-premise/private cloud: VMware, OpenStack, KVM, Docker, Kubernetes, cân bằng tải, firewall, phân vùng mạng, SAN/NAS, object storage",
+    "AWS: EC2, EKS/ECS, Lambda, VPC, API Gateway, CloudFront, RDS/Aurora, DynamoDB, ElastiCache, S3, SQS/SNS, Kinesis/MSK, IAM, KMS, WAF",
+    "AWS Well-Architected Framework",
+    "Hybrid cloud, HA/DR đa data center, multi-AZ/multi-region",
+    "Tự động hoá hạ tầng: Terraform, Ansible, CloudFormation/CDK",
+    "Capacity planning và tối ưu chi phí",
+    "Kiến trúc phân tán: CQRS, Saga, Event Sourcing, Circuit Breaker, sharding, partitioning, caching nhiều tầng, high-concurrency, rate limiting",
+    "Bảo mật hệ thống: Zero Trust, quản lý định danh và phân quyền, mã hoá, quản lý khoá, tiêu chuẩn tuân thủ",
+    "Lập trình (ưu tiên Java, Golang), xây dựng PoC và review code",
+    "Viết tài liệu kiến trúc: C4 model, UML, ADR"
+  ],
+  "soft_skills": [
+    "Tư duy chiến lược",
+    "Trình bày và thuyết phục lãnh đạo",
+    "Đề xuất giải pháp gắn với mục tiêu kinh doanh",
+    "Xử lý các yêu cầu phức tạp, chưa rõ ràng hoặc mâu thuẫn"
+  ],
+  "languages_required": [
+    "Tiếng Anh (đọc hiểu; tiếng Anh tốt)"
+  ],
+  "experience_required": 8.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",
+  "benefits": [
+    "Mức thu nhập thoả thuận theo năng lực, cạnh tranh thị trường",
+    "Được hưởng các khoản quà, thưởng lễ tết, nghỉ mát hỗ trợ ăn trưa, điện thoại liên lạc tối thiểu 2.000$/năm và các chế độ thưởng theo dự án, mức độ thành công của các sản phẩm nghiên cứu.",
+    "Được hưởng 12 ngày nghỉ phép và 15 ngày nghỉ hưởng nguyên lương gồm 11 ngày nghỉ lễ tết, 3 ngày nghỉ mát và 1 ngày sáng tạo hàng năm.",
+    "Được hưởng các chế độ BHXH, BHYT và BHTN theo Quy định và chế độ bảo hiểm riêng của Tập Đoàn Viettel.",
+    "Được cử đi đào tạo, nâng cao trình độ chuyên môn và kỹ năng phục vụ công việc trong và ngoài nước.",
+    "Bảo hiểm xã hội, Team building, Du lịch hàng năm, Thưởng tháng 13, Thưởng hiệu quả làm việc",
+    "Phụ cấp",
+    "Ăn trưa, Cước điện thoại"
+  ],
+  "description": "- Định hướng kiến trúc: Chịu trách nhiệm kiến trúc tổng thể cho hệ sinh thái sản phẩm (Superapp, thanh toán, loyalty, OTT, mạng xã hội, cloud, AI); xây dựng chiến lược, roadmap công nghệ và kiến trúc trung - dài hạn.\n- Thiết kế giải pháp tổng thể: Phân tích yêu cầu nghiệp vụ, kỹ thuật; xây dựng sơ đồ kiến trúc, luồng dữ liệu, lựa chọn công nghệ; đảm bảo các hệ thống tương thích, dữ liệu luân chuyển thông suốt.\n- Thiết kế giải pháp hạ tầng:\n+ Trên cả on-premise/private cloud và public cloud (AWS), hybrid khi phù hợp, cho hệ thống hàng chục triệu người dùng.\n+ Đảm bảo hiệu năng, khả năng mở rộng, tính sẵn sàng cao, dự phòng thảm hoạ (đa data center, multi-region), bảo mật, tối ưu chi phí.\n- Giải quyết bài toán quy mô lớn: high-concurrency, realtime (chat, call, livestream, newsfeed), giao dịch tài chính đảm bảo nhất quán dữ liệu, tích/đổi điểm, nền tảng mini-app.\n- Ra quyết định công nghệ: Đánh giá, lựa chọn công nghệ, giải pháp (build/buy), đối tác; chủ trì review và phê duyệt thiết kế của các nhóm.\n- Nghiên cứu và thử nghiệm: Nghiên cứu công nghệ mới (AI/GenAI, data platform); thực hiện PoC chứng minh tính khả thi trước khi triển khai.\n- Xây dựng tiêu chuẩn: Nguyên tắc kiến trúc, tiêu chuẩn kỹ thuật, tiêu chuẩn bảo mật và tuân thủ (PCI DSS, bảo vệ dữ liệu cá nhân).\n- Tài liệu và vận hành: Lập tài liệu kiến trúc tổng thể, thiết kế tích hợp, quyết định kiến trúc; lập kế hoạch năng lực và tối ưu chi phí hạ tầng.\n- Dẫn dắt và phối hợp: Hướng dẫn đội ngũ kiến trúc, tech lead; trình bày giải pháp với BGĐ; phối hợp các team phát triển, DevOps, An toàn thông tin, khối kinh doanh và đối tác.",
+  "requirements_text": "Must-have:\n- Tối thiểu 8 năm kinh nghiệm phát triển phần mềm, trong đó tối thiểu 4 năm ở vai trò kiến trúc sư giải pháp/hệ thống; đã thiết kế và vận hành thành công hệ thống quy mô hàng triệu người dùng.\n- Nắm vững nhiều mô hình kiến trúc (Microservices, Event-Driven, Monolith, Serverless), áp dụng phù hợp với bối cảnh; thiết kế được kiến trúc tổng thể cho hệ thống lớn, phức tạp.\n- Hiểu biết chuyên sâu hạ tầng on-premise/private cloud: ảo hoá và quản lý máy ảo (VMware, OpenStack, KVM), container (Docker, Kubernetes), mạng (cân bằng tải, firewall, phân vùng mạng), lưu trữ (SAN/NAS, object storage).\n- Hiểu biết chuyên sâu public cloud AWS: compute (EC2, EKS/ECS, Lambda), mạng (VPC, API Gateway, CloudFront), dữ liệu (RDS/Aurora, DynamoDB, ElastiCache, S3), messaging (SQS/SNS, Kinesis/MSK), bảo mật (IAM, KMS, WAF); nắm vững AWS Well-Architected Framework.\n- Thiết kế hybrid cloud, HA/DR đa data center, multi-AZ/multi-region; tự động hoá hạ tầng (Terraform, Ansible, CloudFormation/CDK); capacity planning và tối ưu chi phí.\n- Chuyên sâu kiến trúc phân tán: CQRS, Saga, Event Sourcing, Circuit Breaker; sharding, partitioning, caching nhiều tầng, high-concurrency, rate limiting.\n- Kiến thức sâu về bảo mật hệ thống: Zero Trust, quản lý định danh và phân quyền, mã hoá, quản lý khoá, tiêu chuẩn tuân thủ.\n- Hiểu sâu nghiệp vụ: Đề xuất giải pháp gắn với mục tiêu kinh doanh; xử lý được các yêu cầu phức tạp, chưa rõ ràng hoặc mâu thuẫn.\n- Nền tảng lập trình vững (ưu tiên Java, Golang), có khả năng tự xây dựng PoC và review code.\n- Tư duy chiến lược, trình bày và thuyết phục lãnh đạo; viết tài liệu kiến trúc (C4 model, UML, ADR); tiếng Anh tốt.\nNice-to-have:\n- Ưu tiên kinh nghiệm thiết kế hệ thống cho hàng chục triệu khách hàng trên các nền tảng: Superapp/MiniApp, thanh toán/ví điện tử, loyalty, OTT (Chat, Call, Livestream), mạng xã hội (newsfeed, social graph, notification).\n- Có chứng chỉ AWS Certified Solutions Architect – Professional, chứng chỉ ảo hoá/private cloud (VMware VCP, OpenStack), TOGAF hoặc IASA CITA-Professional.\n- Có kinh nghiệm chuyển đổi hệ thống giữa on-premise và cloud; DevSecOps, observability (ELK, Prometheus, Grafana); nền tảng AI/GenAI, data platform, IoT.\nBằng cấp:\n- Tốt nghiệp ĐH trở lên chuyên ngành CNTT, KHMT, Kỹ thuật phần mềm, Kỹ thuật máy tính, Hệ thống thông tin hoặc liên quan.\nKiến thức ngành\nIT - Phần mềm\nKỹ năng cần có\nJava, AWS, Golang, Microservices, System Design, Solution Architecture\nKỹ năng nên có\nPayment, Social Network, OTT, AI/GenAI, Superapp, loyalty, IOT"
+}

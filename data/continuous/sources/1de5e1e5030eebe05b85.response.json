@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Trực Cửa Hàng Giặt Sấy Part Time (Nhận Sinh Viên)\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-truc-cua-hang-giat-say-part-time-nhan-sinh-vien/2351006.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\",\n    \"Trung cấp - cao đẳng - đại học\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\",\n    \"Sử Dụng Máy Tính\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Tư Vấn Khách Hàng\",\n    \"trách nhiệm\",\n    \"trung thực\",\n    \"chủ động trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"part-time\",\n  \"working_hours\": \"Hào Nam, Nguyễn Tuân làm việc từ 17h-22h; Đội Cấn làm từ 12 - 17h Có hỗ trợ xoay ca linh hoạt với các ca sáng - chiều - tối (có nhu cầu nghỉ phép chỉ cần báo trước để sắp xếp xoay ca linh hoạt)\",\n  \"benefits\": [\n    \"Nhận lương 20 - 25K/ giờ\",\n    \"Công việc tương đối nhẹ nhàng, không yêu cầu kinh nghiệm chuyên môn.\",\n    \"Môi trường làm việc ổn định, được hướng dẫn quy trình vận hành máy.\",\n    \"Phù hợp với người muốn tìm công việc trực cửa hàng, hỗ trợ khách hàng và quản lý cơ sở vật chất.\"\n  ],\n  \"description\": \"Trực cửa hàng giặt sấy\\nTư vấn cho khách hàng có nhu cầu giặt hay sấy, tiếp nhận đồ và cho vào máy giặt hoặc máy sấy và trả hàng cho khách.\\nTheo dõi tình trạng hoạt động của máy móc, kịp thời báo lại khi có sự cố.\\nThực hiện các công việc quản lý cửa hàng theo hướng dẫn.\\nTan ca đóng / khóa cửa hàng cẩn thận.\",\n  \"requirements_text\": \"Nhận sinh viên đang học trung cấp - cao đẳng - đại học\\nNữ, có trách nhiệm, trung thực, chủ động trong công việc.\\nBiết sử dụng máy tính và tin học văn phòng cơ bản.\\nGiao tiếp tốt, có khả năng tư vấn khách hàng ở mức cơ bản.\\nKhông yêu cầu kinh nghiệm, được hướng dẫn công việc khi nhận việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4960,
+    "output_tokens": 739,
+    "total_tokens": 5699,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

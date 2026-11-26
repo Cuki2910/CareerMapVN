@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Hành Chính (Nam - Biết Tiếng Trung)\",\"company_name\":null,\"job_category\":\"Hành chính / Nhân sự\",\"sub_category\":\"Hành chính tổng hợp\",\"industry\":null,\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-29\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-hanh-chinh-nam-biet-tieng-trung/2345114.html\",\"qualifications\":[\"Đại Học trở lên\",\"Tốt nghiệp Đại học chuyên ngành Quản trị kinh doanh, Luật hoặc Ngôn Ngữ Trung\"],\"technical_skills\":[\"Sử dụng tốt Excel (thống kê, đối chiếu dữ liệu lớn)\",\"Đọc hiểu hợp đồng\",\"Kiến thức về các loại Hợp đồng thuê, Hợp đồng thi công\"],\"soft_skills\":[\"Kỹ năng giao tiếp tốt\",\"Kỹ năng quản lý thời gian\",\"Chịu được áp lực tiến độ\",\"Cẩn thận, chủ động, xử lý được nhiều đầu việc song song\"],\"languages_required\":[\"Tiếng Trung giao tiếp\"],\"experience_required\":1,\"salary\":\"10.000.000 – 12.000.000\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Thưởng tháng 13\",\"Mức lương: 10.000.000 – 12.000.000\",\"Thưởng lễ, Tết, tháng 13; xét tăng lương định kỳ.\",\"BHXH, BHYT, BHTN đầy đủ theo quy định.\",\"Môi trường trẻ, hệ thống đang mở rộng nhanh, cơ hội phát triển\"],\"description\":\"Hỗ trợ các công việc liên quan đến triển khai phát triển các dự án mới của công ty.\\nLàm việc với Trung tâm thương mại (TTTM) để tiếp nhận thông tin về mặt bằng thuê, hợp đồng thuê của cửa hàng.\\nTheo dõi tiến độ, hỗ trợ toàn diện từ giai đoạn chào thuê đến khi cửa hàng chính thức mở cửa hoạt động.\\nPhối hợp làm việc với đơn vị nhà thầu thi công cửa hàng, hoàn thiện hồ sơ và ký kết các hợp đồng thi công cho cửa hàng mới.\\nThực hiện kiểm tra định kỳ các hồ sơ và tài liệu cho thuê để đảm bảo tính đầy đủ và chính xác.\\nKịp thời xử lý các phát sinh kỹ thuật giữa nhà thầu và Ban quản lý TTTM trong suốt quá trình thi công.\\nKiểm tra đối chiếu thông tin lô hàng nhập khẩu\\nHỗ trợ các công việc hành chính theo yêu cầu của cấp trên.\",\"requirements_text\":\"1 năm kinh nghiệm chuyên môn\\nĐại Học trở lên\\nNam\\nTiếng Trung Giao tiếp cơ bản\\nTốt nghiệp Đại học chuyên ngành Quản trị kinh doanh, Luật hoặc Ngôn Ngữ Trung\\nKỹ năng giao tiếp tốt.\\nCó khả năng đọc hiểu hợp đồng, có kiến thức về các loại Hợp đồng thuê, Hợp đồng thi công,... là một lợi thế.\\nKỹ năng quản lý thời gian và chịu được áp lực tiến độ.\\nNgoại ngữ: tiếng Trung giao tiếp\\nSử dụng tốt Excel (thống kê, đối chiếu dữ liệu lớn).\\nCẩn thận, chủ động, xử lý được nhiều đầu việc song song.\"}",
+  "usage": {
+    "input_tokens": 5094,
+    "output_tokens": 4767,
+    "total_tokens": 9861,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3708
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

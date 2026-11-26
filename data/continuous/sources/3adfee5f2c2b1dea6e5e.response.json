@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kế Hoạch Sản Xuất\",\n  \"company_name\": \"Công ty Cổ phần Nhựa Zion\",\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Kế hoạch sản xuất\",\n  \"industry\": \"Sản xuất sản phẩm từ plastic\",\n  \"category\": null,\n  \"location\": \"Số 12, Đường 10 KCN, Đô thị & Dịch vụ VSIP, Xã Đại Đồng (Xã Đại Đồng thuộc huyện Tiên Du cũ), Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-hoach-san-xuat/2360659.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Cao đẳng hoặc Đại học các chuyên ngành liên quan.\"\n  ],\n  \"technical_skills\": [\n    \"Thành thạo Word\",\n    \"Thành thạo Excel\",\n    \"Kế hoạch sản xuất\",\n    \"Quản lý kho\",\n    \"Kiến thức ngành: Kế toán, Nhân sự, Kiểm toán\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Kỹ năng giải quyết vấn đề\",\n    \"Kỹ năng làm việc nhóm\",\n    \"kỹ năng phân tích\",\n    \"Kỹ Năng Lập Kế Hoạch\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 13 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\n- Từ T2-t7, nghỉ 2 T7/tháng\\n- Nghỉ 2 thứ 7 và 4 chủ nhật/ tháng\",\n  \"benefits\": [\n    \"Nghỉ 2 thứ 7 và 4 chủ nhật/ tháng\",\n    \"Thưởng Tết và thưởng cống hiến, du lịch,...\",\n    \"Tham gia bảo hiểm xã hội đầy đủ\",\n    \"Cơ hội học hỏi và phát triển nghề nghiệp.\",\n    \"Chế độ đãi ngộ hấp dẫn.\"\n  ],\n  \"description\": \"- Theo dõi, thống kê và tính toán nguyên vật liệu cho sản xuất.\\n- Lập kế hoạch sản xuất một cách hiệu quả.\\n- Cập nhật dữ liệu sản xuất bao gồm số lượng, tiến độ, nhân sự chạy máy,…để làm kế hoạch sản xuất cho hiệu quả\",\n  \"requirements_text\": \"Tổng quan — Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Cao Đẳng trở lên  Nữ\\n\\nYêu cầu ứng viên\\n- Giới tính: Nữ, từ 22-38 tuổi.\\n- Tốt nghiệp Cao đẳng hoặc Đại học các chuyên ngành liên quan.\\n- Có kinh nghiệm trong các vị trí liên quan đến lập kế hoạch, quản lý kho tại các công ty sản xuất.\\n- Thành thạo Word, Excel\\n\\nKiến thức ngành\\nKế toán, Nhân sự, Kiểm toán\\n\\nKỹ năng cần có\\nKỹ năng giao tiếp, Kỹ năng giải quyết vấn đề, Kỹ năng làm việc nhóm, kỹ năng phân tích, Kỹ Năng Lập Kế Hoạch\"\n}",
+  "usage": {
+    "input_tokens": 4601,
+    "output_tokens": 765,
+    "total_tokens": 5366,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

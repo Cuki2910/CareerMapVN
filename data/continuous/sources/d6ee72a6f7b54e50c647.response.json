@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Trợ Lý Tiếng Trung - Lương Từ 13 -15 Triệu\",\n  \"company_name\": \"CÔNG TY TNHH QUẢNG CÁO TRUYỀN THÔNG CANARY\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": \"Quảng cáo\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tro-ly-tieng-trung-luong-tu-13-15-trieu/2355161.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tiếng Trung (nghe, nói, đọc)\",\n    \"Phiên dịch\",\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"13 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 09:00 đến 18:00)\",\n  \"benefits\": [\n    \"Làm việc trực tiếp với quản lý người Trung Quốc, nâng cao kỹ năng giao tiếp và sử dụng tiếng Trung trong môi trường thực tế\",\n    \"Có cơ hội học hỏi, phát triển kỹ năng và tích lũy kinh nghiệm làm việc\",\n    \"Hưởng đầy đủ các chế độ theo quy định\"\n  ],\n  \"description\": \"## Mô tả công việc\\nPhiên dịch tiếng Trung – tiếng Việt trong công việc hằng ngày;\\nBiên dịch tài liệu, hỗ trợ trao đổi giữa quản lý với bộ phận Edit trong quá trình triển khai công việc;\\nTheo dõi tiến độ, tổng hợp và báo cáo công việc theo yêu cầu;\\nThực hiện các công việc khác theo sự phân công của quản lý( Nếu có).\\n\\n## Quyền lợi ứng viên\\nLàm việc trực tiếp với quản lý người Trung Quốc, nâng cao kỹ năng giao tiếp và sử dụng tiếng Trung trong môi trường thực tế;\\nCó cơ hội học hỏi, phát triển kỹ năng và tích lũy kinh nghiệm làm việc;\\nHưởng đầy đủ các chế độ theo quy định.\\n\\n## Địa điểm và thời gian\\n### Địa điểm làm việc\\n* **Hồ Chí Minh:** Số 61 đường số 41, Phường Khánh Hội (Phường Khánh Hội thuộc Quận 4 cũ)\\n\\n### Thời gian làm việc\\n* Thứ 2 - Thứ 7 (từ 09:00 đến 18:00)\",\n  \"requirements_text\": \"Tiếng Trung tốt (nghe, nói, đọc);\\nCó khả năng phiên dịch tốt;\\nTin học văn phòng cơ bản;\\nKhông yêu cầu kinh nghiệm, biết edit cơ bản sẽ được ưu tiên.\"\n}",
+  "usage": {
+    "input_tokens": 4183,
+    "output_tokens": 1821,
+    "total_tokens": 6004,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1117
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

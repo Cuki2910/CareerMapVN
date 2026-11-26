@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Part Time Biết Tiếng Anh. Lương 30K/H + Hoa Hồng, Lương Upto 10 Triệu/Tháng. Đi Làm Ngay\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Telesales / Direct Sales\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG, May mặc / Thời trang\",\n  \"category\": null,\n  \"location\": \"9 Hàng Mành, Phường Hoàn Kiếm, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-part-time-biet-tieng-anh-luong-30k-h-hoa-hong-luong-upto-10-trieu-thang-di-lam-ngay/2364655.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Tư vấn\",\n    \"Đàm phán\",\n    \"Thuyết phục\",\n    \"Nhanh nhẹn\",\n    \"Chủ động\",\n    \"Trách nhiệm\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0.0,\n  \"salary\": \"8 - 10 triệu /giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"part-time\",\n  \"working_hours\": \"Thời gian làm việc linh hoạt : Chọn 1 trong các ca sau : + Ca sáng: 9H-13H + Ca chiều: 14H-18H + Ca chiếu tối ( ca gãy ): 16H-20H ( Thời gian làm việc linh hoạt . Cửa hàng có thể sắp xếp lại lịch làm khi phỏng vấn đối với ứng viên Part time)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\"\n  ],\n  \"description\": \"-Tư vấn, sản phẩm âu phục May Đo ( Suit, Vest, Quần Âu, Sơ mi ) cho khách hàng. Chăm sóc khách hàng đúng sản phẩm, nhu cầu của khách. \\n- Sắp xếp, trưng bày hàng hóa.\\n- Theo dõi và cập nhật tồn kho, hỗ trợ kiểm kê định kỳ.\\n- Làm các công việc hỗ trợ cho quản lý cửa hàng.\",\n  \"requirements_text\": \"- Yêu cầu quan trọng : Giao tiếp được tiếng Anh cơ bản; Nếu khả năng giao tiếp tiếng anh tốt sẽ là ưu thế về mức lương + thưởng. Được đào tạo thêm về Tiếng Anh chuyên ngành May mặc & Bespoke Tailoring. \\n- Chiều cao > 1m60 đối với Nam ; > 1m55 đối với nữ\\n- Không có kinh nghiệm sẽ được đào tạo.\\n- Ngoại hình sáng. \\n- Có kỹ năng tư vấn, đàm phán và thuyết phục khách hàng tốt.\\n- Giao tiếp tự tin, nhanh nhẹn, chủ động, trách nhiệm và luôn đặt trải nghiệm khách hàng lên hàng đầu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5468,
+    "output_tokens": 796,
+    "total_tokens": 6264,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

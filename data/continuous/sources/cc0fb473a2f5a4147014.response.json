@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng - Chăm Sóc Khách Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Chăm sóc khách hàng\",\n  \"industry\": \"Bán hàng mỹ phẩm\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-cham-soc-khach-hang/1642035.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vi tính văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Thuyết phục\",\n    \"Xử lý tình huống\",\n    \"Giao tiếp\",\n    \"Chăm Sóc Khách Hàng\",\n    \"Bán Hàng\",\n    \"Làm việc độc lập\",\n    \"Làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\nCa 1: 9:00-18:00  \\nCa 2: 14:00-22:00  \\nmỗi ca nghỉ trưa 1 tiếng (12:00 và 17:00)  \\nTháng OFF 2 ngày\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Lương cơ bản 6-7tr + hoa hồng\",\n    \"Hỗ trợ cơm trưa tại văn phòng\",\n    \"Thưởng lễ, tết, team building theo chính sách công ty\",\n    \"Đóng BHXH theo quy định\",\n    \"Nghỉ phép và nghỉ lễ theo quy định\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Trực tiếp trả lời các thắc mắc, yêu cầu của khách hàng qua các kênh online (fanpage,zalo,...) của công ty.\\n- Cung cấp tư vấn thông tin về sản phẩm.\\n- Lên đơn hàng và quản lý công nợ khách hàng của bạn.\\n- Hỗ trợ khách hàng giải quyết các vấn đề phát sinh liên quan đến sản phẩm/dịch vụ.\\n- Theo dõi và xử lý các phản hồi của khách hàng trên các kênh online.\\n- Thường xuyên cập nhật thông tin sản phẩm/dịch vụ mới và các chương trình khuyến mãi.\\n- Báo cáo công việc hàng ngày/tuần cho quản lý.\",\n  \"requirements_text\": \"Yêu cầu ứng viên:\\n- Kinh nghiệm: Không yêu cầu kinh nghiệm, được đào tạo bài bản.\\n- Có laptop cá nhân.\\n- Có khả năng giao tiếp tốt, giọng nói dễ nghe, rõ ràng.\\n- Khả năng xử lý tình huống tốt, nhanh nhẹn, hoạt bát.\\n- Có tinh thần trách nhiệm cao, thái độ làm việc tích cực.\\n- Thành thạo vi tính văn phòng.\\n- Khả năng làm việc độc lập và làm việc nhóm tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5036,
+    "output_tokens": 809,
+    "total_tokens": 5845,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Nhập Liệu Khai Thác Bưu Chính\",\n  \"company_name\": null,\n  \"job_category\": \"Bưu chính\",\n  \"sub_category\": \"Nhân Viên Nhập Liệu\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nhap-lieu-khai-thac-buu-chinh/2261795.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"Sử Dụng Các Phần Mềm Quản Lý Dữ Liệu\",\n    \"Khả Năng Sử Dụng Máy Tính Thành Thạo\",\n    \"Nhập Liệu Chính Xác\",\n    \"Khả Năng Gõ Nhanh Và Chính Xác\",\n    \"Làm Việc Với Phần Mềm Quản Lý Dữ Liệu\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Nhiệt tình\",\n    \"Trách nhiệm\",\n    \"Cẩn thận\",\n    \"Chịu được áp lực trong công việc\",\n    \"Chính Xác\",\n    \"Tỉ Mỉ Trong Công Việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Thời gian làm việc đăng ký làm theo ca cố định:   \\n+ Từ Thứ 2 đến Thứ 7.  \\n+ Ca chiều từ: 15h00 -> 22h00  \\n- Thứ 7 ít việc về sớm hơn ngày thường.  \\n- Chủ nhật, các ngày lễ Tết nghỉ theo quy định.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"BHYT\",\n    \"BHTN\",\n    \"BHXH\",\n    \"Thăm quan nghỉ mát hằng năm\",\n    \"Sinh nhật theo tháng\",\n    \"Hưởng phúc lợi các ngày lễ, tết\"\n  ],\n  \"description\": \"- Phân loại, khai thác bưu phẩm theo nghiệp vụ chuyên môn của lĩnh vực dịch vụ chuyển phát bưu chính.  \\n- Nhập liệu, kiểm soát xử lý trên Excel, phần mềm Công ty.  \\n- Thực hiện công việc được giao theo sự phân công, hướng dẫn của bộ phận quản lý.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm: sẽ được đào tạo khi làm việc  \\n- Kỹ năng vi tính: Thành thạo Excel, thao tác đánh máy nhanh  \\n- Nhanh nhẹn, nhiệt tình, trách nhiệm, cẩn thận, chịu được áp lực trong công việc.  \\n- Tốt nghiệp trung cấp trở lên.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5135,
+    "output_tokens": 778,
+    "total_tokens": 5913,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Mua Hàng Kiêm Trợ Lý Tiếng Trung - Hà Nam\",\n  \"company_name\": null,\n  \"job_category\": \"Thu mua/Mua hàng\",\n  \"sub_category\": \"Nhân viên mua hàng\",\n  \"industry\": \"Sản xuất, Công nghệ kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Ninh Bình\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-mua-hang-kiem-tro-ly-tieng-trung-ha-nam/2360633.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tiếng Trung\",\n    \"Hành Chính Nhân Sự\",\n    \"Phiên Dịch\",\n    \"Mua Hàng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Làm việc nhóm\",\n    \"Chủ động\",\n    \"Cẩn thận\",\n    \"Sẵn sàng học hỏi\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Thứ Hai đến Thứ Bảy: 08:00 – 17:00 (Nghỉ trưa 1 giờ)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"BHYT\",\n    \"BHTN theo quy định của pháp luật\",\n    \"Lương tháng 13\",\n    \"Thưởng các dịp Lễ, Tết\",\n    \"Được đào tạo và có cơ hội phát triển nghề nghiệp\"\n  ],\n  \"description\": \"- Tìm kiếm nhà cung cấp, thu thập và so sánh báo giá.\\n寻找供应商,收集并比较报价。\\n- Hỗ trợ đặt hàng, theo dõi tiến độ giao hàng và quản lý hồ sơ mua hàng.\\n协助下单、跟进交货进度及管理采购档案。\\n- Phối hợp với các bộ phận liên quan để đảm bảo hoạt động mua hàng diễn ra thuận lợi.\\n与相关部门协调,确保采购工作顺利进行。\\n- Hỗ trợ các công việc hành chính, nhân sự và phiên dịch tiếng Trung – tiếng Việt khi cần thiết.\\n根据需要协助行政、人事工作及中越双语翻译。\\n- Thực hiện các công việc khác theo sự phân công của cấp trên.\\n完成上级安排的其他工作。\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học trở lên; chấp nhận sinh viên mới tốt nghiệp.\\n大学本科及以上学历,欢迎应届毕业生应聘。\\n- Giao tiếp tiếng Trung tốt; biết tiếng Anh cơ bản là một lợi thế.\\n具备良好的中文沟通能力,懂基础英语者优先。\\n- Có trách nhiệm, chủ động, cẩn thận và sẵn sàng học hỏi.\\n工作认真负责、积极主动、细心,并愿意学习。\\n- Có khả năng phối hợp và làm việc nhóm tốt.\\n具备良好的沟通协调能力和团队合作精神。\"\n}\n```",
+  "usage": {
+    "input_tokens": 5068,
+    "output_tokens": 824,
+    "total_tokens": 5892,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh / Tư Vấn Bán Hàng - Xe Tải, Xe Đầu Kéo | Lương Cứng 20-30 Triệu + Hoa Hồng\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân Viên Kinh Doanh\",\n  \"sub_category\": \"Tư Vấn Bán Hàng\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tu-van-ban-hang-xe-tai-xe-dau-keo-luong-cung-20-30-trieu-hoa-hong/2363934.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Công nghệ kỹ thuật ô tô\",\n    \"Quản trị kinh doanh\",\n    \"Marketing\"\n  ],\n  \"technical_skills\": [\n    \"Tìm kiếm khách hàng\",\n    \"Đàm phán\",\n    \"Giao tiếp\",\n    \"Bán Hàng\",\n    \"thuyết phục\"\n  ],\n  \"soft_skills\": [],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"20 - 60 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Du lịch hàng năm\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Khám sức khỏe định kỳ\",\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Cước điện thoại\",\n    \"Xăng xe\",\n    \"Lương thử việc bằng 100% lương chính thức\",\n    \"Thưởng tháng, thưởng năm\",\n    \"Phụ cấp xăng xe, điện thoại, laptop; phúc lợi các dịp lễ tết, sinh nhật, khám sức khỏe, bảo hiểm tai nạn 24/7 ....\",\n    \"Có cơ hội tham gia đào tạo ở Bắc Kinh, Trung Quốc\"\n  ],\n  \"description\": \"- Tìm kiếm, gặp gỡ, khảo sát, xây dựng quan hệ với khách hàng tiềm năng có nhu cầu sử dụng xe tải nhẹ / xe tải nặng / xe đầu kéo.\\n- Quản lý, chăm sóc khách hàng hiện có.\\n- Kết nối với đại lý để triển khai đơn hàng.\\n- Hỗ trợ chuẩn bị tài liệu, báo cáo, hợp đồng liên quan.\\n- Báo cáo định kỳ về tình hình, tiến độ phát triển kênh khách hàng.\\n- Hỗ trợ thực hiện các hoạt động marketing.\",\n  \"requirements_text\": \"- Có kinh nghiệm kinh doanh xe tải nhẹ / xe tải nặng / xe đầu kéo.\\n- Sẵn sàng đi công tác.\\n- Ưu tiên chuyên ngành liên quan như công nghệ kỹ thuật ô tô, quản trị kinh doanh, marketing v.v...\"\n}\n```",
+  "usage": {
+    "input_tokens": 5672,
+    "output_tokens": 783,
+    "total_tokens": 6455,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

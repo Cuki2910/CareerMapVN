@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Truyền Thông - Marketing\",\n  \"company_name\": \"Công ty CP Tramexco\",\n  \"job_category\": \"Marketing\",\n  \"sub_category\": \"Content Marketing\",\n  \"industry\": \"Lắp đặt hệ thống xây dựng khác\",\n  \"category\": null,\n  \"location\": \"113 Trường Thi, Phường Hạc Thành (Phường Hạc Thành thuộc Thành phố Thanh Hóa cũ), Thanh Hóa\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-22\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-truyen-thong-marketing/2143707.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp chính quy CĐ, ĐH chuyên ngành truyền thông, marketing\"\n  ],\n  \"technical_skills\": [\n    \"Biết chạy Ads cơ bản (ưu tiên)\",\n    \"Biết sử dụng phần mềm Canva, Photoshop (ưu tiên)\",\n    \"Biết setup, triển khai các mini show (ưu tiên)\"\n  ],\n  \"soft_skills\": [\n    \"Khả năng giao tiếp tốt\",\n    \"Chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\\nLương cứng: 8 Triệu+ /tháng + Lương KPI + % chốt đơn.\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:00 đến 17:00)\\nMùa Hè: 7h00 - 17h00 (Nghỉ trưa: 11h30 - 13g30, nghỉ trưa 2 tiếng)\\nMùa đông: 7h30 - 17h00 ( nghỉ trưa 1 tiếng 30')\",\n  \"benefits\": [\n    \"Lương cứng: 8 Triệu+ /tháng + Lương KPI + % chốt đơn.\",\n    \"Được tham gia đầy đủ các chế độ Bảo hiểm theo quy định của pháp luật: Bảo hiểm y tế, bảo hiểm xã hội, bảo hiểm thất nghiệp.... và các chế độ khác theo quy định của Nhà nước và công ty.\"\n  ],\n  \"description\": \"- Xây dựng kế hoạch và triển khai nội dung truyền thông trên các kênh: Website, Facebook, TikTok, Zalo,...\\n- Quản lý và phát triển các nền tảng truyền thông của công ty\\n- Phối hợp với các bộ phận liên quan để triển khai các chiến dịch marketing\\n- Theo dõi, phân tích và báo cáo hiệu quả các chiến dịch quảng cáo, truyền thông.\\nƯu tiên:\\n- Biết chạy Ads cơ bản\\n- Biết sử dụng phần mềm Canva, Photoshop.\\n- Biết setup, triển khai các mini show.\",\n  \"requirements_text\": \"- Nam, nữ tuổi đời dưới 30 tuổi, có sức khỏe, lý lịch rõ ràng.\\n- Ngoại hình khá, khả năng giao tiếp tốt và chịu được áp lực công việc.\\n- Trình độ chuyên môn: Tốt nghiệp chính quy CĐ, ĐH chuyên ngành truyền thông, marketing\\n- Đã có kinh nghiệm 1-2 năm ở vị trí tương đương\"\n}",
+  "usage": {
+    "input_tokens": 4507,
+    "output_tokens": 748,
+    "total_tokens": 5255,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

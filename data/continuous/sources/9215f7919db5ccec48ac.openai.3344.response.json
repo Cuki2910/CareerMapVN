@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Kế Toán Thuế\",\n  \"company_name\": \"CÔNG TY TNHH THIẾT BỊ VẠN AN\",\n  \"job_category\": \"Kế toán/Kiểm toán/Thuế\",\n  \"sub_category\": \"Kế toán thuế\",\n  \"industry\": \"Bán buôn máy móc, thiết bị và phụ tùng máy khác\",\n  \"category\": null,\n  \"location\": \"02LK46 KĐT Phu Lương, Phường Phú Lương (Phường Phú Lương thuộc quận Hà Đông cũ), Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-thue/2348207.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp đại học chuyên ngành kế toán\"\n  ],\n  \"technical_skills\": [\n    \"MISA SME\",\n    \"Office\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"15 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Hình thức làm việc: Làm việc tại văn phòng / Onsite\\nTừ thứ 2 đến thứ 6: Làm việc tại văn phòng\\nSáng thứ 7: Làm việc online\",\n  \"benefits\": [\n    \"BHXH, BHYT đầy đủ theo luật;\",\n    \"Thưởng Lễ/Tết, tháng lương 13, thưởng theo hiệu quả kinh doanh;\",\n    \"Nghỉ phép năm, nghỉ lễ Tết theo quy định;\",\n    \"Du lịch, team building và các hoạt động nội bộ\"\n  ],\n  \"description\": \"- Hạch toán phần hành kế toán thuế, Báo cáo GTGT, BCTC, TNCN, TNDN... Ưu tiên đã có kinh nghiệm tham gia quyết toán thuế;\\n- Hạch toán lương, BHXH, khấu hao TSCĐ, CCDC, chi phí trả trước;\\n- Hạch toán hóa đơn đầu vào – đầu ra, lập hóa đơn;\\n- Kê khai, nộp hồ sơ thuế hàng tháng, quý, năm, quyết toán thuế;\\n- Đưa ra ý kiến tư vấn cho trưởng phòng, BLĐ Công ty về các chính sách thuế mới;\\n- Làm việc với cơ quan thuế khi phát sinh;\\n- Cập nhật chính sách thuế và đảm bảo tuân thủ quy định;\\n- Các công việc kế toán theo yêu cầu quản lý.\",\n  \"requirements_text\": \"Tổng quan\\nYêu cầu:\\n3 năm kinh nghiệm chuyên môn  Đại Học trở lên  Nữ\\nChuyên môn:\\nChuyên môn Kế toán/Kiểm toán/Thuế khác  Thuế  Kế toán  Kiểm toán\\n\\nYêu cầu ứng viên\\n- Tốt nghiệp đại học chuyên ngành kế toán, đã có kinh nghiệm làm kế toán thuế từ 3 năm trở lên;\\n- Cẩn thận, trung thực, có trách nhiệm;\\n- Thành thạo sử dụng phần mềm kế toán Misa, office.\\nKiến thức ngành\\nThuế, Kế toán, Kiểm toán\\nKỹ năng cần có\\nOffice, MISA SME\"\n}",
+  "usage": {
+    "input_tokens": 4630,
+    "output_tokens": 784,
+    "total_tokens": 5414,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

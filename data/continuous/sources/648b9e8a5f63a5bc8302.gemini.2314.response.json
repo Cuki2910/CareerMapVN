@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Lao Động Phổ Thông Tại Siêu Thị (Thời Vụ Tết 2027)\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/lao-dong-pho-thong-tai-sieu-thi-thoi-vu-tet-2027/2361736.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Chịu khó\",\n    \"Sức Khỏe Tốt\",\n    \"Tuân Thủ Kỷ Luật\",\n    \"Chịu được áp lực cao\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"6 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thời vụ\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\nCa sáng từ 07:00 - 15:00\\nCa chiều từ 14:00 - 22:00\\nCa xếp luân phiên theo yêu cầu đơn vị.\",\n  \"benefits\": [\n    \"Lương cơ bản\",\n    \"Phụ cấp: tiền cơm, phụ cấp đặc thù theo chức danh\"\n  ],\n  \"description\": \"- Hỗ trợ sắp xếp, trưng bày, kiểm đếm và bổ sung hàng hóa tại khu vực được phân công.\\n- Hỗ trợ bán hàng, tư vấn và phục vụ khách hàng trong quá trình mua sắm.\\n- Thực hiện các công việc thu ngân, đóng gói quà, soạn hàng và chuẩn bị đơn hàng theo sự phân công.\\n- Hỗ trợ nhập hàng, xuất hàng, vận chuyển và sắp xếp hàng hóa trong kho.\\n- Đảm bảo vệ sinh, trật tự và an toàn tại khu vực làm việc.\\n- Thực hiện các công việc khác theo hướng dẫn của quản lý.\",\n  \"requirements_text\": \"- Nam/Nữ, có sức khỏe tốt.\\n- Trung thực, chăm chỉ, nhanh nhẹn.\\n- Chịu khó học hỏi, tiếp thu công việc.\\n- Có thể làm việc theo ca 6–8 tiếng/ngày.\\n- Có tinh thần trách nhiệm và phối hợp tốt với đồng nghiệp.\\nTHỜI GIAN LÀM VIỆC\\n- Từ 07/12/2026 đến 04/02/2027.\\n- Một số vị trí bắt đầu từ 04/01/2027.\\n- Đồng phục: Áo sơ mi trắng, quần tây xanh/xanh đen (tự trang bị).\"\n}\n```",
+  "usage": {
+    "input_tokens": 5118,
+    "output_tokens": 761,
+    "total_tokens": 5879,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trợ Lý Kinh Doanh Tiếng Trung\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-kinh-doanh-tieng-trung/2320298.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"12 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)\",\n  \"benefits\": [\n    \"Thời gian nghỉ: 4–6 ngày/tháng\",\n    \"Lương: 10-20 triệu/tháng\",\n    \"Hưởng đầy đủ quyền lợi theo quy định của pháp luật\",\n    \"Thưởng các dịp lễ tết\"\n  ],\n  \"description\": \"1. Phát triển và chăm sóc khách hàng Việt Nam.\\n2. Thực hiện công việc biên dịch và phiên dịch tiếng Trung – tiếng Việt.\\n3. Tham gia các chuyến công tác và hoạt động thương mại.\\n4. Phối hợp, điều phối và theo dõi các công việc khác có liên quan của công ty.\",\n  \"requirements_text\": \"1. Trình độ học vấn: Tốt nghiệp đại học trở lên.\\n2. Yêu cầu ngoại ngữ: Thành thạo 4 kỹ năng nghe, nói, đọc, viết tiếng Trung (HSK 5).\\n3. Ưu tiên ứng viên có khả năng giao tiếp bằng tiếng Anh.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4712,
+    "output_tokens": 533,
+    "total_tokens": 5245,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Điều Xe Chở Nhân Viên Tuyến KCN\",\"company_name\":\"CÔNG TY CỔ PHẦN DƯỢC PHẨM GIMEDI\",\"job_category\":\"Logistic / Vận tải\",\"sub_category\":\"Giám sát/Điều phối vận tải\",\"industry\":\"Logistic / Vận tải\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-dieu-xe-cho-nhan-vien-tuyen-kcn/2362299.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Tin học văn phòng\",\"Google Maps\",\"Điều hành xe\"],\"soft_skills\":[\"Nhanh nhẹn\",\"Giao tiếp tốt\",\"Có trách nhiệm trong công việc\"],\"languages_required\":null,\"experience_required\":2,\"salary\":\"15 - 18 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:20 đến 17:30); Lên chính thức Nghỉ 2 thứ 7/ tháng.\",\"benefits\":[\"Cung cấp thiết bị làm việc: máy tính, điện thoại\",\"BHXH và phúc lợi đầy đủ\",\"Công việc ổn định, lâu dài. Thưởng Tết, thưởng hiệu quả công việc.\"],\"description\":\"- Nhận lịch xe từ khách hàng\\n- Sắp xếp, điều phối lịch xe, lái xe đưa đón CBCNV, người nước ngoài và các chuyến xe trip lẻ\\n- Theo dõi, vận hành và xử lý các vấn đề phát sinh trước – trong – sau khi xe chạy\\n- Chấm công xe và lái xe theo tháng\\n- Nhập liệu thanh toán chứng từ xe và bill để gửi khách (sẽ được đào tạo)\\n- Các công việc khác theo yêu cầu của cấp trên\",\"requirements_text\":\"- Nữ/Nam, từ 25 - 35 tuổi, đã tốt nghiệp từ Cao đẳng trở lên\\n- Đã có kinh nghiệm điều hành, điều phối vận tải các mảng từ 2 năm\\n- Sử dụng thành thạo tin học văn phòng, gg maps\\n- Nhanh nhẹn, giao tiếp tốt và có trách nhiệm trong công việc\\n\\nKiến thức ngành: Logistic / Vận tải\\nKỹ năng cần có: Điều Hành Xe, Sử dụng Google Maps\\nKỹ năng nên có: Điều Hành Xe, Quản Lý Và Điều Hành Xe, Kinh nghiệm điều hành xe\"}",
+  "usage": {
+    "input_tokens": 4721,
+    "output_tokens": 2762,
+    "total_tokens": 7483,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2018
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,47 @@
+{
+  "job_title": "Business Analyst (BA AI)",
+  "company_name": null,
+  "job_category": "Business Analyst (Phân tích nghiệp vụ)",
+  "sub_category": "BA AI",
+  "industry": "IT - Phần mềm, Bán lẻ - Hàng tiêu dùng - FMCG",
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-10",
+  "url": "https://www.topcv.vn/viec-lam/business-analyst-ba-ai/2354381.html",
+  "qualifications": [
+    "Tốt nghiệp đại học khối Công nghệ thông tin, Hệ thống thông tin quản lý, Kế toán, Kinh tế hoặc ngành liên quan."
+  ],
+  "technical_skills": [
+    "Excel",
+    "Google Sheets",
+    "Claude",
+    "ChatGPT",
+    "Lark Approval",
+    "Lark Base"
+  ],
+  "soft_skills": [
+    "Giao tiếp tốt",
+    "Tư duy quy trình"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 2.0,
+  "salary": "16-25 triệu/ tháng, Phụ cấp ăn trưa, thưởng lễ tết, lương tháng thứ 13",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)\n* Mon - Fri (checkin 7h30 -8h30, check out 17h30-18h30)",
+  "benefits": [
+    "Thu nhập: 16-25 triệu/ tháng, Phụ cấp ăn trưa, thưởng lễ tết, lương tháng thứ 13",
+    "Chế độ sinh nhật, ốm đau, hiếu hỉ, thai sản, bảo hiểm sức khỏe cho nhân viên có thâm niên…",
+    "Môi trường làm việc thân thiện, năng động, đồng nghiệp nhiệt tình.",
+    "Tham gia các chương trình đào tạo nội bộ/ khóa học nâng cao nghiệp vụ",
+    "Xét duyệt tăng lương định kỳ hàng năm."
+  ],
+  "description": "1. Khảo sát và phân tích quy trình\n- Làm việc trực tiếp với từng bộ phận, ghi lại quy trình đang làm (as-is), chỉ ra các thao tác lặp đi lặp lại, điểm nghẽn, chỗ dễ sai sót.\n- Đo thời gian và khối lượng việc thủ công để chọn việc nào tự động hóa trước.\n- Vẽ quy trình mới với vai trò rõ ràng: phần AI làm, phần bot làm, phần người duyệt.\n2. Thiết kế giải pháp AI và bot\n- Viết yêu cầu nghiệp vụ, user story, tiêu chí nghiệm thu cho từng bot, luồng tự động và skill AI.\n- Thiết kế câu lệnh (prompt), mẫu xử lý và quy tắc phân loại cho AI\n- Xác định trigger (khi có tiền vào, có email hóa đơn, đơn hàng hoàn tất, người dùng yêu cầu) và lịch chạy định kỳ.\n- Thiết kế luồng duyệt trên Lark Approval, cấu trúc bảng trên Lark Base, menu và thao tác nhanh của bot Lark.\n3. Dữ liệu và báo cáo\n- Xác định nguồn dữ liệu, trường dữ liệu, quy tắc ghép mã SKU – kênh – chiến dịch quảng cáo.\n- Định nghĩa chỉ số và mẫu báo cáo: doanh thu, số đơn, hủy/hoàn theo kênh; chi phí quảng cáo, ROAS, chi phí/đơn; dòng tiền ngày.\n- Kiểm tra số liệu báo cáo tự động so với số liệu kế toán và số liệu trên sàn.\n4. Triển khai, kiểm thử, nghiệm thu\n- Phối hợp với kỹ sư AI/bot và kỹ sư dữ liệu trong quá trình xây dựng; trả lời câu hỏi nghiệp vụ.\n- Viết kịch bản kiểm thử, chạy thử với dữ liệu thật, tổ chức nghiệm thu với bộ phận sử dụng.\n- Theo dõi lỗi, ngoại lệ, tỷ lệ AI xử lý đúng sau khi chạy thật và đề xuất điều chỉnh.\n5. Đào tạo và hỗ trợ người dùng\n- Viết hướng dẫn sử dụng ngắn gọn, đào tạo nhân viên dùng bot và Claude AI trong công việc hằng ngày.\n- Thu thập phản hồi, gom các thao tác lặp lại mới thành yêu cầu tự động hóa tiếp theo.\n6. Quản lý tài liệu và tiến độ\n- Duy trì danh sách hạng mục, mức ưu tiên, tiến độ; báo cáo định kỳ cho Trưởng phòng Công nghệ.\n- Lưu trữ tài liệu quy trình, quy tắc dữ liệu, thư viện skill AI để dùng lại và mở rộng.",
+  "requirements_text": "- Tốt nghiệp đại học khối Công nghệ thông tin, Hệ thống thông tin quản lý, Kế toán, Kinh tế hoặc ngành liên quan.\n-Từ 2 năm kinh nghiệm Business Analyst, phân tích nghiệp vụ hoặc triển khai phần mềm doanh nghiệp (ERP, kế toán, OMS, CRM).\n- Hiểu nghiệp vụ kế toán cơ bản: thu/chi, công nợ, hóa đơn điện tử, đối soát ngân hàng.\n- Biết cách mô tả quy trình bằng sơ đồ và viết tài liệu yêu cầu\n- Sử dụng thành thạo Excel/Google Sheets: hàm tra cứu, pivot, làm sạch dữ liệu.\n- Đã dùng các công cụ AI (Claude, ChatGPT...) cho công việc thật và biết viết câu lệnh rõ ràng, có cấu trúc.\n- Giao tiếp tốt với người không chuyên kỹ thuật; biết hỏi để lấy đúng yêu cầu.\n- Đọc hiểu Tiếng Anh tốt.\n- Tư duy quy trình, có ý thức bảo mật dữ liệu tài chính, nhân sự.\nKiến thức ngành\nIT - Phần mềm, Bán lẻ - Hàng tiêu dùng - FMCG"
+}

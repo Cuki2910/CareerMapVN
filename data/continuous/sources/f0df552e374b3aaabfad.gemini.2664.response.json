@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kế Toán Tổng Hợp\",\n  \"company_name\": null,\n  \"job_category\": \"Tài chính / Kế toán\",\n  \"sub_category\": \"Kế toán tổng hợp\",\n  \"industry\": \"Tài chính / Kế toán\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: 02 Hoàng Kim Giao, Phường Chánh Hưng (Phường Chánh Hưng thuộc Quận 8 cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-tong-hop-ho-chi-minh/2354507.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp CĐ/ĐH chuyên ngành Kế toán – Tài chính\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"SmartPro\",\n    \"Nibot\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trung thực\",\n    \"Có trách nhiệm\",\n    \"Bảo mật thông tin\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"15 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng hiệu quả làm việc\",\n    \"BHXH, BHYT, BHTN\",\n    \"Môi trường làm việc trung thực, ổn định, hỗ trợ công việc cho nhau\"\n  ],\n  \"description\": \"- Hạch toán kế toán: tồn kho (nhập – xuất tồn), doanh thu, chi phí, công nợ, tiền mặt/ngân hàng\\n- Theo dõi chi phí vận hành, tối ưu chi phí hợp lý đúng luật.\\n- Kê khai và quyết toán thuế: GTGT, TNCN, TNDN.\\n- Theo dõi hợp đồng bán hàng, bảo lãnh dự thầu, bảo lãnh thực hiện hợp đồng, bảo lãnh tạm ứng, bảo lãnh bảo hành.\\n- Theo dõi hợp đồng lao động, khoán việc, tính lương hàng tháng, thực hiện BHXH – BHYT – BHTN, quyết toán thuế TNCN năm\\n- Xác nhận nghĩa vụ thuế định kỳ để hoàn thành nghĩa vụ thuế.\\n- Cập nhật và tư vấn các thay đổi về thuế và kế toán cho ban GĐ\",\n  \"requirements_text\": \"- Tốt nghiệp CĐ/ĐH chuyên ngành Kế toán – Tài chính\\n- Thành thạo Excel, phần mềm kế toán SmartPro + Nibot.\\n- Cẩn thận, trung thực, có trách nhiệm, bảo mật thông tin\"\n}\n```",
+  "usage": {
+    "input_tokens": 4656,
+    "output_tokens": 731,
+    "total_tokens": 5387,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

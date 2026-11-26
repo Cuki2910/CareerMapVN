@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tuyên Quang\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan/2342773.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp lịch sự\",\n    \"tinh thần phục vụ khách hàng\",\n    \"chăm chỉ\",\n    \"trung thực\",\n    \"chủ động\",\n    \"trách nhiệm với công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 07:45 đến 16:00)\\nThứ 2 - Chủ nhật (từ 14:00 đến 22:00)\\nXoay ca linh hoạt 6-8 tiếng Sáng - Chiều\",\n  \"benefits\": [\n    \"Tham gia BHXH sau 01 tháng thử việc theo quy định.\",\n    \"Nhận các khoản thưởng vào dịp lễ, Tết, sinh nhật và những ngày kỷ niệm trong năm theo chính sách Công ty.\",\n    \"Có cơ hội tiếp xúc với nhiều dòng sản phẩm thời trang, cập nhật xu hướng và nâng cao kiến thức ngành hàng.\",\n    \"Được cân nhắc phát triển lên các vị trí như cửa hàng phó, cửa hàng trưởng tùy theo năng lực và nhu cầu nhân sự.\",\n    \"Hưởng các chế độ khác theo chính sách hiện hành của Công ty.\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Tính tiền, in hóa đơn, tiếp nhận và xử lý thanh toán cho khách hàng.\\n- Tổng hợp doanh thu cuối ngày, đảm bảo số liệu thu chi chính xác và đầy đủ.\\n- Kiểm tra, đối chiếu số liệu thanh toán và báo cáo các vấn đề phát sinh cho quản lý.\\n- Duy trì tác phong chuyên nghiệp, thái độ thân thiện trong quá trình thanh toán, góp phần xây dựng hình ảnh đẹp của sản phẩm và Công ty.\",\n  \"requirements_text\": \"- Nữ cao từ 1m53, nam cao từ 1m63.\\n- Ngoại hình chỉn chu, phong thái tự tin, giao tiếp lịch sự.\\n- Yêu thích lĩnh vực thời trang, có tinh thần phục vụ khách hàng.\\n- Chăm chỉ, trung thực, chủ động và có trách nhiệm với công việc.\\n- Không yêu cầu kinh nghiệm, ứng viên sẽ được hướng dẫn nghiệp vụ khi bắt đầu làm việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4842,
+    "output_tokens": 735,
+    "total_tokens": 5577,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}
