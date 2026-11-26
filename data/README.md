@@ -12,7 +12,7 @@ it is processed, and what the analysis team receives. Everything under
 | What | 48,092 Vietnamese job ads in 16 occupational categories | Job ads collected by `crawling/` from topcv.vn |
 | Period | July–October 2025 | November 2026 |
 | Access | Public HuggingFace dataset [`dinhieufam/VietJobs`](https://huggingface.co/datasets/dinhieufam/VietJobs), not gated | Public job pages, structured with an LLM (`crawling/llm_extract.py`) |
-| Pinning | Revision `ea140511b77935704e93d21c2973b72f46d48902`, file `VietJobs.csv`, sha256 `85862b06…d49d477`, checked by `analysis/01_fetch.py` | The canonical CSV `data/CareerMapVN_jobs.csv`. The analysis only uses the posting ids listed in `data/analysis/crawl_snapshot_ids.txt` (3,076) |
+| Pinning | Revision `ea140511b77935704e93d21c2973b72f46d48902`, file `VietJobs.csv`, sha256 `85862b06…d49d477`, checked by `analysis/01_fetch.py` | The canonical CSV `data/CareerMapVN_jobs.csv`. The analysis only uses the posting ids listed in `data/analysis/crawl_snapshot_ids.txt` (3,347) |
 | Licence / terms | The dataset card states no licence. The companion code repo is MIT. Cite: Pham-Dinh, Nguyen Huy & El-Haj, *VietJobs*, LREC 2026. Use for non-commercial academic research only | TopCV content belongs to TopCV and the employers. Used here for non-commercial coursework only. Crawled at a low rate (one page every ≥10 s, backoff when blocked). No personal data of candidates. Raw HTML is not published |
 | In git? | No: downloaded to `data/raw/` (gitignored) | Yes |
 
@@ -38,12 +38,12 @@ analyses for the DA team.
 
 | File | Rows | In git? | Description |
 |---|---|---|---|
-| `export/data_jobs.csv` | 2,194 | no (rebuild) | **Main analysis table**: data-related postings (tier A + B) |
-| `export/all_jobs.csv` | 38,516 | no (rebuild) | All deduplicated postings with labels. Use it for "share of the market" denominators |
+| `export/data_jobs.csv` | 2,222 | no (rebuild) | **Main analysis table**: data-related postings (tier A + B) |
+| `export/all_jobs.csv` | 38,787 | no (rebuild) | All deduplicated postings with labels. Use it for "share of the market" denominators |
 | `export/data_quality.md` | – | no (rebuild) | Row counts at each stage, missingness by source, label provenance |
 | `*.parquet` | – | no (rebuild) | Same tables with full text and list columns |
-| `llm_labels.jsonl` | 3,417+ | **yes** | LLM label cache. It is the only non-deterministic input, so it is committed |
-| `crawl_snapshot_ids.txt` | 3,076 | **yes** | Freezes which crawl rows are analysed (the crawler keeps appending) |
+| `llm_labels.jsonl` | 3,465+ | **yes** | LLM label cache. It is the only non-deterministic input, so it is committed |
+| `crawl_snapshot_ids.txt` | 3,347 | **yes** | Freezes which crawl rows are analysed (the crawler keeps appending) |
 | `validation/annotator_{1,2}.csv` | 150 | **yes** | Human validation sheets |
 
 ### Data dictionary: `data_jobs.csv`
@@ -67,7 +67,7 @@ analyses for the DA team.
 
 ## 4. Known limitations
 
-- **Salary**: these are advertised ranges. About 29% of VietJobs postings and 52% of
+- **Salary**: these are advertised ranges. About 29% of VietJobs postings and 53% of
   crawl postings say "Thoả thuận" (negotiable), so salary is missing not at random.
 - **Tier B is a lower bound**: the rule filter misses some postings. The recall
   audit estimates how many (`export/data_quality.md`). Tier A is close to complete.

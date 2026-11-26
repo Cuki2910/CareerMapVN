@@ -34,17 +34,17 @@ or sales leads ("data có sẵn") are not data-related.
 
 ```
  VietJobs (HuggingFace, 2025)      TopCV crawl (2026)
-         48,092 ads                   3,076 ads (pinned)
+         48,092 ads                   3,347 ads (pinned)
               \                        /
                ▼                      ▼
   1 fetch ── 2 prepare: clean, parse, map provinces, merge reposts
-                         │  38,516 unique postings
+                         │  38,787 unique postings
                          ▼
              3 candidates: broad keyword + skill rules
-                         │  3,117 candidates  (+300 random non-candidates for audit)
+                         │  3,165 candidates  (+300 random non-candidates for audit)
                          ▼
              4 label: one LLM assigns tier / role / company industry
-                         │  539 tier A  +  1,655 tier B
+                         │  545 tier A  +  1,677 tier B
                          ▼
              5 skills: 55-skill dictionary → 0/1 matrix
                          ▼
@@ -56,11 +56,11 @@ or sales leads ("data có sẵn") are not data-related.
 | Step | Script | Output (`data/analysis/`) | Rows |
 |---|---|---|---|
 | 1 Fetch | `analysis/01_fetch.py` | `data/raw/VietJobs.csv` | 48,092 |
-| 2 Prepare | `analysis/02_prepare.py` | `jobs.parquet` | 38,516 |
-| 3 Candidates | `analysis/03_candidates.py` | `candidates.parquet` | 3,117 + 300 |
-| 4 Label | `analysis/04_llm_label.py` | `llm_labels.jsonl`, `labels.parquet` | 3,417 |
-| 5 Skills | `analysis/06_skills.py` | `data_jobs.parquet` | 2,194 |
-| 6 Export | `analysis/export.py` | `export/`, `dashboard/` | 2,194 / 38,516 |
+| 2 Prepare | `analysis/02_prepare.py` | `jobs.parquet` | 38,787 |
+| 3 Candidates | `analysis/03_candidates.py` | `candidates.parquet` | 3,165 + 300 |
+| 4 Label | `analysis/04_llm_label.py` | `llm_labels.jsonl`, `labels.parquet` | 3,465 |
+| 5 Skills | `analysis/06_skills.py` | `data_jobs.parquet` | 2,222 |
+| 6 Export | `analysis/export.py` | `export/`, `dashboard/` | 2,222 / 38,787 |
 | Validate | `analysis/05_validate.py` | `validation/` | 150 |
 
 ## Step 1 - Fetch the base dataset
@@ -79,7 +79,7 @@ the same column schema. Each row keeps a `source` and `period` column, so analys
 control for the one-year gap and the different portal.
 
 **Freeze the crawl.** The crawler keeps adding rows to `data/CareerMapVN_jobs.csv`. The
-analysis therefore uses only the 3,076 posting ids listed in
+analysis therefore uses only the 3,347 posting ids listed in
 `data/analysis/crawl_snapshot_ids.txt`. New rows are ignored until someone deliberately
 re-pins the snapshot.
 
@@ -108,11 +108,11 @@ province. The rest are "Toàn quốc" (nationwide), foreign cities, or rare plac
 
 **Merge reposts.** Employers repost the same ad, sometimes once per city. Rows with the
 same title and description are merged into one posting: locations are unioned and
-salaries take the median. This removed 12,686 duplicate rows (24% of postings had
+salaries take the median. This removed 12,691 duplicate rows (24% of postings had
 reposts). Without this step, one employer posting 58 copies would dominate the counts.
 Each posting gets a stable `id` (hash of title and description).
 
-**Result.** 51,202 raw rows → **38,516 unique postings**. Salary is known for 69%.
+**Result.** 51,478 raw rows → **38,787 unique postings**. Salary is known for 69%.
 
 ## Step 3 - Candidate filter (high recall)
 
@@ -128,7 +128,7 @@ removed. The LLM makes the final decision.
 
 **Why.** Rules alone cannot tell "phân tích dữ liệu" (data analysis) from "phân tích tài
 chính" (financial analysis), or "data có sẵn" (customer leads) from real data work. The
-rules are therefore deliberately loose: they only shrink 38,516 postings to 3,117 so
+rules are therefore deliberately loose: they only shrink 38,787 postings to 3,165 so
 that the more expensive LLM step is affordable. Precision is left to step 4.
 
 **Recall audit.** 300 postings that did **not** pass the filter are drawn at random
@@ -159,8 +159,8 @@ with a fixed prompt (`PROMPT` in `analysis/04_llm_label.py`). It returns, per po
   posting id and a hash of the prompt. Re-running needs no API key and gives identical
   labels. Changing the prompt automatically triggers relabelling.
 
-**Result.** Of 3,117 candidates: 538 tier A, 1,640 tier B, 939 none. Most title-matched
-"analysts" in finance turned out to be tier A `quant_risk` or tier B. 107 of the 115
+**Result.** Of 3,165 candidates: 545 tier A, 1,670 tier B, 950 none. Most title-matched
+"analysts" in finance turned out to be tier A `quant_risk` or tier B. 108 of the 116
 lead-selling ads flagged in step 3 were correctly rejected.
 
 ## Step 5 - Skill matrix
@@ -206,12 +206,12 @@ Two team members label them independently. `analysis/05_validate.py score` then 
 
 ## Limitations
 
-- **Advertised salary only.** 31% of postings say "Thoả thuận" (29% of VietJobs, 52% of
+- **Advertised salary only.** 31% of postings say "Thoả thuận" (29% of VietJobs, 53% of
   TopCV). Salary results describe ads that disclose pay, which may differ systematically
   from those that do not.
-- **Tier B is a lower bound.** In the recall audit, 16 of 300 random non-candidates were
-  data-related (5.3%). Almost all are tier B marketing jobs that measure campaign KPIs.
-  Tier A misses are negligible (1 of 300).
+- **Tier B is a lower bound.** In the recall audit, 7 of 300 random non-candidates were
+  data-related (2.3%, roughly 800 postings if scaled to all non-candidates). Almost all are
+  tier B marketing jobs that measure campaign KPIs. No tier A posting was missed.
 - **LLM labels are not ground truth.** Precision and recall are reported once the human
   validation is complete.
 - **Two sources, two periods.** VietJobs (2025) and TopCV (2026) differ in time and
@@ -243,8 +243,8 @@ updated `crawl_snapshot_ids.txt` and `llm_labels.jsonl` afterwards.
 
 | You want… | Use |
 |---|---|
-| Data-related postings with skills (main analysis table) | `data/analysis/export/data_jobs.csv` (2,194 rows) |
-| Every posting, for "share of the market" denominators | `data/analysis/export/all_jobs.csv` (38,516 rows) |
+| Data-related postings with skills (main analysis table) | `data/analysis/export/data_jobs.csv` (2,222 rows) |
+| Every posting, for "share of the market" denominators | `data/analysis/export/all_jobs.csv` (38,787 rows) |
 | Full text (description, requirements) or list columns | the matching `.parquet` file in `data/analysis/` |
 | Row counts and missingness to quote in the report | `data/analysis/export/data_quality.md` |
 
@@ -264,7 +264,7 @@ The most used columns:
 
 ## Analysis checklist
 
-- **Compare tiers separately.** Tier A has 539 rows, tier B has 1,655. Pooled results are
+- **Compare tiers separately.** Tier A has 545 rows, tier B has 1,677. Pooled results are
   mostly driven by tier B (half of it is marketing).
 - **Explode list columns** (`provinces`, `regions`) before grouping by place, and say that
   multi-location ads count in each.
