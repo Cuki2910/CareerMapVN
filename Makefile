@@ -41,8 +41,13 @@ snapshot:
 
 test:
 	$(PY) analysis/test_analysis.py
+	$(PY) dashboard/test_app.py
+
+# Interactive dashboard (reads dashboard/data_jobs.csv.gz written by `make export`).
+dashboard:
+	$(PY) -m streamlit run dashboard/app.py
 
 docker:
 	docker build -t careermapvn . && docker run --rm -v "$$(pwd)/$(A)/export:/app/$(A)/export" careermapvn
 
-.PHONY: all export analysis test validation-sheets validation-report snapshot docker
+.PHONY: all export analysis dashboard test validation-sheets validation-report snapshot docker

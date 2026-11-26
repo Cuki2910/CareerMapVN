@@ -220,6 +220,24 @@ the same tables without API calls. `make snapshot` deliberately adds newly crawl
 `make validation-sheets`, two annotators fill `data/analysis/validation/annotator_{1,2}.csv`,
 then `make validation-report`.
 
+## Dashboard
+
+Interactive Streamlit dashboard over the exported table: filters by posting type, role,
+region, company industry, source, experience and required skills; skill demand with
+95% CIs and group comparisons; salary by role, experience and region; a salary
+estimator (log-salary OLS, cross-validated error shown); and a searchable,
+downloadable posting table.
+
+```bash
+pip install -r dashboard/requirements.txt
+make dashboard                   # http://localhost:8501
+```
+
+Deploy on [Streamlit Community Cloud](https://share.streamlit.io): New app → repository
+`Cuki2910/CareerMapVN`, branch `main`, main file `dashboard/app.py`. It needs no
+secrets; the data it reads (`dashboard/data_jobs.csv.gz`, `market_by_region.csv`) is
+committed and refreshed by `make export`.
+
 ## Credits and license
 
 The base dataset is **VietJobs** (Hieu Pham-Dinh, Hung Nguyen Huy, Mo El-Haj, LREC 2026;

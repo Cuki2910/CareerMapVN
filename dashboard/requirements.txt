@@ -1,0 +1,6 @@
+# Streamlit Community Cloud installs this file (main file: dashboard/app.py).
+streamlit==1.67.0
+plotly==7.2.0
+pandas==3.1.1
+numpy==2.5.4
+statsmodels==0.15.0

@@ -39,6 +39,14 @@ def main():
     all_jobs = jobs.merge(labels[["id", "is_candidate", "recall_audit", "tier", "role", "domain"]], on="id", how="left")
     flat(data_jobs).to_csv(OUT / "data_jobs.csv", index=False, encoding="utf-8")
     flat(all_jobs).to_csv(OUT / "all_jobs.csv", index=False, encoding="utf-8")
+    # Compact, committed copy for the dashboard (Streamlit Cloud cannot run the pipeline).
+    slim = flat(data_jobs).drop(columns=["benefits", "working_hours", "soft_skills", "qualifications",
+                                         "languages_required"], errors="ignore")
+    slim.to_csv(ROOT / "dashboard/data_jobs.csv.gz", index=False, encoding="utf-8")
+    # Market denominators: all deduplicated postings per region and source (for "share of market").
+    reg = jobs[["source", "regions"]].explode("regions").dropna()
+    reg.groupby(["regions", "source"]).size().rename("n_postings").reset_index() \
+        .to_csv(ROOT / "dashboard/market_by_region.csv", index=False, encoding="utf-8")
 
     vn = all_jobs.regions.map(lambda r: "Nước ngoài" not in r)
     md = [
