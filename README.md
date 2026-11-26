@@ -15,6 +15,7 @@ DATA2010 Data Science Programming project, VinUniversity, Fall 2026.
 |---|---|
 | `crawling/` | TopCV crawler with LLM structured extraction → `data/CareerMapVN_jobs.csv` |
 | `analysis/` | Data pipeline: fetch → clean → filter → LLM labels → skill matrix → export |
+| `docs/data_pipeline.md` | **How the data pipeline works**: method, decisions, numbers, limitations, usage |
 | `data/` | Datasets and pipeline outputs; see [`data/README.md`](data/README.md) |
 | `upstream/` | Original VietJobs fine-tuning code (LoRA, GPU); not used by CareerMapVN |
 | `Makefile`, `Dockerfile` | One-command reproduction |
