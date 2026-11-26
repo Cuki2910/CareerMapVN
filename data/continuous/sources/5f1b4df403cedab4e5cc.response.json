@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Customer Support / Trực Page (Part Time)\",\n  \"company_name\": null,\n  \"job_category\": \"Customer Support\",\n  \"sub_category\": \"Trực page\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tầng 3, số 43 Chính Kinh, Phường Thanh Xuân, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/customer-support-truc-page-part-time/2193269.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Computers\"\n  ],\n  \"soft_skills\": [\n    \"Maintaining a positive, empathetic, and professional attitude toward customers at all times\",\n    \"Ability to stay calm when customers are stressed or upset\",\n    \"Communication\",\n    \"Resolving customer complaints\",\n    \"Teamwork\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Từ 4 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"part-time\",\n  \"working_hours\": \"8h00 - 12h00, Monday - Saturday. Ca ngày, Riêng T7 làm online\",\n  \"benefits\": [\n    \"Salary: 4M+ Commission\",\n    \"Become a part of a dynamic and enthusiastic, professional but family-friendly working environment\",\n    \"Open opportunities for career development with long-term vision and mission\",\n    \"Full participation in social insurance health insurance and unemployment insurance\"\n  ],\n  \"description\": \"- Maintaining a positive, empathetic, and professional attitude toward customers at all times.  \\n- Responding promptly to customer inquiries.  \\n- Communicating with customers through various channels.  \\n- Acknowledging and resolving customer complaints.  \\n- Knowing our products inside and out so that you can answer questions.  \\n- Keeping records of customer interactions, transactions, comments, and complaints.  \\n- Communicating and coordinating with colleagues as necessary.  \\n- Make daily and weekly report\",\n  \"requirements_text\": \"- Ability to stay calm when customers are stressed or upset.  \\n- Comfortable using computers.  \\n- Experience working with customer support  \\n- IELTS >6.5 or same English level\"\n}\n```",
+  "usage": {
+    "input_tokens": 4572,
+    "output_tokens": 622,
+    "total_tokens": 5194,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

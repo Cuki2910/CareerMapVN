@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Tư Vấn Viên - Chuyên Sản Phẩm Nám\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn thẩm mỹ/Spa\",\n  \"sub_category\": \"Telesales\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tu-van-vien-chuyen-san-pham-nam/2348893.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Phát âm chuẩn\",\n    \"Diễn đạt trôi chảy\",\n    \"Xử lý tình huống\",\n    \"Tư vấn\",\n    \"Giao tiếp\",\n    \"Bán Hàng\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0.0,\n  \"salary\": \"8 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:00 đến 17:00)\\n8h00-17h00 ( nghỉ trưa 1 tiếng )  \\n1 tháng được off 4 ngày tình lương\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Lương thưởng tháng 13 và nhiều chính sách phúc lợi khác\",\n    \"Lương cứng tăng theo bậc doanh số\",\n    \"Chế độ BHXH, BHTN, BHYT đầy đủ theo quy định pháp luật\",\n    \"Được cung cấp thiết bị làm việc đầy đủ\",\n    \"Tham gia các hoạt động liên hoan, team building\",\n    \"Môi trường làm việc năng động, thoải mái, đề cao sự chủ động, sáng tạo\",\n    \"Được cấp Điện thoại, Máy tính\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Chăm sóc khách hàng sau bán, trao đổi, hỏi thăm tình trạng da của khách hàng, hỗ trợ khách hàng trong quá trình sử dụng sản phẩm của công ty\\n- Giới thiệu thêm các sản phẩm phù hợp với quy trình chăm sóc da của khách\\n- Trực tin nhắn page và giải quyết thắc mắc của khách hàng về sản phẩm\\n- Tiếp nhận và xử lý yêu cầu/thắc mắc của khách hàng\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm chuyên môn  Tuổi 20 - 30  Trung cấp trở lên  Nữ  Phát âm chuẩn  Diễn đạt trôi chảy\\n- Giọng nói rõ ràng, tự tin trong giao tiếp\\n- Nhạy bén và linh hoạt, có khả năng xử lý các tình huống\\n- Chưa có kinh nghiệm được đào tạo từ A - Z\"\n}\n```",
+  "usage": {
+    "input_tokens": 5144,
+    "output_tokens": 755,
+    "total_tokens": 5899,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

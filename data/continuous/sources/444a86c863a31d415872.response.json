@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Máy Tính\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN GIANG NAM LOGISTICS\",\n  \"job_category\": \"IT - Phần cứng và máy tính\",\n  \"sub_category\": \"System Administrator\",\n  \"industry\": \"Vận tải hàng hóa đường thủy nội địa\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Cổng E - Cảng Cát Lái - Đường 57CL, Phường Cát Lái (Phường Cát Lái thuộc Thành phố Thủ Đức cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-28\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-may-tinh/2090010.html\",\n  \"qualifications\": [\"Đại Học trở lên\"],\n  \"technical_skills\": [\n    \"Kỹ thuật máy tính\",\n    \"Kiến Thức Về Phần Cứng Và Phần Mềm\",\n    \"Quản trị mạng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Khả Năng Làm Việc Độc Lập\",\n    \"Khả Năng Làm Việc Nhóm\",\n    \"Trung thực\",\n    \"Vui vẻ\",\n    \"Hòa đồng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Từ 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:00 đến 17:00)\",\n  \"benefits\": [\n    \"Chế độ lương theo hiệu quả công việc\",\n    \"Thưởng các ngày lễ, Tết, tháng lương thứ 13-14\",\n    \"Thường xuyên tham gia đào tạo phát triển kỹ năng\",\n    \"Được công ty đóng đầy đủ BHYT, BHXH, BHTN...\",\n    \"Chế độ du lịch hàng năm...\"\n  ],\n  \"description\": \"• Xử lý các sự cố liên quan đến máy tính.\\n• Tìm nguyên nhân và xử lý các sự cố hệ thống (trên server hay network).\\n• Lắp đặt phần cứng và cài đặt phần mềm.\\n• Quản lý lắp đặt và sửa chữa hệ thống mạng, tổng đài điện thoại, camera...\\n• Số liệu hệ thống, camera, cáp quang, support người dùng\\n• Các công việc phát sinh khác tại Công ty.\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Đại Học trở lên  Nam\\n\\nYêu cầu ứng viên\\n• Am hiểu kỹ thuật máy tính, Có hiểu biết về phần cứng/mạng,\\n• Có 1 năm kinh nghiệm quản trị mạng\\n• Trung thực, vui vẻ, hòa đồng.\\nKiến thức ngành\\nIT - Phần cứng và máy tính\\nKỹ năng cần có\\nGiao tiếp, Khả Năng Làm Việc Độc Lập, Khả Năng Làm Việc Nhóm, Kiến Thức Về Phần Cứng Và Phần Mềm\\nKỹ năng nên có\\nKỹ Năng Quản Lý Dự Án, Kỹ Năng Phân Tích Dữ Liệu, Kỹ Năng Bảo Mật Thông Tin, Kỹ Năng Lập Trình (tùy Vị Trí), Kỹ Năng Sử Dụng Các Công Cụ Hỗ Trợ It, Kỹ Năng Quản Trị Mạng (tùy Vị Trí)\"\n}",
+  "usage": {
+    "input_tokens": 4569,
+    "output_tokens": 825,
+    "total_tokens": 5394,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trợ Lý Phiên Dịch Tiếng Trung\",\n  \"company_name\": null,\n  \"job_category\": \"Trợ lý/Thư ký\",\n  \"sub_category\": \"Phiên dịch\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-phien-dich-tieng-trung/1922555.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Tiếng Trung HSK 5\"\n  ],\n  \"technical_skills\": [\n    \"Tiếng Trung (nghe, Nói, Đọc, Viết)\",\n    \"Tiếng Việt (nghe, Nói, Đọc, Viết)\",\n    \"Kỹ Năng Phiên Dịch (nối Tiếp, Song Song)\",\n    \"Từ Vựng Chuyên Ngành (tùy Lĩnh Vực)\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Khả Năng Học Hỏi Nhanh\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"14 - 16 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:00 đến 01:30), 1 tuần off 1 ngày - Ca Sáng 800 -- 17h00 - Ca Tối 17h30 -- 1h30 ( Có 2 ca )\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Phụ cấp: Xăng xe, Ăn trưa\",\n    \"Trà chiều\",\n    \"Du lịch cùng công ty theo quy định\",\n    \"Tham gia đào tạo miễn phí\",\n    \"Nghỉ lễ theo chế độ nhà nước (Có thể sẽ điều chỉnh cho phù hợp thời gian hoạt động của công ty)\"\n  ],\n  \"description\": \"- Dịch cuộc họp và giao tiếp thường ngày, truyền đạt thông tin và chỉ thị của cấp trên\\n- Giám sát, phối hợp cấp quản lý trong công việc.\\n- Tổng hợp và báo cáo tiến độ và kết quả công việc\",\n  \"requirements_text\": \"- Ưu tiên ứng viên có kinh nghiệm và chứng chỉ (nếu chưa có có thể trao đổi khi phỏng vấn)\\n- Độ tuổi: 18-30\\n- Không giới hạn nam nữ\\n- Tính cách cởi mở, chăm chỉ, nhiệt tình, có trách nhiệm trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4983,
+    "output_tokens": 709,
+    "total_tokens": 5692,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

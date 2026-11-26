@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Tại Điện Máy Xanh\",\n  \"company_name\": \"Công ty TNHH Sông Hồng Việt ( Sanaky)\",\n  \"job_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"sub_category\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hà Nội và 24 nơi khác\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-tai-dien-may-xanh/2348149.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Khả năng giao tiếp, truyền đạt, đàm phán tốt\",\n    \"Khả năng làm việc dưới áp lực cao\",\n    \"Thẳng thắn, trung thực\",\n    \"Nhanh nhẹn, nhiệt tình trong công việc\",\n    \"Có khiếu thẩm mỹ tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"8 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nCa 1 :8h00-16h00\\nCa 2 :13h00-21h00\",\n  \"benefits\": [\n    \"Thu nhập: 10-15tr/tháng\",\n    \"Thử việc hưởng 100% lương cứng\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN\",\n    \"Chế độ thưởng lễ, tết, thưởng năm, du lịch,...\"\n  ],\n  \"description\": \"· Giới thiệu, quảng bá, tư vấn sản phẩm máy lọc nước cho khách hàng. \\n· Chăm sóc, trưng bày, vệ sinh khu vực quầy kệ demo, máy mẫu và giữ gìn hình ảnh thương hiệu Sanaky.\\n· Ghi nhận thông tin bán hàng, vận hành hệ thống quản lý xuất nhập, tồn kho. \\n· Hỗ trợ hoạt động bán hàng theo chiến dịch MKT.\\n· Thiết lập quan hệ gần gũi và thân thiện với khách hàng.\\n· Hoàn thành chỉ tiêu bán hàng được giao cho từng khu vực Shop.\\n· Báo cáo công việc cho cấp quản lý trực tiếp hàng tuần. \\n==> Tại Siêu Thị Điện Máy Xanh trên Toàn Quốc\",\n  \"requirements_text\": \"1. Kỹ năng/Khả năng:\\n- Khả năng giao tiếp, truyền đạt, đàm phán tốt.\\n- Khả năng làm việc dưới áp lực cao.\\n2. Kinh nghiệm:\\n- Thời gian: 1 năm kinh nghiệm làm việc.\\n- Lĩnh vực: Có ít nhất 06 tháng kinh nghiệm làm việc trong lĩnh vực bán hàng.\\n3. Phẩm chất cá nhân:\\n- Thẳng thắn, trung thực.\\n- Nhanh nhẹn, nhiệt tình trong công việc.\\n- Có khiếu thẩm mỹ tốt.\\n- Chuyên môn: Không yêu cầu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5950,
+    "output_tokens": 828,
+    "total_tokens": 6778,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

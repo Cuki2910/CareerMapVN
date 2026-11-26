@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Giám Sát Kinh Doanh\",\"company_name\":\"Công Ty Cổ Phần Dược Phẩm Việt (Đông Dược Việt)\",\"job_category\":\"Kinh doanh / Bán hàng\",\"sub_category\":\"Sales Supervisor/Giám sát bán hàng\",\"industry\":\"Y tế / Dược phẩm; Bán lẻ - Hàng tiêu dùng - FMCG\",\"category\":null,\"location\":\"Bắc Ninh, Phú Thọ\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-04\",\"url\":\"https://www.topcv.vn/viec-lam/giam-sat-kinh-doanh/2349289.html\",\"qualifications\":[\"Tốt nghiệp CĐ/ ĐH Dược, QTKD,...\",\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Bán hàng\",\"Xử lý vấn đề\",\"Dược phẩm\"],\"soft_skills\":[\"Giao tiếp tốt\",\"Thuyết phục tốt\",\"Xử lý tình huống\",\"Tư duy và kỹ năng quản lý, lãnh đạo\",\"Kỹ năng xây dựng và đào tạo đội nhóm\",\"Có trách nhiệm và quyết liệt trong công việc\"],\"languages_required\":null,\"experience_required\":2,\"salary\":\"Thu nhập khi đạt 100% KPI: 10 - 18 triệu VND; Thu nhập tính theo tỷ lệ đạt KPI; Lương cứng: 10 - 12 triệu VND; Lương cứng phụ thuộc vào doanh số\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\n- Nghỉ 2 ngày thứ 7/ tháng.\",\"benefits\":[\"Thưởng tháng 13, thưởng hiệu quả công việc.\",\"Hưởng chế độ công tác phí theo chính sách Công ty.\",\"Được tham gia BHXH, BHYT và hưởng đầy đủ chế độ nghỉ phép, nghỉ lễ theo quy định.\",\"Hưởng các chính sách phúc lợi: thưởng thâm niên, sinh nhật và các chế độ đãi ngộ khác.\",\"Tham gia hoạt động văn hóa, du lịch và sự kiện nội bộ.\",\"Làm việc trong môi trường chuyên nghiệp, năng động, có cơ hội phát triển nghề nghiệp.\"],\"description\":\"1. Khai phá và phát triển thị trường\\n- Khảo sát địa bàn, xây dựng dữ liệu và tìm kiếm khách hàng tiềm năng.\\n- Giới thiệu sản phẩm Công ty và chính sách bán hàng; phát triển khách hàng mới, thúc đẩy đơn hàng.\\n\\n2. Triển khai và quản lý kinh doanh\\n- Xây dựng kế hoạch doanh số tháng, quý, năm theo chỉ tiêu Công ty.\\n- Phát triển doanh số, độ phủ sản phẩm và hệ thống khách hàng tại địa bàn phụ trách.\\n- Theo dõi kết quả kinh doanh, đề xuất giải pháp và xây dựng đội ngũ Trình dược viên.\\n\\n3. Chăm sóc khách hàng\\n- Lập kế hoạch thăm viếng, chăm sóc khách hàng định kỳ.\\n- Duy trì quan hệ, tiếp nhận phản hồi và phát triển khách hàng hiện hữu.\\n\\n4. Đào tạo và quản lý nhân viên\\n- Tuyển dụng, đào tạo và hướng dẫn Trình dược viên về kỹ năng bán hàng, sản phẩm, chính sách và quy trình làm việc.\\n- Theo dõi, đánh giá hiệu quả công việc của nhân viên.\\n\\n5. Phối hợp công việc\\n- Phối hợp triển khai chương trình quảng bá thương hiệu và sản phẩm.\\n- Phối hợp với CSKH trong xử lý đơn hàng, giao hàng và thu hồi công nợ.\\n- Thực hiện báo cáo kinh doanh và các công việc khác theo phân công.\",\"requirements_text\":\"- Trình độ chuyên môn: Tốt nghiệp CĐ/ ĐH Dược, QTKD,...\\n- Có kinh nghiệm hơn 02 năm làm ở vị trí tương đương.\\n- Làm việc tại địa bàn phụ trách, có xe cá nhân đi công tác tỉnh.\\n- Có mối quan hệ rộng với các nhà thuốc, bệnh viện, phòng khám.\\n- Có tư duy và kỹ năng quản lý, lãnh đạo.\\n- Khả năng giao tiếp tốt, thuyết phục tốt, xử lý tình huống.\\n- Kỹ năng xây dựng và đào tạo đội nhóm.\\n- Có trách nhiệm và quyết liệt trong công việc.\\n- Địa bàn đang tuyển: Tây Bắc, Đông Bắc (mỗi khu vực/ 1 Giám sát)\"}",
+  "usage": {
+    "input_tokens": 5659,
+    "output_tokens": 2350,
+    "total_tokens": 8009,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 963
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

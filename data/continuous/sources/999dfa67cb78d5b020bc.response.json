@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kinh Doanh Tiếng Hàn\",\"company_name\":\"Công ty TNHH Công nghiệp Bảo Tiên\",\"job_category\":\"Kinh doanh\",\"sub_category\":\"Sales Logistics\",\"industry\":\"Sản xuất các cấu kiện kim loại\",\"category\":null,\"location\":\"Hải Phòng\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-30\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tieng-han/2365230.html\",\"qualifications\":[\"Tốt nghiệp Đại học\",\"Đại Học trở lên\"],\"technical_skills\":[\"Tiếng Hàn\",\"Chăm sóc khách hàng\",\"Xử lý đơn hàng\"],\"soft_skills\":[\"Giao tiếp tốt\",\"Chủ động\",\"Tinh thần trách nhiệm\"],\"languages_required\":[\"Tiếng Hàn\"],\"experience_required\":2,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nHành chính\",\"benefits\":[\"Thu nhập: Thỏa thuận theo năng lực và kinh nghiệm.\",\"Môi trường làm việc chuyên nghiệp, ổn định, có cơ hội phát triển lâu dài.\",\"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định.\",\"Du lịch, nghỉ mát hằng năm cùng công ty.\",\"Thưởng các dịp Lễ, Tết và lương tháng 13 theo chính sách công ty.\",\"Lương cứng không phụ thuộc doanh số\"],\"description\":\"CÔNG VIỆC CHÍNH:\\n- Trao đổi, chăm sóc và duy trì quan hệ với khách hàng Hàn Quốc.\\n- Tiếp nhận, xử lý và theo dõi đơn đặt hàng.\\n- Cập nhật tiến độ sản xuất, giao hàng và phản hồi thông tin cho khách hàng.\\n- Phối hợp với các bộ phận nội bộ để xử lý công việc và các vấn đề phát sinh.\\n- Thực hiện các công việc khác theo phân công của cấp quản lý.\",\"requirements_text\":\"Tốt nghiệp Đại học.\\nThành thạo 4 kỹ năng tiếng Hàn: Nghe – Nói – Đọc – Viết.\\nGiao tiếp tốt, chủ động và có tinh thần trách nhiệm.\\nƯu tiên ứng viên đã có kinh nghiệm làm việc tại các công ty sản xuất FDI của Hàn Quốc.\\nLƯU Ý: Vị trí phụ trách khách hàng hiện có, chăm sóc và theo dõi đơn hàng; không yêu cầu tìm kiếm khách hàng mới.\"}",
+  "usage": {
+    "input_tokens": 4943,
+    "output_tokens": 2500,
+    "total_tokens": 7443,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 1745
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

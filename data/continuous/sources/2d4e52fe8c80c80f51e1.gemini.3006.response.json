@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phiên Dịch Tiếng Trung\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Trợ lý/Thư ký sản xuất\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phien-dich-tieng-trung/2297661.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng máy tính cơ bản\",\n    \"Đánh máy soạn thảo văn bản bằng tiếng Trung\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"tỉ mỉ\",\n    \"có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Được hưởng các chế độ theo Luật Lao động và Luật BHXH.\",\n    \"Thưởng chuyên cần.\",\n    \"Thưởng xếp loại ABCD hàng tháng.\",\n    \"Thưởng sinh nhật.\",\n    \"Thưởng các ngày Lễ trong năm (1/5, Tết Trung thu).\",\n    \"Phụ cấp nuôi con nhỏ.\",\n    \"Thưởng Tết Âm lịch: Được xét thưởng trên tổng quỹ lương/ số tháng thực tế làm việc tại Công ty và đánh giá xếp loại ABCD + Lì xì tết+ bốc thăm trúng thưởng cuối năm...\"\n  ],\n  \"description\": \"Phiên dịch cho Chủ quản người Trung trong các cuộc họp, trao đổi công việc và hoạt động sản xuất.\\nHỗ trợ phiên dịch tại xưởng sản xuất, trong quá trình vận hành, kiểm tra và xử lý các vấn đề phát sinh.\\nLàm báo cáo, báo biểu và tổng hợp số liệu theo yêu cầu của cấp trên.\\nLiên hệ, trao đổi công việc với các bộ phận liên quan khi có yêu cầu từ Chủ quản.\\nThực hiện các công việc khác theo sự phân công của cấp trên.\",\n  \"requirements_text\": \"Độ tuổi: từ 25 đến 35 tuổi\\nGiới tính: Nam\\nTiếng Trung giao tiếp tốt tương đương chứng chỉ HSK 4 trở lên\\nBiết sử dụng máy tính cơ bản và đánh máy soạn thảo văn bản bằng tiếng Trung\\nCó kinh nghiệm phiên dịch về ngành giấy là lợi thế\\nCẩn thận, tỉ mỉ, có trách nhiệm trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4876,
+    "output_tokens": 729,
+    "total_tokens": 5605,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật/ Sản Xuất/Gia Công Máy In\",\n  \"company_name\": null,\n  \"job_category\": \"Thợ kỹ thuật khác\",\n  \"sub_category\": \"In ấn / Xuất bản\",\n  \"industry\": \"In ấn / Xuất bản\",\n  \"category\": null,\n  \"location\": \"91 Lê Văn Chí, Phường Linh Xuân, Thành phố Thủ Đức, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-san-xuat-gia-cong-may-in/2342215.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận hành máy in kỹ thuật số\",\n    \"vận hành máy in khổ lớn\",\n    \"vận hành máy in tem nhãn\",\n    \"gia công sau in\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"cẩn thận\",\n    \"chịu khó\",\n    \"có trách nhiệm với công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Lương cứng thỏa thuận theo tay nghề + thưởng năng suất\",\n    \"Đầy đủ chế độ BHXH\",\n    \"Lễ Tết\",\n    \"Lương tháng 13\",\n    \"Du lịch định kỳ\",\n    \"Môi trường làm việc hòa đồng, nhân viên hỗ trợ lẫn nhau\"\n  ],\n  \"description\": \"- Vận hành máy in kỹ thuật số, máy in khổ lớn, máy in tem nhãn.\\n- Thực hiện gia công sau in: Cắt, đóng ghim/lò xo, cán màng, bế, dán hộp...\\n- Kiểm tra chất lượng thành phẩm (QC) và bảo quản thiết bị xưởng.\\n_Chưa có kinh nghiệm sẽ được đào tạo cầm tay chỉ việc_\",\n  \"requirements_text\": \"- Nhanh nhẹn, cẩn thận, chịu khó, có trách nhiệm với công việc.\\n- Ưu tiên ứng viên có kinh nghiệm in ấn/gia công\\n- Chấp nhận lao động phổ thông chưa có kinh nghiệm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4703,
+    "output_tokens": 660,
+    "total_tokens": 5363,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

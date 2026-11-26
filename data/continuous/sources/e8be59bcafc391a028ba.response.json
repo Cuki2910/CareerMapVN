@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Brand Promoter\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng mỹ phẩm\",\n  \"sub_category\": \"Bán hàng tại cửa hàng/showroom\",\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Khánh Hòa\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/brand-promoter/2341090.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Tự tin\",\n    \"Năng động\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Nga\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thời vụ\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n Xoay ca linh động 7h/ngày - 6 ngày/tuần hoặc 182h/tháng\",\n  \"benefits\": [\n    \"Thu nhập hấp dẫn (Lương cứng + Thưởng doanh số)\",\n    \"BHXH\",\n    \"BHTN\",\n    \"Phụ cấp ăn ca\",\n    \"Phụ cấp điện thoại\"\n  ],\n  \"description\": \"✦ Tư vấn, giới thiệu các sản phẩm mỹ phẩm, nước hoa cao cấp của thương hiệu GUERLAIN đến khách hàng quốc tế.\\n✦ Chủ động tiếp cận khách hàng, tìm hiểu nhu cầu và giới thiệu sản phẩm phù hợp.\\n✦ Trưng bày, sắp xếp và duy trì hình ảnh quầy hàng theo tiêu chuẩn thương hiệu.\\n✦ Hỗ trợ chăm sóc khách hàng, mang đến trải nghiệm mua sắm chuyên nghiệp và tận tâm.\",\n  \"requirements_text\": \"✦ Giao tiếp tốt bằng tiếng Anh hoặc tiếng Nga.\\n✦ Ngoại hình ưa nhìn, chỉn chu, tạo thiện cảm với khách hàng.\\n✦ Tự tin, năng động, yêu thích lĩnh vực làm đẹp và có khả năng tư vấn bán hàng.\\n✦ Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực mỹ phẩm, nước hoa hoặc chăm sóc khách hàng.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5030,
+    "output_tokens": 610,
+    "total_tokens": 5640,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

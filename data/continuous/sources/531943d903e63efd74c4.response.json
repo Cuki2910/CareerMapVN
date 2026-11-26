@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trợ Lý Tiếng Trung Ca Đêm\",\n  \"company_name\": null,\n  \"job_category\": \"Trợ lý/Thư ký\",\n  \"sub_category\": \"Trợ lý Tiếng Trung\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-tieng-trung-ca-dem/2359264.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tiếng Trung HSK 5\"\n  ],\n  \"technical_skills\": [\n    \"Tiếng Trung Giao tiếp thành thạo\",\n    \"Thành thạo tiếng Trung (nghe – nói – đọc – viết)\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp tốt\",\n    \"Tự tin\",\n    \"Xử lý tình huống linh hoạt\",\n    \"Tinh thần trách nhiệm cao\",\n    \"Chủ động trong công việc\",\n    \"Thái độ hợp tác tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0.0,\n  \"salary\": \"13 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 15:00 đến 23:00)\\nOff 1 ngày bất kì\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Bảo hiểm y tế (BHYT)\",\n    \"Bảo hiểm thất nghiệp (BHTN)\",\n    \"Thưởng tháng 13\",\n    \"Thưởng chuyên cần hàng tháng\",\n    \"Được đào tạo kỹ năng mềm, kỹ năng chuyên môn và có môi trường học hỏi liên quan lĩnh vực Live Giải trí\"\n  ],\n  \"description\": \"- Phiên dịch song ngữ Trung – Việt trong các cuộc họp, nội dung công việc và tài liệu nội bộ.\\n- Hỗ trợ sếp người Trung trong giao tiếp và xử lý công việc với đội ngũ idol, quản lý và nhân viên người Việt.\\n- Truyền đạt, theo dõi và đốc thúc tiến độ các yêu cầu, chỉ đạo từ cấp trên đến các bộ phận liên quan.\\n- Sắp xếp lịch làm việc, hỗ trợ quản lý công việc hành chính và vận hành hằng ngày.\\n- Phối hợp cùng các bộ phận nội dung, tuyển dụng và vận hành để đảm bảo hoạt động trơn tru.\",\n  \"requirements_text\": \"- Giới tính: Nam,Nữ. Tuổi: 20–30.\\n- Thành thạo tiếng Trung (nghe – nói – đọc – viết)\\n- Có kỹ năng giao tiếp tốt, tự tin, xử lý tình huống linh hoạt.\\n- Ưu tiên ứng viên từng làm trong môi trường giải trí, live, công ty có yếu tố Trung – Việt.\\n- Tinh thần trách nhiệm cao, chủ động trong công việc, thái độ hợp tác tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4767,
+    "output_tokens": 793,
+    "total_tokens": 5560,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

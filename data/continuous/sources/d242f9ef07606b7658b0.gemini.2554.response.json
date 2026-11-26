@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/1998240.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Cnc\",\n    \"Kiểm Tra Chất Lượng Sản Phẩm\",\n    \"Đọc Và Hiểu Bản Vẽ Kỹ Thuật\",\n    \"Sử Dụng Các Dụng Cụ Đo Lường\",\n    \"Lập Trình Máy Cnc\",\n    \"MasterCam 2D\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nNghỉ Thứ 7 tuần 2 và tuần 4 của tháng\",\n  \"benefits\": [\n    \"Thu nhập: Thỏa thuận theo năng lực.\",\n    \"Lương 3P, thu nhập theo thực tích cá nhân.\",\n    \"Các chính sách thưởng khác: ESOP, Bảo hiểm toàn diện, Thưởng thành tích.\",\n    \"Thưởng 2 lần/năm (Theo kết quả kinh doanh và thành tích của nhân viên).\",\n    \"Bảo hiểm xã hội, bảo hiểm y tế theo quy định.\",\n    \"Bảo hiểm nhân thọ cho cấp quản lý và nhân viên theo quy định của Công ty.\",\n    \"Chính sách ưu đãi, được ghi nhận, đánh giá công bằng.\",\n    \"Khám sức khỏe, du lịch hàng năm.\",\n    \"Chính sách thưởng hàng tháng cho những nhân viên làm việc hiệu quả.\",\n    \"Chính sách cổ đông, tham gia đầu tư vào công ty cho nhân viên có tâm, có năng lực và ý chí phấn đấu.\"\n  ],\n  \"description\": \"1. Vận hành máy Phay, Tiện CNC\\n2. Xử lý khắc phục lỗi NG trong quá trình sản xuất\\n3. Bảo trì khắc phục sự cố máy móc\\n4. Ý thức cao vấn đề thực hiện nội quy, quy định công ty\",\n  \"requirements_text\": \"1. Có kinh nghiệm 1 năm trong vận hành máy CNC\\n2. Am hiểu về lập trình MasterCam 2D\\n3. Đọc hiểu bản vẽ kỹ thuật, bản vẽ công nghệ gia công, lập quy trình công nghệ và lập trình MasterCam,2D\"\n}\n```",
+  "usage": {
+    "input_tokens": 4894,
+    "output_tokens": 745,
+    "total_tokens": 5639,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

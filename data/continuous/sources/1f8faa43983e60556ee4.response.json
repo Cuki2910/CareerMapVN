@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân - Nữ - Thu Nhập 9 - 10 Triệu - Triển Lãm XSpace-Time\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Vincom Mega Mall Thảo Điền, số 161 đường Võ Nguyên Giáp, Phường An Khánh, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-28\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan-nu-thu-nhap-9-10-trieu-trien-lam-xspace-time/2343950.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Giao tiếp tốt\",\n    \"Ngoại hình ưa nhìn\",\n    \"Tinh Thần Trách Nhiệm\",\n    \"Thái độ thân thiện\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"8.000.000 – 10.000.000 VNĐ/tháng\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\nXoay ca linh hoạt\",\n  \"benefits\": [\n    \"Thưởng hiệu quả làm việc\",\n    \"Có thưởng khác từ các hoạt động của công ty\",\n    \"Được đào tạo nghiệp vụ.\",\n    \"Lương, thưởng và các chế độ khác theo quy định.\",\n    \"Môi trường làm việc năng động, thân thiện.\"\n  ],\n  \"description\": \"Đón tiếp, tư vấn và hỗ trợ khách hàng tại cửa hàng.\\nThực hiện thanh toán, bán vé, tư vấn các gói vé cho khách hàng\\nHỗ trợ các công việc liên quan tại quầy thu ngân.\\nSắp xếp, trưng bày hàng hóa gọn gàng, đúng quy định.\\nThực hiện các công việc khác theo yêu cầu của quản lý.\",\n  \"requirements_text\": \"Nữ, ngoại hình ưa nhìn, nhanh nhẹn, trung thực.\\nƯu tiên ứng viên có kinh nghiệm và giao tiếp bằng tiếng Anh tốt\\nGiao tiếp tốt, thái độ thân thiện với khách hàng.\\nCó tinh thần trách nhiệm.\\nKhông yêu cầu kinh nghiệm (sẽ được đào tạo).\"\n}\n```",
+  "usage": {
+    "input_tokens": 4884,
+    "output_tokens": 683,
+    "total_tokens": 5567,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

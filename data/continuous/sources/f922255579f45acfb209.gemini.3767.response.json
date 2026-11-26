@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Báo Giá Tủ Bảng Điện\",\n  \"company_name\": null,\n  \"job_category\": \"Điện / Điện tử / Điện lạnh\",\n  \"sub_category\": \"Bán hàng kỹ thuật Điện/Điện tử/Viễn thông\",\n  \"industry\": \"Điện / Điện tử / Điện lạnh\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-gia-tu-bang-dien/1308789.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên các chuyên ngành Điện, hệ thống điện, điện công nghiệp\"\n  ],\n  \"technical_skills\": [\n    \"auto cad\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Ăn trưa miễn phí tại công ty\",\n    \"Thưởng định kỳ, thưởng các ngày lễ, Tết theo quy định của Công ty\",\n    \"Được tham gia BHXH, BHYT, BHTN đầy đủ\",\n    \"Được tham gia đào tạo các khóa học ngắn, trung và dài hạn nhằm nâng cao và phát huy năng lực chuyên môn mỗi cá nhân\",\n    \"Được tham gia các hoạt động team building du lịch nghỉ mát trong – ngoài nước hàng năm, sự kiện Công ty và hưởng các chế độ phúc lợi: Sinh nhật, ốm đau, hiếu hỉ,...\",\n    \"Môi trường làm việc thoải mái, thăng tiến theo năng lực và khả năng cống hiến\"\n  ],\n  \"description\": \"- Tiếp nhận các thông tin về dự án cần triển khai sẽ tiến hành bóc tách bản vẽ để ra thông tin về giá gửi đối tác, các phòng ban yêu cầu\\n- Bóc tách bản vẽ, làm báo giá cho các loại tủ điện, trạm trụ, kiosk\\n- Hỗ trợ giải đáp thắc mắc liên quan phần báo giá cho khách hàng hoặc các PB khi có yêu cầu về đơn hàng\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng trở lên các chuyên ngành Điện, hệ thống điện, điện công nghiệp\\n- Kinh nghiệm 01 năm \\n- Am hiểu kỹ thuật về thiết bị điện, tủ bảng điện công nghiệp\\n- Thành thạo auto cad và các phần mềm chuyên ngành phục vụ công việc\\n- Số lượng: 01\\n- Giới tính: Nam/Nữ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4860,
+    "output_tokens": 730,
+    "total_tokens": 5590,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

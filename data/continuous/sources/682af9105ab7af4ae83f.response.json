@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bảo Trì\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": null,\n  \"industry\": \"Công nghệ kỹ thuật, Sản xuất, Điện / Điện tử / Điện lạnh\",\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-tri/2363027.html\",\n  \"qualifications\": [\n    \"Trung cấp/CĐ/ĐH chuyên ngành Điện/Tự động hóa/Cơ khí hoặc có liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Sửa Chữa\",\n    \"bảo trì\",\n    \"an toàn lao động\",\n    \"Cơ Khí\",\n    \"điện\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7. Thời gian làm việc theo ca được bộ phận sắp xếp\",\n  \"benefits\": [\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định.\",\n    \"Bảo hiểm tai nạn 24/7 và Bảo hiểm sức khỏe (điều kiện áp dụng)\",\n    \"Tham gia hoạt động gắn kết nhân viên định kỳ tại Công ty\",\n    \"Thưởng tháng 13, thường năng suất.\",\n    \"Quà tặng Lễ, tết.\",\n    \"12 ngày nghỉ có hưởng lương, 12 ngày phép năm.\",\n    \"Xét lương hằng năm.\"\n  ],\n  \"description\": \"- Hỗ trợ các bộ phận liên quan đến hệ thống phụ trợ, hệ thống lạnh AHU, PAU, FFU, chiller... máy lạnh văn phòng, và các hệ thống thiết bị có liên quan.\\n- Bảo trì, sửa chữa hệ thống điện máy móc sản xuất, tủ điện, động cơ, cảm biến.\\n- Kiểm tra, xử lý sự cố phát sinh trong quá trình vận hành.\\n- Thực hiện đấu nối điện cho máy móc, thiết bị và dây chuyền sản xuất.\\n- Hỗ trợ lắp đặt máy mới, cải tiến hệ thống điện – điều khiển.\\n- Thực hiện bảo trì phòng ngừa (PM) cho hệ thống điện theo kế hoạch.\\n- Tuân thủ nghiêm ngặt quy định an toàn điện, an toàn lao động và nội quy nhà máy.\\n- Thực hiện 5S khu vực làm việc và bảo quản dụng cụ điện.\",\n  \"requirements_text\": \"- Tốt nghiệp Trung cấp/CĐ/ĐH chuyên ngành Điện/Tự động hóa/Cơ khí hoặc có liên quan.\\n- Ưu tiên có kinh nghiệm ở vị trí tương đương.\\n- Có kiến thức về An toàn vệ sinh lao động/GMP.\\n- Có thể làm việc theo ca\"\n}\n```",
+  "usage": {
+    "input_tokens": 4955,
+    "output_tokens": 752,
+    "total_tokens": 5707,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

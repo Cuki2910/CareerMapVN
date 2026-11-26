@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Kế Toán - Kiểm Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán / Kiểm toán\",\n  \"sub_category\": \"Kế toán - Kiểm toán\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-ke-toan-kiem-toan/2364418.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Sinh viên ngành kế toán/ Kiểm toán năm 3 và 4\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"MISA\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"trung thực\",\n    \"bảo mật thông tin\",\n    \"có trách nhiệm\",\n    \"chủ động trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Không lương\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thực tập\",\n  \"working_hours\": \"Lịch làm việc linh hoạt theo lịch đăng ký của ứng viên\\nTối thiểu 3 ngày/ tuần\",\n  \"benefits\": [\n    \"Hỗ trợ tài chính.\",\n    \"Hỗ trợ thông tin cho đề tài thực tập.\",\n    \"Cơ hội nghề nghiệp: Cơ hội trở thành nhân viên chính thức sau kỳ thực tập.\",\n    \"Môi trường: Năng động, hiện đại, đồng nghiệp thân thiện\",\n    \"Đặc biệt được tham gia các khóa đào tạo của Công ty.\"\n  ],\n  \"description\": \"- Tham gia nhập liệu, cập nhật và quản lý thông tin trên hệ thống kế toán..\\n· Tham gia kiểm toán BCTC cùng với nhóm kiểm toán, phụ trách một số phần hành đơn giản\\n- Tham gia đối chiếu số liệu, tổng hợp báo cáo dưới sự hướng dẫn trực tiếp của kế toán phụ trách.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Đại Học trở lên\\nSinh viên ngành kế toán/ Kiểm toán năm 3 và 4\\n- Sử dụng thành thạo Excel ; ưu tiên ứng viên đã biết sử dụng phần mềm MISA.\\n- Cẩn thận, trung thực, bảo mật thông tin, có trách nhiệm và chủ động trong công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4791,
+    "output_tokens": 628,
+    "total_tokens": 5419,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

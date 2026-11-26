@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Mỹ Phẩm\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng mỹ phẩm\",\n  \"sub_category\": \"Bán hàng tại cửa hàng/showroom\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-my-pham-ho-chi-minh/2350848.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Chăm chỉ\",\n    \"Kiên trì\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 7 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nCa 1 09:00 – 17:00 07:00 – 15:00  \\nCa 2 14:00 – 22:00 14:30 – 22:30  \\nNghỉ giải lao 45 phút\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Bảo hiểm y tế\",\n    \"Bảo hiểm thất nghiệp\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"Tư vấn và bán các sản phẩm mỹ phẩm cao cấp tại showroom trong trung tâm thương mại hoặc sân bay.\\nChủ động mời khách hàng trải nghiệm và dùng thử sản phẩm.\\nThực hiện test và hướng dẫn khách hàng trải nghiệm các sản phẩm chăm sóc da.\\nTư vấn sản phẩm phù hợp với nhu cầu của khách hàng và thuyết phục khách hàng mua sản phẩm.\\nChăm sóc khách hàng, duy trì hình ảnh chuyên nghiệp của showroom.\",\n  \"requirements_text\": \"Giao tiếp tốt, chăm chỉ và kiên trì;\\nChưa có kinh nghiệm sẽ được đào tạo;\\nMong muốn phát triển lâu dài và có thu nhập cao.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5079,
+    "output_tokens": 627,
+    "total_tokens": 5706,
+    "input_token_details": {
+      "cache_read": 2035
+    },
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Điều Vận\",\"company_name\":\"CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ Ô TÔ HẢI ÂU\",\"job_category\":\"Logistics\",\"sub_category\":\"Điều vận\",\"industry\":\"Sửa chữa, bảo dưỡng ô tô và xe có động cơ khác\",\"category\":null,\"location\":\"Tòa Hancorp Plaza, số 72 đường Trần Đăng Ninh, Phường Nghĩa Đô, Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-30\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-dieu-van/2346773.html\",\"qualifications\":[\"Tốt nghiệp Cao đẳng/Đại học quản trị kinh doanh, logistics,...hoặc các ngành liên quan\",\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Excel\",\"Google Sheets\",\"Phần mềm quản lý bán hàng\"],\"soft_skills\":[\"Có khả năng lập kế hoạch\",\"Điều phối\",\"Xử lý nhiều đơn hàng\",\"Kỹ năng phối hợp\",\"Giải quyết vấn đề\",\"Cẩn thận\",\"Trung thực\",\"Tuân thủ quy trình\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"8 - 11 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 12:00)\",\"benefits\":[\"Lương cơ bản: 8-11tr + thưởng doanh số\",\"Được làm việc trong môi trường văn minh, công bằng, cơ hội phát triển rõ ràng\",\"Các chế độ đãi ngộ (lương tháng 13, thưởng lễ tết, các dịp đặc biệt…)\",\"Đi du lịch nghỉ mát hàng năm\",\"Được hưởng đầy đủ các quyền lợi theo quy định của pháp luật (BHXH, lương, nghỉ phép….)\"],\"description\":\"Lên kế hoạch giao hàng: Tiếp nhận đơn hàng lốp xe, tính toán khối lượng để sắp xếp chuyến, ghép xe và phân công tài xế chạy tuyến tối ưu.\\nTheo dõi lộ trình: Giám sát quá trình vận chuyển qua GPS hoặc điện thoại, đảm bảo lốp được giao đến đại lý/khách hàng đúng giờ và xử lý sự cố phát sinh trên đường.\\nKiểm soát xuất - nhập kho: Phối hợp với thủ kho kiểm tra chính xác chủng loại lốp (mã gai, kích cỡ, thông số kỹ thuật, năm sản xuất/DOT) trước khi bốc xếp lên xe nhằm tránh giao sai hàng.\\nQuản lý chứng từ & chi phí: Thu hồi đầy đủ biên bản giao nhận, hóa đơn; theo dõi định mức tiêu hao xăng dầu, chi phí cầu đường và làm báo cáo điều vận định kỳ.\",\"requirements_text\":\"- Tốt nghiệp Cao đẳng/Đại học quản trị kinh doanh, logistics,...hoặc các ngành liên quan\\n- Có kinh nghiệm trong ngành lốp xe, phụ tùng ô tô là lợi thế\\n- Sử dụng tốt Excel, google sheets, phần mềm quản lý bán hàng,...\\n- Có khả năng lập kế hoạch, điều phối và xử lý nhiều đơn hàng\\n- Kỹ năng phối hợp, giải quyết vấn đề\\n- Cẩn thận, trung thực, tuân thủ quy trình\"}",
+  "usage": {
+    "input_tokens": 4940,
+    "output_tokens": 4068,
+    "total_tokens": 9008,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3036
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

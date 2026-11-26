@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Nhân Viên Sửa Chữa, Lắp Đặt, Bảo Trì Thang Máy_Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": \"CÔNG TY TNHH CIBES LIFT VIỆT NAM\",\n  \"job_category\": \"Kỹ Thuật\",\n  \"sub_category\": \"Sửa Chữa, Lắp Đặt, Bảo Trì Thang Máy\",\n  \"industry\": \"Bán buôn chuyên doanh khác chưa được phân vào đâu\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-nhan-vien-sua-chua-lap-dat-bao-tri-thang-may-khong-yeu-cau-kinh-nghiem/2340466.html\",\n  \"qualifications\": [\n    \"Trung cấp nghề\",\n    \"Cao đẳng trở xuống\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\",\n    \"Cơ Điện Tử\",\n    \"Bảo Trì Thang Máy\",\n    \"tự động hóa\",\n    \"Sửa Chữa Thang Máy\",\n    \"điện\",\n    \"điện tử\",\n    \"cơ khí lắp ráp\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 đến 15 triệu thỏa thuận cụ thể khi phỏng vấn\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 17:30) Nghỉ trưa 1 tiếng\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm full lương\",\n    \"Bảo hiểm sức khỏe\",\n    \"Phụ cấp xăng xe\",\n    \"Thưởng theo công trình và thưởng năm tài chính\",\n    \"BHYT, BHXH, BHTN theo quy định của nhà nước và bảo hiểm tai nạn làm động (công ty mua thêm)\",\n    \"Được trang bị đầy đủ bảo hộ lao động.\",\n    \"Đào tạo về chuyên môn (điện, cơ khí, tự động hóa), kỹ năng thực hiện công việc (kỹ năng mềm và kỹ năng cứng) và đào tạo an toàn lao động\",\n    \"Cơ hội trải nghiệm văn hóa ở nhiều tỉnh thành, cơ hội phát triển bản thân, tiếp cận với công nghệ mới.\",\n    \"Khám sức khỏe định kỳ\",\n    \"Du lịch hàng năm\",\n    \"Team building\",\n    \"Thưởng tháng 13\"\n  ],\n  \"description\": \"- Lắp đặt (đọc bản vẽ bao gồm bản vẽ cơ và bản vẽ điện), lắp đặt cơ khí, đấu nối tủ điện, vận hành chạy thử.\\n- Bảo trì/ sửa chữa: kiểm trả tình trạng vận hành của thiết bị điện, cơ khí.\\n**_Địa chỉ làm việc:_**\\n  * Hà Nội: P.303, Tầng 3, Tòa nhà HITC 239 Xuân Thủy, Cầu Giấy\\n  * Hồ Chí Minh: Số 138 đường B2, Khu nhà phố Sari Town, KĐT SaLa, P. An Lợi Đông, Q. 2, Thủ Đức\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Tuổi 20 - 30  Trung cấp trở lên  Nam\\n- Độ tuổi từ: 20 đến 30\\n- Trình độ chuyên môn: trung cấp nghề, cao đẳng trở xuống\\n- Có chuyên môn điện, điện tử, tự động hóa, cơ khí lắp ráp.\\n- Ưu tiên ứng viên có kinh nghiệm.\\n- Mong muốn làm việc lâu dài với công ty\"\n}",
+  "usage": {
+    "input_tokens": 4694,
+    "output_tokens": 2668,
+    "total_tokens": 7362,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1758
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

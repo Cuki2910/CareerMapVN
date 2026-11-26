@@ -1,0 +1,15 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Đầu Bếp\",\n  \"company_name\": \"Chuỗi Nhà Hàng Nhất Lươn\",\n  \"job_category\": \"Thực phẩm / Đồ uống\",\n  \"sub_category\": \"Đầu bếp\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"196 phố Sa Đôi, Phường Đại Mỗ, Nam Từ Liêm, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/dau-bep-chuoi-nha-hang-nhat-luon/2359069.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"nấu ăn\",\n    \"Vệ Sinh An Toàn Thực Phẩm\",\n    \"Quản Lý Bếp\",\n    \"Chế biến món lươn\",\n    \"Chứng chỉ an toàn thực phẩm\",\n    \"Ẩm thực Việt\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"12 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Bảo hiểm y tế đầy đủ theo quy định\",\n    \"Được trao quyền xây dựng thực đơn — cơ hội để lại dấu ấn ẩm thực cá nhân\",\n    \"Chế độ ăn ca, thưởng doanh thu, thưởng lễ Tết\",\n    \"Môi trường làm việc chuyên nghiệp, đồng nghiệp thân thiện\"\n  ],\n  \"description\": \"Quản lý bếp và vận hành\\n– Chịu trách nhiệm toàn bộ hoạt động của bếp: lên thực đơn, kiểm soát chất lượng món ăn và tốc độ phục vụ\\n– Xây dựng và chuẩn hóa quy trình chế biến (công thức, định lượng, bày trí) cho từng món trong thực đơn Nhất Lươn\\n– Quản lý, phân công và điều phối đội ngũ bếp trong ca làm việc\\n– Giám sát vệ sinh an toàn thực phẩm, đảm bảo bếp luôn đạt tiêu chuẩn sạch sẽ và an toàn\\n– Kiểm soát hao phí nguyên liệu, phối hợp với thủ kho lên kế hoạch đặt hàng phù hợp\\n\\nPhát triển thực đơn và chất lượng\\n– Nghiên cứu, thử nghiệm và đề xuất các món mới phù hợp với định hướng ẩm thực lươn truyền thống – hiện đại\\n– Đảm bảo tính nhất quán về hương vị, hình thức và khẩu phần qua từng ca, từng ngày\\n– Tham gia đào tạo kỹ năng chế biến cho phụ bếp và nhân viên bếp mới\",\n  \"requirements_text\": \"– Tối thiểu 3 năm kinh nghiệm tại vị trí bếp chính hoặc bếp trưởng, ưu tiên nhà hàng ẩm thực Việt\\n– Thành thạo các kỹ thuật chế biến món lươn: hấp, chiên, kho, nướng, nấu cháo, nấu canh...\\n– Có khả năng quản lý đội bếp từ 3–5 người\\n– Hiểu biết về tiêu chuẩn vệ sinh an toàn thực phẩm, có chứng chỉ liên quan là lợi thế\\n– Sáng tạo, chỉn chu trong từng món ăn, có tinh thần cầu tiến và trách nhiệm cao\"\n}\n```",
+  "usage": {
+    "input_tokens": 4994,
+    "output_tokens": 865,
+    "total_tokens": 5859,
+    "input_token_details": {
+      "cache_read": 2034
+    },
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh / Sales Thị Trường\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh\",\n  \"sub_category\": \"Sales Thị Trường\",\n  \"industry\": \"Bán buôn thực phẩm\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-thi-truong/2325259.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Thuyết phục\",\n    \"Giao tiếp tốt\",\n    \"Nắm bắt thị trường\",\n    \"Trách nhiệm cao trong công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"13 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Review lương vào tháng 3 hàng năm\",\n    \"Thử việc 100% lương\",\n    \"Nhận incentive hàng tháng và hàng quý theo chính sách công ty\",\n    \"Thưởng cuối năm\",\n    \"Được tham gia các khóa đào tạo nâng cao nghiệp vụ\",\n    \"Được hưởng đầy đủ các chế độ phúc lợi xã hội khác\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Đi thị trường gặp khách hàng trực tiếp (5-8 khách hàng/ngày) để bán hàng.\\n- Chăm sóc khách hàng cũ và phát triển hệ thống khách hàng mới trong khu vực chủ yếu kênh nhà hàng, khách sạn, resort, coffee, bakery shop\\n- Xử lí phản hồi thông tin từ khách hàng và thị trường\\n- Đàm phán, đề xuất các chương trình khuyến mãi\\n- Phối hợp các chiến dịch marketing với các hoạt động bán hàng.\",\n  \"requirements_text\": \"- Có thể đi thị trường để gặp khách hàng trực tiếp (5-8 khách hàng/ngày)\\n- Ngoại hình sáng, phong cách ăn mặc lịch sự, gọn gàng\\n- Không yêu cầu ngoại ngữ, tuy nhiên giao tiếp Tiếng Anh tốt là lợi thế\\n- Có kinh nghiệm bán hàng ít nhất 1 năm\\n- Có khả năng thuyết phục, giao tiếp tốt và có trách nhiệm cao trong công việc.\\n- Có kỹ năng nắm bắt thị trường, khách hàng mục tiêu.\\n- Có phương tiện di chuyển\"\n}\n```",
+  "usage": {
+    "input_tokens": 4760,
+    "output_tokens": 702,
+    "total_tokens": 5462,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

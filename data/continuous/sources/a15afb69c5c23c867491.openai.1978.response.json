@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Bảo Vệ - Quận 1\",\n  \"company_name\": \"Công ty TNHH Tin Học Thành Nhân\",\n  \"job_category\": \"Bảo vệ\",\n  \"sub_category\": \"Nhân Viên Bảo Vệ\",\n  \"industry\": \"Bán buôn máy tính, thiết bị ngoại vi và phần mềm\",\n  \"category\": null,\n  \"location\": \"174-176-178-180 Bùi Thị Xuân, Phường Bến Thành (Phường Bến Thành thuộc Quận 1 cũ), Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-bao-ve-quan-1/2355269.html\",\n  \"qualifications\": [\"Trung học cơ sở (Cấp 2) trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Trung thực\", \"Cẩn thận\", \"Tác phong nghiêm túc\"],\n  \"languages_required\": null,\n  \"experience_required\": null,\n  \"salary\": \"9 - 10 triệu\\nLương cứng: 9.000.000 – 10.000.000 đồng/tháng.\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Ca ngày\\n- Xoay ca 10 tiếng, trong khung giờ 8h00 – 19h00. Không làm ca đêm.\",\n  \"benefits\": [\n    \"Lương cứng: 9.000.000 – 10.000.000 đồng/tháng.\",\n    \"Được cấp đồng phục miễn phí khi nhận việc.\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn  Tuổi 18 - 50  Trung học cơ sở (Cấp 2) trở lên  Nam\\nChuyên môn: Bảo vệ\\n\\nMô tả công việc\\n- Hướng dẫn nhân viên, khách hàng ra vào và sắp xếp xe đúng nơi quy định.\\n- Đảm bảo an ninh, an toàn và trật tự chung tại văn phòng.\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n- Nam, độ tuổi từ 18 – 50.\\n- Sức khỏe tốt, ngoại hình cân đối.\\n- Trung thực, cẩn thận, tác phong nghiêm túc.\\n- Đã có kinh nghiệm làm bảo vệ.\\n- Không hút thuốc hoặc ít hút thuốc lá.\\n\\nKỹ năng cần có\\nKinh nghiệm làm bảo vệ\"\n}",
+  "usage": {
+    "input_tokens": 4423,
+    "output_tokens": 604,
+    "total_tokens": 5027,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

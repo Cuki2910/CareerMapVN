@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Chuyển Đổi Số\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": \"Thương mại điện tử\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-chuyen-doi-so/2328199.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp Cao đẳng/Đại học chuyên ngành Công nghệ thông tin hoặc các ngành liên quan\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Có tư duy tích cực và sẵn sàng thích ứng với hoạt động chuyển đổi số\",\n    \"Khả năng truyền đạt tốt để đào tạo, hướng dẫn người dùng\",\n    \"Chủ động thu thập phản hồi và cải tiến hệ thống\",\n    \"Có tinh thần trách nhiệm, khả năng phối hợp tốt với các phòng ban\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Nghỉ 2 thứ 7/ tháng\",\n  \"benefits\": [\n    \"Lương: thỏa thuận theo năng lực, kinh nghiệm và cơ chế của công ty.\",\n    \"Được tham gia BHXH, BHYT & BHTN đầy đủ.\",\n    \"Môi trường triển khai nhanh, khuyến khích thử nghiệm và phát triển các ý tưởng mới.\",\n    \"Sử dụng miễn phí sản phẩm mỹ phẩm của công ty\",\n    \"Có cơ hội phát triển lên các vị trí quản lý cao hơn theo năng lực.\"\n  ],\n  \"description\": \"- Thu thập, phân tích và chuẩn hóa quy trình vận hành của các phòng ban  \\n- Đề xuất số hóa, nâng cấp và cải tiến hệ thống theo nhu cầu thực tế  \\n- Phối hợp triển khai, đào tạo và hướng dẫn người dùng sử dụng hệ thống  \\n- Chủ động thu thập phản hồi để đề xuất phương án cải tiến  \\n- Xây dựng tài liệu và báo cáo liên quan đến chuyển đổi số\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng/Đại học chuyên ngành Công nghệ thông tin hoặc các ngành liên quan\\n- Có tư duy tích cực và sẵn sàng thích ứng với hoạt động chuyển đổi số  \\n- Khả năng truyền đạt tốt để đào tạo, hướng dẫn người dùng  \\n- Chủ động thu thập phản hồi và cải tiến hệ thống  \\n- Có tinh thần trách nhiệm, khả năng phối hợp tốt với các phòng ban\"\n}\n```",
+  "usage": {
+    "input_tokens": 4609,
+    "output_tokens": 726,
+    "total_tokens": 5335,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

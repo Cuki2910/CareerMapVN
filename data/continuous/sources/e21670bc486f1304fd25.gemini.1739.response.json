@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Pha Chế/Phục Vụ - Nhận Việc Ngay\",\n  \"company_name\": null,\n  \"job_category\": \"Pha chế\",\n  \"sub_category\": \"Pha chế (Barista)\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-pha-che-phuc-vu-nhan-viec-ngay/2308352.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Pha Chế\",\n    \"Thu Ngân\",\n    \"phục vụ\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"6.2 - 8.2 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày. Ca 4 tiếng hoặc 8 tiếng, trong khung giờ 6:30 - 18:30 hàng ngày.\\n- PART-TIME: Ca 4 tiếng/ ngày, mỗi tuần off 01 ngày và có 01 ngày làm ca 8 tiếng.\\n- FULL-TIME: Ca 8 tiếng/ ngày, mỗi tuần off 01 ngày và có 01 ngày làm 12 tiếng.\",\n  \"benefits\": [\n    \"Lương 30.000đ/ giờ\",\n    \"Phụ cấp cơm 30.000đ/ ca\",\n    \"Thưởng KPIs theo hiệu suất công việc trong tháng.\",\n    \"Nghỉ 01 ngày/ tuần.\",\n    \"Tham gia BHXH.\"\n  ],\n  \"description\": \"Chúng mình cần tìm đồng đội cho quán cafe sắp khai trương - ROI Coffee - tại tầng trệt của Trung tâm tiếng Anh Power English, với các công việc như sau:\\n  * Chuẩn bị nguyên vật liệu, vật dụng, dụng cụ đầu ca.\\n  * Chào đón khách hàng, tiếp nhận order món trên máy POS.\\n  * Pha chế đồ uống (cà phê, trà, nước ép,...) tiêu chuẩn của quán, đảm bảo đúng công thức, định lượng.\\n  * Bưng bê đồ uống, đồ ăn ra bàn cho khách.\\n  * Kiểm tra chất lượng nguyên liệu đầu ca (hạt cà phê, trà, sữa, syrup...) và kiểm kê nguyên liệu và báo cáo cho quản lý khi sắp hết hàng.\\n  * Dọn dẹp, đổ rác, vệ sinh máy móc, thiết bị, khu vực làm việc đầu ca và cuối ca.\\n  * Đào tạo/ hướng dẫn nhân viên khi cần.\",\n  \"requirements_text\": \"  * Ngoại hình ổn, giao tiếp tốt, nhanh nhẹn, trung thực\\n  * Kinh nghiệm pha chế ≥ 6 tháng\\n  * Am hiểu về cà phê.\\n  * Ưu tiên biết latte art.\\n  * Ưu tiên ứng viên đã có kinh nghiệm làm ở các chuỗi F&B.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4935,
+    "output_tokens": 802,
+    "total_tokens": 5737,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

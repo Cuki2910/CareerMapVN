@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Phiên Dịch Viên Tiếng Trung, Đi Làm Ngay, Lương Thỏa Thuận, Ninh Bình\",\"company_name\":\"CÔNG TY TNHH THÁI BÌNH DƯƠNG\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Phiên dịch viên tiếng Trung\",\"industry\":\"Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa\",\"category\":null,\"location\":\"Ninh Bình\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-20\",\"url\":\"https://www.topcv.vn/viec-lam/phien-dich-vien-tieng-trung-di-lam-ngay-luong-thoa-thuan-ninh-binh/2321387.html\",\"qualifications\":[\"Cao Đẳng trở lên\",\"Biên phiên dịch tiếng Trung\"],\"technical_skills\":[\"Phiên dịch Trung – Việt / Việt – Trung\",\"Dịch tài liệu kỹ thuật\",\"Sử dụng thuật ngữ chuyên ngành kỹ thuật\",\"Word\",\"Excel\",\"Các công cụ văn phòng cơ bản\"],\"soft_skills\":[\"Giao tiếp tốt\",\"Phản ứng nhanh\",\"Truyền đạt thông tin chính xác\",\"Có trách nhiệm\",\"Cẩn thận\",\"Chủ động\",\"Chịu được áp lực công việc\"],\"languages_required\":[\"Tiếng Trung\",\"Tiếng Việt\"],\"experience_required\":1,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nHoặc làm việc theo ca (Theo thời gian của kỹ thuật Trung Quốc).\",\"benefits\":[\"Mức lương thỏa thuận theo năng lực và kinh nghiệm.\",\"Được tiếp xúc thực tế với máy móc, công nghệ và quy trình sản xuất.\",\"Có cơ hội nâng cao tiếng Trung chuyên ngành kỹ thuật.\",\"Được hưởng các chế độ theo quy định của công ty và pháp luật hiện hành.\"],\"description\":\"+ Phiên dịch Trung – Việt / Việt – Trung cho kỹ thuật người Trung Quốc trong quá trình làm việc, họp và trao đổi giữa chuyên gia Trung Quốc và công nhân viên Việt Nam.\\n+ Phiên dịch các nội dung liên quan đến máy móc, thiết bị, dây chuyền sản xuất, kỹ thuật và quy trình công nghệ.\\n+ Dịch tài liệu kỹ thuật: hướng dẫn vận hành, tiêu chuẩn kỹ thuật, bản mô tả thiết bị, quy trình sản xuất, báo cáo kỹ thuật...\\n+ Hỗ trợ kỹ sư, chuyên gia, nhân viên kỹ thuật người Trung Quốc trong quá trình lắp đặt, vận hành, bảo trì và xử lý sự cố máy móc.\\n+ Truyền đạt chính xác các yêu cầu kỹ thuật giữa bộ phận Việt Nam và chuyên gia Trung Quốc.\\n+ Tham gia các cuộc họp kỹ thuật, ghi chép và hỗ trợ biên dịch nội dung khi cần.\\n+ Hỗ trợ giao tiếp trong công việc giữa các bộ phận trong sản xuất, kỹ thuật, QA/QC, bảo trì và quản lý..\\n+ Thực hiện các công việc khác theo yêu cầu của cấp trên.\",\"requirements_text\":\"+Tiếng Trung tốt, ưu tiên có khả năng nghe – nói – đọc – viết (là lợi thế)\\n+Ưu tiên ứng viên có kinh nghiệm phiên dịch trong nhà máy hoặc lĩnh vực kỹ thuật, sản xuất.\\n+Có khả năng tìm hiểu và sử dụng thuật ngữ chuyên ngành kỹ thuật.\\n+Giao tiếp tốt, phản ứng nhanh và truyền đạt thông tin chính xác.\\n+Có trách nhiệm, cẩn thận, chủ động và chịu được áp lực công việc.\\n+Biết sử dụng Word, Excel và các công cụ văn phòng cơ bản là lợi thế.\"}",
+  "usage": {
+    "input_tokens": 5205,
+    "output_tokens": 4819,
+    "total_tokens": 10024,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3636
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

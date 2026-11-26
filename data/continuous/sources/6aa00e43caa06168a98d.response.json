@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Kinh Doanh Shop Thời Trang\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh/Bán hàng\",\n  \"sub_category\": \"Kinh doanh/Bán hàng khác\",\n  \"industry\": \"May mặc / Thời trang\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-kinh-doanh-shop-thoi-trang/1935410.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"MS Excel\",\n    \"Word\",\n    \"PowerPoint\"\n  ],\n  \"soft_skills\": [\n    \"Diễn đạt trôi chảy\",\n    \"Phát âm chuẩn\",\n    \"Kỹ năng chăm sóc khách hàng\",\n    \"Kỹ năng giao tiếp\",\n    \"Khả năng làm việc dưới áp lực cao\",\n    \"Kỹ năng thuyết trình\",\n    \"Thuyết trình\",\n    \"Tìm kiếm khách hàng\",\n    \"Xây dựng mối quan hệ\",\n    \"Giao tiếp\",\n    \"Nghiên Cứu Thị Trường\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"2 - 3 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thưởng tháng 13\",\n    \"Du lịch hàng năm\",\n    \"Team building\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Phụ cấp thâm niên\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"Xây dựng kế hoạch kinh doanh hiệu quả và đạt chỉ tiêu doanh số  \\nQuản lý mối quan hệ với khách hàng và doanh số bán hàng  \\nDuy trì mối quan hệ và xây dựng mối quan hệ với khách hàng mới.  \\nLiên hệ hoặc gặp gỡ khách hàng,   \\nTheo dõi và hỗ trợ sau bán hàng để đảm bảo việc sử dụng dịch vụ của khách hàng được hiệu quả.  \\nThực hiện các nhiệm vụ khác do Lãnh đạo giao\",\n  \"requirements_text\": \"Tốt nghiệp Trung cấp hoặc có trình độ tương đương.  \\nKhông cần kinh nghiệm   \\nCó kinh nghiệm làm việc trong ngành dịch vụ Thời trang may mặc là một lợi thế  \\nKỹ năng chăm sóc khách hàng tốt và tích cực phát triển kinh doanh với khách hàng doanh nghiệp.  \\nKỹ năng giao tiếp tốt.  \\nThành thạo các phần mềm văn phòng như MS Excel, Word, PowerPoint.  \\nKhả năng làm việc dưới áp lực cao.  \\nKỹ năng giao tiếp tiếng Anh cơ bản.  \\nKỹ năng thuyết trình tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5382,
+    "output_tokens": 778,
+    "total_tokens": 6160,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

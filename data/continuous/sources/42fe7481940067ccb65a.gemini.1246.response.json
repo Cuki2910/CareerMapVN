@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Pháp Lý Dự Án (Phát Triển Dự Án)\",\n  \"company_name\": null,\n  \"job_category\": \"Luật / Pháp chế\",\n  \"sub_category\": \"Chuyên viên pháp lý\",\n  \"industry\": \"Bất động sản\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-phap-ly-du-an-phat-trien-du-an/2315055.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp đại học các chuyên ngành luật\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Làm việc chủ động\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Hỗ trợ ăn trưa\",\n    \"Nghỉ lễ, tết theo quy định\",\n    \"Du lịch nghỉ mát\",\n    \"Các chế độ phúc lợi khác của Công ty\",\n    \"Cơ hội phát triển nghề nghiệp, phát triển bản thân, được tiếp cận học hỏi và trực tiếp thực hiện thủ tục ở nhiều loại hình dự án, nhiều giai đoạn của dự án\"\n  ],\n  \"description\": \"- Nghiên cứu các văn bản pháp luật, các quy định liên quan đến thủ tục triển khai dự án;\\n- Trực tiếp triển khai các thủ tục của dự án (quy hoạch, đầu tư, xây dựng, đất đai...);\\n- Soạn thảo giấy tờ, văn bản, hồ sơ liên quan;\\n- Làm việc với các đối tác, các Cơ quan nhà nước trong quá trình triển khai dự án;\\n- Quản lý hồ sơ giấy tờ văn bản dự án;\",\n  \"requirements_text\": \"- Tốt nghiệp đại học các chuyên ngành luật;\\n- Kinh nghiệm: Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực phát triển dự án (nắm được sơ bộ về thủ tục thực hiện dự án);\\n- Có kỹ năng giao tiếp, làm việc chủ động;\"\n}\n```",
+  "usage": {
+    "input_tokens": 8366,
+    "output_tokens": 654,
+    "total_tokens": 9020,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

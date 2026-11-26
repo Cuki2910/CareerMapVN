@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thu Ngân\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-ngan/2119664.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Máy Tính\",\n    \"Sử Dụng Máy Pos\",\n    \"Tính Toán\",\n    \"Kiểm Tra Tiền\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Giao tiếp\"\n  ],\n  \"languages_required\": [\n    \"tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"6 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 16:00)\",\n  \"benefits\": [\n    \"Môi trường làm việc năng động, thân thiện.\",\n    \"Cơ hội được đào tạo và phát triển các kỹ năng liên quan đến công việc.\",\n    \"Được hưởng các chế độ bảo hiểm theo quy định của pháp luật.\",\n    \"Các chế độ phúc lợi khác theo quy định của công ty.\"\n  ],\n  \"description\": \"Thực hiện các giao dịch thanh toán, in hóa đơn và bàn giao cho khách hàng.\\nKiểm tra và đảm bảo tính chính xác của hóa đơn, tiền mặt và các phương thức thanh toán khác.\\nChào đón và hỗ trợ khách hàng trong quá trình thanh toán.\\nQuản lý và bảo quản tiền mặt, đảm bảo an toàn và tuân thủ quy trình.\\nTheo dõi và báo cáo doanh thu hàng ngày, đối chiếu số liệu.\\nHỗ trợ các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm, chấp nhận sinh viên mới ra trường.\\nCó khả năng giao tiếp tốt, nhanh nhẹn, trung thực và cẩn thận.\\nKỹ năng sử dụng máy tính và các thiết bị thanh toán (POS).\\nCó khả năng làm việc theo ca, kể cả cuối tuần và ngày lễ.\\nỨng viên có kinh nghiệm ở vị trí tương đương là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4689,
+    "output_tokens": 663,
+    "total_tokens": 5352,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

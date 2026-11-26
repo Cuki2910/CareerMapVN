@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Tại Hưng Yên (Có Xe Đưa Đón Hà Nội - Hưng Yên) - Lương 8 -11 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hưng Yên\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-tai-hung-yen-co-xe-dua-don-ha-noi-hung-yen-luong-8-11-trieu/2123296.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Quản Lý Kho\",\n    \"sắp xếp hàng hóa\",\n    \"Kiểm Kê Hàng Hóa\",\n    \"Nhận Hàng Xuất Hàng\",\n    \"Phân Loại Hàng Hóa\",\n    \"Office\"\n  ],\n  \"soft_skills\": [\n    \"Có trách nhiệm\",\n    \"trung thực\",\n    \"nhiệt tình trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"CÓ XE ĐƯA ĐÓN ĐẾN NƠI LÀM VIỆC\",\n    \"Mức lương từ 8 -11 triệu\",\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Khám sức khỏe định kỳ\",\n    \"Thưởng 3 lần/năm\",\n    \"Tăng lương hàng năm\",\n    \"Chế độ du lịch hàng năm\",\n    \"Chế độ BHXH, BHYT, BHTN theo quy định\",\n    \"Ngày nghỉ và các chế độ khác theo quy định của Bộ luật Lao động\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"1. Quản lý, sắp xếp hàng hóa trong kho;\\n2. Thực hiện xuất nhập hàng hóa;\\n3. Kiểm kê hàng hóa trong kho khi có yêu cầu;\\n4. Lưu giữ chứng từ; thực hiện báo cáo.\\n5. Thực hiện các công việc khác, theo yêu cầu từ cấp trên\",\n  \"requirements_text\": \"- Giới tính: Nam/ Nữ (không yêu cầu về độ tuổi)  \\n- Ưu tiên người đã từng làm việc trong các doanh nghiệp về lĩnh vực logistics & các doanh nghiệp Nhật Bản  \\n- Có trách nhiệm, trung thực, nhiệt tình trong công việc, sức khỏe tốt  \\n- Gắn bó lâu dài với Công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4809,
+    "output_tokens": 758,
+    "total_tokens": 5567,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

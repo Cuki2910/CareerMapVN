@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên An Toàn Kỹ Thuật Xe\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Dịch vụ vận tải khác\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-an-toan-ky-thuat-xe/2343280.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên chuyên ngành kỹ thuật ô tô, cơ khí, giao thông vận tải hoặc các ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm tra, bảo dưỡng và đảm bảo an toàn kỹ thuật phương tiện\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Trách nhiệm\",\n    \"Có khả năng chịu được áp lực\",\n    \"Làm việc độc lập\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\\nNghỉ trưa từ 12h-13h30\",\n  \"benefits\": [\n    \"Hưởng đầy đủ các chính sách về BHXH\",\n    \"Tăng lương, thưởng theo chính sách đãi ngộ của công ty.\",\n    \"Thưởng hiệu quả công việc, thưởng cuối năm,…\",\n    \"Môi trường làm việc trẻ trung, năng động\",\n    \"Cơ hội thăng tiến, phát triển bản thân\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Kiểm tra, giám sát tình trạng an toàn kỹ thuật của phương tiện.\\n- Theo dõi, đánh giá và đề xuất xử lý các vấn đề liên quan đến an toàn xe.\\n- Lập các báo cáo liên quan về các công việc đang theo dõi và phụ trách theo quy định\\n- Thực hiện các công việc kỹ thuật theo yêu cầu của bộ phận.\\n\\nĐịa điểm làm việc:\\n- Đồng Nai: Đường 6A, KCN Bàu Xéo, Xã Trảng Bom (Xã Trảng Bom thuộc huyện Trảng Bom cũ)\",\n  \"requirements_text\": \"- Nam, có ít nhất 1 năm kinh nghiệm làm việc trong lĩnh vực kỹ thuật xe, ô tô hoặc liên quan.\\n- Tốt nghiệp Trung cấp trở lên chuyên ngành kỹ thuật ô tô, cơ khí, giao thông vận tải hoặc các ngành liên quan.\\n- Có kiến thức về kiểm tra, bảo dưỡng và đảm bảo an toàn kỹ thuật phương tiện.\\n- Cẩn thận, trách nhiệm, có khả năng chịu được áp lức và làm việc độc lập.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4816,
+    "output_tokens": 737,
+    "total_tokens": 5553,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

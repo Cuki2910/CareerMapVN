@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh / Sale - Không Kinh Nghiệm - Thu Nhập Hấp Dẫn\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh / Bán hàng\",\n  \"sub_category\": \"Bán hàng kỹ thuật cơ khí\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tây Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sale-khong-kinh-nghiem-thu-nhap-hap-dan-tay-ninh/2363960.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Diễn đạt trôi chảy\",\n    \"Kỹ năng giao tiếp\",\n    \"Kỹ năng bán hàng\",\n    \"kỹ năng tin học văn phòng\",\n    \"Kỹ năng làm việc độc lập\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"25 - 30 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Lương cứng từ 10 - 15 triệu + thưởng doanh số (trao đổi cụ thể khi phỏng vấn);\",\n    \"Hỗ trợ phỏng vấn online cho ứng viên xa trụ sở chính.\",\n    \"Được hưởng đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định của Nhà nước.\",\n    \"Lương tháng 13, thưởng lễ tết, thưởng hiệu quả công việc.\",\n    \"Cơ hội phát triển, thăng tiến rõ ràng dành cho người cầu tiến\"\n  ],\n  \"description\": \"Tìm kiếm, chăm sóc & phát triển mạng lưới khách hàng\\nTư vấn sản phẩm & các giải pháp kỹ thuật cho khách hàng;\\nThực hiện các công việc chuyên môn: Thương thảo, ký kết hợp đồng với khách hàng;\\nChịu trách nhiệm mở rộng & phát triển khách hàng mới. Chăm sóc, duy trì các khách hàng cũ;\\nXây dựng, triển khai các hoạt động khảo sát, nghiên cứu thị trường, giá của đối thủ cạnh tranh để tham mưu cho Trưởng phòng và Giám đốc công ty chiến lược về giá và sản phẩm\",\n  \"requirements_text\": \"Không có kinh nghiệm sẽ được đào tạo\\nƯu tiên ứng viên biết Tiếng Trung\\nThành thạo tin học văn phòng\\nChăm chỉ – có trách nhiệm\\nTrụ sở chính:\\n- Lô G22-G25, Đường N3, KCN Thuận, Xã Mỹ Hạnh (Đức Hòa - Tây Ninh)\"\n}\n```",
+  "usage": {
+    "input_tokens": 5129,
+    "output_tokens": 759,
+    "total_tokens": 5888,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

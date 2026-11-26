@@ -1,0 +1,17 @@
+{
+  "content": "{\n  \"job_title\": \"Claim Administrator (Chinese) - 5-Month Contract\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/claim-administrator-chinese-5-month-contract/2253899.html\",\n  \"qualifications\": [\n    \"University or college graduate, majoring in Chinese\",\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Computer literacy\",\n    \"Microsoft Excel\"\n  ],\n  \"soft_skills\": [\n    \"Team player\",\n    \"Ability to work under pressure\",\n    \"Planning and organizing\",\n    \"Strong attention to detail\",\n    \"Quality mindset\"\n  ],\n  \"languages_required\": [\n    \"Chinese (advanced)\",\n    \"English (intermediate)\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"5-Month Contract\",\n  \"working_hours\": \"Monday - Thursday: 8:00 am - 6:00 pm  Friday: 8:00 am - 5:00 pm\",\n  \"benefits\": [\n    \"Competitive salary\",\n    \"13th month salary\",\n    \"Accidence insurance 24/7\",\n    \"Team building activities\",\n    \"Active and professional environment\",\n    \"Other benefits following Labour Code and Social Insurance Laws\"\n  ],\n  \"description\": \"Responsibilities will include but not be limited to:\\n  * Adjudicate and process employee benefit claims by each client’s policies and guidelines; raise clarifications when necessary;\\n  * Plan and organize the processing schedule to ensure timely;\\n  * Prepare and deliver claims reports according to clients’ schedules; \\n  * Support in managing inquiries from clients or their employees;\\n  * Participate in new system release testing;\\n  * Support in issue investigation and resolution raised by clients or employees;\\n  * Document and maintain work procedures.\",\n  \"requirements_text\": \"###  Requirements: \\nKhông yêu cầu kinh nghiệm chuyên môn  Cao Đẳng trở lên  Tiếng Trung HSK 5\\n###  Candidate Requirements \\n  * University or college graduate, majoring in Chinese or Certificate;\\n  * Chinese - advanced, English - Intermediate;\\n  * A team player, able to work under pressure, plan and organize well;\\n  * Computer literacy;\\n  * Strong attention to detail with a quality mindset;\\n  * Proficient in Microsoft Excel.\"\n}",
+  "usage": {
+    "input_tokens": 3910,
+    "output_tokens": 1562,
+    "total_tokens": 5472,
+    "input_token_details": {
+      "cache_read": 1792
+    },
+    "output_token_details": {
+      "reasoning": 959
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

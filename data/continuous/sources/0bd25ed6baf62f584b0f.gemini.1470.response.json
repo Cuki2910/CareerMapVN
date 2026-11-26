@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giám Sát Thực Địa (Field Supervisor)\",\n  \"company_name\": null,\n  \"job_category\": \"Nghiên cứu thị trường (Market Research)\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-sat-thuc-dia-field-supervisor/2326813.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"truyền đạt thông tin\",\n    \"tổ chức\",\n    \"sắp xếp và xử lý công việc\",\n    \"làm việc dưới áp lực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Giờ hành chính, từ thứ Hai đến thứ Sáu, nghỉ thứ Bảy và Chủ nhật (từ 09:00 đến 18:00)\",\n  \"benefits\": [\n    \"Mức lương: Cạnh tranh, tương xứng với kinh nghiệm và năng lực (trao đổi trực tiếp khi phỏng vấn).\",\n    \"Tham gia đầy đủ BHXH, BHYT theo quy định, cùng quyền lợi khám chữa bệnh tại các bệnh viện công lập, tư nhân và quốc tế theo chính sách bảo hiểm của công ty.\",\n    \"Thưởng lương tháng 13, các khoản thưởng bổ sung và du lịch công ty hằng năm, tùy theo kết quả hoạt động kinh doanh.\"\n  ],\n  \"description\": \"Quản lý, phân công và hỗ trợ điều phối công việc của đội ngũ Phỏng vấn viên.\\nTham gia lập kế hoạch, tổ chức và theo dõi hoạt động thu thập dữ liệu cho các dự án nghiên cứu thị trường.\\nGiám sát hoạt động khảo sát nhằm đảm bảo tuân thủ quy trình, yêu cầu và tiêu chuẩn chất lượng của từng dự án.\\nTheo dõi tiến độ, phối hợp xử lý các vấn đề phát sinh để đảm bảo dự án hoàn thành đúng thời hạn.\\nPhối hợp với các bộ phận liên quan, cập nhật tiến độ và báo cáo tình hình triển khai dự án.\",\n  \"requirements_text\": \"Làm việc tại TP. Hồ Chí Minh\\nCó tối thiểu 2 năm kinh nghiệm trong lĩnh vực nghiên cứu thị trường.\\nChăm chỉ, năng động, nhiệt tình và có tinh thần trách nhiệm cao trong công việc.\\nCó khả năng làm việc dưới áp lực và sẵn sàng đi công tác tỉnh khi công việc yêu cầu.\\nCó khả năng tổ chức, sắp xếp và xử lý công việc hiệu quả.\\nCó kỹ năng giao tiếp và truyền đạt thông tin tốt.\\nCó tinh thần cầu tiến, chủ động học hỏi và phát triển bản thân.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4816,
+    "output_tokens": 743,
+    "total_tokens": 5559,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

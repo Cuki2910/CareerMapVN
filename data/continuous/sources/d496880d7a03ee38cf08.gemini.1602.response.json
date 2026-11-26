@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Hỗ Trợ Kho Thành Phẩm\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Logistic / Vận tải, Kho vận, Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hưng Yên\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ho-tro-kho-thanh-pham/2353433.html\",\n  \"qualifications\": [\n    \"Cao Đẳng\",\n    \"Đại Học\"\n  ],\n  \"technical_skills\": [\n    \"hệ thống quản lý ISO\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Thưởng 2 lần/ năm\",\n    \"Tăng lương 1 năm/ lần\",\n    \"Bảo hiểm xã hội đầy đủ theo lương\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"Bảo hiểm hộ gia đình cho bố mẹ/vợ/chồng\",\n    \"Trợ cấp: Nuôi con dưới 6 tuổi dành cho cả nhân viên nam và nữ\",\n    \"Kỹ năng mềm theo chương trình chuẩn của công ty\",\n    \"Đào tạo bên ngoài với chuyên gia\",\n    \"Đào tạo kỹ thuật chuyên sâu\"\n  ],\n  \"description\": \"- Ca làm việc: ca ngày & ca đêm\\n- Theo dõi hoạt động nhận hàng thành phẩm từ chuyền sản xuất, xuất hàng sang các kho thuê ngoài theo kế hoạch và chỉ định\\n- Làm việc trực tiếp với nhân viên của nhà cung cấp dịch vụ, đảm bảo hoạt động vận hành tại kho Nhà máy\\n- Theo dõi, tiếp nhận, xử lý dữ liệu, và thực hiện các hoạt động nhập/ xuất hàng hóa tại kho và trên hệ thống\\n- Phối hợp với các phòng ban liên quan xử lý hàng NG, đề xuất phương án cải thiện tình trạng NG\\n- Báo cáo và đối chiếu tình trạng xuất – nhập – tồn định kỳ tại kho nhà máy và xử lý chênh lệch.\",\n  \"requirements_text\": \"• Độ tuổi: 25-35\\n• Ứng viên sinh sống tại Hưng Yên\\n• Tốt nghiệp Cao Đẳng, Đại Học các chuyên ngành về: Kinh tế, quản lý chuỗi cung ứng,…\\n• Ưu tiên ứng viên có kinh nghiệm từ 1 năm ở vị trí vận hành kho.\\n• Ứng viên có kiến thức và kho và hệ thống quản lý ISO\"\n}\n```",
+  "usage": {
+    "input_tokens": 4858,
+    "output_tokens": 713,
+    "total_tokens": 5571,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

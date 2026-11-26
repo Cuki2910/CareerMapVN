@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân Nhà Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Số 1 Trần Đăng Ninh, Phường Cầu Giấy, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2027-01-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-nha-hang/2299868.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Có tinh thần trách nhiệm\",\n    \"cởi mở\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca gãy: 10h-14h & 17h-22h.\",\n  \"benefits\": [\n    \"Đóng BHXH, BHYT đầy đủ khi vào làm chính thức.\",\n    \"Chế độ phúc lợi minh bạch, theo quy định Pháp luật.\",\n    \"Thưởng lễ, thưởng cuối năm, lương tháng 13, sinh nhật, 08/03 …\",\n    \"Xét điều chỉnh lương định kỳ hằng năm.\",\n    \"Hoạt động văn hóa nội bộ sôi nổi, teambuilding, du lịch, khám sức khỏe hằng năm.\",\n    \"Phụ cấp 1 bữa trưa & tối tại công ty.\",\n    \"Làm việc trong môi trường nhà hàng thân thiện, chuyên nghiệp.\",\n    \"Tháng nghỉ 4 ngày\"\n  ],\n  \"description\": \"- Đón tiếp khách.\\n- Hướng dẫn khách lên nhà hàng. \\n- Đảm bảo vệ sinh khu vực làm việc.\\n- Kiểm soát, điều phối chung khu vực sảnh lễ tân.\\n- Hoàn thành các công việc khác của quản lý giao cho.\",\n  \"requirements_text\": \"- Từ 18 tuổi trở lên.\\n- Có tinh thần trách nhiệm, cởi mở.\\n- Ngoại hình ưa nhìn.\\n- Biết chút ngoại ngữ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4643,
+    "output_tokens": 595,
+    "total_tokens": 5238,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư QS / Thanh Quyết Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Dự toán công trình\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"71 đường Chiến Thắng, Văn Quán, Phường Hà Đông, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-qs-thanh-quyet-toan-tai-ha-noi-di-lam-ngay/2353841.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"AutoCAD\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Tư duy số liệu tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương thỏa thuận tùy theo năng lực và kinh nghiệm (trao đổi trực tiếp khi phỏng vấn).\",\n    \"Được tham gia đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định của pháp luật.\",\n    \"Có cơ hội đào tạo, nâng cao trình độ chuyên môn, phát triển nghề nghiệp lâu dài.\",\n    \"Tham gia các hoạt động văn hóa, thể thao và sự kiện nội bộ của công ty.\"\n  ],\n  \"description\": \"Biết kiểm tra khối lượng thanh quyết toán \\n Làm công tác dự thầu\\n Hoàn thiện hồ sơ hoàn công, hồ sơ thanh toán\\n Lập kế hoạch công việc\",\n  \"requirements_text\": \"Yêu cầu có kinh nghiệm quản lý, thanh quyết toán sinh năm từ 1984 trở lên\\nThành thạo Excel và AutoCAD; cẩn thận, tư duy số liệu tốt.\\nCó kiến thức về các tiêu chuẩn và quy định xây dựng hiện hành;\"\n}\n```",
+  "usage": {
+    "input_tokens": 4622,
+    "output_tokens": 594,
+    "total_tokens": 5216,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

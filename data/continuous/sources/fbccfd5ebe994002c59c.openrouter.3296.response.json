@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Trợ Lý Kiểm Toán\",\"company_name\":\"CÔNG TY TNHH KIỂM TOÁN VIỆT TÍN\",\"job_category\":\"Kế toán/Kiểm toán/Thuế\",\"sub_category\":\"Trợ lý kiểm toán\",\"industry\":\"Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-25\",\"url\":\"https://www.topcv.vn/viec-lam/tro-ly-kiem-toan/2318564.html\",\"qualifications\":[\"Đại Học trở lên\",\"Chuyên môn Kế toán/Kiểm toán/Thuế khác\",\"Kiểm toán\"],\"technical_skills\":[\"Am hiểu về các quy định của pháp luật, các chuẩn mực và thuế trong lĩnh vực kế toán - kiểm toán\",\"Thành thạo các báo cáo kế toán quản trị và các báo cáo khác liên quan đến công việc được thực hiện\",\"Thành thạo tin học văn phòng Word, Excel, PowerPoint\",\"Thành thạo phần mềm kế toán\"],\"soft_skills\":[\"Nhanh nhẹn\",\"Nhiệt tình\",\"Trung thực\",\"Cẩn thận\",\"Có khả năng làm việc theo nhóm\",\"Chịu được áp lực công việc\",\"Có khả năng tư duy tốt\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"10 - 15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\"benefits\":[\"Môi trường làm việc chuyên nghiệp, hiện đại, năng động.\",\"Có cơ hội đào tạo nghề nghiệp để nâng cao năng lực làm việc, và phát triển sự nghiệp bền vững.\",\"Hưởng các chính sách đãi ngộ lương tháng 13, 14, 15 (Tùy theo tình hình công ty).\",\"Hưởng các chính sách khác theo chế độ quy định của Nhà nước và theo quy định của Công ty.\"],\"description\":\"Thực hiện công việc kiểm toán các phần hành theo sự phân công của Trưởng nhóm kiểm toán...\\nHoàn thành hồ sơ kiểm toán theo hồ sơ mẫu của VACPA.\\nChịu trách nhiệm trước Trưởng nhóm kiểm toán về chất lượng công việc do mình đảm trách.\",\"requirements_text\":\"Có ít nhất 1 năm kinh nghiệm trở lên làm trợ lý kiểm toán.\\nAm hiểu về các quy định của pháp luật, các chuẩn mực và thuế trong lĩnh vực kế toán - kiểm toán.\\nThành thạo các báo cáo kế toán quản trị và các báo cáo khác liên quan đến công việc được thực hiện.\\nThành thạo tin học văn phòng Word, Excel, PowerPoint và phần mềm kế toán.\\nCó thể sử dụng tiếng Anh là một lợi thế.\\nNhanh nhẹn, nhiệt tình, trung thực, cẩn thận, có khả năng làm việc theo nhóm, chịu được áp lực công việc, có khả năng tư duy tốt.\"}",
+  "usage": {
+    "input_tokens": 4752,
+    "output_tokens": 2649,
+    "total_tokens": 7401,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 1756
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

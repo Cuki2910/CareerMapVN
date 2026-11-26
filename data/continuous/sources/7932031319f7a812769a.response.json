@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Admin Trang Trại\",\"company_name\":\"CÔNG TY CỔ PHẦN DINH DƯỠNG ĐỘNG VẬT VIETSWAN\",\"job_category\":\"Hành chính\",\"sub_category\":\"Hành chính tổng hợp\",\"industry\":\"Sản xuất thức ăn gia súc, gia cầm và thủy sản\",\"category\":null,\"location\":\"Tây Ninh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-13\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-admin-trang-trai/2357680.html\",\"qualifications\":[\"Tốt nghiệp Cao Đẳng trở lên các ngành.\"],\"technical_skills\":null,\"soft_skills\":[\"Làm việc độc lập\",\"Làm việc nhóm\",\"Quản lý thời gian\",\"Sắp xếp và tổ chức\",\"Quản Lý Văn Phòng\",\"Kỹ năng báo cáo\",\"Siêng năng, chăm chỉ, chịu được áp lực công việc.\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"Thu nhập từ 12 - 14 triệu/tháng (Lương và phụ cấp)\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Thu nhập từ 12 - 14 triệu/tháng (Lương và phụ cấp)\",\"Được bao ăn ở, phụ cấp điện thoại, xăng xe, môi trường, an toàn sinh học\",\"Tuần được ra ngoài nhà máy 1 lần.\",\"Tham gia BHXH, BHYT đầy đủ (Đóng full lương)\",\"Thưởng Lễ, Tết, thưởng vượt năng suất theo quy định của công ty\",\"Được đào tạo nâng cao trình độ chuyên môn nghiệp vụ phù hợp với công việc thực tế\",\"Bảo hiểm xã hội, Bảo hiểm full lương, Thưởng hiệu quả làm việc, Thưởng tháng 13, Team building\",\"Ăn trưa, Xăng xe, Cước điện thoại\"],\"description\":\"- Chịu trách nhiệm tiếp nhận, tổng hợp, thống kê và theo dõi số liệu để lập báo cáo xuất, nhập, tồn (gà, cám, thuốc, vaccine, công cụ dụng cụ) và gửi báo cáo ngày/tuần cho bộ phận chức năng công ty;\\n- Thực hiện việc kiểm kê, cấp phát cám, thuốc, vaccine, công cụ dụng cụ theo yêu cầu của Kỹ thuật trại;\\n- Thực hiện quy trình an toàn sinh học cho cám, thuốc, vaccine và công cụ dụng cụ khi cấp phát;\\n- Chịu trách nhiệm cung cấp đồ dùng sinh hoạt cho CB-CNV và khách công tác tại nhà máy;\\n- Thực hiện các thủ tục khi xuất gà, trứng ra khỏi nhà máy;\\n- Báo cáo danh sách công nhân sự, cập nhật tăng ca hàng ngày;\\n- Cập nhật các chứng từ, đơn nghỉ phép,... của người lao động;\\n- Thực hiện các công việc theo chỉ đạo của Ban Lãnh Đạo.\\n- Làm việc và ở lại tại nhà máy theo địa chỉ: Bình Dương và Tây Ninh\",\"requirements_text\":\"Yêu cầu:\\n- Không yêu cầu kinh nghiệm chuyên môn\\n- Tuổi 22 - 27\\n- Cao Đẳng trở lên\\n- Nữ\\n\\nYêu cầu ứng viên:\\n- Giới tính: Nữ\\n- Tốt nghiệp Cao Đẳng trở lên các ngành.\\n- Không yêu cầu kinh nghiệm, được đào tạo\\n- Có laptop cá nhân.\\n- Siêng năng, chăm chỉ, chịu được áp lực công việc.\\n- Chấp nhận làm việc và ở lại tại Trang trại\\n\\nKỹ năng cần có:\\nLàm việc độc lập, Làm việc nhóm, Quản lý thời gian, Sắp xếp và tổ chức, Quản Lý Văn Phòng\\n\\nKỹ năng nên có:\\nKỹ năng báo cáo, Kinh Nghiệm Làm Việc Trong Môi Trường Chăn Nuôi\"}",
+  "usage": {
+    "input_tokens": 5133,
+    "output_tokens": 3581,
+    "total_tokens": 8714,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2390
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

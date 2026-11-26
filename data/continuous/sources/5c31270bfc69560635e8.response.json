@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Lái Xe Riêng - Có Bằng B2\",\"company_name\":\"Công ty Cổ phần Tập đoàn Đầu tư Sao Đỏ\",\"job_category\":\"Tài xế / Lái xe\",\"sub_category\":\"Tài xế lái xe văn phòng\",\"industry\":\"Xây dựng công trình kỹ thuật dân dụng khác\",\"category\":null,\"location\":\"Hải Phòng\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-09\",\"url\":\"https://www.topcv.vn/viec-lam/lai-xe-rieng-co-bang-b2/2353682.html\",\"qualifications\":[\"Trung học phổ thông (Cấp 3) trở lên\",\"Có bằng lái xe hợp lệ hạng B2 trở lên còn hiệu lực\"],\"technical_skills\":[\"Lái xe\",\"Thông thạo đường xá khu vực nội thành và các tỉnh lân cận\",\"Xử lý tình huống giao thông nhanh nhạy và an toàn\"],\"soft_skills\":[\"Tác phong nhanh nhẹn, lịch sự, trung thực, cẩn thận\",\"Tinh thần trách nhiệm cao\",\"Ý thức kỷ luật tốt\",\"Bảo mật thông tin công việc\",\"Sẵn sàng làm thêm giờ khi có yêu cầu\",\"Sức khỏe tốt, chịu được áp lực công việc\"],\"languages_required\":null,\"experience_required\":3,\"salary\":\"Từ 12 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\"benefits\":[\"Mức lương cạnh tranh theo năng lực và kinh nghiệm thực tế.\",\"Được hưởng đầy đủ các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định của pháp luật.\",\"Thưởng các dịp lễ tết và xét tăng lương định kỳ hàng năm.\",\"Được cung cấp đồng phục, trang thiết bị làm việc và hỗ trợ các khoản phí liên quan trong quá trình công tác.\",\"Môi trường làm việc chuyên nghiệp, ổn định và thân thiện.\",\"Khám sức khỏe định kỳ\",\"Phụ cấp: Ăn trưa\"],\"description\":\"Đưa đón Giám đốc đi công tác, làm việc theo lịch trình được phân công.\\nĐảm bảo thời gian, địa điểm đưa đón chính xác và an toàn tuyệt đối trong suốt quá trình di chuyển.\\nKiểm tra tình trạng xe định kỳ, đảm bảo xe luôn sạch sẽ, hoạt động tốt và sẵn sàng phục vụ.\\nThực hiện bảo dưỡng, bảo trì, đăng kiểm xe đúng hạn theo quy định.\\nQuản lý và thực hiện các thủ tục liên quan đến chi phí xăng dầu, phí cầu đường, vé bãi đỗ xe theo đúng quy định của công ty.\\nTuân thủ nghiêm ngặt Luật Giao thông đường bộ và các quy định nội bộ của công ty.\\nHỗ trợ các công việc hành chính văn phòng hoặc vận chuyển tài liệu, hàng hóa theo sự phân công của quản lý trực tiếp khi cần thiết.\",\"requirements_text\":\"3 năm kinh nghiệm chuyên môn\\nTrung học phổ thông (Cấp 3) trở lên\\nCó bằng lái xe hợp lệ hạng B2 trở lên còn hiệu lực.\\nCó kinh nghiệm lái xe ô tô tại các doanh nghiệp, văn phòng.\\nThông thạo đường xá khu vực nội thành và các tỉnh lân cận.\\nTay lái vững, có kỹ năng xử lý tình huống giao thông nhanh nhạy và an toàn.\\nTác phong nhanh nhẹn, lịch sự, trung thực, cẩn thận và có tinh thần trách nhiệm cao.\\nÝ thức kỷ luật tốt, bảo mật thông tin công việc và sẵn sàng làm thêm giờ khi có yêu cầu.\\nSức khỏe tốt, chịu được áp lực công việc.\"}",
+  "usage": {
+    "input_tokens": 5063,
+    "output_tokens": 4905,
+    "total_tokens": 9968,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3723
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Quản Lý Thiết Bị Phòng Thử Nghiệm - Lương Từ 10 - 20 Triệu/Tháng\",\n  \"company_name\": \"Viện nghiên cứu và phát triển Sản phẩm thiên nhiên\",\n  \"job_category\": \"Công nghệ kỹ thuật\",\n  \"sub_category\": \"Quản lý dự án kỹ thuật\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"12 Phùng Khoang 2, Trung Văn, Phường Tây Mỗ, Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-24\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-thiet-bi-phong-thu-nghiem-luong-tu-10-20-trieu-thang/2344334.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Đại học Bách khoa hoặc các ngành kỹ thuật liên quan\",\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"vận hành, bảo trì và quản lý thiết bị\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"trách nhiệm\",\n    \"khả năng phối hợp công việc tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"10 – 20 triệu đồng/tháng\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00), Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Môi trường làm việc chuyên nghiệp, gắn với hoạt động nghiên cứu và thử nghiệm\",\n    \"Cơ hội nâng cao chuyên môn trong lĩnh vực quản lý và vận hành thiết bị\"\n  ],\n  \"description\": \"• Quản lý, theo dõi và kiểm soát tình trạng hoạt động của các thiết bị, máy móc trong phòng thử nghiệm.\\n• Lập kế hoạch bảo trì, bảo dưỡng, hiệu chuẩn thiết bị định kỳ theo quy định.\\n• Phối hợp với các bộ phận chuyên môn để đảm bảo thiết bị phục vụ tốt cho hoạt động thử nghiệm/kiểm nghiệm.\\n• Theo dõi hồ sơ thiết bị, nhật ký vận hành và các tài liệu liên quan.\\n• Phối hợp với các đơn vị cung cấp thiết bị, dịch vụ kỹ thuật trong quá trình sửa chữa, bảo trì khi cần thiết.\\n• Đề xuất nâng cấp, thay thế thiết bị nhằm đảm bảo hiệu quả hoạt động của phòng thử nghiệm.\",\n  \"requirements_text\": \"• Tốt nghiệp Đại học Bách khoa hoặc các ngành kỹ thuật liên quan.\\n• Có kinh nghiệm từ 3 năm trở lên trong lĩnh vực quản lý hoặc vận hành thiết bị kỹ thuật/phòng thí nghiệm.\\n• Có kiến thức về vận hành, bảo trì và quản lý thiết bị.\\n• Cẩn thận, trách nhiệm và có khả năng phối hợp công việc tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4761,
+    "output_tokens": 768,
+    "total_tokens": 5529,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

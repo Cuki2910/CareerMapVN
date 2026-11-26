@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Telesales/ Tư Vấn Tuyển Sinh/ Sales Khóa Học (Lương Cứng 11 - 17 Triệu + Doanh Số) Data Sẵn 100%\",\n  \"company_name\": null,\n  \"job_category\": \"Telesales\",\n  \"sub_category\": \"Tư vấn tuyển sinh\",\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/brand/educa/tuyen-dung/chuyen-vien-telesales-tu-van-tuyen-sinh-sales-khoa-hoc-luong-cung-11-17-trieu-doanh-so-data-san-100-j2355068.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Telesales\",\n    \"Sale Bán Hàng\",\n    \"Chốt Đơn\"\n  ],\n  \"soft_skills\": [\n    \"Phát âm chuẩn\",\n    \"Diễn đạt trôi chảy\",\n    \"Kỹ năng Thuyết phục\",\n    \"Kỹ năng xử lý tình huống\",\n    \"Giao tiếp tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0.5,\n  \"salary\": \"16 - 40 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Khám sức khỏe định kỳ\",\n    \"Được cấp Máy tính, Tai nghe\"\n  ],\n  \"description\": \"Công việc chính:\\n  * Chủ động liên hệ theo danh sách khách hàng tiềm năng do công ty cung cấp sẵn - 100% data có sẵn\\n  * Tư vấn, thuyết phục phụ huynh đăng ký khóa học online cho con\\n  * Không cần tự tìm kiếm khách hàng – Tập trung tư vấn và chốt đơn\\n  * Tỉ lệ chuyển đổi cao lên tới 70%\",\n  \"requirements_text\": \"Dưới 1 năm kinh nghiệm chuyên môn  Trung cấp trở lên  Nữ  Phát âm chuẩn  Diễn đạt trôi chảy\\nNữ, có tối thiểu 6 tháng kinh nghiệm telesales/ tư vấn chốt đơn/ bán hàng qua điện thoại\\nGiao tiếp tốt, giọng nói rõ ràng\\nYêu thích công việc tư vấn và làm việc với khách hàng qua điện thoại\\nCó tinh thần học hỏi và mong muốn phát triển thu nhập\"\n}\n```",
+  "usage": {
+    "input_tokens": 5601,
+    "output_tokens": 784,
+    "total_tokens": 6385,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

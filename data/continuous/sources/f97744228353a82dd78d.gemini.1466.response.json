@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Nghiên Cứu Thị Trường\",\n  \"company_name\": null,\n  \"job_category\": \"Nghiên cứu thị trường\",\n  \"sub_category\": \"Market Research\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-nghien-cuu-thi-truong/2354363.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên các trường về kinh doanh, marketing\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Lương CB: trên 10.000.000 - 15.000.000VNĐ tuỳ theo năng lực\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\nNghỉ 2 thứ 7/ tháng\",\n  \"benefits\": [\n    \"Phụ cấp ăn trưa\",\n    \"Thưởng tháng 13, thưởng các ngày lễ, tết trong năm\",\n    \"Được đóng BHXH theo lương ngay khi ký HĐLĐ chính thức\",\n    \"Du lịch, nghỉ mát hằng năm\",\n    \"Được sử dụng sản phẩm mỹ phẩm miễn phí hàng tháng\",\n    \"Làm việc trong môi trường trẻ trung, năng động, sáng tạo\"\n  ],\n  \"description\": \"- Đảm bảo Keyshu đi trước thị trường, không chạy theo trend lỗi thời\\n- Theo dõi xu hướng K-beauty, J-beauty, EU, SEA\\n- Nghiên cứu nguyên liệu, công nghệ, format sản phẩm mới\\n- Tổng hợp báo cáo xu hướng hàng tháng / quý\\n- Đề xuất hướng sản phẩm mới cho PCD Manager\\n- Số báo cáo xu hướng chất lượng\\n- Số concept sản phẩm được đề xuất\\n- Tính ứng dụng của trend vào thực tế bán hàng\",\n  \"requirements_text\": \"- Có kinh nghiệm xây dựng thương hiệu, phân tích thị trường là lợi thế\\n- Từng làm trong nền tảng TMĐT là lợi thế\\n- Tốt nghiệp cao đẳng trở lên các trường về kinh doanh, marketing\\n- Kinh nghiệm 1 năm trở lên\"\n}\n```",
+  "usage": {
+    "input_tokens": 4688,
+    "output_tokens": 648,
+    "total_tokens": 5336,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

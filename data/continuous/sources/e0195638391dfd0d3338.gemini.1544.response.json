@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Vận Hành Máy\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-van-hanh-may-thu-nhap-10-15-trieu-tai-hcm/2359073.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy\",\n    \"6S\",\n    \"Xử lý khiếm khuyết\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n- Làm việc theo ca sản xuất  \\n- Ca 1: 6h-14h  \\n- Ca2: 14h-22h  \\n-Ca 3: 22h - 6h hôm sau\",\n  \"benefits\": [\n    \"Thưởng Lễ Tết, cưới hỏi, sinh con, 1/6, học sinh giỏi...\",\n    \"Thưởng tháng 13 & thưởng cuối năm theo kết quả kinh doanh\",\n    \"Cấp phát đồng phục, trang thiết bị làm việc đầy đủ\",\n    \"Môi trường làm việc trẻ trung - chuyên nghiệp - thân thiện\",\n    \"Được đào tạo chuyên môn, du lịch & team building hằng năm\"\n  ],\n  \"description\": \"- Vận hành máy đúng hướng dẫn, chế độ vận hành.\\n- Phát hiện khiếm khuyết. Thông tin cho Trưởng ca treo thẻ trên phần mềm.\\n- Xử lý khiếm khuyết nhỏ.\\n- Thực hiện CIL theo tiêu chuẩn CIL đã được ban hành.\\n- Quản lý khuôn mẫu, dụng cụ đồ nghề.\\n- Thực hiện tốt 6S, vệ sinh công nghiệp máy và nền xưởng.\",\n  \"requirements_text\": \"- Trung học cơ sở trở lên\\n- Đủ sức khỏe làm theo ca (ngày/đêm)\\n- Đủ tuổi lao động\"\n}\n```",
+  "usage": {
+    "input_tokens": 4883,
+    "output_tokens": 641,
+    "total_tokens": 5524,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

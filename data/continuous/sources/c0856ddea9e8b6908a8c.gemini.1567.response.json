@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Kho (Chỉ Tuyển Nam) Tại Ninh Bình (Hà Nam Cũ) - Lương Từ 10 - 12 Triệu\",\n  \"company_name\": \"Công ty Cổ Phần Greenshade\",\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Hoạt động thiết kế chuyên dụng\",\n  \"category\": null,\n  \"location\": \"Ninh Bình\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-kho-chi-tuyen-nam-tai-ninh-binh-ha-nam-cu-luong-tu-10-12-trieu/2144225.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"file Excel cơ bản\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"Trách Nhiệm\",\n    \"Hợp Tác\",\n    \"Quản Lý Số Liệu\",\n    \"sắp xếp công việc khoa học\",\n    \"Phối hợp tốt với các bộ phận liên quan\",\n    \"Kiểm đếm chính xác\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Nghỉ trưa 1 tiếng, Nghỉ chủ nhật\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Ăn trưa tại bếp ăn cửa Công ty\",\n    \"BHYT\",\n    \"BHTN\",\n    \"thưởng tết\",\n    \"Môi trường làm việc chuyên nghiệp, năng động và có nhiều cơ hội thăng tiến\",\n    \"Được chủ động tối đa trong công việc\"\n  ],\n  \"description\": \"Quản lý nhập – xuất – tồn kho hàng hóa\\nTiếp nhận, kiểm đếm và xác nhận hàng hóa nhập/xuất\\nSắp xếp, bảo quản hàng hóa và duy trì 5S kho\\nCập nhật thông tin xuất nhập tồn trên file Excel cơ bản\\nThực hiện kiểm kê định kỳ và báo cáo chênh lệch khi phát sinh\\nThực hiện các công việc khác theo phân công của quản lý\",\n  \"requirements_text\": \"Trình độ học vấn:\\n- Ưu tiên ứng viên có kinh nghiệm làm trong bộ phận kho vận\\n- Nắm được quy trình nhập - xuất - tồn kho.\\n- Hiểu biết nguyên tắc 5S, sắp xếp và bảo quản hàng hóa trong kho.\\n\\nYêu cầu về trình độ chuyên môn, kỹ năng:\\n1. Kiểm đếm chính xác, cẩn thận trong quản lý số liệu.\\n2. Sắp xếp công việc được giao khoa học\\n3. Phối hợp tốt với các bộ phận liên quan.\\n4. Trung thực, trách nhiệm, hợp tác\"\n}\n```",
+  "usage": {
+    "input_tokens": 5129,
+    "output_tokens": 817,
+    "total_tokens": 5946,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

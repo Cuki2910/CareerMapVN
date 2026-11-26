@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân - Hội Sở Techcombank\",\n  \"company_name\": \"NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN KỸ THƯƠNG VIỆT NAM\",\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": \"Lễ tân\",\n  \"industry\": \"Ngân hàng\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan-hoi-so-techcombank-ha-noi/2238742.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Thân thiện\",\n    \"Chỉn chu\",\n    \"Chuyên nghiệp\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Lương Tháng 13\",\n    \"Bảo Hiểm\",\n    \"Khám Sức Khỏe\",\n    \"Được tham gia các hoạt động nội bộ\",\n    \"Được tham gia đầy đủ bảo hiểm bắt buộc\",\n    \"Chế độ nghỉ phép theo Luật Lao động quy định\",\n    \"Môi trường làm việc chuyên nghiệp, hiện đại\"\n  ],\n  \"description\": \"– Thực hiện công việc Lễ tân chào đón, tiếp đón, hướng dẫn, phục vụ trà nước đối với khách đến làm việc với BLĐ.\\n– Phục vụ hậu cần cho Ban Lãnh đạo\\n– Hỗ trợ trong các công tác hành chính văn phòng khác như: công chứng, đóng dấu, photo, giao nhận thư tư/bưu phẩm,...\\n– Thực hiện công việc khánh tiết cho các sự kiện chung\\n– Thực hiện teabreak cho các đơn vị/sự kiện chung khi có yêu cầu\\n– Thực hiện các công việc khác do ban Lãnh đạo giao phù hợp với yêu cầu từng thời kỳ\",\n  \"requirements_text\": \"– Nữ cao 1m60 trở lên, ngoại hình ưa nhìn\\n– KHẢ NĂNG SỬ DỤNG TIN HỌC VĂN PHÒNG (ADMIN)\\n– Giao tiếp tiếng Anh tốt, Có kinh nghiệm lễ tân là 1 lợi thế\\n– Ngoại hình cân đối, ưa nhìn\\n– Giọng nói chuẩn (không nói ngọng, nói lắp hoặc giọng địa phương)\\n– Tác phong lịch sự, thân thiện, chỉn chu, chuyên nghiệp.\\n– Ưu tiên ứng viên có 1 năm kinh nghiệm làm khách sạn 4-5 sao/ nhà hàng cao cấp\"\n}\n```",
+  "usage": {
+    "input_tokens": 5006,
+    "output_tokens": 807,
+    "total_tokens": 5813,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

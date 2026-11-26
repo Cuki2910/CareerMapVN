@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Tư Vấn Bán Hàng – Full-Time/Part-Time\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng thời trang\",\n  \"industry\": \"May mặc / Thời trang\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Bắc Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tu-van-ban-hang-full-time-part-time/2359282.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Năng động, giao tiếp tốt, thân thiện, ngoại hình ưa nhìn\",\n    \"Thái độ tích cực, tinh thần đồng đội cao, ham học hỏi, chính trực\",\n    \"Hiểu biết xu hướng thời trang, chăm sóc bản thân và nhận diện thương hiệu\",\n    \"Linh hoạt làm việc theo ca, bao gồm cuối tuần và ngày lễ\",\n    \"Thật thà, thái độ tích cực chăm chỉ trong công việc, có tinh thần trách nhiệm và chăm sóc khách kỹ, tận tâm và nhất là hoà đồng với đồng nghiệp.\",\n    \"PAF\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Full-Time/Part-Time\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm). Full-time: Xoay ca 8 giờ/ca (bao gồm 30 phút nghỉ), 6 ca/tuần, nghỉ 1 ngày không cố định. Ca O (Opening): 8h30 - 16h30. Ca C (Closing): 14h00 – 22h00. Part-time: Xoay ca 4-6 giờ/ca, 4 ca/tuần.\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Bảo hiểm xã hội\",\n    \"Thu nhập cạnh tranh cùng chính sách hoa hồng hấp dẫn\",\n    \"Thưởng theo kết quả kinh doanh hàng năm\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định\",\n    \"Ưu đãi mua sắm nội bộ\",\n    \"Cung cấp đồng phục định kỳ\",\n    \"Được đào tạo bài bản về thương hiệu, sản phẩm và kỹ năng bán hàng theo tiêu chuẩn quốc tế\",\n    \"Lộ trình thăng tiến rõ ràng trong hệ thống bán lẻ\"\n  ],\n  \"description\": \"### Mô tả công việc\\n* Tư vấn, chăm sóc khách hàng, đảm bảo đạt mục tiêu doanh số cá nhân\\n* Duy trì chất lượng dịch vụ theo tiêu chuẩn thương hiệu\\n* Sắp xếp, trưng bày hàng hóa đúng quy định\\n* Giữ vệ sinh quầy kệ và cửa hàng luôn gọn gàng, sạch sẽ\\n* Kiểm đếm hàng hóa, đảm bảo không thất thoát\\n* Thực hiện các nhiệm vụ khác được giao bởi quản lý\",\n  \"requirements_text\": \"Yêu cầu:\\nDưới 1 năm kinh nghiệm chuyên môn  Từ 18 tuổi trở lên  Trung cấp trở lên\\n\\nYêu cầu ứng viên:\\n* Năng động, giao tiếp tốt, thân thiện, ngoại hình ưa nhìn\\n* Thái độ tích cực, tinh thần đồng đội cao, ham học hỏi, chính trực\\n* Hiểu biết xu hướng thời trang, chăm sóc bản thân và nhận diện thương hiệu\\n* Linh hoạt làm việc theo ca, bao gồm cuối tuần và ngày lễ\"\n}",
+  "usage": {
+    "input_tokens": 4722,
+    "output_tokens": 2648,
+    "total_tokens": 7370,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1807
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

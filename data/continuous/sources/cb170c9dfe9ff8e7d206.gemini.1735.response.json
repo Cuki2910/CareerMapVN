@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Nam LĐPT (Lương 10 - 12 Triệu) - Cửa Hàng Cafe Pha Máy - Tại TPHCM\",\n  \"company_name\": \"HỘ KINH DOANH CƠ SỞ KINH DOANH PHI LONG\",\n  \"job_category\": \"Pha chế (Barista)\",\n  \"sub_category\": null,\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nam-ldpt-luong-10-12-trieu-cua-hang-cafe-pha-may-tai-tphcm/2358841.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giọng nói phổ thông rõ ràng, dễ nghe\",\n    \"Thái độ thân thiện\",\n    \"Tư duy tích cực\",\n    \"Thích nghi tốt với môi trường làm việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\nTHỜI GIAN LÀM VIỆC 11 TIẾNG (ăn sáng 30’, ăn trưa 30’):\\n- Ca 1: 5:30 - 17:00 \\n- Ca 2: 5:30 - 20:00 (nghỉ trưa 3 tiếng)\",\n  \"benefits\": [\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"CÓ CHỖ Ở LẠI MIỄN PHÍ TẠI NƠI LÀM VIỆC\",\n    \"Được đào tạo các kỹ năng công việc\",\n    \"Thưởng: lễ, tết, tháng 13\",\n    \"Thưởng chuyên cần - năng lực\",\n    \"Có BHYT\",\n    \"Được làm việc trong môi trường thân thiện, chuyên nghiệp\",\n    \"Việc làm ổn định, gắn bó lâu dài\",\n    \"CƠ HỘI THĂNG TIẾN LÊN CỬA HÀNG PHÓ / TRƯỞNG\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Phục vụ, pha chế, giao hàng.\\n- Đóng gói sản phẩm Cafe - Trà.\\n- Phụ kho, sắp xếp kho xưởng.\\n- Địa điểm làm việc: Chuỗi Cafe pha máy Phi Long Quận 7 - Quận 8 - Nhà Bè - Bình Chánh (TPHCM)\\n\\nĐịa điểm làm việc\\n- Hồ Chí Minh: 517 Huỳnh Tấn Phát, Phường Tân Thuận (Phường Tân Thuận thuộc Quận 7 cũ)\",\n  \"requirements_text\": \"- NAM, từ 20 - 38 tuổi.\\n- Giọng nói phổ thông rõ ràng, dễ nghe.\\n- Thái độ thân thiện, tư duy tích cực, thích nghi tốt với môi trường làm việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5024,
+    "output_tokens": 858,
+    "total_tokens": 5882,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

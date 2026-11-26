@@ -1,0 +1,17 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Hành Chính Nhân Sự\",\n  \"company_name\": \"Công ty Cổ phần Dịch vụ Thiết bị Công Nghiệp Hoàng Linh\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": \"Lắp đặt máy móc và thiết bị công nghiệp\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-hanh-chinh-nhan-su/2354997.html\",\n  \"qualifications\": [\n    \"Đại học trở lên\",\n    \"Luật\",\n    \"Quản trị nhân sự\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\",\n    \"Giao tiếp\",\n    \"Bảo Mật Thông Tin\",\n    \"Soạn Thảo Văn Bản\",\n    \"Giải quyết vấn đề\",\n    \"Soạn Thảo Hợp Đồng Lao Động\",\n    \"Tổ Chức Sắp Xếp Công Việc\",\n    \"Kỹ Năng Hành Chính Văn Phòng\",\n    \"Chấm Công Và Tính Lương\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Làm việc chuyên nghiệp\",\n    \"Kỹ năng đàm phán\",\n    \"Thuyết trình\",\n    \"Lắng Nghe Và Thấu Hiểu\",\n    \"Tổ chức sự kiện nội bộ\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"10- 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\\n7h30 – 11h30 và 13h- 17h ( Nghỉ 4 CN + 1 thứ 7)\",\n  \"benefits\": [\n    \"Thu nhập: Lương 10- 12 triệu + thưởng hiệu quả công việc (sẽ trao đổi trực tiếp khi phỏng vấn)\",\n    \"Đầy đủ các chế độ theo quy định của pháp luật\",\n    \"Có cơ hội phát triển nghiệp vụ HCNS.\",\n    \"Môi trường làm việc chuyên nghiệp và năng động.\"\n  ],\n  \"description\": \"- Thực hiện công tác tuyển dụng: đăng tin, sàng lọc hồ sơ, liên hệ ứng viên, hỗ trợ phỏng vấn.\\n- Quản lý hồ sơ nhân sự, hợp đồng lao động, quyết định nhân sự.\\n- Thực hiện công tác chấm công, tính lương và các thủ tục liên quan đến BHXH.\\n- Thực hiện các thủ tục liên quan đến thuế TNCN, quan hệ lao động.\\n- Phối hợp xây dựng, cập nhật nội quy lao động, quy chế, quy trình và các chính sách nhân sự.\\n- Phối hợp xây dựng, triển khai KPI và đánh giá hiệu quả công việc.\\n- Đào tạo hội nhập, văn hóa doanh nghiệp cho nhân viên mới.\\n- Quản lý văn phòng phẩm, tài sản, trang thiết bị văn phòng.\\n- Quản lý công văn đi – đến, soạn thảo văn bản hành chính.\\n- Làm việc với cơ quan nhà nước khi cần (lao động, bảo hiểm…)\\n- Lập báo cáo nhân sự định kỳ.\\n- Thực hiện công tác hậu cần, tổ chức họp và sự kiện nội bộ.\\n- Phối hợp với các phòng ban và thực hiện công việc theo phân công.\",\n  \"requirements_text\": \"Yêu cầu:\\n- 2 năm kinh nghiệm chuyên môn\\n- Tuổi 24 - 35\\n- Đại Học trở lên\\n- Nữ\\n\\nYêu cầu ứng viên:\\n- Giới tính: Nữ\\n- Tốt nghiệp Đại học chuyên ngành: Luật, Quản trị nhân sự,…\\n- Có ít nhất 02 năm kinh nghiệm ở vị trí Nhân sự- Tuyển dụng\\n- Ưu tiên có kinh nghiệm tuyển dụng các vị trí kỹ thuật, sản xuất\\n- Am hiểu về pháp luật lao động, BHXH.\\n- Làm việc chuyên nghiệp\"\n}",
+  "usage": {
+    "input_tokens": 4618,
+    "output_tokens": 2336,
+    "total_tokens": 6954,
+    "input_token_details": {
+      "cache_read": 1792
+    },
+    "output_token_details": {
+      "reasoning": 1380
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

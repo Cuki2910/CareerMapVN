@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Pha Chế - Đi Làm Ngay\",\n  \"company_name\": \"CÔNG TY TNHH VERITE\",\n  \"job_category\": \"Thực phẩm / Đồ uống\",\n  \"sub_category\": \"Pha chế (Barista)\",\n  \"industry\": \"Sản xuất các loại bánh từ bột\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: Phường Cầu Ông Lãnh (Phường Cầu Ông Lãnh thuộc Quận 1 cũ) - Phạm vi làm việc trên toàn khu vực trên.\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-pha-che-di-lam-ngay/2364270.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": [\"Pha chế cà phê, trà, nước uống theo công thức\", \"Sáng tạo và góp ý công thức mới\"],\n  \"soft_skills\": [\"Năng động\", \"Tinh tế\", \"Có mắt thẩm mỹ trong từng chi tiết\", \"Giao tiếp thân thiện\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nSẵn sàng làm việc theo ca, bao gồm cuối tuần và ngày lễ.\",\n  \"benefits\": [\n    \"Thu nhập cạnh tranh (6-8 triệu) tùy năng lực\",\n    \"Làm việc trong không gian hiện đại, chỉn chu, đầy cảm hứng.\",\n    \"Được đào tạo kỹ năng pha chế & kiến thức về cà phê.\",\n    \"Cơ hội thăng tiến trong hệ thống cửa hàng Verite.\"\n  ],\n  \"description\": \"• Pha chế cà phê, trà, nước uống theo công thức của Verite.\\n• Sáng tạo và góp ý công thức mới để menu thêm thú vị.\\n• Giữ quầy bar luôn gọn gàng, sạch sẽ – nơi mọi ly nước bắt đầu.\\n• Giao tiếp thân thiện, tạo trải nghiệm dễ chịu cho khách hàng.\",\n  \"requirements_text\": \"• Yêu cà phê, yêu mùi rang xay buổi sáng.\\n• Năng động, tinh tế và có mắt thẩm mỹ trong từng chi tiết.\\n• Có kinh nghiệm là điểm cộng, chưa có – Verite sẽ đào tạo.\\n• Sẵn sàng làm việc theo ca, bao gồm cuối tuần và ngày lễ.\\nKiến thức ngành\\nThực phẩm / Đồ uống\"\n}",
+  "usage": {
+    "input_tokens": 4443,
+    "output_tokens": 635,
+    "total_tokens": 5078,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

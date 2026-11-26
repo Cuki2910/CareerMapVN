@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thu Ngân Phòng Khám / Kế Toán Viện Phí\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": \"Kế toán\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-ngan-phong-kham-ke-toan-vien-phi/1645506.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Cao đẳng trở lên khối ngành Kinh tế\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Tin Học Văn Phòng\",\n    \"Kế toán\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"nhanh nhẹn\",\n    \"trung thực\",\n    \"cẩn thận\",\n    \"Chịu được áp lực công việc\",\n    \"sẵn sàng làm thêm giờ\",\n    \"Có tinh thần đoàn kết\",\n    \"đóng góp xây dựng\",\n    \"sẵn sàng hỗ trợ các bộ phận\",\n    \"hăng hái tham gia các hoạt động chung\",\n    \"Kỹ năng giao tiếp\",\n    \"Kỹ Năng Thu Ngân\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"9 - 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"07h30-17h00 (24 công/tháng)\",\n  \"benefits\": [\n    \"Mức lương: 9-11tr/tháng\",\n    \"Phụ cấp ăn trưa: 40.000/bữa\",\n    \"Thời gian làm việc: 07h30-17h00 (24 công/tháng)\",\n    \"Chế độ Lương, thưởng hấp dẫn: thưởng tháng 13, thưởng sinh nhật Công ty, thưởng các Lễ Tết …\",\n    \"Chế độ ưu đãi chăm sóc sức khỏe cho bản thân và người nhà khi thăm khám tại MEDLATEC\",\n    \"Tham gia BHXH, BHYT, BHTN theo quy định của Công ty và nhà nước\"\n  ],\n  \"description\": \"• Phụ trách các công tác thu ngân tại phòng khám, đơn vị khám;\\n• Thực hiện thủ tục chi trả BHYT và các thanh toán nội bộ khác;\\n• Nắm vững quy trình thanh toán, đảm bảo việc thanh toán cho khách hàng nhanh, đầy đủ, chính xác;\\n• Báo cáo công việc theo chỉ đạo;\\n• Hỗ trợ công tác Chăm sóc khách hàng.\",\n  \"requirements_text\": \"• Tốt nghiệp Cao đẳng trở lên khối ngành Kinh tế;\\n• Độ tuổi: từ 22-32 tuổi;\\n• Kinh nghiệm: từ 6 tháng kinh nghiệm ở vị trí tương đương;\\n• Giao tiếp tốt, nhanh nhẹn, trung thực, cẩn thận;\\n• Chịu được áp lực công việc, sẵn sàng làm thêm giờ;\\n• Có tinh thần đoàn kết, đóng góp xây dựng, sẵn sàng hỗ trợ các bộ phận; hăng hái tham gia các hoạt động chung.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4975,
+    "output_tokens": 825,
+    "total_tokens": 5800,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

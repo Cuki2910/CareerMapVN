@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Khu Vực Hà Nội\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"KX 6, số 27 ngõ 785 Trương Định, Phường Hoàng Mai, TP. Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-khu-vuc-ha-noi-thu-nhap-7-5m-9m-uu-tien-nu/2350692.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Microsoft Office\",\n    \"Kiểm Tra Chất Lượng Hàng Hóa\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc nhóm\",\n    \"kỹ năng giao tiếp tốt\",\n    \"Quản Lý Thời Gian Hiệu Quả\",\n    \"Nhanh nhẹn\",\n    \"trung thực\",\n    \"Có trách nhiệm trong công việc\",\n    \"chịu được áp lực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.5,\n  \"salary\": \"7.5 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), nghỉ trưa từ 12h30 đến 13h30. Nghỉ chủ nhật.\",\n  \"benefits\": [\n    \"Trợ cấp trách nhiệm 500.000VNĐ/tháng\",\n    \"Đóng bảo hiểm xã hội ngay khi kí HĐLĐ\",\n    \"Chế độ lương thưởng theo quy chế của công ty\",\n    \"Tổ chức tiệc sinh nhật trong tháng\",\n    \"Chế độ phúc lợi khác như ốm đau, bệnh tật, đám cưới, thăm hỏi, ...\",\n    \"Một năm nghỉ 12 ngày phép có hưởng lương\"\n  ],\n  \"description\": \"Kiểm và nhập hàng hóa vào kho, sắp xếp hàng lên giá theo đúng quy định.\\nNhặt và soát hàng đúng chủng loại sản phẩm.\\nĐóng hàng đủ số lượng theo đơn đặt hàng của khách.\\nKiểm kê hàng hóa theo sự chỉ định của Quản lý.\",\n  \"requirements_text\": \"Nữ từ 22 tuổi.\\nCó kinh nghiệm từ 6 tháng ở vị trí tương đương.\\nNhanh nhẹn, trung thực.\\nCó trách nhiệm trong công việc, và chịu được áp lực.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5010,
+    "output_tokens": 712,
+    "total_tokens": 5722,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

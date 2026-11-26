@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"sub_category\": \"Thu ngân\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Đồng Tháp\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan/2337135.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"máy vi tính\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"ứng xử\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"8 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc xoay ca\\nCa ngày\\nca sáng 8h-17h15  \\nca chiều 17h10-21h30\",\n  \"benefits\": [\n    \"Lương thưởng tháng 13, thưởng các ngày Lễ Tết\",\n    \"Chế độ BHXH, chế độ công đoàn chung theo chính sách công ty\",\n    \"Thử việc được hưởng full lương chính thức\",\n    \"Được đào tạo nghiệp vụ đầy đủ trước khi làm, thời gian học việc vẫn được tính lương\",\n    \"Được cung cấp, hỗ trợ công cụ làm việc (máy tính, điện thoại)\"\n  ],\n  \"description\": \"Mô tả công việc chi tiết:\\n- Lập hóa đơn bán hàng, phiếu nhận tạm ứng và thực hiện việc thu, trả tiền thừa cho khách đúng theo đơn hàng, số lượng mà khách hàng đã mua.  \\n- Quản lý, kiểm tra tiền mặt thực thu, tiền cọc, chứng từ thanh toán qua thẻ ngân hàng để đảm bảo số tiền thực tế tại quầy khớp với chứng từ.  \\n- Lập bảng kiểm đếm tiền và tiến hành nộp tiền cho thủ quỹ vào cuối ca  \\n- Thời gian làm việc xoay ca\",\n  \"requirements_text\": \"- Chỉ cần bằng Tốt nghiệp THPT trở lên\\n- Có thể sử dụng được máy vi tính\\n- Kỹ năng ứng xử, giao tiếp khá, lưu loát\\n- Giọng nói dễ nghe, truyền cảm\"\n}\n```",
+  "usage": {
+    "input_tokens": 4907,
+    "output_tokens": 660,
+    "total_tokens": 5567,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

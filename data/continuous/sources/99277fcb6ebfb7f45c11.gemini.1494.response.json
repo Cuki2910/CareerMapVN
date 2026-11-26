@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Triển Khai Sản Phẩm\",\n  \"company_name\": null,\n  \"job_category\": \"Nghiên cứu thị trường (Market Research)\",\n  \"sub_category\": \"Chứng khoán\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-trien-khai-san-pham/2297950.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm Thử Sản Phẩm\",\n    \"Viết tài liệu BRD/FRD/User Story\",\n    \"Viết BRD\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Lương thưởng cạnh tranh (package thưởng lớn theo tình hình kinh doanh)\",\n    \"Tăng lương hàng năm\",\n    \"Team building, outing 2 lần/năm\",\n    \"Phụ cấp đào tạo, ăn trưa.\",\n    \"Khám sức khỏe định kỳ\"\n  ],\n  \"description\": \"· Thu thập và chi tiết hóa yêu cầu: làm việc với các phòng ban liên quan làm rõ luồng nghiệp vụ, viết tài liệu BRD/user story chi tiết.\\n· Phối hợp cùng phòng Pháp chế lên concept sản phẩm, hợp đồng với Khách hàng. Xây dựng luồng hệ thống phù hợp với concept sản phẩm.\\n· Giải thích luồng nghiệp vụ , làm rõ các nội dung yêu cầu với khối Công nghệ số, team UI/UX\\n· Tham gia kiểm thử và nghiệm thu sản phẩm\",\n  \"requirements_text\": \"· Có kinh nghiệm trong lĩnh vực tài chính, chứng khoán tối thiểu 01 năm trong lĩnh vực tài chính, chứng khoán\\n· Có mối quan hệ rộng với các công ty chứng khoán, ngân hàng, các công ty tài chính.\\n· Có tư duy và hiểu biết về các hệ thống sản phẩm chứng khoán là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 21995,
+    "output_tokens": 620,
+    "total_tokens": 22615,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Công Nhân Sản Xuất\",\n  \"company_name\": \"CÔNG TY TNHH NỘI THẤT SAO VIỆT\",\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Thợ mộc\",\n  \"industry\": \"Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê\",\n  \"category\": null,\n  \"location\": \"Hà Nội: Đội 3, Thôn Cát Thuế, Xã An Khánh (Xã An Khánh thuộc huyện Hoài Đức cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-22\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-san-xuat/2324091.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng thành thạo máy móc, thiết bị ngành gỗ\",\n    \"Đọc và thực hiện các bản vẽ kỹ thuật\",\n    \"Lắp rắp và kiểm tra chất lượng sản phẩm\",\n    \"Sữa chữa đồ nội thất văn phòng, gia đình\",\n    \"Bảo trì, bảo dưỡng máy móc thiết bị trong nhà máy sản xuất\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"500 k - 600 k /ngày\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:30)\",\n  \"benefits\": [\n    \"Mức lương: 500k - 600k/ngày\",\n    \"Phụ cấp ăn trưa, hỗ trợ chỗ ở miễn phí cho người ở xa.\",\n    \"Thưởng Lễ, Tết, Sinh nhật và các dịp đặc biệt\"\n  ],\n  \"description\": \"Chuyên môn: Thợ mộc\\nCấp bậc: Nhân viên\\nSố lượng tuyển: 5 người\\nHình thức làm việc: Làm việc tại văn phòng / Onsite\\n\\nMô tả công việc\\n- Sử dụng máy móc ngành gỗ để gia công sản phẩm sản phẩm từ gỗ công nghiệp ( tủ bếp, tủ áo, giường, bàn ghế, vách ốp gỗ các loại....).\\n- Đọc và thực hiện các bản vẽ kỹ thuật, lắp rắp và kiểm tra chất lượng sản phẩm.\\n- Sữa chữa đồ nội thất văn phòng, gia đình khi có yêu cầu.\\n- Bảo trì, bảo dưỡng máy móc thiết bị trong nhà máy sản xuất.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\n\\nYêu cầu ứng viên\\n- Có ít nhất**1 năm kinh nghiệm** trong sản xuất nội thất gỗ công nghiệp.\\n- Sử dụng thành thạo máy móc, thiết bị ngành gỗ.\\n- Sức khỏe tốt, làm việc có trách nhiệm.\\n- Sẵn sàng đi làm việc công trình các tỉnh thành khi có yêu cầu.\"\n}",
+  "usage": {
+    "input_tokens": 4410,
+    "output_tokens": 760,
+    "total_tokens": 5170,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

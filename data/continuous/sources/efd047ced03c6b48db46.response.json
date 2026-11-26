@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tìm Kiếm Mặt Bằng\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tim-kiem-mat-bang/1132094.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Nghiên Cứu Thị Trường\"\n  ],\n  \"soft_skills\": [\n    \"Đàm phán thương lượng\",\n    \"Kỹ năng tìm kiếm mặt bằng\",\n    \"Kỹ năng đàm phán\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được làm việc trong lĩnh vực bán lẻ chuyên nghiệp.\",\n    \"12 ngày phép/ năm, nghỉ sinh nhật có hưởng lương.\",\n    \"Phụ cấp cơm, phụ cấp điện thoại, phụ cấp gửi xe, công tác phí.\",\n    \"Đóng BHXH với mức 100% lương trên HĐLĐ.\",\n    \"Đảm bảo các chế độ phúc lợi khác theo quy định của Nhà nước.\",\n    \"Làm việc từ thứ hai đến thứ sáu.\",\n    \"Được nghỉ 01 ngày sinh nhật có lương.\"\n  ],\n  \"description\": \"• Tìm kiếm, khảo sát mặt bằng và đàm phán hợp đồng thuê các mặt bằng kinh doanh theo nhu cầu phát triển của Công ty.\\n• Lập báo cáo phân tích, đánh giá điểm mạnh, điểm yếu của mặt bằng được chọn;\\n• Thiết lập, xây dựng mối quan hệ với các Công ty môi giới BĐS, chủ nhà, BQL các TTTM trong việc tìm kiếm các mặt bằng.\\n• Giải quyết tất cả các vấn đề phát sinh (nếu có) liên quan đến chủ nhà và hợp đồng thuê nhà.\\n• Các công việc khác theo sự phân công của cấp quản lý.\",\n  \"requirements_text\": \"• Nam. Tốt nghiệp Trung cấp trở lên trong các ngành có liên quan.\\n• Ưu tiên ứng viên có 3 năm kinh nghiệm ở vị trí tương đương.\\n• Kỹ năng tìm kiếm mặt bằng.\\n• Kỹ năng đàm phán.\\n• Sẵn sàng đi công tác.\\n• Ưu tiên từng làm trong ngành cửa hàng tiện lợi, F&B, Retail.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4763,
+    "output_tokens": 711,
+    "total_tokens": 5474,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

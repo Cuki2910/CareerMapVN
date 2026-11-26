@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": \"Thợ tiện\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/2346314.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3)\",\n    \"Trung cấp trở lên chuyên ngành cơ khí\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Cnc\",\n    \"vận hành máy tiện-phay\",\n    \"vận hành máy cắt gọt\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"15 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc từ Thứ 2 – Thứ 6, nghỉ Thứ 7 – Chủ nhật. Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Thời gian làm việc từ Thứ 2 – Thứ 6, nghỉ Thứ 7 – Chủ nhật\",\n    \"Chế độ lương, thưởng hấp dẫn.\",\n    \"Xe buýt đưa đón nhân viên tại nhiều địa điểm tại Hải Phòng\",\n    \"Được phục vụ các bữa ăn miễn phí tại nhà ăn cao cấp của công ty: bữa sáng, bữa trưa, bữa tối\",\n    \"Được đào tạo chuyên môn, kỹ thuật tiên tiến trong sản xuất các sản phẩm công nghệ cao\",\n    \"Du lịch hàng năm, hoạt động ngoại khóa theo chính sách công ty\",\n    \"Đóng BHXH đầy đủ, bảo hiểm tai nạn 24/24 và bảo hiểm chăm sóc sức khỏe\",\n    \"Môi trường làm việc văn minh, hiện đại, chuyên nghiệp\"\n  ],\n  \"description\": \"- Hỗ trợ máy gia công, chuẩn bị phôi, dao, đồ gá để gia công sản phẩm\\n- Vận hành máy tiện-phay \\n- Gia công cơ khí, gia công cắt gọt theo đúng quy trình, quy định của bộ phận\",\n  \"requirements_text\": \"- Có bằng Trung cấp trở lên chuyên ngành cơ khí. Ưu tiên có kinh nghiệm vận hành máy cắt gọt.\\n- Hoặc tốt nghiệp THPT có kinh nghiệm vận hành máy CNC\\n- Đi làm theo ca\"\n}\n```",
+  "usage": {
+    "input_tokens": 4651,
+    "output_tokens": 656,
+    "total_tokens": 5307,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

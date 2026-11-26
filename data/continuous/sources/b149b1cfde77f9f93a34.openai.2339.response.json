@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Bán Hàng\",\n  \"company_name\": \"Công ty TNHH Kaitashi Group\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi; B2C\",\n  \"industry\": \"Bán lẻ thiết bị, dụng cụ thể dục, thể thao\",\n  \"category\": null,\n  \"location\": \"Hà Nội: B48-03 Geleximco Lê Trọng Tấn, Phường Hà Đông (Phường Hà Đông thuộc quận Hà Đông cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang/1307336.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tìm kiếm khách hàng\"\n  ],\n  \"soft_skills\": [\n    \"Thuyết phục khách hàng tốt\",\n    \"Giao tiếp tốt\",\n    \"Xử lý tình huống linh hoạt\",\n    \"Có trách nhiệm với công việc\",\n    \"Đam mê kinh doanh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 20 triệu\\nLương cơ bản 8tr + Phụ cấp + hoa hồng + thưởng ( thu nhập không giới hạn tùy năng lực )\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Ca ngày\\n- Xoay ca linh hoạt\",\n  \"benefits\": [\n    \"Lương cơ bản 8tr + Phụ cấp + hoa hồng + thưởng ( thu nhập không giới hạn tùy năng lực )\",\n    \"Được hưởng đầy đủ chính sách phúc lợi BHXH, BHYT, BHTN ...\",\n    \"Tham gia team building hàng năm.\",\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp: Ăn trưa, Cước điện thoại\"\n  ],\n  \"description\": \"- Triển khai các hoạt động bán hàng tại showroom nhằm đạt chỉ tiêu doanh số bán hàng;\\n- Trực page bán hàng, tư vấn, báo giá, chốt đơn hàng;\\n- Quản lý hàng hóa tại, đề xuất các chương trình bán hàng tại cửa hàng;\\n- Báo cáo và làm các công việc khác theo chỉ đạo của cấp trên.\",\n  \"requirements_text\": \"Tổng quan – Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung cấp trở lên\\n\\nYêu cầu ứng viên\\n- Nam, nữ ngoại hình ưa nhìn là 1 lợi thế;\\n- Tốt nghiệp trung cấp trở lên;\\n- Kỹ năng tìm kiếm và thuyết phục khách hàng tốt;\\n- Giao tiếp tốt, xử lý tình huống linh hoạt;\\n- Có trách nhiệm với công việc, đam mê kinh doanh;\\n- Có thể làm việc xoay ca.\"\n}",
+  "usage": {
+    "input_tokens": 4514,
+    "output_tokens": 688,
+    "total_tokens": 5202,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

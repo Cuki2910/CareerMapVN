@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thủ Công, Nữ 2008\",\n  \"company_name\": null,\n  \"job_category\": \"Công nhân thời vụ\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-cong-nu-2008/2348383.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Tỉ mỉ\",\n    \"Chịu khó\",\n    \"Khéo léo\",\n    \"Làm Việc Thủ Công\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Ca ngày\\nLàm việc 03 buổi chiều/tuần. Thời gian cụ thể trao đổi khi phỏng vấn.\",\n  \"benefits\": [\n    \"Mức lương: 40.000 đồng/giờ.\",\n    \"Thời gian làm việc linh hoạt: 03 buổi chiều/tuần.\",\n    \"Công việc đơn giản, được hướng dẫn cụ thể.\",\n    \"Môi trường làm việc thân thiện, thoải mái.\"\n  ],\n  \"description\": \"Thực hiện các công việc sửa chữa, chỉnh sửa búp bê theo hướng dẫn.\\nThực hiện các thao tác thủ công, gia công và hoàn thiện sản phẩm.\\nKiểm tra chất lượng sản phẩm sau khi hoàn thiện.\\nSắp xếp, bảo quản dụng cụ và khu vực làm việc gọn gàng.\\nThực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Ứng viên sinh năm 2008 trở về trước.\\nKhông yêu cầu kinh nghiệm, được hướng dẫn công việc khi nhận việc.\\nKhéo léo, tỉ mỉ, cẩn thận và có trách nhiệm trong công việc.\\nChăm chỉ, chịu khó, có khả năng làm việc thủ công.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4515,
+    "output_tokens": 595,
+    "total_tokens": 5110,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

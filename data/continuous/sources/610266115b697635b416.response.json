@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân Bán Hàng Fulltime - XuXi Fruit\",\n  \"company_name\": \"CÔNG TY TNHH XUXI FRUIT\",\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": \"Bán hàng\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan-ban-hang-fulltime-xuxi-fruit/2009803.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Máy Tính Tiền\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Trung thực\",\n    \"Cẩn Thận\",\n    \"Tỉ Mỉ\",\n    \"Tính Toán Nhanh\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"full-time\",\n  \"working_hours\": \"Làm việc theo ca:\\nCa 1 8h00-12h30\\nCa 2 12h30-17h0\\nCa 3 17h-21h00\",\n  \"benefits\": [\n    \"Ký hợp đồng lao động, công việc chính thức Lâu dài – Ổn định.\",\n    \"Lương tháng 13.\",\n    \"Phúc lợi nhà nước đầy đủ Tham gia BHYT, BHXH, 12 ngày phép/năm, nghỉ thai sản, ốm đau.\",\n    \"Phiếu khám sức khoẻ cao cấp hàng năm.\",\n    \"Môi trường làm việc thân thiện, hỗ trợ đồng đội.\",\n    \"Được hướng dẫn, đào tạo phát triển kỹ năng/chuyên môn.\",\n    \"Trang bị các kiến thức, kỹ năng làm việc bài bản.\"\n  ],\n  \"description\": \"- Thực hiện các nghiệp vụ thu ngân: Thanh Toán tiền cho khách; Kết ca; chốt quỹ. nhập xuất hàng. Tư vấn và bán hàng khi khách đến cửa hàng Xuxi Fruit.  \\n- Trưng bày, sắp xếp hàng hóa đảm bảo quầy kệ gọn gàng, sạch sẽ, đảm bảo vệ sinh theo quy định.  \\n- Sơ chế trái cây cắt sẵn và nước ép trái cây theo yêu cầu khách hàng.  \\n- Hỗ trợ giao hàng tận nơi cho khách bán kính 2km.\",\n  \"requirements_text\": \"- Có kinh nghiệm bán hàng, thu ngân siêu thị.  \\n-Thân thiện, vui vẻ, nhiệt tình.  \\n-Có sức khỏe tốt, tháo vát.\\n-Có smartphone để làm việc, có phương tiện di chuyển (xe máy).  \\n-Có thể làm việc xoay 2 ca/ ngày.  \\nCa 1: 08h00 – 12h30  \\nCa 2: 12h30 – 17h00  \\nCa 3: 17h00 – 21h00  \\n-Sẵn sàng tăng ca (nếu có).\"\n}\n```",
+  "usage": {
+    "input_tokens": 4972,
+    "output_tokens": 848,
+    "total_tokens": 5820,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

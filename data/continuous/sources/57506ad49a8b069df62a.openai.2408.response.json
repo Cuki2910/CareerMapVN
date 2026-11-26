@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Tư Vấn Bán Hàng Điện Máy\",\n  \"company_name\": \"HỘ KINH DOANH ĐIỆN MÁY GIÁ KHO 247\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng điện máy\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"9 Đoàn Giỏi, Phường Tân Sơn Nhì, Hồ Chí Minh (Phường Tân Sơn Nhì thuộc quận Tân Phú cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-28\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tu-van-ban-hang-dien-may/2343581.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": [\"Tư vấn\", \"Chăm Sóc Khách Hàng\"],\n  \"soft_skills\": [\"Nhiệt tình\", \"Trung thực\", \"Có trách nhiệm\", \"Yêu thích kinh doanh\", \"Giao tiếp tốt\", \"Có tinh thần học hỏi\", \"Phối hợp với đội nhóm\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\\nLương cứng: 6.000.000đ/tháng.\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp: Ăn trưa, Xăng xe\",\n    \"Lương cứng: 6.000.000đ/tháng.\",\n    \"Phụ cấp ăn uống: 500.000đ/tháng; xăng xe: 200.000đ/tháng.\",\n    \"Hoa hồng theo doanh số, thu nhập tăng theo năng lực.\",\n    \"Tham gia BHXH theo quy định.\",\n    \"Xét tăng lương 6 tháng/lần.\"\n  ],\n  \"description\": \"Chuyên môn: Bán hàng điện máy; Bán lẻ - Hàng tiêu dùng - FMCG; B2C; Direct Sales\\n\\nMô tả công việc\\n- Tư vấn, giới thiệu sản phẩm điện máy và điện gia dụng đến khách hàng.\\n- Tìm kiếm khách hàng, tư vấn sản phẩm, chốt đơn và theo dõi đơn hàng.\\n- Chăm sóc khách hàng trước và sau bán hàng.\\n- Phối hợp với đội nhóm để hoàn thành chỉ tiêu doanh số.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n- Nhiệt tình, trung thực, có trách nhiệm và yêu thích kinh doanh.\\n- Giao tiếp tốt, có tinh thần học hỏi.\\n- Ưu tiên ứng viên có kinh nghiệm bán hàng; chưa có kinh nghiệm sẽ được hướng dẫn.\\n\\nKiến thức ngành\\nBán lẻ - Hàng tiêu dùng - FMCG\\n\\nKỹ năng cần có\\nTư vấn, Giao tiếp, Chăm Sóc Khách Hàng\\n\\nKỹ năng nên có\\nKinh Nghiệm Bán Hàng\"\n}",
+  "usage": {
+    "input_tokens": 4727,
+    "output_tokens": 770,
+    "total_tokens": 5497,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

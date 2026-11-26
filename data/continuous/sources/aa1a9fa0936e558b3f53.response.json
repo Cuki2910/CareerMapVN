@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tư Vấn\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn thẩm mỹ/Spa\",\n  \"sub_category\": null,\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tu-van/2320526.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Xoay 03 ca:\\n• Ca 1: 08:00 – 17:00\\n• Ca 2: 08:00 – 12:00 & 16:00 – 20:00\\n• Ca 3: 11:30 – 20:30\\nNghỉ 04 ngày/tháng\",\n  \"benefits\": [\n    \"Tham gia đầy đủ BHXH\",\n    \"12 ngày phép năm\",\n    \"Thưởng Lễ, Tết, lương tháng 13\",\n    \"Sử dụng dịch vụ làm đẹp với mức giá ưu đãi dành cho nhân viên\",\n    \"Môi trường làm việc năng động, chuyên nghiệp, đồng nghiệp thân thiện và luôn hỗ trợ nhau\",\n    \"Cơ hội học hỏi, nâng cao tay nghề và phát triển lâu dài\"\n  ],\n  \"description\": \"- Tư vấn dịch vụ làm đẹp phù hợp với khách hàng\\n- Chăm sóc khách hàng sau dịch vụ\\n- Chốt sale\",\n  \"requirements_text\": \"- Có tối thiểu 01 năm kinh nghiệm tư vấn, bán hàng  \\n- Yêu thích kinh doanh, có tinh thần chinh phục mục tiêu doanh số  \\n- Giao tiếp tốt, nhiệt tình và có trách nhiệm\"\n}\n```",
+  "usage": {
+    "input_tokens": 4872,
+    "output_tokens": 591,
+    "total_tokens": 5463,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

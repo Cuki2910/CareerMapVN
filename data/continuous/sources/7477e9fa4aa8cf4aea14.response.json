@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Chuyên Viên Khách Hàng - Tây Nam Bộ\",\n  \"company_name\": \"SACOMBANK – NGÂN HÀNG SÀI GÒN TÀI LỘC\",\n  \"job_category\": \"Banking\",\n  \"sub_category\": \"Customer Service\",\n  \"industry\": \"Banking\",\n  \"category\": null,\n  \"location\": \"Tây Ninh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-22\",\n  \"url\": \"https://www.topcv.vn/brand/stb/tuyen-dung/chuyen-vien-khach-hang-tay-nam-bo-j2307907.html\",\n  \"qualifications\": [\n    \"Đại học trở lên, chuyên ngành Kinh tế\",\n    \"Đại học trở lên, chuyên ngành Kế toán\",\n    \"Đại học trở lên, chuyên ngành Tài chính\",\n    \"Đại học trở lên, chuyên ngành Ngân hàng\",\n    \"Đại học trở lên, chuyên ngành Marketing\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Tư vấn\",\n    \"Phát triển quan hệ khách hàng\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"15 - 30 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Full-time\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Chế độ Lương và thu nhập hấp dẫn: các khoản thưởng vào nhiều dịp Lễ, Tết trong năm (thưởng tháng 13, thưởng danh hiệu theo cá nhân, thưởng kết quả hoạt động, kinh doanh của Đơn vị,...)\",\n    \"Được đào tạo nghiệp vụ, kiến thức công việc liên quan\",\n    \"Cơ hội nghề nghiệp & lộ trình thăng tiến rõ ràng\",\n    \"Du lịch nghỉ mát hàng năm\"\n  ],\n  \"description\": \"1. Thực hiện chỉ tiêu kinh doanh\\n  * Tìm kiếm, tiếp cận và phát triển khách hàng cá nhân/doanh nghiệp.\\n  * Tư vấn, giới thiệu các sản phẩm, dịch vụ và giải pháp tài chính phù hợp với nhu cầu khách hàng.\\n  * Thực hiện các chỉ tiêu kinh doanh và chương trình bán hàng của Ngân hàng.\\n\\n2. Quản lý và chăm sóc khách hàng\\n  * Quản lý thông tin, chăm sóc và duy trì mối quan hệ với khách hàng.\\n  * Thực hiện bán chéo sản phẩm, dịch vụ và phát triển khách hàng mới.\\n\\n3. Thực hiện nghiệp vụ cấp tín dụng\\n  * Thẩm định, đề xuất cấp tín dụng cho khách hàng theo quy định.\\n  * Theo dõi và quản lý chất lượng khoản vay.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Tuổi 22 - 35  Đại Học trở lên\\n\\n* Tốt nghiệp **Đại học trở lên** các chuyên ngành Kinh tế, Kế toán, Tài chính, Ngân hàng, Marketing hoặc ngành liên quan.\\n  * Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực bán hàng, tiếp thị, tín dụng, tài chính – ngân hàng.\\n  * Có kỹ năng giao tiếp, tư vấn và phát triển quan hệ khách hàng.\\n  * Sử dụng tốt tin học văn phòng; có khả năng giao tiếp tiếng Anh.\"\n}",
+  "usage": {
+    "input_tokens": 4569,
+    "output_tokens": 2734,
+    "total_tokens": 7303,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1919
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

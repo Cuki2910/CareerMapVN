@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phụ Bếp - (Lương 9tr-12tr + Phụ Cấp) - Lẩu Bò Trăm Rưỡi - Quận 2\",\n  \"company_name\": \"Lẩu Bò Trăm Rưỡi\",\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Phụ bếp\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG, Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phu-bep-luong-9tr-12tr-phu-cap-lau-bo-tram-ruoi-quan-2/2353186.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"nhanh nhẹn\",\n    \"trung thực\",\n    \"có trách nhiệm\",\n    \"sạch sẽ\",\n    \"ngăn nắp\",\n    \"chịu khó học hỏi\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9,000,000 - 12,000,000 VNĐ + Phụ Cấp\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n16:00 - 00h30\",\n  \"benefits\": [\n    \"Môi trường làm việc thân thiện, năng động\",\n    \"Được đào tạo bài bản\",\n    \"Cơ hội phát triển lâu dài cùng quán\"\n  ],\n  \"description\": \"- Sơ chế thực phẩm (làm thịt bò, làm rau,múc topping).\\n- Hỗ trợ đầu bếp chuẩn bị nguyên liệu và dụng cụ nấu nướng.\\n- Giữ gìn vệ sinh khu vực bếp gọn gàng, sạch sẽ.\\n- Thực hiện các công việc khác theo sự phân công của Bếp trưởng.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm (sẽ được đào tạo từ đầu).\\n- Ưu tiên ứng viên có kinh nghiệm phụ bếp ở nhà hàng lẩu, quán ăn.\\n- Chăm chỉ, nhanh nhẹn, trung thực và có trách nhiệm với công việc.\\n- Yêu thích công việc nấu nướng, sạch sẽ và ngăn nắp.\\n- Có sức khỏe tốt, chịu khó học hỏi.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4888,
+    "output_tokens": 690,
+    "total_tokens": 5578,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

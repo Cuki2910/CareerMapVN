@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Số 27/109E, Hoàng Hoa Thám, Phường Long Châu, Tỉnh Vĩnh Long\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-muc-luong-len-toi-7-5-trieu-lam-viec-tai-vinh-long/2342852.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Exel\"\n  ],\n  \"soft_skills\": [\n    \"Có trách nhiệm\",\n    \"trung thực\",\n    \"cẩn thận trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"7 - 7.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 07:30 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tết\",\n    \"Phép năm\",\n    \"Sinh nhật\",\n    \"8/3\",\n    \"20/10\",\n    \"Du lịch hằng năm\"\n  ],\n  \"description\": \"• Kiểm soát số lượng hàng hóa xuất – nhập – tồn kho \\n• Sắp xếp, bảo quản hàng hóa trong kho gọn gàng, khoa học.\\n• Cập nhật báo cáo số lượng hàng hóa tối thiếu \\n• Phối hợp với các bộ phận liên quan trong việc xuất – nhập hàng hóa.\\n• Thực hiện các công việc khác theo sự phân công của cấp trên.\",\n  \"requirements_text\": \"• Nam, từ 25 tuổi trở lên.\\n• Có kinh nghiệm trong lĩnh vực quản lý kho vận.\\n• Có trách nhiệm, trung thực, cẩn thận trong công việc.\\n• Sức khỏe tốt, chịu được áp lực công việc.\\n• Biết sử dụng các công cụ quản lý kho là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4887,
+    "output_tokens": 628,
+    "total_tokens": 5515,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

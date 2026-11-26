@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Buồng Phòng Khách Sạn\",\n  \"company_name\": null,\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Buồng phòng\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-buong-phong-khach-san/2080446.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Chăm Sóc Khách Hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 07:00 đến 16:00). Off 2 ngày trong tháng. Linh động theo sự sắp xếp của Quản lý\",\n  \"benefits\": [\n    \"Thưởng lễ, tết đầy đủ\",\n    \"Tham gia BHXH, chế độ phép năm cho nhân viên khi lên chính thức\",\n    \"Môi trường làm việc thân thiện, tạo cơ hội thăng tiến và phát triển nghề nghiệp\",\n    \"Đồng nghiệp hỗ trợ, sếp dễ trao đổi\"\n  ],\n  \"description\": \"Dọn dẹp, vệ sinh phòng khách theo tiêu chuẩn của khách sạn\\nThay ga giường, vỏ gối, bổ sung amenities (khăn, nước, vật dụng cá nhân…)\\nKiểm tra tình trạng phòng trước và sau khi khách check-in/check-out\\nHỗ trợ phục vụ ăn sáng cho khách lưu trú\\nBáo cáo các hư hỏng, mất mát trong phòng cho cấp trên\\nĐảm bảo phòng luôn sạch sẽ, gọn gàng, đúng tiêu chuẩn dịch vụ\\nCác công việc khác theo yêu cầu của Quản lý\",\n  \"requirements_text\": \"Siêng năng, trung thực, có trách nhiệm trong công việc\\nCó sức khỏe tốt, chịu khó, nhanh nhẹn\\nƯu tiên có kinh nghiệm buồng phòng (chưa có sẽ được đào tạo)\"\n}\n```",
+  "usage": {
+    "input_tokens": 4755,
+    "output_tokens": 617,
+    "total_tokens": 5372,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

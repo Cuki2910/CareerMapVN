@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Kế Toán\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán\",\n  \"sub_category\": \"Kế toán thuế\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-ke-toan/2358710.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học chuyên ngành kế toán hoặc tương đương\",\n    \"Sinh viên năm cuối các chuyên ngành Kinh tế, Tài chính – Ngân hàng, Kế toán\"\n  ],\n  \"technical_skills\": [\n    \"Excel cơ bản\",\n    \"Phân Tích Nghiệp Vụ\",\n    \"Nhập liệu ERP\"\n  ],\n  \"soft_skills\": [\n    \"Nhiệt huyết\",\n    \"năng động\",\n    \"chăm chỉ học hỏi\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 3.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thực tập\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00). Làm việc từ thứ 2- thứ 7, nghỉ 2 chiều thứ 7 trong tháng\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Được training nghiệp vụ kế toán thuế trong quá trình thực tập\",\n    \"Được hỗ trợ 3.500.000 VNĐ/tháng trong thời gian thực tập\",\n    \"BHXH, BHYT, BHTN, Lương tháng thứ 13 sau khi lên vị trí chính thức\"\n  ],\n  \"description\": \"- Hỗ trợ xuất hóa đơn\\n- Hỗ trợ 1 số nghiệp vụ Kế toán\\n- Nhập liệu lên hệ thống ERP\\n- Thực hiện một số công việc khác khi có yêu cầu của cấp trên.\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng/Đại học chuyên ngành kế toán hoặc tương đương\\n- Chấp nhận sinh viên năm cuối các chuyên ngành Kinh tế, Tài chính – Ngân hàng, Kế toán.\\n- Nhiệt huyết, năng động, chăm chỉ học hỏi,...\\n- Có định hướng phát triển lên nhân viên kế toán chính thức.\\n- Sử dụng tốt các hàm excel cơ bản đã được học trong trường cao đẳng, đại học.\\n- Nhân sự thực tập chủ động mang laptop trong thời gian thực tập.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4738,
+    "output_tokens": 693,
+    "total_tokens": 5431,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kỹ Thuật - Bảo Trì Tòa Nhà (Tại Hà Nội - Hưng Yên) - Không Yêu Cầu Kinh Nghiệm\",\"company_name\":\"Công Ty TNHH Savills (Việt Nam)\",\"job_category\":\"Kỹ thuật\",\"sub_category\":\"Bảo trì tòa nhà\",\"industry\":\"Hoạt động bất động sản trên cơ sở phí hoặc hợp đồng\",\"category\":null,\"location\":\"Hà Nội, Hưng Yên\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-20\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-bao-tri-toa-nha-tai-ha-noi-hung-yen-khong-yeu-cau-kinh-nghiem/2362877.html\",\"qualifications\":[\"Trung cấp trở lên\",\"Bằng cấp liên quan đến kỹ thuật (Điện, Điện tử, Tự động hóa, Điện Lạnh, Cơ khí, Xây dựng, Công trình...)\",\"Chuyên môn: Bảo trì tòa nhà, Điện / Điện tử / Điện lạnh, Công nghệ kỹ thuật, Cơ khí / Tự động hóa\"],\"technical_skills\":[\"Bảo trì tòa nhà\",\"Điện / Điện tử / Điện lạnh\",\"Công nghệ kỹ thuật\",\"Cơ khí / Tự động hóa\",\"Vận hành hệ thống điện, nước, PCCC, điều hòa, thông gió\",\"Bảo trì, bảo dưỡng định kỳ các hệ thống kỹ thuật trong tòa nhà\"],\"soft_skills\":[\"Phối hợp làm việc theo nhóm\",\"Tính kỷ luật\",\"Tinh thần trách nhiệm\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"8 - 11 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Xoay xa ca sáng-chiều-đêm: sáng (6h-14h), chiều (14h-22h), đêm (22h-6h sáng). Nghỉ 1 ngày trong tuần theo sự sắp xếp của quản lý.\",\"benefits\":[\"Chương trình đào tạo nâng cao chuyên môn về 15+ hệ thống kỹ thuật trong tòa nhà dành cho các bạn chưa có kinh nghiệm\",\"100% lương trong thời gian thử việc, Thưởng tháng 13 rõ ràng\",\"BHXH full lương + Bảo hiểm sức khỏe cao cấp\",\"Phúc lợi lễ, Tết, sinh nhật từ Công Đoàn\",\"Được làm việc tại các tòa nhà hiện đại, hệ thống vận hành chuẩn quốc tế\",\"Cơ hội phát triển & thăng tiến lâu dài trong môi trường ổn định, chuyên nghiệp, năng động.\"],\"description\":\"Ghi chép lượng tiêu thụ điện, nước hàng ngày.\\nVận hành an toàn các hệ thống kỹ thuật trong tòa nhà (điện, nước, PCCC, điều hòa, thông gió...)\\nBảo trì, bảo dưỡng định kì các hệ thống trên\\nGiám sát nhà thầu sửa chữa/ thi công\\nHỗ trợ cư dân/khách thuê trong các công việc sửa chữa nhỏ khi cần\",\"requirements_text\":\"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn\\nTrung cấp trở lên\\n\\nYêu cầu ứng viên:\\n- Có bằng cấp liên quan đến kỹ thuật (Điện, Điện tử, Tự động hóa, Điện Lạnh, Cơ khí, Xây dựng, Công trình...)\\n- Có khả năng phối hợp làm việc theo nhóm, có tính kỷ luật và tinh thần trách nhiệm.\\n\\nKiến thức ngành:\\nĐiện / Điện tử / Điện lạnh, Công nghệ kỹ thuật, Cơ khí / Tự động hóa\"}",
+  "usage": {
+    "input_tokens": 5421,
+    "output_tokens": 5966,
+    "total_tokens": 11387,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4859
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Trợ Lý Tiếng Trung\",\n  \"company_name\": \"Công Ty TNHH Giải Trí KL-Commerce\",\n  \"job_category\": \"Biên phiên dịch\",\n  \"sub_category\": \"Trợ lý tiếng Trung\",\n  \"industry\": \"Thương mại điện tử, Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-tieng-trung/2353687.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tiếng Trung HSK 5\"\n  ],\n  \"technical_skills\": [\n    \"kỹ năng soạn thảo văn bản\",\n    \"Tiếng Trung Thành Thạo (nghe, nói, đọc, viết)\",\n    \"Biên Dịch Và Phiên Dịch\",\n    \"vi tính văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"trung thực\",\n    \"sáng tạo trong công việc\",\n    \"Có khả năng phân tích, báo cáo, diễn đạt tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Lương: 12-15 triệu (tuỳ năng lực, kinh nghiệm).\",\n    \"Tham gia BHXH, BHYT.\",\n    \"Thưởng Lễ, Tết, lương tháng 13. Sinh nhật, trà chiều....\"\n  ],\n  \"description\": \"- Hỗ trợ biên, phiên dịch song ngữ (Trung - Việt) giữa quản lý và nhân viên\\n- Các công việc liên quan trong phòng Livestream.\\n- Phiên dịch các văn bản, báo cáo, trao đổi nội bộ Livestream\\n- Làm một số báo cáo liên quan theo yêu cầu của cấp trên\\n- Thực hiện các công việc trợ lý hành chánh khác.\",\n  \"requirements_text\": \"- Nữ. Thành thạo tiếng Trung cả 4 kỹ năng: nghe, nói, đọc, viết\\n- Có ít nhất 6 tháng kinh nghiệm trong lĩnh vực livestream và 1 năm kinh nghiệm làm trợ lý\\n- Có khả năng phân tích, báo cáo, diễn đạt tốt\\n- Biết sử dụng tốt vi tính văn phòng\\n- Nhanh nhẹn, trung thực, sáng tạo trong công việc\\n- Và một số công việc khác cấp trên phân bổ.\\n- Phỏng vấn tại văn phòng trụ sở chính: 204 đường 34 Phường An Lạc (phường Bình Trị Đông B, Bình Tân cũ) - Gần Aeon Bình Tân.\"\n}",
+  "usage": {
+    "input_tokens": 4844,
+    "output_tokens": 5171,
+    "total_tokens": 10015,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4292
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,17 @@
+{
+  "content": "{\n  \"job_title\": \"Trợ Lý Kiểm Toán\",\n  \"company_name\": \"CÔNG TY TNHH KIỂM TOÁN VÀ TƯ VẤN THT\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": \"Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-kiem-toan-dich-vu/2354418.html\",\n  \"qualifications\": [\n    \"Đại học chuyên ngành Kế toán hoặc Kiểm toán\"\n  ],\n  \"technical_skills\": [\n    \"Tiếng Anh giao tiếp\",\n    \"Tin học văn phòng\",\n    \"Kế Toán\",\n    \"Kế Toán Nội Bộ\",\n    \"Kế Toán Kiểm Toán\",\n    \"Hệ Thống Kế Toán\",\n    \"Trợ Lý Kiểm Toán\",\n    \"kế toán/kiểm toán\",\n    \"Kế Toán Dịch Vụ\",\n    \"Kiến Thức Cơ Bản Về Kiểm Toán\",\n    \"Hiểu Biết Về Các Chuẩn Mực Kiểm Toán\",\n    \"Kiến Thức Về Kiểm Toán\",\n    \"Kiến Thức Về Chuẩn Mực Kiểm Toán\",\n    \"Hiểu Biết Về Kiểm Toán\",\n    \"Kinh nghiệm Kế toán Dịch vụ dự án\",\n    \"Am hiểu về kế toán dịch vụ và đào tạo\",\n    \"Hiểu Biết Về Quy Trình Kế Toán Dịch Vụ\",\n    \"Nghiệp vụ kế toán dịch vụ\",\n    \"Kiểm Toán\",\n    \"Sử Dụng Phần Mềm Kế Toán\"\n  ],\n  \"soft_skills\": [\n    \"Chịu được áp lực\",\n    \"Tinh thần cầu tiến\",\n    \"Gắn bó với công việc kiểm toán\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh giao tiếp cơ bản\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Lương tháng cố định, lương tháng 13, thưởng Lễ Tết...\",\n    \"Thưởng hàng năm dựa vào hiệu quả hoạt động của Công ty (lương tháng 14)\",\n    \"Du lịch công ty hàng năm\",\n    \"Các phụ cấp và chế độ khác theo quy định hiện hành\",\n    \"Môi trường làm việc trẻ trung, năng động, thân thiện.\"\n  ],\n  \"description\": \"Tham gia các cuộc kiểm toán cuối niên độ, cuộc kiểm toán đặc biệt và cuộc soát xét báo cáo tài chính giữa niên độ cho các khách hàng theo phân công của Trưởng phòng;\\nChuẩn bị các hồ sơ trước cuộc kiểm toán;\\nThực hiện kiểm toán theo chương trình và yêu cầu hồ sơ chuẩn của Công ty, đáp ứng yêu cầu của chuẩn mực kiểm toán về hồ sơ kiểm toán;\\nTổng hợp các vấn đề phát hiện trong việc kiểm toán để báo cáo và đề xuất xử lý với Trưởng nhóm kiểm toán;\\nTham gia xây dựng, hoàn thiện các quy trình, chương trình kiểm toán, hệ thống mẫu biểu phục vụ công tác kiểm toán;\\nPhụ trách các công việc liên quan đến khách hàng kế toán dịch vụ như: Kiểm tra, soát xét sổ sách kế toán .\\nCác công việc khác được Trưởng nhóm phân công.\",\n  \"requirements_text\": \"* **Tốt nghiệp Đại học chuyên ngành Kế toán hoặc Kiểm toán; (Bắt buộc)**\\n* Có kinh nghiệm làm việc và sử dụng phần mềm kế toán là một lợi thế;\\n* Ngoại ngữ (tiếng Anh) giao tiếp;\\n* Sử dụng tốt tin học văn phòng;\\n* Có khả năng chịu được áp lực, có tinh thần cầu tiến, muốn gắn bó với công việc kiểm toán.\"\n}",
+  "usage": {
+    "input_tokens": 4563,
+    "output_tokens": 3141,
+    "total_tokens": 7704,
+    "input_token_details": {
+      "cache_read": 1792
+    },
+    "output_token_details": {
+      "reasoning": 2153
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

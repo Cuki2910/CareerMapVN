@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Nhà Sách Ca Xoay\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-nha-sach-ca-xoay/2353052.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Máy Tính Tiền Pos\",\n    \"Tính Toán Tiền Mặt\",\n    \"sắp xếp hàng hóa\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Chăm Sóc Khách Hàng\",\n    \"Kỹ năng bán hàng\",\n    \"Tư Vấn Sản Phẩm\",\n    \"Kỹ năng giải quyết vấn đề\",\n    \"Làm việc nhóm\",\n    \"Kỹ Năng Gói Quà\",\n    \"kỹ năng quản lý thời gian\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.0,\n  \"salary\": \"6 - 7 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\nCa sáng: 8:30 - 15:30  \\nCa chiều: 15:00 - 22:00\",\n  \"benefits\": [\n    \"Phụ cấp tiền gửi xe.\",\n    \"Phụ cấp ngoại ngữ...\",\n    \"Các chính sách khen thưởng theo quy định của công ty.\",\n    \"Các chế độ BHXH đầy đủ.\",\n    \"Môi trường làm việc năng động, đồng nghiệp thân thiện, nhiệt tình.\",\n    \"Cơ hội thăng tiến.\",\n    \"Đào tạo nếu chưa có kinh nghiệm.\"\n  ],\n  \"description\": \"- Sắp xếp trưng bày hàng hóa.\\n- Giữ gìn vệ sinh quầy kệ và hàng hóa tại nhà sách.\\n- Tư vấn, bán hàng cho khách hàng.\\n- Kiểm nhận hàng hóa tại cửa hàng.\\n- Công việc sẽ trao đổi cụ thể khi phỏng vấn.\\n- Làm ca xoay: ca sáng, ca chiều. 7h/ca hoặc 8h/ca\",\n  \"requirements_text\": \"- Nam, nữ: từ 18 tuổi đến 35 tuổi.\\n- Trình độ: tốt nghiệp THPT trở lên.\\n- Thân thiện, nhiệt tình, hoạt bát và trung thực.\\n- Hòa đồng, làm việc theo nhóm.\\n- Giao tiếp nhã nhặn, lịch thiệp và thuyết phục.\\n- Ngoại hình dễ nhìn.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4958,
+    "output_tokens": 721,
+    "total_tokens": 5679,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

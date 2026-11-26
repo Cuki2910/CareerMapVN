@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Tài Xế Lái Xe (Hạng C1 Trở Lên)\",\n  \"company_name\": null,\n  \"job_category\": \"Tài Xế / Lái Xe\",\n  \"sub_category\": \"Tài xế xe tải\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tai-xe-lai-xe-hang-c1-tro-len/2354434.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"chạy được xe tải 1,4 tấn\",\n    \"giấy phép lái xe hạng C1 trở lên\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Tinh Thần Trách Nhiệm\",\n    \"Tận Tâm\",\n    \"Trung thực\",\n    \"tác phong làm việc chuyên nghiệp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"9 - 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:15 đến 18:30)\\n Chủ nhật (từ 07:15 đến 16:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Chủ Nhật thêm lương tăng ca\",\n    \"Thưởng lễ tết\",\n    \"hiếu hỉ\",\n    \"sinh nhật\",\n    \"YEP\",\n    \"nghỉ phép năm\"\n  ],\n  \"description\": \"- Lái xe tải theo sự phân công của công ty, vận chuyển hàng hóa đến các địa điểm theo yêu cầu.\\n- Đưa đón Giám đốc khi có yêu cầu, đảm bảo đúng thời gian và lộ trình.\\n- Bốc xếp, hỗ trợ sắp xếp hàng hóa trong quá trình giao nhận (nếu cần).\\n- Kiểm tra tình trạng xe trước và sau mỗi chuyến đi; đảm bảo xe luôn sạch sẽ, hoạt động tốt.\\n- Tuân thủ luật giao thông và các quy định của công ty.\",\n  \"requirements_text\": \"- Có giấy phép lái xe hạng C1 trở lên.\\n- Tinh thần trách nhiệm, cẩn thận, tận tâm trong công việc.\\n- Trung thực, cẩn thận, có trách nhiệm và tác phong làm việc chuyên nghiệp.\\n- Có sức khỏe tốt, sẵn sàng đáp ứng lịch trình công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4930,
+    "output_tokens": 684,
+    "total_tokens": 5614,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

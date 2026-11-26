@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phục Vụ & Thu Ngân (Không Yêu Cầu Kinh Nghiệm) - Lương Từ 9 Triệu++\",\n  \"company_name\": null,\n  \"job_category\": \"Phục vụ\",\n  \"sub_category\": \"Thu Ngân\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"50 Lê Văn Việt (Vincom Plaza), Phường Tăng Nhơn Phú, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-24\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-thu-ngan-khong-yeu-cau-kinh-nghiem-luong-tu-9-trieu/2339228.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Phục Vụ Khách Hàng\",\n    \"Thu Ngân\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc nhóm\",\n    \"Nhanh nhẹn\",\n    \"Giao tiếp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\",\n  \"benefits\": [\n    \"Mức lương: từ 9 triệu++/tháng\",\n    \"Thử việc 1 tháng hưởng 100% lương\",\n    \"Trợ cấp đậu xe\",\n    \"Thưởng lương tháng 13\",\n    \"Môi trường làm việc năng động, thân thiện và chuyên nghiệp.\",\n    \"Được hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế theo quy định của pháp luật.\",\n    \"Được hưởng các chế độ phúc lợi khác của công ty (nếu có).\"\n  ],\n  \"description\": \"Chào đón và hướng dẫn khách hàng.\\nPhục vụ, chế biến đồ ăn\\nThanh toán, dọn dẹp bàn ăn\\nGiải đáp các thắc mắc của khách hàng.\\nHỗ trợ các bộ phận khác khi cần thiết.\\nThực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm.\\nTrung thực, nhiệt tình, thân thiện.\\nKhả năng giao tiếp tốt.\\nCó tinh thần trách nhiệm cao.\\nNgoại hình ưa nhìn là một lợi thế.\\nThời gian làm việc: theo ca\"\n}\n```",
+  "usage": {
+    "input_tokens": 4642,
+    "output_tokens": 666,
+    "total_tokens": 5308,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

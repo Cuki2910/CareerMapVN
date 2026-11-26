@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Tiện Cơ Tại Hồ Chí Minh (Thu Nhập 15 - 18 Triệu)\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ tiện\",\n  \"industry\": \"Gia công cơ khí\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: 2/9 Thạnh Xuân 24, Phường Thới An (Phường Thới An thuộc Quận 12 cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-tien-co-tai-ho-chi-minh-thu-nhap-15-18-trieu/2360072.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Đọc Bản Vẽ Kỹ Thuật\",\n    \"Kiểm Tra Sản Phẩm\",\n    \"Vận Hành Máy Tiện Cơ\",\n    \"Kinh nghiệm vận hành máy tiện cơ\"\n  ],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"cẩn thận\",\n    \"siêng năng\",\n    \"có trách nhiệm\",\n    \"chịu khó\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"15 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Phụ cấp: Ăn trưa\",\n    \"Các chế độ đãi ngộ khác theo quy định của công ty\"\n  ],\n  \"description\": \"• Đọc và hiểu bản vẽ kỹ thuật (hệ inch và hệ mét) để tiến hành gia công chi tiết theo đúng yêu cầu.\\n• Vận hành máy tiện cơ để gia công các chi tiết, sản phẩm cơ khí đạt kích thước và độ chính xác theo tiêu chuẩn.\\n• Kiểm tra, đo lường sản phẩm trong và sau quá trình gia công.\\n• Báo cáo kịp thời các sự cố kỹ thuật hoặc sản phẩm lỗi cho bộ phận liên quan.\",\n  \"requirements_text\": \"• Giới tính: Nam\\n• Độ tuổi: Dưới 40 tuổi\\n• Kỹ năng chuyên môn: Bắt buộc đọc hiểu bản vẽ kỹ thuật hệ inch và hệ mét.\\n• Kinh nghiệm: Ưu tiên ứng viên có kinh nghiệm vận hành máy tiện cơ.\\n• Phẩm chất: Chăm chỉ, cẩn thận, siêng năng, có trách nhiệm và chịu khó trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5007,
+    "output_tokens": 752,
+    "total_tokens": 5759,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

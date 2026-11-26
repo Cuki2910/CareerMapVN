@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thợ Gia Công Khuôn Dập\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ Gia công cơ khí khác\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tho-gia-cong-khuon-dap/2344959.html\",\n  \"qualifications\": [\n    \"Trung cấp nghề cơ khí trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Mastercam X5\",\n    \"Vận hành máy tiện, phay, mài (Cơ/ CNC)\",\n    \"Vận hành máy phay CNC\",\n    \"Tiện CNC\",\n    \"Cắt dây\",\n    \"Phần mềm CAM\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"12 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương từ > 12 triệu +++ (giờ hành chính). Nếu tăng ca tính theo luật lao động.\",\n    \"Làm việc trong môi trường năng động, chuyên nghiệp có nhiều cơ hội thăng tiến.\",\n    \"Cung cấp trang thiết bị đầy đủ để phục vụ công việc.\",\n    \"Được đóng BHXH, BHYT, BHTN.\",\n    \"Được hưởng các chính sách phúc lợi các ngày Lễ Tết theo quy định của công ty.\",\n    \"Được đào tạo, nâng cao nghiệp vụ thường xuyên.\"\n  ],\n  \"description\": \"- Biết lập trình Mastercam X5\\n- Vận hành máy tiện, phay, mài (Cơ/ CNC) và Gia công, sửa chữa khuôn (khuôn dập)\\n- Lắp ghép, hoàn thiện các chi tiết gia công theo bản vẽ.\",\n  \"requirements_text\": \"- Tốt nghiệp trung cấp nghề cơ khí trở lên\\n- Vận hành được máy phay CNC (điểm cộng cho ứng viên biết cả tiện CNC và cắt dây)\\n- Sử dụng được phần mềm CAM để lập trình gia công theo bản vẽ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4589,
+    "output_tokens": 637,
+    "total_tokens": 5226,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

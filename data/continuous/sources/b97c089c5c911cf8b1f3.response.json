@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Tổ Trưởng Gia Công Cơ Khí\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí\",\n  \"sub_category\": \"Kỹ sư cơ khí\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Ninh Bình\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/to-truong-gia-cong-co-khi/2349918.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Ms office\",\n    \"autocad\",\n    \"Cad\",\n    \"Tin học VP\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn trọng\",\n    \"có khả năng tổ chức công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"15 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Tham gia đóng bảo hiểm và thực hiện các chế độ khác theo luật hiện hành.\",\n    \"Hỗ trợ ăn trưa và ký túc xá cho người ở xa.\",\n    \"Tham quan du lịch, nghỉ mát hàng năm.\",\n    \"Chế độ thưởng lễ tết cao, thưởng lao động sáng tạo\",\n    \"Xét nâng lương định kì\"\n  ],\n  \"description\": \"Tiếp nhận đơn hàng/nhiệm vụ được giao, triển khai bản vẽ, lên kế hoạch nguồn lực, vật tư thực hiện\\nQuản lý công việc tổ gia công cơ khí (tổ chức sắp xếp nhân lực thực hiện phù hợp với khối lượng, tiến độ yêu cầu, cài đặt máy gia công theo từng mã hàng)\\nHướng dẫn, đào tạo, hỗ trợ trực tiếp công nhân trong tổ, công nhân mới\\nGiám sát công việc, đánh giá năng lực nhân viên trong tổ\\nGiám sát ATLD, vệ sinh môi trường, 5S khu vực tổ gia công cơ khí thực hiện công việc\\nGhi chép nhật ký công việc, báo cáo công việc hàng ngày\",\n  \"requirements_text\": \"Được đào tạo chuyên ngành gia công chế tạo cơ khí... Hoặc có kinh nghiệm thực tế quản lý công việc liên quan đến gia công chế tạo, sửa chữa cơ khí.\\nSử dụng Ms office, autocad.\\nCẩn trọng, có khả năng tổ chức công việc\\nChấp nhận kỹ sư mới ra trường để đào tạo\"\n}\n```",
+  "usage": {
+    "input_tokens": 4910,
+    "output_tokens": 689,
+    "total_tokens": 5599,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

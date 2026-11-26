@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư Dự Toán QS (Kỹ Sư Kinh Tế Xây Dựng)\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Dự toán công trình\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-du-toan-qs-ky-su-kinh-te-xay-dung/2359634.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"kỹ sư xây dựng\",\n    \"kinh tế xây dựng\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"AutoCAD\",\n    \"G8\",\n    \"Eta\",\n    \"F1\",\n    \"Bóc Tách Khối Lượng\",\n    \"lập dự toán\",\n    \"Kết Cấu Thép\",\n    \"nhà xưởng\",\n    \"Thạch cao\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"chính xác\",\n    \"làm việc đúng hạn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00), Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Lương thỏa thuận theo năng lực, xét tăng lương hàng năm\",\n    \"Thưởng theo công trình\",\n    \"Đóng BHXH, BHYT, BHTN theo quy định\",\n    \"Môi trường làm việc gọn nhẹ, được giao việc và ghi nhận rõ ràng\"\n  ],\n  \"description\": \"- Bóc tách khối lượng, lập dự toán và báo giá các gói kết cấu thép, nhà xưởng, trần vách thạch cao, nội thất.\\n- Xây dựng và cập nhật bộ đơn giá nội bộ (vật tư, nhân công).\\n- Lập hồ sơ trình, hồ sơ nghiệm thu, hồ sơ thanh toán và quyết toán công trình.\\n- Phối hợp với bộ phận thi công theo dõi khối lượng thực tế, phát sinh.\\n- Báo cáo trực tiếp Giám đốc.\",\n  \"requirements_text\": \"- Tốt nghiệp kỹ sư xây dựng, kinh tế xây dựng hoặc tương đương.\\n- Tối thiểu 2-3 năm kinh nghiệm dự toán, bóc khối lượng.\\n- Thành thạo Excel, AutoCAD; biết phần mềm dự toán (G8, Eta, F1...) là lợi thế.\\n- Ưu tiên đã làm kết cấu thép, nhà xưởng, hoàn thiện thạch cao hoặc hồ sơ thanh quyết toán.\\n- Cẩn thận, chính xác, làm việc đúng hạn.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4774,
+    "output_tokens": 786,
+    "total_tokens": 5560,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

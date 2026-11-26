@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Giao Nhận Hàng Hóa\",\n  \"company_name\": null,\n  \"job_category\": \"Logistics / Vận tải\",\n  \"sub_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-giao-nhan-hang-hoa/2347214.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"sử dụng thành thạo smartphone\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Tinh Thần Trách Nhiệm\",\n    \"Thân Thiện\",\n    \"thái độ hòa nhã\",\n    \"Tác phong gọn gàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (7h - 17h30) / Làm từ Thứ 2 - Thứ 7 nghỉ CN hoặc nghỉ 1 ngày linh hoạt trong tuần.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Chế độ bảo hiểm BHXH, BHYT, BHTN\",\n    \"Phụ cấp xăng xe tuyến xa\",\n    \"chế độ thưởng Lễ/Tết\",\n    \"Cung cấp đồng phục, công cụ dụng cụ miễn phí\",\n    \"Được tham gia các lớp đào tạo chuyên nghiệp\"\n  ],\n  \"description\": \"Nhận hàng, kiểm tra và đi giao hàng cho khách hàng trong tuyến\\nThu tiền và bàn giao về công ty trong ngày làm việc.\\nBảo vệ hàng hóa trong quá trình vận chuyển.\\nCác công việc khác theo sự điều động của Điều phối.\\nThời gian làm việc: Thứ 2 - Thứ 7 (7h - 17h30)\",\n  \"requirements_text\": \"Nam, độ tuổi từ 18 - 45.\\nCó xe máy và điện thoại smartphone (sử dụng thành thạo Smartphone).\\nThái độ hòa nhã, thân thiện, tác phong gọn gàng.\\nCẩn thận, có tinh thần trách nhiệm trong công việc.\\nCó sức khỏe tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4897,
+    "output_tokens": 672,
+    "total_tokens": 5569,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

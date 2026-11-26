@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Tài Xế Lái Xe Cho Sếp\",\n  \"company_name\": null,\n  \"job_category\": \"Tài xế / Lái xe\",\n  \"sub_category\": \"Tài xế lái xe văn phòng\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tai-xe-lai-xe-cho-sep/2057206.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\",\n    \"Bằng lái xe từ B2 trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Lái xe\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"bình tĩnh\",\n    \"tác phong tốt\",\n    \"có kỹ năng xử lý tình huống\",\n    \"Tinh thần trách nhiệm cao\",\n    \"chịu khó\",\n    \"nhiệt tình\",\n    \"vui vẻ\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Hưởng đầy đủ quyền lợi tham gia BHXH, BHYT, BHTN,... theo quy định\",\n    \"Thưởng lễ tết hằng năm và các chế độ phúc lợi\",\n    \"Hỗ trợ ăn ở lại\"\n  ],\n  \"description\": \"- Ưu tiên khu vực Phường Hiệp Bình (Thủ Đức)\\n- Phụ trách đưa đón, chuyên chở sếp theo yêu cầu.  \\n- Đảm bảo an toàn giao thông, đúng giờ và tuân thủ quy định của công ty, thực hiện theo yêu cầu của Sếp trong mọi hành trình.  \\n- Chủ động kiểm tra tình trạng xe, vệ sinh, bảo trì, bảo dưỡng, kiểm định xe được giao, đảm bảo an toàn khi vận hành.  \\n- Thực hiện các công việc khác theo yêu cầu của Sếp  \\n- Phục vụ Sếp khu vực nội thành Thành phố Hồ Chí Minh, trường hợp đi công tác ngoại tỉnh có thông báo và sắp xếp trước\",\n  \"requirements_text\": \"- Nam\\n- Cẩn thận, bình tĩnh, tác phong tốt và có kỹ năng xử lý tình huống.\\n- Tinh thần trách nhiệm cao, chịu khó, nhiệt tình, vui vẻ\\n- Bằng lái xe từ B2 trở lên\"\n}\n```",
+  "usage": {
+    "input_tokens": 5416,
+    "output_tokens": 690,
+    "total_tokens": 6106,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

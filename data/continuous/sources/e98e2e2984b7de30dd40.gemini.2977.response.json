@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trợ Lý Tiếng Trung\",\n  \"company_name\": null,\n  \"job_category\": \"Biên phiên dịch\",\n  \"sub_category\": \"Biên phiên dịch tiếng Trung\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-tieng-trung-phien-dich-tieng-trung/1691040.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kỹ Năng Nghe Hiểu Tiếng Trung\",\n    \"Ngữ Pháp Tiếng Trung\",\n    \"Kỹ Năng Nói Tiếng Trung Lưu Loát\",\n    \"Từ Vựng Tiếng Trung (đặc Biệt Là Từ Vựng Chuyên Ngành)\",\n    \"Kỹ Năng Đọc Hiểu Tiếng Trung\",\n    \"Kỹ Năng Sử Dụng Các Phần Mềm Văn Phòng (word, Excel, Powerpoint)\"\n  ],\n  \"soft_skills\": [\n    \"kỹ năng thuyết trình\",\n    \"Giao tiếp tốt\",\n    \"nhanh nhẹn\",\n    \"chủ động\",\n    \"có trách nhiệm\",\n    \"khả năng phối hợp và theo dõi công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"11 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:30 đến 17:30)\\n  * Nghỉ 1 ngày bất kỳ trong tuần\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Phụ cấp thâm niên\",\n    \"Bảo hiểm xã hội, Bảo hiểm sức khỏe, Phụ cấp thâm niên, Thưởng hiệu quả làm việc, Team building\",\n    \"Ăn trưa\",\n    \"Xăng xe\",\n    \"Được cấp Điện thoại\"\n  ],\n  \"description\": \"• Hỗ trợ quản lý trong việc theo dõi và điều phối công việc vận hành.\\n• Hỗ trợ trao đổi, phiên dịch tiếng Trung giữa quản lý và nhân viên.\\n• Hỗ trợ xử lý giấy tờ, tài liệu và các công việc vận hành theo phân công.\\n• Làm đơn hoàn ứng, chứng từ liên quan (có hướng dẫn). \\n• Hỗ trợ công việc tại cửa hàng khi cần.\",\n  \"requirements_text\": \"• Giao tiếp tiếng Trung khá.\\n• Giao tiếp tốt, nhanh nhẹn, chủ động và có trách nhiệm.\\n• Có khả năng phối hợp và theo dõi công việc.\\n• Ưu tiên ứng viên có kinh nghiệm F&B, vận hành, trợ lý hoặc chăm sóc khách hàng.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5009,
+    "output_tokens": 753,
+    "total_tokens": 5762,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

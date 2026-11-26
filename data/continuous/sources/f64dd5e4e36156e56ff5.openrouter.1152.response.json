@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Văn Phòng Biết Tiếng Anh - Xoay Ca Nghỉ Cố Định Chủ Nhật + 1 Ngày Thứ - Không Áp Lực KPI\",\"company_name\":\"Công ty TNHH Vietnam Concentrix Services\",\"job_category\":\"Chăm sóc khách hàng\",\"sub_category\":\"Biên phiên dịch tiếng Anh\",\"industry\":null,\"category\":null,\"location\":\"Hồ Chí Minh: Công viên phần mềm Quang Trung, Phường Trung Mỹ Tây (Phường Trung Mỹ Tây thuộc Quận 12 cũ)\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-03\",\"url\":\"https://www.topcv.vn/brand/concentrixservices/tuyen-dung/nhan-vien-van-phong-biet-tieng-anh-xoay-ca-nghi-co-dinh-chu-nhat-1-ngay-thu-khong-ap-luc-kpi-j2349124.html\",\"qualifications\":[\"Tốt nghiệp THPT/ Trung Cấp / Cao Đẳng/ Đại Học\",\"Trung học phổ thông (Cấp 3) trở lên\",\"Chuyên môn: Biên phiên dịch tiếng Anh\"],\"technical_skills\":null,\"soft_skills\":null,\"languages_required\":[\"Tiếng Anh\"],\"experience_required\":0,\"salary\":\"11 - 12 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Xoay ca, nghỉ cố định Chủ Nhật + 1 ngày thứ; Giờ hoạt động của dự án: Thứ Hai – Thứ Sáu: 19:30 – 07:30; Thứ Bảy: 20:00 – 05:00\",\"benefits\":[\"Tổng thu nhập: 11.000.000 – 12.000.000 VNĐ/tháng\",\"Lương cơ bản: 8.000.000 VNĐ/tháng\",\"Phụ cấp ăn uống: 500.000 VNĐ/tháng\",\"Phụ cấp ca đêm: Lên đến 2.400.000 VNĐ/tháng (30% lương cơ bản cho các giờ làm việc ca đêm hợp lệ)\",\"Thưởng KPI hàng tháng: Lên đến 1.200.000 VNĐ/tháng\",\"Hưởng 100% lương trong thời gian thử việc (2 tháng)\",\"Tham gia các chế độ bảo hiểm theo quy định của Luật Lao động\",\"Bảo hiểm tai nạn 24/7\",\"14 ngày nghỉ phép/năm\",\"Lương tháng thứ 13\",\"Khám sức khỏe định kỳ hàng năm\",\"Làm việc trong môi trường năng động, chuyên nghiệp với nhiều cơ hội thăng tiến\"],\"description\":\"Tiếp nhận và hỗ trợ khách hàng đa kênh: call, email, chat, tin nhắn\\nCung cấp thông tin rõ ràng, chính xác nhằm nâng cao sự hài lòng của khách hàng\\nDuy trì chất lượng dịch vụ và trải nghiệm người dùng ở mức cao\",\"requirements_text\":\"Không yêu cầu kinh nghiệm chuyên môn\\nTrung học phổ thông (Cấp 3) trở lên\\nChuyên môn: Biên phiên dịch tiếng Anh\\nTốt nghiệp THPT/ Trung Cấp / Cao Đẳng/ Đại Học\\nĐộ tuổi 18-35 tuổi\\nĐược sử dụng tiếng Anh trong môi trường làm việc quốc tế\"}",
+  "usage": {
+    "input_tokens": 4352,
+    "output_tokens": 6770,
+    "total_tokens": 11122,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 5852
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phát Tờ Rơi\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": \"Nhân viên phát tờ rơi\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phat-to-roi/801133.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"chủ động trong công việc\",\n    \"tinh thần trách nhiệm cao\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0.0,\n  \"salary\": \"10 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h/ 22 công\",\n  \"benefits\": [\n    \"Chế độ tham gia BHXH, BHYT, BHTN theo quy định của Nhà nước\",\n    \"Hưởng các chế độ phúc lợi: thăm hỏi ốm đau, thai sản, du lịch, chế độ thăm khám sức khỏe,...\"\n  ],\n  \"description\": \"1. Thực hiện công việc phát tặng các ấn phẩm truyền thông ngoài thị trường\\n2. Làm lễ tân các sự kiện khi được giao\\n3. Duy trì công việc của tổ và báo cáo công việc với: Tổ trưởng tổ TTTT, Trưởng phòng truyền thông, Phó Giám đốc truyền thông\\n4. Đưa ra giải pháp, đề xuất cho công việc tốt hơn\\n5. Thực hiện các nhiệm vụ khác theo yêu cầu của Trưởng phòng truyền thông, Phó Giám đốc truyền thông\",\n  \"requirements_text\": \"1. Giới tính: Nam/Nữ, độ tuổi từ 18 – 35 tuổi; Nữ cao 1m55 -1m63, Nam cao 1m62 -1m72; Hình thức: Ngoại hình ưa nhìn, không nói ngọng, nói lắp, nói giọng địa phương; phong thái chững chạc, lịch sự\\n2. Kiến thức: Tốt nghiệp THPT\\n3. Kinh nghiệm: Ưu tiên ứng viên có kinh nghiệm ở vị trí tương đương\\n4. Phẩm chất: Phẩm chất đạo đức: sáng tạo, cẩn thận, trung thực, nhanh nhẹn, chịu khó, nhiệt tình và năng động, tư duy nhạy bén. Chủ động trong công việc; Khéo léo và tế nhị trong giao tiếp, có tinh thần trách nhiệm cao trong công việc. Phong thái, tác phong làm việc: lịch sự, hòa nhã, vui vẻ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4879,
+    "output_tokens": 714,
+    "total_tokens": 5593,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

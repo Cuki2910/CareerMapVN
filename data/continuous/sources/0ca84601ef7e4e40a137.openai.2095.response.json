@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kỹ Thuật - Nhà Máy\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN TẬP ĐOÀN NAGAKAWA\",\n  \"job_category\": \"Kỹ thuật\",\n  \"sub_category\": \"Thợ kỹ thuật khác\",\n  \"industry\": \"Sản xuất sản phẩm điện tử dân dụng\",\n  \"category\": null,\n  \"location\": \"Hưng Yên: Thôn Vĩnh Bảo, Xã Nghĩa Trụ (Xã Nghĩa Trụ thuộc huyện Văn Giang cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-nha-may/2286765.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp cao đẳng/ trung cấp chuyên ngành cơ khí, cơ điện, kỹ thuật máy...\"\n  ],\n  \"technical_skills\": [\n    \"Kiến thức ngành Điện / Điện tử / Điện lạnh\",\n    \"Kiến thức ngành Sản xuất\"\n  ],\n  \"soft_skills\": [\n    \"Chủ động làm việc và đề xuất các giải pháp liên quan\",\n    \"Nhanh nhẹn\",\n    \"Chăm chỉ\",\n    \"Chịu được áp lực cao trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập thỏa thuận theo năng lực\",\n    \"Được cung cấp đầy đủ ccdc phục vụ cho công việc\",\n    \"Được tham gia bảo hiểm theo quy định của pháp luật\",\n    \"Tham gia công đoàn và hưởng các chính sách, quyền lợi công đoàn\",\n    \"Khám sức khỏe định kỳ\",\n    \"Chế độ sinh nhật, hiếu, hỷ, lễ tết,... đầy đủ theo quy định của Tập đoàn\",\n    \"Du lịch, nghỉ mát hàng năm cho CBNV\"\n  ],\n  \"description\": \"- Thực hiện công việc theo hướng dẫn của quản lý trực tiếp. Đảm bảo tiến độ và chất lượng công việc được giao\\n- Kiểm tra, bảo quản CCDC, trang thiết bị được cấp để phục vụ công việc\\n- Tuân thủ các quy định, nội quy của Nhà máy\\n- Thực hiện các công việc khác theo yêu cầu của cấp trên\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n- Tốt nghiệp cao đẳng/ trung cấp chuyên ngành cơ khí, cơ điện, kỹ thuật máy...\\n- Chủ động làm việc và đề xuất các giải pháp liên quan.\\n- Nhanh nhẹn, chăm chỉ. Chịu được áp lực cao trong công việc\\n\\nKiến thức ngành\\nĐiện / Điện tử / Điện lạnh, Sản xuất\"\n}",
+  "usage": {
+    "input_tokens": 4562,
+    "output_tokens": 710,
+    "total_tokens": 5272,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Giao Dịch Viên (Xoay Ca)\",\n  \"company_name\": \"CÔNG TY TNHH ĐẦU TƯ GIAO DỊCH HÀNG HÓA TVT\",\n  \"job_category\": \"Tài chính\",\n  \"sub_category\": \"Giao dịch hàng hóa phái sinh\",\n  \"industry\": \"Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống\",\n  \"category\": null,\n  \"location\": \"109 Hai Bà Trưng, Phường Diên Hồng (Phường Diên Hồng thuộc Thành phố Pleiku cũ), Gia Lai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giao-dich-vien-xoay-ca/2331009.html\",\n  \"qualifications\": [\"Tốt nghiệp trung cấp trở lên.\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Khả năng giao tiếp\", \"Nhiệt tình\", \"Trung thực\", \"Hòa đồng\", \"Tinh thần trách nhiệm cao\", \"Ham học hỏi\", \"Chịu được áp lực công việc\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc xoay ca (3 ca/ngày), thời gian cụ thể sẽ được trao đổi chi tiết khi phỏng vấn.\\nCó khả năng làm việc theo ca và làm việc vào buổi tối để đáp ứng thời gian giao dịch của thị trường hàng hóa phái sinh.\",\n  \"benefits\": [\n    \"Lương cơ bản + hoa hồng, sẽ trao đổi khi phỏng vấn trực tiếp.\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định.\",\n    \"Được đóng BHXH, BHYT theo quy định của Nhà nước.\",\n    \"Được hưởng các chế độ khác theo quy định của Công ty.\",\n    \"Không có kinh nghiệm sẽ được đào tạo\"\n  ],\n  \"description\": \"- Hỗ trợ khách hàng thực hiện các giao dịch hàng hóa phái sinh theo quy định.\\n- Tiếp nhận, kiểm tra và xử lý lệnh giao dịch của khách hàng trên hệ thống.\\n- Theo dõi trạng thái tài khoản, ký quỹ và cảnh báo rủi ro cho khách hàng.\\n- Hỗ trợ, tư vấn giải đáp thắc mắc của khách hàng khi cần thiết.\",\n  \"requirements_text\": \"Yêu cầu:\\nDưới 1 năm kinh nghiệm chuyên môn  Trung cấp trở lên\\nChuyên môn:\\nChuyên môn Tài chính  Tài chính\\n\\nYêu cầu ứng viên\\n- Tốt nghiệp trung cấp trở lên.\\n- Có khả năng giao tiếp, nhiệt tình, trung thực, hòa đồng.\\n- Có tinh thần trách nhiệm cao, ham học hỏi, chịu được áp lực công việc.\\n- Có khả năng làm việc theo ca và làm việc vào buổi tối để đáp ứng thời gian giao dịch của thị trường hàng hóa phái sinh.\\n- Không có kinh nghiệm sẽ được đào tạo\\nKiến thức ngành\\nTài chính\"\n}",
+  "usage": {
+    "input_tokens": 4557,
+    "output_tokens": 735,
+    "total_tokens": 5292,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

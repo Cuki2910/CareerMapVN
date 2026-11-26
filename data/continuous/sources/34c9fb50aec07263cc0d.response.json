@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN CÔNG NGHỆ CAO CNC\",\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": \"Gia công cơ khí; xử lý và tráng phủ kim loại\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/2089673.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Đọc hiểu bản vẽ kỹ thuật cơ khí\",\n    \"Sử dụng các dụng cụ đo kiểm\",\n    \"Vận hành máy CNC\"\n  ],\n  \"soft_skills\": [\n    \"Nhiệt tình trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Môi trường làm việc năng động, thân thiện, cơ hội thăng tiến.\",\n    \"Được đào tạo thêm để nâng cao nghiệp vụ chuyên môn.\",\n    \"Thưởng KPI theo quy định công ty.\",\n    \"Tăng lương theo hiệu quả công tác và cam kết đầy đủ các chế độ dành cho người lao động theo như quy định pháp luật hiện hành (BHXH, BHYT, BHTN...).\",\n    \"Có lương tháng 13 và các khoản thưởng khác (Giỗ tổ Hùng Vương; 30/4 &1/5; 2/9; Tết Dương Lịch...) theo quy định công ty.\",\n    \"Hỗ trợ ăn trưa và tăng ca chiều.\",\n    \"Được nghỉ Chủ Nhật và các ngày lễ theo quy định của Luật.\",\n    \"Một năm có 12 ngày nghỉ phép có hưởng lương theo quy định của Luật lao động.\",\n    \"Tham gia các hoạt động ngoại khóa: Văn nghệ, thể thao (tổ chức đá bóng 2 lần/tháng), du lịch...\"\n  ],\n  \"description\": \"Vận hành máy CNC theo bản vẽ kỹ thuật và kế hoạch sản xuất.\\nLàm việc theo sự chỉ đạo của trưởng ca/Trưởng bộ phận.\\nBiết sử dụng các dụng cụ đo kiểm.\\nĐọc hiểu bản vẽ kỹ thuật cơ khí.\\nPhối hợp với bộ phận kỹ thuật để đảm bảo sản phẩm đạt yêu cầu kỹ thuật\",\n  \"requirements_text\": \"Tốt nghiệp từ Trung cấp trở lên.\\nCó sức khỏe tốt, nhiệt tình trong công việc.\\nCó thể làm việc xoay ca 12 tiếng.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4876,
+    "output_tokens": 732,
+    "total_tokens": 5608,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

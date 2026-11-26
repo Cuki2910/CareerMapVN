@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật Ra File CNC\",\n  \"company_name\": null,\n  \"job_category\": \"Thiết kế nội thất\",\n  \"sub_category\": \"Ra File CNC\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-ra-file-cnc/2362344.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\",\n    \"SketchUp\",\n    \"ABF\",\n    \"Đọc Bản Vẽ Kỹ Thuật\"\n  ],\n  \"soft_skills\": [\n    \"phối hợp đội nhóm tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được tiếp xúc nhiều công trình thực tế\",\n    \"Làm việc trực tiếp với xưởng sản xuất,nâng cao tay nghề\",\n    \"Phù hợp nếu muốn phát triển lâu dài trong ngành nội thất\",\n    \"Lương: 10.000.000đ – 15.000.000đ (tuỳ năng lực) + % doanh số\",\n    \"Xét tăng lương theo năng lực & hiệu quả công việc\",\n    \"Thưởng chuyên cần, tăng ca, trách nhiệm\",\n    \"Lương tháng 13, thưởng lễ Tết,các hoạt động chung của công ty\",\n    \"BHXH đóng sau thời gian thử việc\"\n  ],\n  \"description\": \"- Tiếp nhận hồ sơ thiết kế 2D/3D và số liệu khảo sát thực tế từ công trình.\\n- Triển khai bản vẽ kỹ thuật chi tiết, dựng kết cấu sản phẩm.\\n- Ra file CNC phục vụ sản xuất\\n- Bóc tách vật tư, kiểm tra kích thước thực tế\\n- Phối hợp với xưởng để tối ưu thi công và lắp đặt\\n- Kiểm tra và bàn giao kỹ thuật cho thợ sản xuất\",\n  \"requirements_text\": \"- Có kinh nghiệm ra file CNC nội thất là lợi thế \\n- Biết AutoCAD, SketchUp \\n- Ưu tiên ứng viên biết ABF hoặc các phần mềm CNC liên quan \\n- Có tư duy thực tế sản xuất, hiểu cấu tạo nội thất \\n- Cẩn thận, có trách nhiệm, phối hợp đội nhóm tốt\"\n}\n```",
+  "usage": {
+    "input_tokens": 4670,
+    "output_tokens": 726,
+    "total_tokens": 5396,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

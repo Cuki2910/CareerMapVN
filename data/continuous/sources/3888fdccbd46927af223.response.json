@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-kho/2347816.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"máy quét mã vạch\"\n  ],\n  \"soft_skills\": [\n    \"nhanh nhẹn\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7.5 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Tham gia BHXH đầy đủ\",\n    \"thưởng 13\",\n    \"team building\",\n    \"Lễ tết có quà, thưởng\"\n  ],\n  \"description\": \"- Nhập kho\\n- Xuất hàng theo đơn của nghiệp vụ\\n- Kiểm kê hàng tháng\\n- Sắp xếp hàng hóa trong kho\",\n  \"requirements_text\": \"- Nhanh nhẹn, sức khỏe tốt ,có thể bê thùng hàng nặng 5 đến 30 kg\\n- Đọc viết tốt, biết sử dụng máy quét mã vạch\\n- Phối hợp tăng ca\"\n}\n```",
+  "usage": {
+    "input_tokens": 4532,
+    "output_tokens": 461,
+    "total_tokens": 4993,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

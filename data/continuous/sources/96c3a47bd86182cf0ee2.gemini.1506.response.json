@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nghiên Cứu Phân Tích Thị Trường (Bán Lẻ - FMCG)\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing / Quảng cáo\",\n  \"sub_category\": \"Nghiên cứu thị trường\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nghien-cuu-phan-tich-thi-truong-ban-le-fmcg/2243127.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp Cao đẳng/ Đại học chuyên ngành liên quan (Kinh tế, Quản trị, Thống kê, Data...)\"\n  ],\n  \"technical_skills\": [\n    \"phân tích dữ liệu\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng phân tích\",\n    \"tư duy logic\",\n    \"thuyết trình & làm slide\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 3.0,\n  \"salary\": \"12 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Thưởng hấp dẫn theo chính sách công ty.\",\n    \"Được đào tạo nâng cao trong & ngoài nước.\",\n    \"Đầy đủ BHXH, BHYT, BHTN sau thử việc.\",\n    \"Môi trường chuyên nghiệp, nhiều cơ hội phát triển lâu dài.\"\n  ],\n  \"description\": \"- Xây dựng và phát triển các báo cáo phân tích dữ liệu (theo tuần/tháng/quý/năm).\\n- Thực hiện nghiên cứu tổng hợp định tính/định lượng, cung cấp những hiểu biết chuyên sâu về thị trường, giải thích chi tiết về cạnh tranh thị trường, xu hướng thị trường, cơ hội và rủi ro.\\n- Quản lý cơ sở dữ liệu, từ làm sạch dữ liệu, nhập dữ liệu đến cập nhật dữ liệu.\\n- Trình bày kết quả nghiên cứu cho khách hàng và đối tác (bằng văn bản và thuyết trình).\\n- Hỗ trợ đàm phán, kết nối các cơ hội kinh doanh.Nghiên cứu định tính/định lượng, cập nhật xu hướng, viết phân tích thị trường.\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng/ Đại học chuyên ngành liên quan (Kinh tế, Quản trị, Thống kê, Data...).\\n- 3+ năm kinh nghiệm nghiên cứu thị trường/ phân tích dữ liệu/ tư vấn.\\n- Giỏi tiếng Trung hoặc tiếng Anh (viết báo cáo + thuyết trình).\\n- Kỹ năng phân tích, tư duy logic, thuyết trình & làm slide “đỉnh”.\\n- Ưu tiên nếu có kinh nghiệm trong điện máy, viễn thông, bán lẻ.\\n- Hồ sơ: CV tiếng Việt + tiếng Trung/Anh.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4940,
+    "output_tokens": 806,
+    "total_tokens": 5746,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

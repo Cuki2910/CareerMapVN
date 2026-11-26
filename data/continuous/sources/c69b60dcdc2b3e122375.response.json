@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kế Hoạch Sản Phẩm\",\n  \"company_name\": null,\n  \"job_category\": \"Kế hoạch sản xuất\",\n  \"sub_category\": \"Nhân Viên Kế Hoạch\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"81 Nguyễn Văn Huyên, Phường Nghĩa Đô, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-hoach-san-pham/2324610.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"xử lý bảng biểu\"\n  ],\n  \"soft_skills\": [\n    \"Tư duy logic\",\n    \"Phân tích dữ liệu\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"12.000.000 – 15.000.000 VND/tháng\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:30 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Lương cơ bản cố định + thưởng hiệu quả công việc biến động\",\n    \"Đóng BHXH, BHYT, BHTN theo pháp luật Việt Nam\",\n    \"Hưởng phép năm có lương\",\n    \"Phúc lợi lễ, Tết\"\n  ],\n  \"description\": \"Căn cứ dữ liệu bán hàng và mức tồn kho của các cửa hàng tiện lợi LOVEMINI để lập kế hoạch: Mua hàng; Bổ sung hàng hóa.\\nPhân tích và chủ động điều chỉnh số lượng mua/đặt hàng dựa trên biến động doanh số.\\nChịu trách nhiệm lập phương án phân bổ hàng hóa đợt đầu và chuẩn bị các dữ liệu liên quan cho cửa hàng mới khai trương.\\nPhối hợp với các bộ phận: thu mua, hàng hóa, kho vận, vận hành để hoàn thành công tác kế hoạch hàng hóa và kết nối dữ liệu.\\nTừng bước tham gia phân tích dữ liệu liên quan đến: cơ cấu hàng hóa tại cửa hàng, vòng quay tồn kho, chiến lược bổ sung hàng hóa.\",\n  \"requirements_text\": \"Tốt nghiệp Cao đẳng trở lên; có khả năng đọc, viết và giao tiếp tiếng Trung; có độ nhạy cơ bản với dữ liệu và thành thạo xử lý bảng biểu.\\nTư duy logic rõ ràng, có khả năng dựa trên dữ liệu để xây dựng và theo dõi kế hoạch nghiệp vụ. Ưu tiên có kinh nghiệm thực tế về: Kế hoạch mua hàng; Kế hoạch bổ sung hàng; Kế hoạch chuỗi cung ứng.\\nƯu tiên ứng viên có kinh nghiệm trong ngành: cửa hàng tiện lợi, siêu thị, bán lẻ\"\n}\n```",
+  "usage": {
+    "input_tokens": 4991,
+    "output_tokens": 782,
+    "total_tokens": 5773,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

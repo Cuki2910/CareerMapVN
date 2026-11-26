@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Soạn Hàng Tại Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-soan-hang-tai-kho/2287670.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"sắp xếp hàng hóa\",\n    \"Kiểm Đếm Hàng Hóa\",\n    \"Soạn Hàng\",\n    \"dán tem\",\n    \"Vệ sinh kho\",\n    \"Cân hàng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\n- T2-T6: 13h00 – 22h00 & T7: 13h-17h  \\n- Nghỉ sáng T7&CN hàng tuần\",\n  \"benefits\": [\n    \"Mức lương: 8-13tr (LCB+KPI)\",\n    \"Làm thêm giờ được tính lương OT\",\n    \"Được tham gia BHXH ngay khi hết thời gian thử việc, được tham gia BH tai nạn 24/24.\",\n    \"Được đánh giá tăng lương hàng năm.\",\n    \"12 ngày phép/năm + nghỉ lễ theo quy định\",\n    \"Được đào tạo về hệ thống, quy trình và nghiệp vụ kho vận\",\n    \"Môi trường làm việc ổn định, có cơ hội phát triển lên vị trí cao hơn\",\n    \"Tham gia các hoạt động nội bộ, team building của công ty\"\n  ],\n  \"description\": \"- Soạn hàng, cân hàng theo đơn đảm bảo đúng mặt hàng, số lượng, date được note trên đơn.\\n- Sắp xếp hàng hóa trong kho sạch sẽ, ngăn nắp theo đúng quy định của Công ty.\\n- Dán tem đúng date sản phẩm, đúng mã hàng.\\n- Các công việc khác theo yêu cầu của Quản lý trực tiếp\",\n  \"requirements_text\": \"- Ưu tiên ứng viên có kinh nghiệm làm việc ở kho\\n- Đảm bảo hàng hóa luôn đạt đủ tiêu chuẩn chất lượng theo quy định\\n- Hàng hóa trong kho được kiểm đếm trung thực và chính xác so với hệ thống\\n- Duy trì việc vệ sinh, ngăn nắp trong kho. Hàng hóa được sắp xếp gọn gàng, tách biệt và dễ nhận biết\"\n}\n```",
+  "usage": {
+    "input_tokens": 5042,
+    "output_tokens": 731,
+    "total_tokens": 5773,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

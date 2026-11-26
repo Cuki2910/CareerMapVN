@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Tổ Trưởng Phục Vụ (Captain) - Nhà Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Quản lý nhà hàng\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/to-truong-phuc-vu-captain-nha-hang/2342935.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Xử lý tình huống\",\n    \"Chăm Sóc Khách Hàng\",\n    \"Kỹ năng đào tạo\",\n    \"định hướng\",\n    \"lãnh đạo\",\n    \"Kỹ năng giao tiếp chuyên nghiệp\",\n    \"làm việc nhóm tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"9 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Xoay ca sáng - tối, 8 tiếng/ ca, 6 ngày/ tuần (8h - 16h & 14h - 22h)\",\n  \"benefits\": [\n    \"Phụ cấp 60k/ ngày làm việc, miễn phí đồng phục\",\n    \"Tham gia BHXH trên 100% lương\",\n    \"Bảo hiểm sức khỏe toàn diện 24/7 và đầy đủ chế độ phúc lợi khác\",\n    \"Ngày nghỉ phép/ nghỉ ốm/ nghỉ sinh nhật hưởng lương\",\n    \"Khám sức khỏe định kỳ và du lịch công ty hằng năm\",\n    \"Ưu đãi 20% khi sử dụng dịch vụ tại các thương hiệu thuộc Ampersand\",\n    \"Quà tặng/ thưởng nhân dịp lễ, Tết,...\"\n  ],\n  \"description\": \"Phân công công việc và theo dõi tác phong, nghiệp vụ của nhân viên trong nhóm\\nĐiều phối nhân sự trong ca, giám sát quy trình làm việc, đảm bảo tiêu chuẩn dịch vụ\\nTiếp nhận và xử lý các yêu cầu, phản hồi hoặc sự cố của khách hàng\\nĐào tạo, hướng dẫn nhân viên mới và nâng cao nghiệp vụ cho đội ngũ\\nTheo dõi tình hình vận hành, đánh giá nhân sự và báo cáo cho Quản lý\\nQuản lý công cụ, dụng cụ và các công việc khác theo phân công.\",\n  \"requirements_text\": \"Tốt nghiệp trung cấp trở lên, có kinh nghiệm ở vị trí tương đương\\nAnh văn giao tiếp chuyên ngành F&B\\nCó kiến thức chung về thực phẩm, đồ uống và ngành dịch vụ\\nKỹ năng đào tạo, định hướng, lãnh đạo\\nKỹ năng giao tiếp chuyên nghiệp, xử lý tình huống, làm việc nhóm tốt\"\n}\n```",
+  "usage": {
+    "input_tokens": 4845,
+    "output_tokens": 766,
+    "total_tokens": 5611,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

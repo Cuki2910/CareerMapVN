@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Phay CNC (Gá Đặt Phôi) - Nhận Việc Ngay - Có Đào Tạo\",\n  \"company_name\": \"CÔNG TY TNHH CTI VN\",\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Thợ phay\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/brand/ctivn/tuyen-dung/nhan-vien-van-hanh-phay-cnc-ga-dat-phoi-nhan-viec-ngay-co-dao-tao-j1775491.html\",\n  \"qualifications\": [\n    \"Trung cấp\",\n    \"12/12\"\n  ],\n  \"technical_skills\": [\n    \"Vận hành Phay CNC\",\n    \"Gá đặt phôi\",\n    \"Gia công cơ khí\"\n  ],\n  \"soft_skills\": [\n    \"Tiếp thu nhanh\",\n    \"Tinh thần trách nhiệm cao\",\n    \"Chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Được tham gia đào tạo nâng cao năng lực, nâng cao kỹ năng trong và ngoài Công ty\",\n    \"Mức lương cạnh tranh, hấp dẫn. Có chế độ tăng lương định kỳ 1 – 2 lần/ năm\",\n    \"Lương thưởng tháng 13\",\n    \"Hỗ trợ cơm trưa và cơm chiều (trong trường hợp có tăng ca)\",\n    \"Lộ trình thăng tiến cụ thể, rõ ràng\",\n    \"Thể thao, du lịch, team building, dã ngoại hàng năm\",\n    \"BHXH full lương, Công đoàn, nghỉ phép\",\n    \"Môi trường làm việc sạch sẽ, chuyên nghiệp và thân thiện\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Lắp đặt và kiểm tra đồ gá đặt phôi đúng cách, đúng kỹ thuật\\n- Xác định vị trí phôi, đảm bảo phôi được gia công đúng kích thước và hình dạng bảng vẽ\\n- Chuẩn bị dao cụ: lựa chọn và lắp đặt giao cắt phù hợp với yêu cầu gia công\\n- Hỗ trợ quá trình vận hành đảm bảo quy trình gia công diễn ra suôn sẻ\\n- Các công việc vận hành theo yêu cầu của quản lý trực tiếp\",\n  \"requirements_text\": \"- Trình độ: Trung cấp, 12/12\\n- Có khả năng tiếp thu nhanh, tinh thần trách nhiệm cao\\n- Có kinh nghiệm cơ khí, gia công hàng chi tiết.\\n- Có thể làm tăng ca, đi ca đáp ứng đơn hàng gấp và chịu được áp lực công việc.\\n- Độ tuổi: Từ 18 đến 40\"\n}\n```",
+  "usage": {
+    "input_tokens": 4427,
+    "output_tokens": 801,
+    "total_tokens": 5228,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kỹ Thuật\",\n  \"company_name\": \"Công ty Cổ phần Giải pháp Công nghệ Netsys Việt Nam\",\n  \"job_category\": \"Chuyên môn Công nghệ thông tin khác\",\n  \"sub_category\": \"IT - Phần cứng và máy tính\",\n  \"industry\": \"Bán buôn thiết bị và linh kiện điện tử, viễn thông\",\n  \"category\": null,\n  \"location\": \"Hà Nội: 18 TT7A, Khu đô thị mới Đại Kim, Phường Định Công (Phường Định Công thuộc quận Hoàng Mai cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat/2360376.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Tối thiểu có chứng chỉ nghề chuyên ngành Công nghệ thông tin hoặc Điện Tử\"\n  ],\n  \"technical_skills\": [\n    \"IT - Phần cứng và máy tính\",\n    \"Word\",\n    \"Excel\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Phụ cấp: Ăn trưa, Cước điện thoại\",\n    \"Thiết bị: Máy tính\",\n    \"Thu nhập thỏa thuận theo tay nghề kỹ thuật.\",\n    \"Được đào tạo kiến thức sản phẩm\",\n    \"Hoa hồng theo công trình lắp đặt hoàn thành\",\n    \"Môi trường làm việc chuyên nghiệp, năng động, Có cơ hội thăng tiến, chế độ phúc lợi đãi ngộ.\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"- Thực hiện bảo trì hệ thống camera, máy tính\\n- Cài đặt máy tính, máy in, thiết bị văn phòng\\n- Kịp thời khắc phục các sự cố đảm bảo vận hành tốt trong suốt thời gian hoạt động.\\n- Giao hàng, cài đặt thiết bị văn phòng\",\n  \"requirements_text\": \"Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n- Nam từ 21 đến 30 tuổi;\\n- Có tối thiểu có chứng chỉ nghề chuyên ngành Công nghệ thông tin hoặc Điện Tử.\\n- Sinh viên mới ra trường sẽ được đào tạo tay nghề.\\n\\nKiến thức ngành\\nIT - Phần cứng và máy tính\\n\\nKỹ năng cần có\\nWord, Excel\"\n}",
+  "usage": {
+    "input_tokens": 4589,
+    "output_tokens": 655,
+    "total_tokens": 5244,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

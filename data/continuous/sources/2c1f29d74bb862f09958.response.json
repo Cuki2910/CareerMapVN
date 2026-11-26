@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho Thời Vụ\",\n  \"company_name\": \"NC STORE\",\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": \"Thời vụ\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-thoi-vu/2354748.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"sắp xếp hàng hóa\",\n    \"Kiểm Kê Kho\",\n    \"đóng gói hàng hóa\"\n  ],\n  \"soft_skills\": [\n    \"Sức Khỏe Tốt\",\n    \"Cẩn thận\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 0,\n  \"salary\": \"3 - 4 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Ca ngày\\n- Ca sáng · 08:00–13:00 (5 tiếng)  \\n- Ca chiều · 14:00–18:00 (4 tiếng)  \\n- Ca tối · 16:00-20:00 (4 tiếng)\",\n  \"benefits\": [\n    \"Lương chính thức 30.000 đồng/giờ, lương thử việc 27.000 đồng/giờ\",\n    \"Với lịch làm 24 giờ/tuần, bạn nhận 720.000 đồng/tuần ở mức lương chính thức\",\n    \"Có thể đăng ký ca sáng, chiều hoặc tối theo lịch kho\",\n    \"Được team NC Store hướng dẫn cách kiểm hàng, sắp xếp kho và dán nhãn phụ ngay khi nhận việc\",\n    \"Có thêm kinh nghiệm xử lý hàng nhập và phối hợp đóng gói đơn cùng team trong những đợt sale\"\n  ],\n  \"description\": \"• Kiểm đếm hàng hóa trong kho, phân loại và sắp xếp hàng mới nhập vào đúng khu vực lưu trữ.\\n• Dán nhãn phụ tiếng Việt theo hướng dẫn, đảm bảo nhãn khớp với sản phẩm và được dán đúng vị trí.\\n• Hỗ trợ đóng gói đơn hàng trong các đợt khuyến mãi, khi lượng đơn tăng cao.\",\n  \"requirements_text\": \"• Có thể làm tối thiểu 24 giờ/tuần , đúng giờ và duy trì lịch làm theo ca đã đăng ký.\\n• Cẩn thận khi kiểm đếm, sắp xếp hàng hóa và dán nhãn phụ.\\n• Có trách nhiệm với công việc, chủ động báo lại khi phát hiện hàng thiếu, thừa hoặc sai nhãn.\\n• Phối hợp tốt với các bạn trong kho khi nhập hàng và đóng gói đơn vào các đợt khuyến mãi.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4790,
+    "output_tokens": 739,
+    "total_tokens": 5529,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

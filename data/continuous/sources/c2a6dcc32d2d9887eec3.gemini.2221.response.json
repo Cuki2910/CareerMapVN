@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Oder/ Phục Vụ Quán Cafe (Có Thể Đổi Ca)\",\n  \"company_name\": \"HỘ KINH DOANH PHÊ ƠI COFFE AND TEA\",\n  \"job_category\": \"Nhà hàng/Dịch vụ ăn uống\",\n  \"sub_category\": \"Nhà hàng/Dịch vụ ăn uống khác\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-29\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-oder-phuc-vu-quan-cafe-co-the-doi-ca/2340647.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"giao tiếp tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nTự chọn ca 7-12 h ,12-17 h ,17-23 h  \\nGhi ca linh hoạt (có thể đổi ca)\",\n  \"benefits\": [\n    \"Được đào tạo nghiệp vụ nếu chưa có kinh nghiệm.\",\n    \"Được hỗ trợ đồng phục khi làm việc.\",\n    \"Có lộ trình thăng tiến và thưởng gắn bó, thâm niên\",\n    \"Môi trường làm việc thân thiện, trẻ trung và hòa đồng.\",\n    \"Có cơ hội học hỏi, nâng cao kỹ năng giao tiếp, chuyên môn và phục vụ khách hàng chuyên nghiệp\",\n    \"Có cơ hội lên vị trí pha chế hoặc quản lý ca\"\n  ],\n  \"description\": \"Tiếp nhận order tại quầy.\\nPhục vụ đồ uống, hỗ trợ khách hàng trong thời gian tại quán.\\nDọn dẹp, giữ gìn khu vực làm việc sạch sẽ trong ca.\\nTự chọn ca 7-12 h ,12-17 h ,17-23 h\\nGhi ca linh hoạt (có thể đổi ca)\\n\\nLàm việc tại: Phê Ơi Coffee-Tea 689 Lạc Long Quân, Tây Hồ, HN\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\nNam/Nữ từ 18 tuổi trở lên.\\nNăng động, vui vẻ, giao tiếp tốt.\\nCó tinh thần trách nhiệm và thái độ làm việc nghiêm túc.\\nCó thể làm việc tối thiểu 06 tháng.\\nKhông yêu cầu kinh nghiệm, sẽ được hướng dẫn và đào tạo từ đầu.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4702,
+    "output_tokens": 732,
+    "total_tokens": 5434,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

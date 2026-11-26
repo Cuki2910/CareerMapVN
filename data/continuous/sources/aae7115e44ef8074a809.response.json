@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Vận hành máy CNC\",\n  \"industry\": \"Gia công cơ khí; xử lý và tráng phủ kim loại\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/1886919.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Tốt nghiệp các ngành về kỹ thuật hoặc liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Cnc\",\n    \"Vận Hành Máy\",\n    \"Cơ Khí\",\n    \"Nhân Viên Vận Hành\",\n    \"Vận Hành Máy Phay\",\n    \"Vận Hành Máy Móc\"\n  ],\n  \"soft_skills\": [\n    \"Ham học hỏi\",\n    \"chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Tới 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Được đào tạo về kĩ năng chuyên môn\",\n    \"Chế độ thưởng lễ, tết, hiệu quả công việc theo Quy định của công ty\",\n    \"Môi trường làm việc trẻ trung, năng động, thân thiện, đoàn kết, Sếp tận tình, không hạn chế cơ hội thăng tiến\"\n  ],\n  \"description\": \"- Vận hành máy, ưu tiên nếu có kinh nghiệm vận hành máy.\\n- Setup máy và kiểm tra chất lượng sản phẩm.\\n- Nhận bản vẽ từ bộ phận thiết kế, tiến hành lập trình và gia công sản phẩm.\\n- Các công việc liên quan sẽ thỏa thuận khi phỏng vấn\",\n  \"requirements_text\": \"- Tốt nghiệp các ngành về kỹ thuật hoặc liên quan.\\n- Độ tuổi dưới 35\\n- Có kinh nghiệm từ 2 năm trở lên về vận hành máy và sẽ ưu tiên nếu có thêm kinh nghiệm vận hành máy Phay CNC.\\nHam học hỏi, chịu được áp lực công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4798,
+    "output_tokens": 641,
+    "total_tokens": 5439,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

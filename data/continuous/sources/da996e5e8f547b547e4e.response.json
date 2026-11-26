@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Thực Tập Sinh Hỗ Trợ Quảng Cáo Tiếng Nhật\",\"company_name\":\"CÔNG TY TNHH DYM VIỆT NAM\",\"job_category\":\"Biên phiên dịch tiếng Nhật\",\"sub_category\":\"Thực tập sinh hỗ trợ quảng cáo tiếng Nhật\",\"industry\":\"Hoạt động tư vấn quản lý kinh doanh và hoạt động tư vấn quản lý khác\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-30\",\"url\":\"https://www.topcv.vn/viec-lam/thuc-tap-sinh-ho-tro-quang-cao-tieng-nhat/2344942.html\",\"qualifications\":[\"Cao Đẳng trở lên\",\"Sinh viên đang theo học tại các trường Đại học hoặc Cao đẳng\",\"Tiếng Nhật JLPT N4/N3/N2\",\"Chuyên môn: Biên phiên dịch tiếng Nhật\"],\"technical_skills\":[\"Kỹ năng tin học văn phòng (Word, Excel, PowerPoint)\",\"Kỹ năng phân tích dữ liệu\"],\"soft_skills\":[\"Kỹ năng giao tiếp\",\"Chăm chỉ\",\"Cẩn thận\",\"Tinh thần ham học hỏi và mong muốn tiếp tục phát triển bản thân\",\"Sự linh hoạt\",\"Khả năng làm việc độc lập\",\"Kỹ năng giải quyết vấn đề\"],\"languages_required\":[\"Tiếng Nhật (JLPT N4/N3/N2)\"],\"experience_required\":0,\"salary\":\"Từ 3 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Thực tập sinh / Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\"benefits\":[\"Cơ hội học hỏi và phát triển kỹ năng trong môi trường làm việc thực tế.\",\"Môi trường làm việc trẻ trung, sáng tạo và năng động.\",\"Môi trường học tập và rèn luyện tiếng Nhật.\",\"Cơ hội trở thành nhân viên chính thức\"],\"description\":\"Mô tả công việc:\\n- Hỗ trợ quảng bá thông tin dịch vụ của công ty đến các doanh nghiệp theo danh sách và form mẫu có sẵn.\\n- Hỗ trợ kinh doanh và vận hành quảng cáo tuyển dụng cho công ty mẹ tại Nhật.\\n- Tạo tài liệu, lập báo cáo.\\n- Nhập liệu tài liệu tiếng Nhật.\\n- Thực hiện các nghiệp vụ xử lý, chỉnh sửa dữ liệu theo yêu cầu từ khách hàng.\",\"requirements_text\":\"Yêu cầu:\\n- Không yêu cầu kinh nghiệm chuyên môn\\n- Cao Đẳng trở lên\\n- Tiếng Nhật JLPT N4/N3/N2\\n\\nYêu cầu ứng viên:\\n- Trình độ N4/N3/N2\\n- Sinh viên đang theo học tại các trường Đại học hoặc Cao đẳng.\\n- Có tinh thần ham học hỏi và mong muốn tiếp tục phát triển bản thân.\\n- Sự linh hoạt và khả năng làm việc độc lập.\\n\\nKỹ năng cần có: Kỹ năng giao tiếp, Chăm Chỉ, Cẩn Thận, Kỹ Năng Tin Học Văn Phòng (word, Excel, Powerpoint), Tiếng Nhật (n4 Trở Lên)\\nKỹ năng nên có: Kỹ năng giải quyết vấn đề, Kỹ Năng Phân Tích Dữ Liệu\"}",
+  "usage": {
+    "input_tokens": 4883,
+    "output_tokens": 4171,
+    "total_tokens": 9054,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3204
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Vận Hành Kho\",\n  \"company_name\": \"CÔNG TY CP DỊCH VỤ THƯƠNG MẠI ĐIỆN TỬ N & H\",\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-kho/2359386.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"TMĐT\",\n    \"Kho vận\"\n  ],\n  \"soft_skills\": [\n    \"Sức khỏe tốt\",\n    \"Sẵn sàng làm xoay ca, tăng ca\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày; Ca 1: 6h-15h; Ca 2: 10h-19h; Xoay ca theo tuần\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Phụ cấp ăn trưa\",\n    \"Lương cứng + phụ cấp cơm\",\n    \"Tăng ca tính riêng\",\n    \"Ký HĐLĐ, tham gia BHXH – BHYT đầy đủ\",\n    \"Nghỉ 1 ngày/tuần + 1 ngày phép/tháng\"\n  ],\n  \"description\": \"##  Mô tả công việc\\n  * Kiểm tra ngoại quan, kiểm đếm số lượng\\n  * Cất hàng lên kệ theo quy định\\n  * Nhận danh sách → lấy hàng đúng kệ\\n  * Đóng gói hàng hóa đúng – đủ\\n\\n##  Yêu cầu ứng viên \\n  * Nam/Nữ, sức khỏe tốt\\n  * Không cần kinh nghiệm - sẽ được đào tạo\\n  * Sẵn sàng làm xoay ca, tăng ca khi công việc yêu cầu\\n  * Điểm cộng: có kinh nghiệm kho vận/TMĐT\\n\\n###  Kiến thức ngành \\nKho vận \\n###  Kỹ năng nên có \\nTMĐT, kho vận \\n##  Quyền lợi ứng viên \\n  * Lương cứng + phụ cấp cơm ( 8 đến 9 triệu )\\n  * Tăng ca tính riêng\\n  * Ký HĐLĐ, tham gia BHXH – BHYT đầy đủ\\n  * Thưởng lương tháng 13,\\n  * Nghỉ 1 ngày/tuần + 1 ngày phép/tháng\\n\\nQuyền lợi bổ sung\\n###  Phúc lợi \\nBảo hiểm xã hội, Thưởng tháng 13 \\n###  Phụ cấp \\nĂn trưa \\n##  Địa điểm và thời gian \\n###  Địa điểm làm việc \\n  * **Hồ Chí Minh:** RJ78+J5, Đường CN13 ( Khu công nghiệp tân bình), Phường Tân Phú (Phường Tân Phú thuộc quận Tân Phú cũ)\\n  * **Hồ Chí Minh:** 273/03A Đường An Phú Đông 13 Quận 12, Phường An Phú Đông (Phường An Phú Đông thuộc Quận 12 cũ)\\n\\n###  Thời gian làm việc \\n  * Ca ngày\\n  * Ca 1: 6h-15h  \\nCa 2: 10h-19h  \\nXoay ca theo tuần\",\n  \"requirements_text\": \"##  Yêu cầu ứng viên \\n  * Nam/Nữ, sức khỏe tốt\\n  * Không cần kinh nghiệm - sẽ được đào tạo\\n  * Sẵn sàng làm xoay ca, tăng ca khi công việc yêu cầu\\n  * Điểm cộng: có kinh nghiệm kho vận/TMĐT\"\n}",
+  "usage": {
+    "input_tokens": 4354,
+    "output_tokens": 2042,
+    "total_tokens": 6396,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1073
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

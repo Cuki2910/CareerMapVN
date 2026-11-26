@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Giao Hàng\",\n  \"company_name\": \"CÔNG TY TNHH TRUST HORECA\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Thủ Đức, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-giao-hang-lao-dong-pho-thong-thu-duc/2362620.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Sức Khỏe Tốt\",\n    \"Thông thạo đường sá\",\n    \"Kiểm tra và ghi nhớ số lượng hàng hóa\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 02:00 đến 12:00)\\n02:00 – 12:00 hằng ngày\",\n  \"benefits\": [\n    \"Thu nhập: Thỏa thuận theo năng lực và hiệu quả công việc.\",\n    \"Được hướng dẫn quy trình soạn hàng, kiểm hàng và giao hàng.\",\n    \"Môi trường làm việc ổn định, thân thiện.\",\n    \"Có cơ hội gắn bó lâu dài và phát triển cùng Trust Horeca.\",\n    \"Các chế độ khác theo chính sách công ty.\"\n  ],\n  \"description\": \"- Tiếp nhận danh sách đơn hàng từ bộ phận kinh doanh.\\n- Kiểm tra, lựa chọn và soạn hàng theo đúng số lượng, chủng loại và chất lượng yêu cầu.\\n- Kiểm tra chất lượng rau củ quả, trái cây và các mặt hàng thực phẩm trước khi đóng gói.\\n- Đóng gói, phân loại hàng hóa theo từng đơn hàng và khách hàng.\\n- Giao hàng đến nhà hàng, khách sạn, quán cà phê và các khách hàng của Trust Horeca.\\n- Kiểm tra hàng hóa và xác nhận đơn hàng khi bàn giao cho khách.\\n- Hỗ trợ sắp xếp kho hàng, vệ sinh khu vực làm việc và kiểm kê hàng hóa.\\n- Thực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"- Nam, sức khỏe tốt, nhanh nhẹn, trung thực và có trách nhiệm.\\n- Có xe máy và điện thoại thông minh.\\n- Thông thạo đường sá TP.HCM.\\n- Cẩn thận, có khả năng kiểm tra và ghi nhớ số lượng hàng hóa.\\n- Có tinh thần phối hợp và hỗ trợ đồng đội.\\n- Ưu tiên ứng viên từng làm kho, soạn hàng, giao hàng hoặc ngành thực phẩm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4995,
+    "output_tokens": 750,
+    "total_tokens": 5745,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

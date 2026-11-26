@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Trưởng Nhóm Tuyển Dụng - HR Leader (Tân Phú HCM)\",\"company_name\":null,\"job_category\":\"Hành chính nhân sự\",\"sub_category\":\"Tuyển dụng\",\"industry\":\"Nhân sự\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-11\",\"url\":\"https://www.topcv.vn/viec-lam/truong-nhom-tuyen-dung-hr-leader-tan-phu-hcm/2355986.html\",\"qualifications\":[\"Tốt nghiệp Đại Học/ Cao Đẳng\"],\"technical_skills\":null,\"soft_skills\":[\"Chịu được áp lực công việc\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"Từ 15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Làm việc từ thứ 2 đến trưa thứ 7, CN nghỉ\",\"benefits\":[\"Chế độ lương và thưởng theo KPI. Lương 15 triệu\",\"Cam kết đầy đủ các chế độ dành cho người lao động theo như quy định pháp luật hiện hành (BHXH, BHYT, BHTN...).\",\"Có lương tháng thứ 13 theo quy định công ty.\",\"Làm việc từ thứ 2 đến trưa thứ 7, CN nghỉ.\",\"Môi trường làm việc năng động, thân thiện.\",\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Thưởng tháng 13\"],\"description\":\"1. Xây dựng và thực hiện kế hoạch tuyển dụng\\n- Tổng hợp nhu cầu tuyển dụng của các Phòng Ban, lập kế hoạch tuyển dụng trình trưởng bộ phận.\\n- Đăng tuyển, tiếp nhận, sàng lọc hồ sơ và phối hợp với Trưởng bộ phận tổ chức phỏng vấn, lựa chọn ứng viên phù hợp theo đúng kế hoạch.\\n- Gửi thông báo, soạn thảo hợp đồng lao động cho các ứng viên đã trúng tuyển.\\n- Lập báo cáo đánh giá kết quả tuyển dụng, thử việc trình Trưởng phòng.\\n- Hướng dẫn, giới thiệu cho nhân viên mới về các chính sách, quy định nhân sự của Công ty.\\n- Kết hợp với trưởng bộ phận phòng ban, xây dựng và thực hiện kế hoạch đào tạo nhân sự mới hoặc bàn giao nhân sự mới về khu vực.\\n2. Vận hành hệ thống lương, thưởng và các chế độ đãi ngộ khác\\n- Tổng hợp ngày công, tính lương, thưởng và các chế độ đãi ngộ khác cho người lao động chuyển Phòng kế toán kiểm tra.\\n- Theo dõi và cập nhật vào hệ thống các thay đổi nâng hạ lương của người lao động.\\n- Định kỳ tổng hợp thông tin, phân tích và đề xuất các điều chỉnh về mức lương, thưởng và đãi ngộ phù hợp với thị trường lao động, điều kiện thực tế của Công ty trình Trưởng phòng xem xét.\\n3. Quản lý BHXH, BHYT cho người lao động\\n- Theo dõi và giải quyết chế độ BHXH, BHYT cho người lao động\\n- Theo dõi, cập nhật số liệu tăng giảm BHXH, BHYT và đối chiếu với cơ quan BHXH hàng tháng.\\n- Hoàn thiện các hồ sơ, thủ tục và liên hệ với Cơ quan BHXH cho Người lao động tham gia và/ hoặc hưởng các chế độ BHXH, BHYT theo đúng quy định.\\n4. Theo dõi, cập nhật và quản lý hồ sơ, danh sách lao động Công ty:\\n- Tiến hành ký hợp đồng lao động với nhân sự đủ điều kiện.\\n- Theo dõi biến động nhân sự. Định kỳ thống kê, lập báo cáo phân tích tình hình sử dụng nhân sự trình Trưởng phòng xem xét để báo cáo Giám Đốc.\\n- Trực tiếp dự thảo các văn bản thay đổi công việc, mức lương, khen thưởng, xử phạt, chấm dứt hợp đồng lao động.\\n- Cập nhật, sắp xếp, lưu trữ hồ sơ người lao động đúng quy định.\\n- Thực hiện các công việc khác liên quan hoặc theo yêu cầu từ cấp trên.\",\"requirements_text\":\"Tốt nghiệp Đại Học/ Cao Đẳng\\nCó kinh nghiệm ít nhất 1 năm ở vị trí tương đương.\\nTuổi từ 24-33\\nChịu được áp lực công việc.\\nCó laptop cá nhân.\\nKiến thức ngành: Nhân sự\\nKỹ năng cần có: chịu được áp lực công việc\"}",
+  "usage": {
+    "input_tokens": 5334,
+    "output_tokens": 4593,
+    "total_tokens": 9927,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3204
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

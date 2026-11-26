@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Nhập Và Xử Lý Dữ Liệu Tiếng Nhật N3 N2 Không Yêu Cầu Kinh Nghiệm\",\"company_name\":\"CÔNG TY CỔ PHẦN ALTIUS LINK VIỆT NAM\",\"job_category\":\"Xử lý dữ liệu\",\"sub_category\":\"Nhập và xử lý dữ liệu tiếng Nhật\",\"industry\":\"Hoạt động dịch vụ liên quan đến các cuộc gọi\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-16\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-nhap-va-xu-ly-du-lieu-tieng-nhat-n3-n2-khong-yeu-cau-kinh-nghiem/2096949.html\",\"qualifications\":[\"Trung cấp trở lên\",\"Tiếng Nhật JLPT N3\",\"Tiếng Nhật JLPT N2\",\"Có bằng JLPT là lợi thế\"],\"technical_skills\":[\"Tin học văn phòng cơ bản\",\"Thao tác máy tính nhanh nhẹn\",\"Thao tác đánh máy nhanh và chính xác\",\"Excel\"],\"soft_skills\":null,\"languages_required\":[\"Tiếng Nhật (JLPT N3 trở lên)\"],\"experience_required\":0,\"salary\":\"8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực (Bao gồm: LCB + Phụ cấp + Thưởng hiệu suất)\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thời gian làm việc (tùy theo Dự án tham gia): a) 06:00 – 15:00 b) 07:00 – 16:00 c) 08:00 – 17:00 d) 09:00 – 18:00\",\"benefits\":[\"Lương tổng 8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực (Bao gồm: LCB + Phụ cấp + Thưởng hiệu suất)\",\"Hưởng lương tháng 13 theo quy định Công ty\",\"Review lương hàng năm theo năng lực\",\"Làm việc ngày Lễ, Tết Việt Nam hưởng lương theo Luật Lao động Việt Nam\",\"Được tham gia BHXH, BHYT, BHTN theo Luật\",\"Hưởng chế độ 14 ngày phép/năm theo quy định Công ty\",\"Tham gia Công đoàn hưởng các chế độ ngày Lễ, Tết, sinh nhật, kết hôn, thăm hỏi,...\",\"Môi trường làm việc thân thiện, chuyên nghiệp\",\"Được trang bị máy tính hiện đại phục vụ công việc\",\"Cơ hội được đào tạo nâng cao, thăng tiến trong công việc\",\"Bảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\",\"Được cấp Máy tính\"],\"description\":\"Nhập thông tin từ dữ liệu được cung cấp lên trên excel hoặc hệ thống của khách hàng chỉ định;\\nXử lý và gia công dữ liệu theo quy trình được đào tạo;\\nBáo cáo tiến độ công việc/sự cố phát sinh cho Quản lý;\",\"requirements_text\":\"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn\\nTuổi 20 - 40\\nTrung cấp trở lên\\nTiếng Nhật JLPT N3\\nTiếng Nhật JLPT N2\\n\\nYêu cầu ứng viên:\\nTrình độ tiếng Nhật từ N3 trở lên (có bằng JLPT là lợi thế);\\nThao tác đánh máy nhanh và chính xác;\\nLàm việc được ngày Lễ và Tết âm lịch Việt Nam (Nghỉ theo Lễ Nhật);\"}",
+  "usage": {
+    "input_tokens": 5325,
+    "output_tokens": 3251,
+    "total_tokens": 8576,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2213
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

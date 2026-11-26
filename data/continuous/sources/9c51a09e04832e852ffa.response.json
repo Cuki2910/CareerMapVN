@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Vật Tư Y Tế Tiêu Hao (Nam)\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh thiết bị/vật tư y tế\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-vat-tu-y-te-tieu-hao-nam/2363076.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Word\",\n    \"Excel\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Tinh thần học hỏi\",\n    \"Trung thực\",\n    \"Siêng năng\",\n    \"Chịu khó\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 07:30 đến 17:00), Nghỉ trưa 1h30p\",\n  \"benefits\": [\n    \"Lương tốt, minh bạch và rõ ràng, thưởng kèm khi đạt KPI\",\n    \"Lương tháng 13\",\n    \"Thưởng tặng các ngày lễ trong năm\",\n    \"Đóng BHXH, Bảo hiểm Nhân Thọ, Quà Sinh Nhật\",\n    \"Du lịch cùng công ty và xét duyệt lên lương hằng năm\",\n    \"Thời gian làm việc có thể linh động\"\n  ],\n  \"description\": \"• Chăm sóc các khách hàng được phân công (bệnh viện, phòng khám, đơn vị y tế)\\n• Duy trì mối quan hệ khách hàng cũ ( được giao) và hỗ trợ phát triển khách hàng mới\\n• Hỗ trợ bộ phận Thầu ở các Bệnh Viện, TTYT công lập (nếu được phân công)\\n• Theo dõi đơn hàng, công nợ và tiến độ giao hàng\\n• Đi thị trường khi cần (TP.HCM và khu vực lân cận)\",\n  \"requirements_text\": \"• Nam, Trung thực, siêng năng, chịu khó.\\n• Giao tiếp tốt, có tinh thần học hỏi\\n• Ưu tiên ứng viên từng làm Sales, có kinh nghiệm bên mảng Y tế , vật tư ( là lợi thế)\\n• sẽ được đào tạo và hỗ trợ khi gặp khách thực tế để nắm công việc\\n• Biết Word, Excel cơ bản\\n• Có xe máy, sẵn sàng đi thị trường\"\n}\n```",
+  "usage": {
+    "input_tokens": 5085,
+    "output_tokens": 701,
+    "total_tokens": 5786,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"AI ROBOTIC - [Nhân Viên Kinh Doanh Phần Mềm] HR, Bảng Lương (B2B), Khảo Thí Số - Thu Nhập Upto 60tr\",\n  \"company_name\": \"Công ty Cổ phần AI Robotic\",\n  \"job_category\": \"Kinh doanh / Bán hàng\",\n  \"sub_category\": \"Kinh doanh phần mềm\",\n  \"industry\": \"IT - Phần mềm\",\n  \"category\": null,\n  \"location\": \"Láng Hạ, Phường Ô Chợ Dừa, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ai-robotic-nhan-vien-kinh-doanh-phan-mem-hr-bang-luong-b2b-khao-thi-so-thu-nhap-upto-60tr/2353992.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp CĐ/ĐH các chuyên ngành Kinh tế, CNTT, HR...\"\n  ],\n  \"technical_skills\": [\n    \"ERP\",\n    \"CRM\",\n    \"SaaS\",\n    \"HRM\",\n    \"Sale B2B\"\n  ],\n  \"soft_skills\": [\n    \"Thuyết trình\",\n    \"Giao tiếp\",\n    \"Chủ động\",\n    \"Chịu được áp lực doanh số\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thu nhập: 8 - 60 triệu VND; Lương cứng: 8 - 15 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 17:30); 8h30 - 17h30 từ thứ 2 đến thứ 6 hàng tuần, 8h30-17h00 hai thứ 7/tháng (nghỉ full 2 thứ 7/tháng)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Bảo hiểm xã hội\",\n    \"Team building\",\n    \"Lương cứng: 8.000.000 – 15.000.000 VNĐ/tháng (Thỏa thuận theo năng lực) + % Hoa hồng cao + Thưởng KPI.\",\n    \"Lộ trình thăng tiến: Rõ ràng lên Team Leader / Sales Manager.\",\n    \"Đào tạo bài bản về tư vấn B2B và quy trình HR/C&B thực tế.\",\n    \"Đầy đủ BHXH, BHYT, thưởng Lễ/Tết, du lịch, teambuilding hàng năm.\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\"\n  ],\n  \"description\": \"Tuyển dụng vị trí Nhân viên kinh doanh cho Công ty Cổ phần AI Robotic\\n- Tìm kiếm, tiếp cận các khách hàng doanh nghiệp tiềm năng (B2B) qua Data công ty cung cấp và các kênh tự khai thác (Cold call, Networking, Sự kiện/Hội thảo ngành HR, LinkedIn,...).\\n- Chủ động tìm hiểu quy mô, nhu cầu và khảo sát các \\\"điểm đau\\\" (pain points) thực tế của khách hàng về quản trị nhân sự, theo dõi công ca và chấm công - tính lương.\\n- Lên lịch hẹn và gặp gỡ (Online/Offline) với Ban Giám đốc, Trưởng phòng Nhân sự (HRD), Trưởng phòng Kế toán của doanh nghiệp khách hàng.\\n- Trực tiếp Demo tính năng phần mềm (chấm công kết nối máy chấm công/app, tính lương tự động, quản lý hồ sơ nhân sự, thưởng/phạt, bảo hiểm...).\\n- Xây dựng báo giá, đề xuất giải pháp (Proposal) và thương lượng các điều khoản hợp đồng; theo dõi quy trình ký kết và thu hồi công nợ.\\n- Phối hợp với Bộ phận Triển khai và Hỗ trợ Kỹ thuật để bàn giao thông tin; duy trì mối quan hệ tốt với khách hàng sau bán để khai thác bán chéo (Cross-sell) hoặc bán thêm (Up-sell).\",\n  \"requirements_text\": \"Yêu cầu:\\n- Dưới 1 năm kinh nghiệm chuyên môn\\n- Cao Đẳng trở lên\\nYêu cầu ứng viên:\\n- Tốt nghiệp CĐ/ĐH các chuyên ngành Kinh tế, CNTT, HR...\\n- Ưu tiên 6 tháng – 2 năm kinh nghiệm Sale B2B / SaaS (ERP, CRM, HRM...).\\n- Giao tiếp, thuyết trình tốt; chủ động và chịu được áp lực doanh số.\\nKiến thức ngành: IT - Phần mềm, Nhân sự\\nKỹ năng cần có: Thuyết trình, Giao tiếp, chịu áp lực doanh số\\nKỹ năng nên có: ERP, CRM, SaaS, Hrm, Sale B2B\"\n}",
+  "usage": {
+    "input_tokens": 5471,
+    "output_tokens": 6059,
+    "total_tokens": 11530,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4666
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

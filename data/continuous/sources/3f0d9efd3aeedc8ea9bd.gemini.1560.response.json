@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Sản Xuất / Lao Động PT - Thu Nhập 8-13 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Công nhân sản xuất\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"110/5/8/4 Tây Lân, Phường Bình Tân, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-san-xuat-lao-dong-pt-thu-nhap-8-13-trieu-binh-tan/2343652.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"Có Tinh Thần Trách Nhiệm\",\n    \"Sẵn sàng học việc\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"8 - 13 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Ăn trưa\",\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định\",\n    \"Thưởng chuyên cần\",\n    \"Du lịch hằng năm theo chính sách công ty\",\n    \"Thưởng Lễ, Tết và lương tháng 13 theo chính sách công ty\"\n  ],\n  \"description\": \"Công việc đơn giản tại xưởng sản xuất rèm: cắt vải, cắt nhôm, lắp ráp hoặc đóng gói sản phẩm.\\nMỗi nhân viên sẽ được phân công công việc/công đoạn cụ thể phù hợp;\\nĐược hướng dẫn và đào tạo trực tiếp khi bắt đầu công việc.\\nThực hiện công việc theo hướng dẫn, đảm bảo sản phẩm đúng yêu cầu.\\nGiữ khu vực làm việc gọn gàng và phối hợp với các thành viên trong xưởng.\\nKhông yêu cầu kinh nghiệm.\",\n  \"requirements_text\": \"Nam/Nữ, có sức khỏe tốt.\\nKhông yêu cầu bằng cấp hoặc kinh nghiệm.\\nChăm chỉ, chịu khó, có tinh thần trách nhiệm.\\nSẵn sàng học việc và làm theo hướng dẫn.\\nMong muốn công việc ổn định và gắn bó lâu dài với công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4964,
+    "output_tokens": 683,
+    "total_tokens": 5647,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

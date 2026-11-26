@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Trực Page - Tư Vấn Online\",\n  \"company_name\": null,\n  \"job_category\": \"Marketing / Quảng cáo\",\n  \"sub_category\": \"Trực page\",\n  \"industry\": \"Thương mại điện tử\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-truc-page-tu-van-online/2360110.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Trực Fanpage\",\n    \"Sử dụng Facebook\",\n    \"Zalo\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"xử lý từ chối\",\n    \"Tư vấn và chốt đơn online\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 làm việc nửa ngày hoặc OT khi cần\",\n  \"benefits\": [\n    \"Thưởng hiệu quả làm việc\",\n    \"Lương cứng 8 triệu + thưởng KPI\",\n    \"Được đào tạo thêm về sản phẩm và quy trình bán hàng.\",\n    \"Có sẵn nguồn khách hàng từ các kênh online của Công ty.\",\n    \"Môi trường làm việc ổn định, cơ hội phát triển lâu dài.\",\n    \"Các chế độ khác theo quy định và chính sách Công ty\"\n  ],\n  \"description\": \"- Theo dõi tin nhắn, comment, tương tác của khách hàng qua các kênh online (Facebook, Zalo, Website, sàn thương mại điện tử...)\\n- Tiếp nhận nhu cầu, tư vấn sản phẩm pha chế phù hợp\\n- Hỗ trợ giải đáp các thắc mắc của khách hàng về đơn hàng, sản phẩm.\\n- Theo dõi đơn hàng, phối hợp với các bộ phận liên quan để đảm bảo giao hàng đúng tiến độ.\\n- Thực hiện các công việc khác theo phân công của Quản lý.\",\n  \"requirements_text\": \"- Có kinh nghiệm trực Fanpage, tư vấn và chốt đơn online\\n- Giao tiếp tốt, phản hồi khách hàng nhanh, biết khai thác nhu cầu và xử lý từ chối.\\n- Biết sử dụng Facebook, Zalo và các công cụ bán hàng online.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4694,
+    "output_tokens": 669,
+    "total_tokens": 5363,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

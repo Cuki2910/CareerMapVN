@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên May Mẫu (Thu Nhập 12-16 Triệu) Tại Hải Phòng\",\n  \"company_name\": \"CÔNG TY TNHH QUỐC TẾ SIN JOO BO (VIỆT NAM)\",\n  \"job_category\": \"May mặc / Thời trang\",\n  \"sub_category\": \"May mẫu\",\n  \"industry\": \"Sản xuất trang phục (trừ trang phục từ da lông thú)\",\n  \"category\": null,\n  \"location\": \"Khu Tiểu Trà, Phường Hưng Đạo (Phường Hưng Đạo thuộc quận Dương Kinh cũ), Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-may-mau-thu-nhap-12-16-trieu-tai-hai-phong/2339794.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\",\n    \"Tốt nghiệp ngành may trở lên\"\n  ],\n  \"technical_skills\": [\n    \"sử dụng thành thạo các loại máy may công nghiệp\",\n    \".NET\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"12 - 16 triệu\\nLương cơ bản từ 7tr - 10 tr. Thu nhập từ 10 - 16 triệu.\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\\nSáng làm từ 7h 30' đến 16h 30' chiều. Có thể tăng ca theo tính chất công việc\",\n  \"benefits\": [\n    \"Thực hiện đầy đủ chế độ BHXH, BHYT, BHTN theo quy định của luật\",\n    \"Xem xét , đánh giá tăng lương hàng năm\",\n    \"Lương cơ bản từ 7tr - 10 tr. Thu nhập từ 10 - 16 triệu.\",\n    \"Môi trường làm việc chuyên nghiệp, thân thiện\"\n  ],\n  \"description\": \"Mô tả công việc\\n* Tiếp nhận bản vẽ, tài liệu kỹ thuật từ bộ phận thiết kế hoặc khách hàng\\n* Lựa chọn kiểm tra vải, phụ liệu phù hợp\\n* Tiến hành cắt , may hoàn thiện sản phẩm, đảm bảo đúng kiểu dáng , thông số\\n* Tham gia hướng dẫn kỹ thuật cho công nhân may trên chuyền\",\n  \"requirements_text\": \"Yêu cầu: \\n2 năm kinh nghiệm chuyên môn  Tuổi 22 - 45  Trung học phổ thông (Cấp 3) trở lên\\nChuyên môn: \\nChuyên môn May mặc/Dệt may/Da khác\\nMay mặc / Thời trang\\n\\nYêu cầu ứng viên\\n* Tốt nghiệp ngành may trở lên\\n* có ít nhất 2 năm kinh nghiệm\\n* sử dụng thành thạo các loại máy may công nghiệp\\n\\nKiến thức ngành\\nMay mặc / Thời trang\\nKỹ năng cần có\\n.NET\\nKỹ năng nên có\\n.NET\"\n}",
+  "usage": {
+    "input_tokens": 4647,
+    "output_tokens": 739,
+    "total_tokens": 5386,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

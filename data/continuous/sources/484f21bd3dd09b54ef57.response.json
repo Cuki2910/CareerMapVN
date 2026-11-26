@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Phiên Dịch Hành Chính Tiếng Trung\",\"company_name\":\"CÔNG TY TNHH VIN GEM\",\"job_category\":\"Hành Chính\",\"sub_category\":\"Hành chính tổng hợp\",\"industry\":\"Sản xuất đồ giả kim hoàn và chi tiết liên quan\",\"category\":null,\"location\":\"KCN Đồng Văn 1, Đồng Văn, Ninh Bình (Hà Nam cũ), Phường Đồng Văn\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-phien-dich-hanh-chinh-tieng-trung/2094785.html\",\"qualifications\":[\"Tốt nghiệp Cao đẳng, Đại học trở lên\",\"Tiếng Trung HSK 4\"],\"technical_skills\":[\"Sử dụng thành thạo tin học văn phòng\"],\"soft_skills\":null,\"languages_required\":[\"Tiếng Trung\"],\"experience_required\":1,\"salary\":\"15 - 20 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\"benefits\":[\"Thu nhập: Lương + thưởng. Tăng lương hàng năm theo quy định Nhà nước\",\"Tham gia BHXH từ khi nhận việc (bao gồm 1 tháng thử việc)\",\"Nghỉ phép năm, lễ/Tết hưởng full lương\",\"Khám sức khỏe định kỳ 6 tháng/lần\",\"Làm việc trong môi trường năng động\"],\"description\":\"Mô tả công việc:\\n- Phiên dịch tài liệu, văn bản hành chính\\n- Phiên dịch cho Giám đốc và bộ phận văn phòng trong các cuộc họp.\\n- Chuẩn bị hồ sơ, xử lý giấy tờ và trực tiếp tham gia tiếp đón các đoàn đánh giá về mảng trách nhiệm xã hội.\\n- Tổng hợp số liệu và lập báo cáo định kỳ hàng tháng về tình hình sử dụng lao động, năng lượng tiêu thụ (điện, nước...) gửi cho khách hàng theo yêu cầu.\\n- Theo dõi, mua sắm vpp, trang thiết bị bảo hộ và bổ sung đầy đủ vật tư cho tủ thuốc y tế.\\n- Thực hiện các thủ tục thanh toán chi phí hành chính, sinh hoạt phí định kỳ của công ty.\\n- Tổ chức khám sức khỏe định kỳ cho công nhân viên (6 tháng/lần)\\n- Quản lý, kiểm tra cơ sở vật chất, tài sản chung và giám sát công tác vệ sinh, an toàn môi trường làm việc tại công ty.\\n- Quản lý cơ sở vật chất, vệ sinh\\n- Thực hiện các công việc hành chính phát sinh khác theo sự phân công của cấp trên.\",\"requirements_text\":\"Yêu cầu ứng viên:\\n- Tốt nghiệp CĐ, ĐH trở lên\\n- Tiếng trung thành thạo 4 kỹ năng\\n- Sử dụng thành thạo tin học văn phòng\\n- Ưu tiên có kinh nghiệm từ 1 năm\\n\\nKiến thức ngành:\\nNhân sự, Luật / Pháp chế\"}",
+  "usage": {
+    "input_tokens": 4972,
+    "output_tokens": 2898,
+    "total_tokens": 7870,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 1982
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

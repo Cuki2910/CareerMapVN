@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"BOM Maker - Bình Định Cũ\",\"company_name\":\"CÔNG TY TNHH WGR INDUSTRIES\",\"job_category\":\"Supply Chain / Logistics\",\"sub_category\":\"BOM Maker\",\"industry\":\"Sản xuất giường, tủ, bàn, ghế bằng gỗ\",\"category\":null,\"location\":\"Gia Lai\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-14\",\"url\":\"https://www.topcv.vn/viec-lam/bom-maker-binh-dinh-cu/2358208.html\",\"qualifications\":[\"Đại Học trở lên\",\"Bachelor’s degree in Business Administration, Supply Chain, Industrial Engineering, or related fields\"],\"technical_skills\":[\"Microsoft Excel\"],\"soft_skills\":[\"Careful\",\"Responsible\",\"Detail-oriented\",\"Able to work under pressure\"],\"languages_required\":[\"English\",\"Chinese\"],\"experience_required\":0,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\"benefits\":[\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Phụ cấp: Cước điện thoại\",\"Competitive salary\",\"Social insurance, health insurance, and unemployment insurance benefits as per regulations.\",\"Harmonious and friendly working environment.\",\"Phone allowance and other support benefits according to Company regulations.\",\"Opportunities for professional development and training.\",\"Chance to work with a team of experienced and dedicated professionals.\",\"Company culture that values teamwork, innovation, and customer service.\"],\"description\":\"Create Item for Material\\n- Create all accessories (Sewing & Packing) for the both Develop and Production stages.\\n- Put Name/Description /Business area.\\n- Re-check all information after creating.\\n\\nMaterial Consumption & BOM.\\n- Verify material consumption from development/production team & Create BOM.\\n\\nTechnical Preparation Support\\n- Support preparation and update of tech pack.\\n\\nProduction Preparation Coordination\\n- Coordinate with PMC for production planning.\\n\\nOther task assigned by the manager.\",\"requirements_text\":\"Requirements:\\nDưới 1 năm kinh nghiệm chuyên môn\\nĐại Học trở lên\\nTiếng Anh Giao tiếp thành thạo\\nTiếng Trung Giao tiếp thành thạo\\n\\nCandidate Requirements\\nEducation\\nBachelor’s degree in Business Administration, Supply Chain, Industrial Engineering, or related fields.\\nRequirement:\\n1 year of relevant experience or fresh graduates are welcome.\\nProficient in English (listening, speaking, reading, and writing).\\nProficient in Microsoft Excel.\\nCareful, responsible, detail-oriented, and able to work under pressure.\\n\\nKỹ năng cần có\\nEnglish, Microsoft Excel, Chinese\"}",
+  "usage": {
+    "input_tokens": 4616,
+    "output_tokens": 2450,
+    "total_tokens": 7066,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 1808
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

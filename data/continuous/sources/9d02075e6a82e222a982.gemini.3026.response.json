@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Dụng Cụ Cơ Khí / Sales Engineer / Bán Hàng Kỹ Thuật (Thu Nhập 15-20 Triệu)\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng kỹ thuật\",\n  \"sub_category\": \"Sales Engineer\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-01\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-dung-cu-co-khi-sales-engineer-ban-hang-ky-thuat-thu-nhap-15-20-trieu/2343175.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Tốt nghiệp cao đẳng / đại học các ngành kỹ thuật\"\n  ],\n  \"technical_skills\": [\n    \"Microsoft Office\",\n    \"Tin học văn phòng cơ bản\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc độc lập\",\n    \"Kỹ năng giao tiếp\",\n    \"Quản lý thời gian\",\n    \"Kỹ năng bán hàng\",\n    \"Giao tiếp tốt\",\n    \"Tính kỷ luật\",\n    \"Tinh thần cầu tiến\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 2.0,\n  \"salary\": \"15 - 20 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00), Được nghỉ 2 thứ Bảy trong tháng\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Du lịch hàng năm\",\n    \"Bảo hiểm xã hội\",\n    \"Thưởng quý, năm theo nếu đạt chỉ tiêu doanh số\",\n    \"Phụ cấp điện thoại, đi lại\",\n    \"BHYT theo quy định\",\n    \"Khám sức khỏe định kỳ hằng năm\",\n    \"Môi trường làm việc thân thiện\",\n    \"Cơ hội tăng thu nhập không giới hạn\",\n    \"Thưởng tháng 13\",\n    \"Team building\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Xăng xe\",\n    \"Cước điện thoại\"\n  ],\n  \"description\": \"- Tìm kiếm, phát triển khách hàng mới\\n- Hỗ trợ chăm sóc khách hàng công ty giao\\n- Tư vấn kỹ thuật, báo giá cho khách hàng\\n- Hỗ trợ test sản phẩm tại khách hàng\\n- Theo dõi đơn hàng, giao hàng.\",\n  \"requirements_text\": \"- Tốt nghiệp cao đẳng / đại học các ngành kỹ thuật\\n- Am hiểu thị trường dụng cụ cắt gọt và gia công cơ khí tại Đà Nẵng và các tỉnh lân cận\\n- Có tính kỷ luật, có thể làm việc độc lập\\n- Ưu tiên có kinh nghiệm làm việc trong các nhà máy gia công cơ khí\\n- Tiếng Anh cơ bản\\n- Tin học văn phòng cơ bản\\n- Có tinh thần cầu tiến\\n- Giao tiếp tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5195,
+    "output_tokens": 823,
+    "total_tokens": 6018,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Trợ Lý Phiên Dịch\",\"company_name\":\"CÔNG TY TNHH TINH LIÊN VN\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Trung\",\"industry\":\"Đại lý, môi giới, đấu giá hàng hóa\",\"category\":null,\"location\":\"Phường Gò Vấp, Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/tro-ly-phien-dich/1946694.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Kỹ Năng Nghe Hiểu Tốt\",\"Khả Năng Nghiên Cứu Và Tìm Hiểu Thông Tin\",\"Kỹ Năng Dịch Viết Tốt\",\"Kỹ Năng Dịch Nói Tốt (dịch Đuổi, Dịch Song Song)\"],\"soft_skills\":[\"Cẩn thận\",\"Trách nhiệm\",\"Khả năng diễn đạt tốt\"],\"languages_required\":[\"Tiếng Trung\",\"Tiếng Việt\"],\"experience_required\":1,\"salary\":\"10-15 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 09:00 đến 18:00), nghỉ trưa 12:00-13:30; nghỉ thứ 7 cách tuần.\",\"benefits\":[\"Mức lương: 10-15 triệu\",\"Thời gian làm việc: 9.00-18.00, nghỉ trưa 12.00-13.30\",\"Đóng đầy đủ BHXH, BHYT, BHTN\",\"Nghỉ phép, nghỉ ốm theo quy định\",\"Thưởng Tết, lễ, quà tặng đầy đủ\",\"Bảo hiểm sức khỏe\",\"Bảo hiểm xã hội\",\"Team building\",\"Thưởng tháng 13\",\"Thưởng hiệu quả làm việc\"],\"description\":\"1. Biên - phiên dịch\\n- Thực hiện phiên dịch trong giao tiếp hàng ngày giữa team Trung Quốc và team Việt Nam.\\n- Dịch Trung – Việt các nội dung:\\n  - Trang chi tiết sản phẩm\\n  - Kịch bản video ngắn\\n  - Kịch bản livestream\\n  - Nội dung hợp tác KOL/KOC\\n- Đảm bảo nội dung dịch tự nhiên, phù hợp văn phong và thói quen người dùng Việt Nam.\\n\\n2. Hỗ trợ đối tác & thương mại\\n- Làm việc với MCN, KOL/KOC, nhà cung cấp tại Việt Nam.\\n- Dịch các tài liệu hợp tác: hợp đồng, báo giá, proposal.\\n- Hỗ trợ thúc đẩy tiến độ triển khai các hoạt động hợp tác.\\n\\n3. Dịch thuật hồ sơ & pháp lý\\n- Dịch các tài liệu liên quan đến vận hành TikTok Shop tại Việt Nam:\\n  - Giấy phép kinh doanh\\n  - Báo cáo kiểm định chất lượng\\n  - Giấy ủy quyền thương hiệu\\n  - Hồ sơ thuế\\n- Đảm bảo nội dung phù hợp với quy định pháp luật Việt Nam.\\n\\n4. Hỗ trợ hành chính\\n- Hỗ trợ các công việc cơ bản như chấm công, tổng hợp dữ liệu đơn giản.\",\"requirements_text\":\"Yêu cầu:\\n- 1 năm kinh nghiệm chuyên môn\\n- Cao Đẳng trở lên\\n\\nYêu cầu ứng viên:\\n- Thành thạo tiếng Trung và tiếng Việt (nghe, nói, đọc, viết).\\n- Có kinh nghiệm biên phiên dịch là lợi thế.\\n- Cẩn thận, trách nhiệm, khả năng diễn đạt tốt.\\n- Ưu tiên ứng viên có hiểu biết về TMĐT hoặc TikTok.\\n\\nKỹ năng cần có:\\nKỹ Năng Nghe Hiểu Tốt, Khả Năng Nghiên Cứu Và Tìm Hiểu Thông Tin, Kỹ Năng Dịch Viết Tốt, Kỹ Năng Dịch Nói Tốt (dịch Đuổi, Dịch Song Song)\\n\\nKỹ năng nên có:\\nTiếng Trung, thư ký tiếng trung, trợ lý tiếng trung\"}",
+  "usage": {
+    "input_tokens": 18714,
+    "output_tokens": 5650,
+    "total_tokens": 24364,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4447
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

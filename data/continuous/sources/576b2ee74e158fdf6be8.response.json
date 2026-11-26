@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Thuật Lắp Đặt Máy Chấm Công, Khóa Từ\",\n  \"company_name\": null,\n  \"job_category\": \"Sửa chữa/Bảo trì điện tử/viễn thông\",\n  \"sub_category\": \"Kỹ thuật lắp đặt\",\n  \"industry\": \"IT - Phần cứng và máy tính\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-lap-dat-may-cham-cong-khoa-tu/2361928.html\",\n  \"qualifications\": [\n    \"Cao đẳng, Đại học chuyên ngành Điện - Điện tử, Tự động hóa, Công nghệ Thông tin, Cơ khí\"\n  ],\n  \"technical_skills\": [\n    \"Word\",\n    \"Excel\",\n    \"Internet\",\n    \"Email\",\n    \"PowerPoint\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"tự tin\",\n    \"năng động\",\n    \"có trách nhiệm trong công việc\",\n    \"có tinh thần làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"8 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\\nNghỉ Thứ 7 cuối tháng\",\n  \"benefits\": [\n    \"Mức lương cứng: (Ứng viên đọc kỹ trước khi ứng tuyển)\\n+ Có kinh nghiệm 1-2 năm: 9-12tr/tháng\\n+ Có kinh nghiệm 2 năm trở lên trong lĩnh vực máy chấm công, khóa từ, camera, …: 12-14tr/tháng\",\n    \"Được trợ cấp: Tiền ăn trưa, điện thoại, thưởng theo KPI, ...\",\n    \"Thử việc 01 tháng. Được đóng BHXH, BHYT ngay khi ký HĐLĐ chính thức.\",\n    \"Các chế độ phúc lợi khác theo Luật lao động.\"\n  ],\n  \"description\": \"- Lắp đặt, sửa chữa hệ thống Kiểm soát truy cập cửa, hệ thống chấm công, camera, cử từ, cổng xoay phân làn...\\n- Hỗ trợ khách hàng sử dụng phần mềm do công ty phát triển\\n- Hỗ trợ kỹ thuật cho khách hàng của công ty.\\n- Nghiên cứu phát triển sản phẩm mới.\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng, Đại học chuyên ngành Điện - Điện tử, Tự động hóa, Công nghệ Thông tin, Cơ khí, ...\\n- Giao tiếp tốt, tự tin, năng động, có trách nhiệm trong công việc, có tinh thần làm việc nhóm.\\n- Biết sử dụng các phần mềm tin học: Word, Excel, Internet, Email, PowerPoint,...\\n- Yêu cầu kinh nghiệm từ 1 năm trở lên.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4877,
+    "output_tokens": 789,
+    "total_tokens": 5666,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

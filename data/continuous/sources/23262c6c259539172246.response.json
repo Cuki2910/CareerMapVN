@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Quản Lý Tư Vấn Thẩm Mỹ\",\n  \"company_name\": null,\n  \"job_category\": \"Y tế / Dược phẩm\",\n  \"sub_category\": \"Tư vấn thẩm mỹ/Spa\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Lâm Đồng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-06\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-tu-van-tham-my/2351273.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử Dụng Phần Mềm Quản Lý Spa Clinic\"\n  ],\n  \"soft_skills\": [\n    \"Giao Tiếp Và Thuyết Phục\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"30 - 60 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:45 đến 17:30)\\nThứ 7 (từ 08:45 đến 12:00)\",\n  \"benefits\": [\n    \"Mức thu nhập tương xứng với kết quả kinh doanh\",\n    \"Được chi trả tiền nhà ở, vé máy bay (cho UV ở khu vực HCM)\",\n    \"Được tham gia các chương trình đào tạo, nâng cao năng lực quản lý và chuyên môn trong lĩnh vực Da liễu – Nội khoa thẩm mỹ.\",\n    \"Có cơ hội phát triển lên các vị trí quản lý cấp cao trong hệ thống.\"\n  ],\n  \"description\": \"Tổ chức, điều phối và giám sát hoạt động tư vấn bán hàng của đội ngũ Tư vấn viên và Kỹ thuật viên.\\nXây dựng phương án khai thác nhu cầu, tư vấn dịch vụ (Upsell), bán chéo dịch vụ (Cross-sell) phù hợp với từng nhóm khách hàng.\\nTheo dõi và đánh giá hiệu quả tư vấn, tỷ lệ chuyển đổi, giá trị đơn hàng và doanh thu phát sinh từ hoạt động Upsell/Cross-sell.\\nPhối hợp với các bộ phận liên quan triển khai chương trình bán hàng, chương trình thúc đẩy doanh thu tại Clinic.\\nKiểm soát chất lượng tư vấn, đảm bảo thông tin cung cấp cho khách hàng chính xác, minh bạch và phù hợp với chỉ định chuyên môn.\",\n  \"requirements_text\": \"Bắt buộc có tối thiểu 03 năm kinh nghiệm làm vị trí Teamleader bán hàng trở lên Clinic thuộc lĩnh vực Da liễu – Nội khoa thẩm mỹ.\\nCó kinh nghiệm quản lý hoặc dẫn dắt đội ngũ Tư vấn viên, Kỹ thuật viên.\\nAm hiểu các dịch vụ Da liễu – Nội khoa thẩm mỹ, quy trình tư vấn và hoạt động Upsell/Cross-sell.\\nCó khả năng phân tích số liệu kinh doanh và quản lý hiệu suất đội ngũ.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5123,
+    "output_tokens": 743,
+    "total_tokens": 5866,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

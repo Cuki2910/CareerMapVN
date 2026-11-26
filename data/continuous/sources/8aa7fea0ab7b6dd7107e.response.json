@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư Lập Dự Toán/ Kỹ Sư Kinh Tế Xây Dựng - Lương Cứng 15-20 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Dự toán công trình\",\n  \"industry\": \"Xây dựng\",\n  \"category\": null,\n  \"location\": \"71 đường Chiến Thắng, Văn Quán, Phường Hà Đông, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-09\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-lap-du-toan-ky-su-kinh-te-xay-dung-luong-cung-15-20-trieu-tai-ha-noi/2300401.html\",\n  \"qualifications\": [\n    \"Đại học khoa kinh tế xây dựng\",\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"G8\",\n    \"AutoCAD\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"phối hợp với các bộ phận khác\",\n    \"thật thà\",\n    \"chịu khó\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"15 đến 20tr\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Có được một môi trường làm việc năng động và có cơ hội phát triển khả năng của bản thân.\",\n    \"Thưởng khi hoàn thành dự án.\",\n    \"Thưởng lương tháng 13, Thưởng lễ Tết theo quy định của công ty.\",\n    \"Đóng BHYT, BHXH.\",\n    \"Team Building, du lịch,.... hàng năm.\"\n  ],\n  \"description\": \"- Đặc điểm công việc: Các công trình & dự án khai thác, xử lý và cung cấp nước sạch; xây dựng các công trình cấp thoát nước; và thoát nước, xử lý nước thải.\\n- Bóc khối lượng thiết kế.\\n- Báo giá, dự toán công trình.\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học khoa kinh tế xây dựng\\n- Dự toán yêu cầu có kinh nghiệm đọc, bóc bản vẽ và làm trên G8 (lương thỏa thuận)\\n- Tố chất: Thật thà và chịu khó\\n- Có kỹ năng sử dụng phần mềm thiết kế như AutoCAD, v.v.\\n- Có kiến thức về các tiêu chuẩn và quy định xây dựng hiện hành;\\n- Kỹ năng giao tiếp và phối hợp với các bộ phận khác.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4818,
+    "output_tokens": 715,
+    "total_tokens": 5533,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

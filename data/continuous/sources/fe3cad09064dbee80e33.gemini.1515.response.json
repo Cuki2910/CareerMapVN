@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giáo Viên Dạy Thực Hành Lái Xe, Lương Upto 12 Triệu\",\n  \"company_name\": null,\n  \"job_category\": \"Giáo dục / Đào tạo\",\n  \"sub_category\": \"Giáo viên dạy lái xe ô tô\",\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giao-vien-day-thuc-hanh-lai-xe-luong-upto-12-trieu/2319492.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\",\n    \"Bằng lái xe B2/C1 trở lên\",\n    \"Chứng chỉ sư phạm dạy nghề lái xe\"\n  ],\n  \"technical_skills\": [\n    \"Lái Xe Ô Tô\"\n  ],\n  \"soft_skills\": [\n    \"sư phạm\",\n    \"Nhiệt tình\",\n    \"siêng năng\",\n    \"có trách nhiệm với công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:00 đến 17:00)\\nNghỉ 1 ngày trong tuần\",\n  \"benefits\": [\n    \"Được cấp xe tập lái để phục vụ công tác giảng dạy.\",\n    \"Được tham gia các khóa đào tạo, tập huấn nâng cao trình độ chuyên môn.\",\n    \"Lương tháng 13, thưởng lễ tết theo quy định của công ty.\",\n    \"Môi trường làm việc năng động, thân thiện, có cơ hội phát triển bản thân\"\n  ],\n  \"description\": \"- Giảng dạy thực hành lái xe cho học viên theo chương trình đào tạo của trung tâm. \\n- Đảm bảo chất lượng giảng dạy, giúp học viên nắm vững kiến thức và kỹ năng lái xe an toàn. \\n- Theo dõi và đánh giá quá trình học tập của học viên, đưa ra các biện pháp hỗ trợ kịp thời.\\n- Quản lý và bảo dưỡng xe tập lái, đảm bảo xe luôn trong tình trạng hoạt động tốt\\n- Thực hiện các công việc khác theo sự phân công của quản lý trung tâm.\",\n  \"requirements_text\": \"- Có bằng trung cấp trở lên.\\n- Có bằng lái xe B2/C1 trở lên\\n- Có chứng chỉ sư phạm dạy nghề lái xe.\\n- Sức khỏe tốt, lý lịch rõ ràng.\\n- Nhiệt tình, siêng năng, có trách nhiệm với công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4912,
+    "output_tokens": 709,
+    "total_tokens": 5621,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

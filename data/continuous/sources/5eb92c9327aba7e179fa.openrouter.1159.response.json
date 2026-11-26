@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Phiên Dịch Tiếng Hàn - Ngành IT\",\"company_name\":\"Công Ty TNHH LG CNS VIỆT NAM\",\"job_category\":\"IT\",\"sub_category\":\"Kỹ sư cầu nối BrSE\",\"industry\":\"IT - Phần mềm\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/phien-dich-tieng-han-nganh-it/2336128.html\",\"qualifications\":[\"Bachelor’s degree\",\"TOPIK Level 5 or higher\"],\"technical_skills\":[\"Quality Control\",\"translating/interpreting\",\"project documentation\"],\"soft_skills\":[\"Communication\",\"Self-motivated\",\"Eager to learn business domains, software engineering, and languages\",\"High sense of responsibility\",\"Strong teamwork spirit\"],\"languages_required\":[\"Korean\"],\"experience_required\":1,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\"benefits\":[\"Attractive salary and bonus will be discussed after going through CV & Interview.\",\"Topik allowance.\",\"Review capacity annually and adjust salary increases according to work performance.\",\"Health care: Premium health insurance, Annual health check-up.\",\"Young working environment.\",\"Good career development opportunities with interesting and challenging projects.\",\"English, Korean, technical, soft skills training courses.\",\"Opportunity to learn special courses from LG CNS, new technology and security.\",\"Gifts on holidays (April 30th - May 1st, September 2nd, Tet, etc.).\",\"Outdoor activities with company support: sports clubs, team building, happy hour parties, birthdays, travel, employee and family events, etc.\",\"Bảo hiểm sức khỏe\",\"Khám sức khỏe định kỳ\",\"Team building\",\"Du lịch hàng năm\"],\"description\":\"Serve as the primary communication bridge between Korean clients and internal project teams on all project-related matters.\\nAnalyze, clarify, and accurately translate client requirements into actionable tasks for development teams.\\nManage and maintain all project documentation and materials to ensure consistency and accuracy.\\nCollaborate closely with the Delivery team and Sales team to monitor progress, control quality, and ensure timely delivery of projects.\\nConduct testing and quality checks when necessary to support successful project outcomes.\",\"requirements_text\":\"[Required]\\nBachelor’s degree.\\nAt least 1 year of experience in translating/interpreting within the IT domain.\\nStrong written and verbal communication skills in Korean (TOPIK Level 5 or higher).\\nSelf-motivated, eager to learn business domains, software engineering, and languages.\\nHigh sense of responsibility and strong teamwork spirit.\\n\\n[Preferred]\\nExperience in project management, business analysis (BA), or software testing.\"}",
+  "usage": {
+    "input_tokens": 5241,
+    "output_tokens": 2793,
+    "total_tokens": 8034,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2139
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

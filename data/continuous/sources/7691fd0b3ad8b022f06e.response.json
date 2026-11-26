@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Điều Phối Vận Tải\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Giám sát/Điều phối vận tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-dieu-phoi-van-tai/2193690.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên các ngành liên quan đến vận tải\"\n  ],\n  \"technical_skills\": [\n    \"Vi tính trình độ B\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng phân tích dữ liệu và xử lý tình huống\"\n  ],\n  \"languages_required\": [\n    \"Tiếng anh trình độ B\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Thu nhập thỏa thuận theo năng lực\",\n    \"Review lương hằng năm, lương tháng 13, thưởng KPIs,…\",\n    \"BHXH full lương, bảo hiểm sức khỏe cho nhân viên\",\n    \"Company trip, Family day, Sporting day,…\",\n    \"Các lớp đào tạo phát triển kĩ năng nội bộ\"\n  ],\n  \"description\": \"- Nhận kế hoạch từ khách hàng/CS/Sales/các bộ phận\\n- Cân đối năng lực vận tải của đội xe tải được công ty giao quản lý, điều hành, khai thác tối đa đội xe phục vụ kế hoạch giao hàng. Lên phương án thuê xe ngoài phù hợp theo matrix sử dụng sub, đảm bảo leadtime và chất lượng dịch vụ giao hàng cho khách hàng.\\n- Theo dõi hoạt động giao hàng của đội xe tải ở khu vực Đà Nẵng.\\n- Phối hợp với CS, hiện trường, khách hàng, lái xe, để xử lý các sự cố, khiếu nại xảy ra trong quá trình giao nhận hàng hóa.\\n- Tổng hợp báo cáo tình hình hoạt động xe, nhà thầu phụ, báo cáo KPI nhà thầu phụ và các phát sinh bất thường.\\n- Điều động nhân viên giao nhận/lái xe đi cùng xe để hỗ trợ việc giao nhận hàng hóa.\\n- Đánh giá KPI của giao nhận/lái xe.\",\n  \"requirements_text\": \"- Tốt nghiệp trình độ cao đẳng trở lên các ngành liên quan đến vận tải\\n- Có kinh nghiệm từ 1 năm trở lên, kiến thức về logistics, vận tải, am hiểu lĩnh vực làm việc là một lợi thế\\n- Tiếng anh trình độ B\\n- Vi tính trình độ B\\n- Kỹ năng phân tích dữ liệu và xử lý tình huống\"\n}\n```",
+  "usage": {
+    "input_tokens": 4932,
+    "output_tokens": 776,
+    "total_tokens": 5708,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Chef De Partie Bếp Âu (Pháp)\",\n  \"company_name\": \"CÔNG TY TNHH ĂN UỐNG PHA ÁNH RÁNG CHIỀU\",\n  \"job_category\": \"Quản lý bếp\",\n  \"sub_category\": \"Chef De Partie Bếp Âu (Pháp)\",\n  \"industry\": \"Nhà hàng và các dịch vụ ăn uống phục vụ lưu động\",\n  \"category\": null,\n  \"location\": \"74/7C Hai Bà Trưng, Phường Sài Gòn (Phường Sài Gòn thuộc Quận 1 cũ), Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chef-de-partie-bep-au-phap/2319002.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": [\"kỹ thuật nấu món Âu\"],\n  \"soft_skills\": [\"phối hợp tốt với team\"],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"17 - 18 triệu\\nLương thỏa thuận theo năng lực.\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca làm: 8h-18h hoặc 12h-22h, off 1 ngày/tuần\",\n  \"benefits\": [\n    \"Thưởng tháng 13\",\n    \"Thưởng tháng 13 theo tình hình kinh doanh và đóng góp cá nhân\",\n    \"Hỗ trợ bãi giữ xe\",\n    \"Đánh giá tăng lương hằng năm\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Trực tiếp chế biến món Âu theo quy trình nhà hàng\\n- Linh hoạt đứng các quầy Nóng / Nướng / Nguội / Pass\\n- Phụ trách đặt hàng và kiểm tra nguyên liệu nhập/xuất/hàng hủy\\n- Hỗ trợ đào tạo nhân sự bếp khi có yêu cầu\",\n  \"requirements_text\": \"Tổng quan\\nYêu cầu:\\n3 năm kinh nghiệm chuyên môn  Trung cấp trở lên\\nChuyên môn:\\nQuản lý bếp  Thực phẩm / Đồ uống\\n\\nYêu cầu ứng viên\\n- Tối thiểu 3 năm kinh nghiệm cook Âu hoặc 1 năm CDP Âu\\n- Nắm vững kỹ thuật nấu món Âu\\n- Phối hợp tốt với team\\n\\nKiến thức ngành\\nThực phẩm / Đồ uống\\nKỹ năng cần có\\nkỹ thuật nấu món Âu, phối hợp tốt với team\"\n}",
+  "usage": {
+    "input_tokens": 4505,
+    "output_tokens": 613,
+    "total_tokens": 5118,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Bán Hàng Tại Cửa Hàng / NVBH / Nhân Viên Quầy Bán Hàng - Fresher - Không Yêu Cầu Kinh Nghiệm - Thái Nguyên - Thu Nhập Đến 20 Triệu ( Có Lương Cứng)\",\n  \"company_name\": null,\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Thái Nguyên\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-tai-cua-hang-nvbh-nhan-vien-quay-ban-hang-fresher-khong-yeu-cau-kinh-nghiem-thai-nguyen-thu-nhap-den-20-trieu-co-luong-cung/2317556.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Tư vấn\",\n    \"Chăm Sóc Khách Hàng\",\n    \"Làm việc nhóm\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"12 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\n1 tuần nghỉ 1 ngày\\nCa 1 từ 7h-14h\\nCa2 từ 14h - 20h\",\n  \"benefits\": [\n    \"Môi trường làm việc ổn định, chuyên nghiệp.\",\n    \"Được hướng dẫn, đào tạo về sản phẩm và quy trình bán hàng.\",\n    \"Các chế độ khác theo chính sách của công ty.\"\n  ],\n  \"description\": \"Tư vấn, giới thiệu sản phẩm và hỗ trợ khách hàng lựa chọn sản phẩm phù hợp.\\nTrực tiếp bán hàng, chăm sóc khách hàng tại cửa hàng.\\nSắp xếp, trưng bày và kiểm tra hàng hóa, đảm bảo cửa hàng luôn gọn gàng, sạch sẽ.\\nTheo dõi tình trạng hàng hóa, phối hợp kiểm kê và bổ sung hàng khi cần.\\nThực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm, được đào tạo\\nKỹ năng giao tiếp, tư vấn và chăm sóc khách hàng tốt.\\nNhanh nhẹn, trung thực, nhiệt tình và có trách nhiệm trong công việc.\\nCó khả năng làm việc theo ca và phối hợp với đội nhóm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 6011,
+    "output_tokens": 713,
+    "total_tokens": 6724,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

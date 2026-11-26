@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Văn Phòng \\u2013 Điều Phối (Nam)\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Giám sát/Điều phối vận tải\",\n  \"industry\": \"Logistic / Vận tải\",\n  \"category\": null,\n  \"location\": \"309-311 Lũy Bán Bích, Phường Phú Thạnh, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-phong-dieu-phoi-nam/2363615.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"khai báo hải quan\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Chăm chỉ\",\n    \"Tỉ mỉ\",\n    \"chịu áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Nghỉ phép năm\",\n    \"BHXH\",\n    \"BHYT\",\n    \"BHTN\",\n    \"Thưởng Lễ, Tết, Sinh nhật...\",\n    \"Ăn cơm 02 bữa/ngày làm việc\"\n  ],\n  \"description\": \"- Nhận, lên đơn và theo dõi tiến độ đơn hàng của khách hàng từ các phòng nghiệp vụ gửi về: Kho, P. Kinh doanh cho đến khi hoàn thành.\\n- Phối hợp bộ phận giao hàng (công ty và bên ngoài) để điều động, nhận xe giao hàng theo kế hoạch.\\n- Thực hiện và xử lý các vấn đề phát sinh trong quá trình giao và nhận hàng: làm tờ khai, chứng từ, thiếu hàng/thiếu xe,...\\n- Khai báo hải quan đối với hàng xuất khẩu\\n- Các công việc khác theo nhu cầu của cấp trên.\",\n  \"requirements_text\": \"- Chăm chỉ, cẩn thận , tỉ mỉ.\\n- Chịu được áp lực công việc.\\n- Có thể tăng ca khi Công ty điều động.\\n- Ứng viên đã có kinh nghiệm khai báo hải quan.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4852,
+    "output_tokens": 677,
+    "total_tokens": 5529,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

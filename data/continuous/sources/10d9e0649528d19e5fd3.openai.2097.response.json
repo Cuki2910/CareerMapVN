@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Thợ Cấp Thoát Nước\",\n  \"company_name\": \"Công ty Cổ phần Đăng Việt E&C\",\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Thợ kỹ thuật khác\",\n  \"industry\": \"Lắp đặt hệ thống điện\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh (Tất cả các phường)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-28\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tho-cap-thoat-nuoc/2343575.html\",\n  \"qualifications\": [\"Trung học phổ thông (Cấp 3) trở lên\"],\n  \"technical_skills\": [\"Lắp Đặt Hệ Thống Cấp Thoát Nước\", \"Thi Công Hệ Thống Cấp Thoát Nước\"],\n  \"soft_skills\": [\"Siêng năng\", \"Chịu khó\", \"Có trách nhiệm với công việc\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"17 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Công việc ổn định, làm lâu dài cùng công ty.\",\n    \"Ký hợp đồng lao động đầy đủ.\",\n    \"Có đầy đủ chế độ theo quy định.\",\n    \"Có tăng ca, thưởng và các chế độ khác theo chính sách công ty.\"\n  ],\n  \"description\": \"Mô tả công việc\\n* Thi công, lắp đặt hệ thống cấp thoát nước tại công trình.\\n* Ưu tiên anh em biết thêm các công việc về điện, điện nhẹ, điều hòa thông gió hoặc PCCC.\",\n  \"requirements_text\": \"Tổng quan\\nYêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\n\\nYêu cầu ứng viên\\n* Có kinh nghiệm thi công, lắp đặt hệ thống cấp thoát nước tại công trình.\\n* Siêng năng, chịu khó, có trách nhiệm với công việc.\\n* Ưu tiên anh em biết thêm về điện, điện nhẹ, điều hòa thông gió hoặc PCCC.\\n* Có thể đi công trình theo sự phân công của công ty.\\n\\nKiến thức ngành\\nXây dựng\\n\\nKỹ năng cần có\\nLắp Đặt Hệ Thống Cấp Thoát Nước, Thi Công Hệ Thống Cấp Thoát Nước\\n\\nKỹ năng nên có\\nPccc, điện, điện nhẹ, Điều Hòa Thông Gió\"\n}",
+  "usage": {
+    "input_tokens": 4442,
+    "output_tokens": 633,
+    "total_tokens": 5075,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

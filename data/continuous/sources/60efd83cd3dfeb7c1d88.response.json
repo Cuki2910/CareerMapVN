@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kỹ Thuật / Technical Support\",\"company_name\":\"ZKTECO VIETNAM LTD – HO CHI MINH RO\",\"job_category\":\"Kỹ thuật\",\"sub_category\":\"Technical Support\",\"industry\":\"Điện / Điện tử / Điện lạnh\",\"category\":null,\"location\":\"Hà Nội, Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-31\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-technical-support/1813186.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Đọc hiểu tài liệu kỹ thuật\",\"Kiến thức chuyên môn về kỹ thuật (điện, điện tử, cơ khí, ...)\",\"Sử dụng các công cụ và thiết bị kỹ thuật\",\"Phân tích và chẩn đoán lỗi\",\"Xử lý sự cố phần mềm\",\"Xử lý sự cố phần cứng\",\"UltraViewer / TeamViewer\",\"Tin học văn phòng\"],\"soft_skills\":[\"Giao tiếp tốt\",\"Chủ động\",\"Trách nhiệm trong công việc\",\"Kỹ năng giải quyết vấn đề\",\"Kỹ năng báo cáo\"],\"languages_required\":[\"Tiếng Anh Đọc hiểu\",\"Tiếng Anh Giao tiếp cơ bản\"],\"experience_required\":2,\"salary\":\"15 - 18 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:20 đến 17:40)\",\"benefits\":[\"Thử việc 1-2 tháng\",\"Lương tháng 13, review tăng lương hằng năm\",\"Thực hiện đầy đủ các chế độ theo quy định pháp luật (BHXH, HDLD, phép năm, khám sức khỏe định kỳ…)\",\"Bảo hiểm xã hội\",\"Thưởng tháng 13\",\"Thưởng hiệu quả làm việc\",\"Khám sức khỏe định kỳ\",\"Du lịch hàng năm\",\"Phụ cấp xăng xe\",\"Được cấp Máy tính\"],\"description\":\"Hỗ trợ tư vấn, thiết kế giải pháp kỹ thuật phù hợp với nhu cầu của khách hàng dự án.\\nTham gia triển khai dự án và phát triển sản phẩm\\nGiải đáp thắc mắc, xử lý các yêu cầu hỗ trợ kỹ thuật từ khách hàng dự án liên quan đến sản phẩm của ZKTeco.\\nHỗ trợ kỹ thuật online cho khách hàng kênh phân phối qua UltraViewer / TeamViewer. Kiểm tra, phân tích lỗi phần mềm và phần cứng, đề xuất hướng xử lý.\\nĐi công tác/dự án khi được phân công\",\"requirements_text\":\"Yêu cầu:\\n2 năm kinh nghiệm chuyên môn\\nCao Đẳng trở lên\\nNam\\nTiếng Anh Đọc hiểu\\nTiếng Anh Giao tiếp cơ bản\\n\\nYêu cầu ứng viên:\\nÍt nhất 2 năm kinh nghiệm tư vấn, hỗ trợ kỹ thuật trong lĩnh vực bảo mật, CNTT và các ngành liên quan khác, ưu tiên nền tảng kỹ thuật\\nĐọc hiểu các tài liệu kỹ thuật bằng Tiếng Anh, giao tiếp tiếng Anh cơ bản\\nGiao tiếp tốt, chủ động và trách nhiệm trong công việc\\n\\nKiến thức ngành: Điện / Điện tử / Điện lạnh\\n\\nKỹ năng cần có: Kỹ năng giải quyết vấn đề, Khả Năng Đọc Hiểu Tài Liệu Kỹ Thuật, Kiến Thức Chuyên Môn Về Kỹ Thuật (điện, Điện Tử, Cơ Khí, ...), Kỹ Năng Sử Dụng Các Công Cụ Và Thiết Bị Kỹ Thuật, Kỹ Năng Phân Tích Và Chẩn Đoán Lỗi, Xử Lý Sự Cố Phần Mềm, Xử lý sự cố phần cứng\\n\\nKỹ năng nên có: Kỹ năng báo cáo, kỹ năng tin học văn phòng, Kỹ Năng Ngoại Ngữ (tiếng Anh)\"}",
+  "usage": {
+    "input_tokens": 5227,
+    "output_tokens": 6167,
+    "total_tokens": 11394,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 5001
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

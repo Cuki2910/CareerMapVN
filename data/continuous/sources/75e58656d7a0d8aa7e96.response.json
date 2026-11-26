@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh\",\n  \"company_name\": \"CÔNG TY TNHH EASYRENT VIỆT NAM\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng điện máy\",\n  \"industry\": \"Sửa chữa, bảo dưỡng máy tính, thiết bị thông tin và truyền thông\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh/2342721.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Chăm sóc khách hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"10 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 09:00 đến 18:00), Nghỉ 1 ngày bất kì trong tuần\",\n  \"benefits\": [\n    \"Thu nhập: lương cứng 9.000.000 đồng + Hoa hồng.\",\n    \"Phụ cấp xăng xe 1.000.000 VND/tháng, thưởng doanh số không giới hạn\",\n    \"Đóng BHXH đầy đủ\",\n    \"Nghỉ lễ có hưởng lương theo quy định\",\n    \"Tặng quà vào dịp lễ/tết\",\n    \"Môi trường trẻ, năng động, có nhiều cơ hội phát triển…\"\n  ],\n  \"description\": \"- Phát triển khách hàng doanh nghiệp, giới thiệu và tư vấn dịch vụ cho thuê thiết bị máy tính (Laptop/PC Rental) của công ty.\\n- Chủ động tìm kiếm và tiếp cận khách hàng tại các tòa nhà văn phòng, khu công nghiệp, khu doanh nghiệp thông qua các hình thức như: đi thị trường, gặp trực tiếp, gọi điện tìm kiếm khách hàng,...\\n- Theo dõi nhu cầu của khách hàng, xây dựng phương án cho thuê phù hợp và thúc đẩy ký kết hợp đồng.\\n- Duy trì mối quan hệ với khách hàng hiện có, đồng thời tiếp tục khai thác nhu cầu thuê thiết bị của doanh nghiệp.\\n- Hoàn thành chỉ tiêu doanh số do công ty đề ra..\",\n  \"requirements_text\": \"- Có kinh nghiệm bán hàng; ưu tiên ứng viên có kinh nghiệm phát triển khách hàng doanh nghiệp (B2B).\\n- Tính cách hướng ngoại, giao tiếp tốt, yêu thích công việc gặp gỡ và chăm sóc khách hàng.\\n- Có khả năng học hỏi nhanh, tinh thần thực thi tốt và chịu được áp lực công việc.\\n- Ưu tiên ứng viên có sẵn nguồn khách hàng doanh nghiệp hoặc có kinh nghiệm trong lĩnh vực sản phẩm CNTT, thiết bị văn phòng hoặc ngành cho thuê thiết bị.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4837,
+    "output_tokens": 753,
+    "total_tokens": 5590,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

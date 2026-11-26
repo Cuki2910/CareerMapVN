@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kiểm Tra Chất Lượng Thông Tin\",\n  \"company_name\": null,\n  \"job_category\": \"Nghiên cứu thị trường\",\n  \"sub_category\": \"Market Research\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Nghệ An\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-19\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kiem-tra-chat-luong-thong-tin/1063286.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Làm việc độc lập\",\n    \"Kỹ năng giao tiếp\",\n    \"Đi thị trường\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"6.5 - 9.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Thời gian làm việc linh hoạt, có thể làm trong thời gian rảnh\",\n  \"benefits\": [\n    \"Công việc ổn định, nhiều cơ hội thăng tiến (Giám sát viên quản lý chất lượng dự án)\",\n    \"Môi trường làm việc chuyên nghiệp, thân thiện\",\n    \"Mở rộng mối quan hệ, trau dồi kỹ năng giao tiếp\",\n    \"Phúc lợi cao (Bảo hiểm tai nạn 24/7)\"\n  ],\n  \"description\": \"Thực hiện kiểm tra lại thông tin do phỏng vấn viên thu thập được mỗi ngày báo cáo kết quả cho quản lý\\nLàm việc thường xuyên tại địa bàn được phân công\\nĐảm bảo thực hiện quy trình kiểm tra chất lượng theo yêu cầu của bộ phận kiểm tra chất lượng dự án\",\n  \"requirements_text\": \"Phương tiện làm việc: Có xe máy + Điện thoại di động\\nCó sức khỏe tốt, kiên nhẫn, không ngại tiếp xúc với người lạ\\nTrung thực, có trách nhiệm trong công việc\\nCó khả năng di chuyển nhiều tại địa bàn được phân công\\nĐi công tác xa ngắn hoặc dài ngày khi được yêu cầu\"\n}\n```",
+  "usage": {
+    "input_tokens": 4616,
+    "output_tokens": 571,
+    "total_tokens": 5187,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

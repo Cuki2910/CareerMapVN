@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Thư Ký Chuyên Môn Phiên Dịch (Tiếng Trung) - Vinmec Hòn Tre\",\n  \"company_name\": \"Công ty Cổ phần Bệnh viện đa khoa Quốc tế Vinmec\",\n  \"job_category\": \"Trợ lý/Thư ký\",\n  \"sub_category\": \"Phiên dịch tiếng Trung\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Khánh Hòa\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thu-ky-chuyen-mon-phien-dich-tieng-trung-vinmec-hon-tre/2347281.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Cao đẳng/Đại học\",\n    \"Ưu tiên chuyên ngành Ngôn ngữ, Biên - Phiên dịch hoặc Y tế\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng (Word, Excel, PowerPoint)\",\n    \"Kiến thức cơ bản về thuật ngữ y khoa\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp tốt\",\n    \"Nhanh nhẹn, thân thiện, tạo thiện cảm với khách hàng\",\n    \"Khả năng tổ chức, sắp xếp công việc\",\n    \"Xử lý tình huống linh hoạt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung (Nghe – Nói – Đọc – Viết)\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\\nNghỉ 02 thứ Bảy/tháng\",\n  \"benefits\": [\n    \"Lương: thỏa thuận\",\n    \"Hỗ trợ ăn trưa và gửi xe tại viện.\",\n    \"Du lịch, team building với BV.\",\n    \"Khám sức khỏe định kỳ mỗi năm.\",\n    \"Đảm bảo chế độ bảo hiểm – an sinh ở mức tốt nhất.\"\n  ],\n  \"description\": \"Tiếp đón, hỗ trợ ngôn ngữ cho khách hàng và bác sĩ trong suốt quá trình khám, điều trị và chăm sóc tại bệnh viện.\\nTư vấn cho khách hàng về các sản phẩm, dịch vụ y tế, chương trình ưu đãi và khuyến mại của bệnh viện.\\nCung cấp, giải thích thông tin cho khách hàng về quyền lợi, chi phí dịch vụ, quy trình khám chữa bệnh và các thông tin chung của bệnh viện.\\nPhiên dịch trực tiếp trong các buổi thăm khám, hội chẩn giữa bác sĩ và bệnh nhân.\\nBiên dịch các tài liệu, hồ sơ, báo cáo chuyên môn y tế từ/ sang tiếng Trung theo yêu cầu.\\nHỗ trợ công tác hành chính, thư ký chuyên môn và phối hợp với các phòng ban để nâng cao trải nghiệm khách hàng quốc tế.\",\n  \"requirements_text\": \"1 năm kinh nghiệm chuyên môn\\nCao Đẳng trở lên\\nTốt nghiệp Cao đẳng/Đại học, ưu tiên chuyên ngành Ngôn ngữ, Biên - Phiên dịch hoặc Y tế.\\nThành thạo tiếng Trung (Nghe – Nói – Đọc – Viết); ưu tiên ứng viên có kinh nghiệm dịch trong lĩnh vực y tế.\\nCó kỹ năng giao tiếp tốt, nhanh nhẹn, thân thiện, tạo thiện cảm với khách hàng.\\nKhả năng tổ chức, sắp xếp công việc và xử lý tình huống linh hoạt.\\nThành thạo tin học văn phòng (Word, Excel, PowerPoint).\\nƯu tiên ứng viên có kiến thức cơ bản về thuật ngữ y khoa.\\nKiến thức ngành: Y tế / Dược phẩm\\nKỹ năng nên có: Kiến Thức Về Y Tế (thuật Ngữ Y Khoa)\"\n}",
+  "usage": {
+    "input_tokens": 4903,
+    "output_tokens": 3892,
+    "total_tokens": 8795,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2717
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

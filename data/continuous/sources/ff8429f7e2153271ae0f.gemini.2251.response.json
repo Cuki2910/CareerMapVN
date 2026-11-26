@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trợ Lý Bộ Phận Bếp - Phụ Bếp\",\n  \"company_name\": null,\n  \"job_category\": \"Phụ bếp\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tro-ly-bo-phan-bep-phu-bep/2346721.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"tin học văn phòng cơ bản\",\n    \"máy tính\"\n  ],\n  \"soft_skills\": [\n    \"nhanh nhẹn\",\n    \"chịu khó\",\n    \"cẩn thận\",\n    \"sạch sẽ\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\n- Thời gian làm việc linh động, không nghỉ cố định vào chủ nhật  \\n- Không chia theo ca, làm việc theo giờ hành chính, có phát sinh tăng ca.\",\n  \"benefits\": [\n    \"Thu nhập: 8.000.000 – 12.000.000 VNĐ (hoặc thoả thuận thêm tuỳ theo năng lực)\",\n    \"Được làm việc trong môi trường chuyên nghiệp, sáng tạo, gắn bó lâu dài,...\",\n    \"Thưởng hiệu quả công việc vào các tháng làm việc cao điểm.\",\n    \"Phụ cấp: Ăn trưa 30k/buổi, xăng xe di chuyển 200k/tháng,…\",\n    \"Thưởng tất cả các ngày lễ Tết trong năm, sinh nhật: Quốc Khánh, 30/04-01/05, Tết Âm, Tết Dương, thưởng lương tháng 13.\",\n    \"Chế độ công đoàn, tặng quà cho con CBNV vào các ngày lễ.\",\n    \"Tham gia BHXH, BHYT, nghỉ phép theo đúng quy định của pháp luật.\"\n  ],\n  \"description\": \"- Chấm công và theo dõi nhân sự trong bộ phận.\\n- Nhận thực đơn tiệc, lên đơn hàng và cập nhật các thay đổi như đổi món, tăng/giảm mâm.\\n- Hỗ trợ các công việc phát sinh của công ty và bộ phận, hỗ trợ mọi người trong bộ phận mình.\\n- Những ngày đông tiệc, hỗ trợ bên ngoài và trả hàng theo tầng được phân công.\",\n  \"requirements_text\": \"- Không yêu cầu kinh nghiệm\\n- Biết sử dụng máy tính, tin học văn phòng cơ bản.\\n- Thái độ: Nhanh nhẹn, chịu khó, cẩn thận, sạch sẽ.\\n- Có kinh nghiệm làm phụ bếp, Salad là một lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4826,
+    "output_tokens": 767,
+    "total_tokens": 5593,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Sản Xuất / Vận Hành Máy Tại HCM\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Công nhân sản xuất\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Đồng Tháp\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-04\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-san-xuat-van-hanh-may-tai-hcm/2349365.html\",\n  \"qualifications\": [\n    \"Trung Cấp/ Cao Đẳng chuyên ngành Dược/ Điện công nghiệp\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"ham học hỏi\",\n    \"chịu khó\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"9 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n Nghỉ T7, CN\",\n  \"benefits\": [\n    \"Lương tháng 13 + Thưởng KPI cuối năm\",\n    \"Làm việc 5 ngày/tuần; được tính thêm tiền làm thêm giờ nếu tăng ca vào thứ Bảy, Chủ nhật.\",\n    \"Được tham gia các khóa đào tạo nâng cao nghiệp vụ và kỹ năng.\",\n    \"Môi trường làm việc chuyên nghiệp, chế độ đãi ngộ hấp dẫn.\",\n    \"Được tham gia đầy đủ các chế độ bảo hiểm theo quy định.\"\n  ],\n  \"description\": \"Đảm bảo việc sản xuất theo kế hoạch phân công hàng ngày của tổ trưởng theo đúng qui trình sản xuất và tiêu chuẩn chất lượng đã đăng ký.\\nTham gia vận hành sản xuất theo hồ sơ lô và theo SOP.\\nVận hành máy móc của các giai đoạn sản xuất.\\nThực hiện theo đúng quy trình và yêu cầu trên hồ sơ lô.\",\n  \"requirements_text\": \"Tốt nghiệp Trung Cấp/ Cao Đẳng chuyên ngành Dược/ Điện công nghiệp;\\nGiới tính: Ưu tiên Nam, làm theo ca\\nCó sức khỏe tốt, ham học hỏi, chịu khó.\\nƯu tiên có kinh nghiệm sản xuất;\"\n}\n```",
+  "usage": {
+    "input_tokens": 4862,
+    "output_tokens": 599,
+    "total_tokens": 5461,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

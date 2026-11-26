@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư Bảo Trì Thiết Bị (Laser)\",\n  \"company_name\": null,\n  \"job_category\": \"Sửa chữa/Bảo trì điện tử/viễn thông\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-bao-tri-thiet-bi-laser/2358739.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học chuyên ngành Điện tử, Tự động hóa, Cơ khí hoặc liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Thiết bị khắc Laser\",\n    \"Laser Marking\",\n    \"Lập trình hoặc điều chỉnh nguồn Laser\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"15 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 2 - Thứ 6 & 2 ngày Thứ 7 trong tháng\",\n  \"benefits\": [\n    \"Thử việc 100% lương\",\n    \"Thưởng cuối năm lên đến 2-3 tháng lương\",\n    \"Nghỉ 2 thứ 7 (có lương) và Chủ Nhật\",\n    \"Xe buýt đưa đón miễn phí\",\n    \"Trợ cấp Nhà xa, Đi lại, Thâm niên, Con nhỏ, Ca đêm\"\n  ],\n  \"description\": \"- Vận hành, bảo trì và xử lý sự cố thiết bị khắc Laser trên dây chuyền sản xuất.\\n- Setup chương trình, hiệu chỉnh thông số và hỗ trợ chuyển đổi model, xác nhận sản phẩm đầu tiên.\\n- Tối ưu chương trình và thông số Laser nhằm đảm bảo chất lượng đánh dấu sản phẩm.\\n- Thực hiện kiểm tra, xác nhận chất lượng mã vạch/QR code và hiệu suất thiết bị.\\n- Đảm bảo tuân thủ các tiêu chuẩn an toàn Laser, ESD\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng/Đại học chuyên ngành Điện tử, Tự động hóa, Cơ khí hoặc liên quan.\\n- Có từ 3 năm kinh nghiệm làm việc với thiết bị sản xuất tự động hóa.\\n- Ưu tiên ứng viên có kinh nghiệm vận hành, bảo trì thiết bị Laser Marking, lập trình hoặc điều chỉnh nguồn Laser.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4642,
+    "output_tokens": 665,
+    "total_tokens": 5307,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

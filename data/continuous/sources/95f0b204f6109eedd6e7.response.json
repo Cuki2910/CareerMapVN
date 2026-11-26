@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lái Xe\",\n  \"company_name\": null,\n  \"job_category\": \"Tài xế\",\n  \"sub_category\": \"Tài xế xe khách\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-lai-xe/2308726.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp THCS trở lên\"\n  ],\n  \"technical_skills\": [\n    \"GPLX hạng D mới hoặc E cũ còn hiệu lực\"\n  ],\n  \"soft_skills\": [\n    \"trách nhiệm\",\n    \"tác phong nghiêm túc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n  * Cụ thể trao đổi khi phỏng vấn\",\n  \"benefits\": [\n    \"Tham gia BHXH, BHYT, BHTN đầy đủ sau thời gian thử việc.\",\n    \"Thưởng cuối năm và các chế độ phúc lợi theo quy định của Cty.\",\n    \"Môi trường làm việc ổn định, chuyên nghiệp.\"\n  ],\n  \"description\": \"Nhận xe, kiểm tra an toàn trước chuyến\\n  * Vận hành đúng tuyến\\n  * Bảo đảm ATGT, tuân thủ tốc độ, thời gian lái/nghỉ\\n  * Phối hợp NV phục vụ, xử lý tình huống \\n  * Bàn giao xe sau ca\",\n  \"requirements_text\": \"Tốt nghiệp THCS trở lên\\n  * Từ 2 năm kinh nghiệm lái xe \\n  * Có GPLX hạng D mới hoặc E cũ còn hiệu lực.\\n  * Công việc lái xe Bus từ 40 chỗ trở lên.\\n  * Sức khỏe tốt, trách nhiệm và tác phong nghiêm túc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4543,
+    "output_tokens": 552,
+    "total_tokens": 5095,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

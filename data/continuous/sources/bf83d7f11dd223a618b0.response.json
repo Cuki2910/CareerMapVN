@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thợ Mộc\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Thợ mộc\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"263 Nguyễn Thị Minh Khai, Phường Dĩ An, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tho-moc-luong-450-000-550-000-ngay/2354946.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"chịu khó\",\n    \"có trách nhiệm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"450.000 - 550.000/Ngày\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00)\\nThời gian làm việc: T2-T7, 7h30-17h (nghỉ trưa 11h30-13h00)\",\n  \"benefits\": [\n    \"Thưởng tháng 13\",\n    \"Thưởng Lễ/Tết\",\n    \"Tăng ca tính thêm tiền phụ cấp\",\n    \"Môi trường làm việc thoải mái, lâu dài\"\n  ],\n  \"description\": \"• Phụ sản xuất nội thất tại xưởng mộc.\\n• Phụ thợ chính trong quá trình làm tủ, giường và các sản phẩm nội thất.\\n• Phụ lắp ráp, đóng gói, sắp xếp hàng hóa.\\n• Hỗ trợ các công việc khác tại xưởng.\",\n  \"requirements_text\": \"• Nam, sức khỏe tốt.\\n• Chăm chỉ, chịu khó, có trách nhiệm.\\n• Ưu tiên người muốn làm việc ổn định, lâu dài.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4784,
+    "output_tokens": 581,
+    "total_tokens": 5365,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

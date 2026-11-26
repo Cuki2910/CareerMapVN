@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho (Part-Time)\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-part-time/2364615.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Quản Lý Kho\",\n    \"đóng gói hàng hóa\",\n    \"Soạn Hàng\",\n    \"Sử Dụng Máy Tính Cơ Bản\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 35 k /giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Ca ngày\\n08:00 ~ 17:00 (linh hoạt theo tình hình công việc)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Được tham gia BHXH, BHYT đầy đủ theo quy định của pháp luật\",\n    \"Môi trường làm việc năng động\"\n  ],\n  \"description\": \"Soạn hàng theo đơn hàng phát sinh\\nĐóng gói hàng hoá đảm bảo đủ số lượng và đúng sản phẩm theo đơn hàng.\\nBàn giao hàng cho đơn vị vận chuyển.\\nNhận hàng từ nhà cung cấp\\nCập nhật số lượng tồn kho\\nKiểm tra tình trạng hàng hoá, báo cáo hàng lỗi, thiếu, hư hỏng hoặc chênh lệch tồn kho.\",\n  \"requirements_text\": \"Tốt nghiệp THPT trở lên.\\nỨng viên có thể nhận việc ngay.\\nBiết sử dụng máy tính cơ bản.\\nƯu tiên Nam, có kinh nghiệm làm kho hàng\"\n}\n```",
+  "usage": {
+    "input_tokens": 4721,
+    "output_tokens": 558,
+    "total_tokens": 5279,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

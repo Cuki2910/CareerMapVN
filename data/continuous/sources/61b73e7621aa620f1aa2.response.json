@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy\",\n  \"company_name\": null,\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may/2250452.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Lập trình máy dập\",\n    \"Vận hành máy dập\",\n    \"Gia công khuôn, cối\",\n    \"Đọc hiểu bản vẽ kỹ thuật\",\n    \"Lập trình máy CNC\",\n    \"Vận hành máy CNC\",\n    \"Vận hành máy tiện CNC\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Xét tăng lương định kỳ hoặc theo hiệu quả công việc.\",\n    \"Thưởng các dịp Lễ, Tết, lương tháng 13,..\",\n    \"Tham gia đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định của pháp luật.\",\n    \"Được trang bị đầy đủ công cụ, thiết bị phục vụ công việc.\",\n    \"Môi trường làm việc chuyên nghiệp, ổn định và có cơ hội phát triển nghề nghiệp.\",\n    \"Được tham gia các chương trình đào tạo, nâng cao chuyên môn và kỹ năng quản lý.\",\n    \"Tham gia các hoạt động nội bộ của Công ty như du lịch, teambuilding, khám sức khỏe định kỳ, bảo hiểm tai nạn\",\n    \"Các chế độ phúc lợi khác theo quy định và chính sách của Công ty.\"\n  ],\n  \"description\": \"• Lập trình, vận hành máy dập theo kế hoạch sản xuất.\\n• Gia công khuôn, cối và các chi tiết cơ khí theo bản vẽ kỹ thuật.\\n• Kiểm tra kích thước, chất lượng sản phẩm sau khi gia công.\\n• Theo dõi, điều chỉnh thông số máy trong quá trình vận hành nhằm đảm bảo chất lượng sản phẩm.\\n• Thực hiện bảo dưỡng, vệ sinh máy móc và khu vực làm việc theo quy định.\\n• Phối hợp với các bộ phận liên quan để đảm bảo tiến độ sản xuất.\\n• Thực hiện các công việc khác theo sự phân công của Quản lý.\",\n  \"requirements_text\": \"• Nam, từ 22 – 40 tuổi.\\n• Tốt nghiệp Trung cấp trở lên\\n• Có kinh nghiệm lập trình và vận hành máy tiện CNC.\\n• Ưu tiên ứng viên đã từng làm việc trong doanh nghiệp sản xuất hoặc gia công cơ khí.\\n• Đọc hiểu bản vẽ kỹ thuật.\\n• Biết lập trình và vận hành máy CNC.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4834,
+    "output_tokens": 779,
+    "total_tokens": 5613,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

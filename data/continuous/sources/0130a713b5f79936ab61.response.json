@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Cộng Tác Viên Hỗ Trợ Kỹ Thuật - Part Time\",\n  \"company_name\": null,\n  \"job_category\": \"IT - Phần cứng và máy tính\",\n  \"sub_category\": \"Chuyên môn khác\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-tac-vien-ho-tro-ky-thuat-part-time/2077086.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kiến Thức Về Phần Cứng Máy Tính\",\n    \"Hiểu Biết Về Mạng Máy Tính\",\n    \"Kinh Nghiệm Hỗ Trợ Kỹ Thuật\"\n  ],\n  \"soft_skills\": [\n    \"kỹ năng giải quyết vấn đề\",\n    \"làm việc độc lập\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Lương cứng 3.000.000đ/tháng + KPI hoàn thành công việc\",\n    \"Ký hợp đồng dài hạn\",\n    \"Ưu tiên ứng viên lớn tuổi, có gia đình\",\n    \"Thời gian làm việc linh động, đến Công ty khi có việc phát sinh.\"\n  ],\n  \"description\": \"· Hỗ trợ online + offline, đảm bảo hệ thống thiết bị và hạ tầng công nghệ trong công ty hoạt động ổn định, phạm vi công việc bao gồm:\\n+ Hỗ trợ người dùng và thiết bị máy tính: Cài đặt, cấu hình, thay thế/nâng cấp linh kiện phần cứng khi cần thiết (RAM, ổ cứng, nguồn, màn hình…). và hỗ trợ người dùng xử lý các sự cố.\\n+ Khắc phục sự cố thiết bị mạng: Máy chấm công, Máy in, Wifi, Switch, Modem, Router, Firewall, VPN, UPS, Tổng đài, Camera.\\n+ Hỗ trợ quản lý và kiểm kê thiết bị định kỳ.\",\n  \"requirements_text\": \"Có kỹ năng giải quyết vấn đề và làm việc độc lập.\\nMong muốn gắn bó lâu dài với công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4678,
+    "output_tokens": 651,
+    "total_tokens": 5329,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

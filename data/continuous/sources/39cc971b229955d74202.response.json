@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thợ Kim Hoàn\",\n  \"company_name\": null,\n  \"job_category\": \"Bảo trì, sửa chữa khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Số 200-202 Lạch Tray, Phường Lê Chân, Hải Phòng\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tho-kim-hoan/2304660.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Đánh bóng\",\n    \"Làm sạch\",\n    \"Gắn đá\",\n    \"Nung/ khò vàng\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"10 - 13 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:30 đến 17:30); 8h30 - 17h30 các ngày trong tuần, được nghỉ 1 ngày/tuần\",\n  \"benefits\": [\n    \"Được đào tạo các kỹ thuật trong nghề kim hoàn\",\n    \"Đóng BHXH, BHYT, BHTN, khám sức khỏe định kỳ hàng năm\",\n    \"Thưởng Lễ, Tết, Hiếu, Hỷ\",\n    \"Thưởng lương tháng thứ 13\",\n    \"Thưởng các dịp đặc biệt\",\n    \"Thưởng theo hiệu suất công việc\",\n    \"Tham gia các hoạt động teambuilding của công ty hàng năm\",\n    \"Được mua sản phẩm công ty với giá ưu đãi dành cho nhân viên\"\n  ],\n  \"description\": \"- Bảo hành và sửa chữa các sản phẩm trang sức của khách hàng (thực hiện các công đoạn đánh bóng, làm sạch, gắn đá,...)\\n- Hỗ trợ nung/ khò mua lại các sản phẩm vàng thị trường\\n- Bảo quản công cụ, máy móc và khu vực làm việc\\n- Thực hiện các công việc khác theo sự phân công của quản lý\\n- Chi tiết công việc trao đổi khi phỏng vấn\",\n  \"requirements_text\": \"- Độ tuổi: 22 - 40 tuổi\\n- Trình độ: Lao động phổ thông\\n- Ưu tiên ứng viên có từ 1 năm kinh nghiệm sửa chữa trang sức\\n- Địa điểm làm việc: Số 200-202 Lạch Tray, Phường Lê Chân, Hải Phòng\"\n}\n```",
+  "usage": {
+    "input_tokens": 4685,
+    "output_tokens": 690,
+    "total_tokens": 5375,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

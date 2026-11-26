@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Phiên Dịch Tổng Hợp Tiếng Trung\",\"company_name\":\"CÔNG TY TNHH VIỆT NAM MUYUAN\",\"job_category\":\"Biên phiên dịch\",\"sub_category\":\"Biên phiên dịch tiếng Trung\",\"industry\":null,\"category\":null,\"location\":\"Gia Lai\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-15\",\"url\":\"https://www.topcv.vn/viec-lam/phien-dich-tong-hop-tieng-trung/2356616.html\",\"qualifications\":[\"Đại học trở lên\",\"Chuyên ngành Tiếng Trung\",\"Tiếng Trung HSK 5\"],\"technical_skills\":[\"Biên phiên dịch Trung – Việt\",\"Dịch thuật tài liệu\",\"Quản lý văn bản, sắp xếp và lưu trữ hồ sơ\",\"Sử dụng thành thạo Word, Excel, PowerPoint\",\"Nhập liệu, thống kê dữ liệu và lập báo cáo cơ bản\"],\"soft_skills\":[\"Tinh thần trách nhiệm\",\"Cẩn thận, tỉ mỉ\",\"Khả năng giao tiếp, phối hợp và triển khai công việc tốt\",\"Chủ động học hỏi, thích nghi tốt\",\"Kỹ năng làm việc nhóm\",\"Kỹ năng tổng hợp và làm báo cáo\"],\"languages_required\":[\"Tiếng Trung\",\"Tiếng Việt\"],\"experience_required\":0,\"salary\":\"15.000.000 – 20.000.000 VNĐ/THÁNG\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30); Thứ 2 – Thứ 7: 08:00 – 17:30 (T7 làm việc cách tuần)\",\"benefits\":[\"Được đào tạo bài bản ngay khi nhận việc và hướng dẫn trong quá trình làm việc.\",\"Có lộ trình phát triển nghề nghiệp và cơ hội chuyển chính thức rõ ràng.\",\"Hưởng đầy đủ chế độ bảo hiểm và phúc lợi theo quy định, cùng các khoản trợ cấp của công ty.\",\"Môi trường làm việc quốc tế, năng động, có cơ hội tiếp xúc và làm việc trực tiếp với quản lý người Trung Quốc.\",\"Bảo hiểm xã hội\",\"Team building\"],\"description\":\"MUYUAN VIỆT NAM TUYỂN DỤNG – PHIÊN DỊCH VĂN PHÒNG (TIẾNG TRUNG)\\nCÔNG TY TNHH VIỆT NAM MUYUAN\\nMỨC LƯƠNG: 15.000.000 – 20.000.000 VNĐ/THÁNG\\nĐịa điểm làm việc: 150–152 Nguyễn Lương Bằng, Phường Pleiku, tỉnh Gia Lai (thuộc TP. Pleiku cũ).\\nI. MÔ TẢ CÔNG VIỆC\\n1. Thực hiện công tác biên phiên dịch Trung – Việt, dịch thuật tài liệu, sắp xếp hồ sơ và hỗ trợ giao tiếp giữa các bên.\\n2. Phụ trách công việc hành chính hằng ngày: quản lý văn bản, sắp xếp và lưu trữ hồ sơ, bố trí cuộc họp, ghi chép biên bản và hỗ trợ công việc văn phòng.\\n3. Hỗ trợ phối hợp giữa các phòng ban, truyền đạt thông tin, kết nối công việc và theo dõi tiến độ thực hiện.\\n4. Hỗ trợ thu thập, tổng hợp, nhập liệu, thống kê dữ liệu kinh doanh và lập các báo cáo cơ bản.\\n5. Thực hiện các công việc tổng hợp khác theo sự phân công của cấp trên.\",\"requirements_text\":\"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn\\nTuổi 18 - 30\\nĐại Học trở lên\\nTiếng Trung HSK 5\\n\\nII. YÊU CẦU ỨNG VIÊN\\n1. Tốt nghiệp Đại Học trở lên các chuyên ngành Tiếng Trung.\\n2. Không yêu cầu kinh nghiệm, chấp nhận sinh viên mới tốt nghiệp tiếng Trung tốt.\\n3. Tiếng Trung thành thạo 4 kỹ năng nghe – nói – đọc – viết, trình độ tương đương tối thiểu HSK5.\\n4. Sử dụng thành thạo Word, Excel, PowerPoint.\\n5. Có tinh thần trách nhiệm, cẩn thận, tỉ mỉ; có khả năng giao tiếp, phối hợp và triển khai công việc tốt.\\n6. Chủ động học hỏi, thích nghi tốt.\\n\\nKỹ năng cần có: Cẩn thận, Tỉ mỉ, Thành Thạo Các Phần Mềm Văn Phòng, Tiếng Trung Thành Thạo (4 Kỹ Năng Nghe, Nói, Đọc, Viết)\\nKỹ năng nên có: Tiếng Trung, Kỹ năng làm việc nhóm, Kỹ Năng Tổng Hợp Và Làm Báo Cáo\"}",
+  "usage": {
+    "input_tokens": 5375,
+    "output_tokens": 4064,
+    "total_tokens": 9439,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2620
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phục Vụ - Giao Tiếp Tiếng Anh Khá (Thu Nhập 8,5 - 9 Triệu)\",\n  \"company_name\": null,\n  \"job_category\": \"Phục vụ\",\n  \"sub_category\": \"Thực phẩm / Đồ uống\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-giao-tiep-tieng-anh-kha-thu-nhap-8-5-9-trieu/2302200.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Làm việc nhóm\",\n    \"Nhanh nhẹn\",\n    \"Tinh thần trách nhiệm\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 0.25,\n  \"salary\": \"8.5 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n 10:00 - 18:30 / 14:30 - 23:00 - 23:30 tuỳ lượng khách (30 phút nghỉ ngơi), nghỉ 01 ngày/tuần; Có full-time & part-time\",\n  \"benefits\": [\n    \"Thu nhập ổn định 8,5 – 9 triệu/tháng\",\n    \"Hưởng phí dịch vụ & tips ngay từ tháng đầu\",\n    \"Xét tăng lương theo năng lực & thời gian gắn bó\",\n    \"Bao ăn trong ca\",\n    \"Cấp đồng phục miễn phí\",\n    \"Chỗ đậu xe miễn phí\",\n    \"Môi trường làm việc chuyên nghiệp – thân thiện – khách quốc tế\",\n    \"Cơ hội lên Senior / Captain / Supervisor\",\n    \"Tham gia BHXH & bảo hiểm sau 3 tháng gắn bó\"\n  ],\n  \"description\": \"Chuẩn bị khu vực phục vụ theo tiêu chuẩn nhà hàng.\\nTiếp đón khách, giao tiếp tiếng Anh thường xuyên với khách nước ngoài.\\nGiới thiệu thực đơn, tư vấn món ăn & đồ uống.\\nNhận order, phục vụ đúng quy trình, đúng món – đúng bàn.\\nPhối hợp với bếp & thu ngân để đảm bảo trải nghiệm khách hàng tốt nhất.\\nGiữ gìn vệ sinh khu vực làm việc.\",\n  \"requirements_text\": \"Tối thiểu 3 tháng kinh nghiệm F &B.\\nGiao tiếp tiếng Anh tốt (bắt buộc).\\nNgoại hình gọn gàng, tác phong chuyên nghiệp.\\nNhanh nhẹn, có tinh thần trách nhiệm & làm việc nhóm tốt.\\nTuổi 18 – 35, tốt nghiệp THPT trở lên.\\nƯu tiên ứng viên đã từng làm nhà hàng Âu / fine dining / phục vụ khách quốc tế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5083,
+    "output_tokens": 800,
+    "total_tokens": 5883,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

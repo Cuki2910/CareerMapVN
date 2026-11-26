@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kinh Doanh Tín Dụng Khách Hàng Cá Nhân HSBC (Hà Nội)\",\"company_name\":\"HSBC\",\"job_category\":\"Kinh doanh / Bán hàng\",\"sub_category\":\"Tín dụng khách hàng cá nhân\",\"industry\":\"Ngân hàng\",\"category\":null,\"location\":\"Hà Nội\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-30\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tin-dung-khach-hang-ca-nhan-hsbc-ha-noi/2346022.html\",\"qualifications\":[\"Cao Đẳng trở lên\"],\"technical_skills\":[\"Tin học văn phòng\"],\"soft_skills\":[\"Khả năng nắm bắt nhu cầu khách hàng\",\"Chịu được áp lực tốt về doanh số bán hàng\",\"Khả năng quản lý thời gian tốt\",\"Giao tiếp nhanh nhẹn\",\"Cẩn thận, tỉ mỉ và tính kỷ luật cao\",\"Chăm sóc khách hàng\"],\"languages_required\":[\"Tiếng Anh (Đọc hiểu)\"],\"experience_required\":1,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)\",\"benefits\":[\"Lương cơ bản ổn định + Hoa hồng hấp dẫn theo doanh số\",\"Cơ hội được đào tạo chuyên sâu theo tiêu chuẩn quốc tế của HSBC.\",\"Làm việc trong môi trường ngân hàng chuyên nghiệp, năng động, đa quốc gia.\",\"Cơ hội phát triển nghề nghiệp rõ ràng, có thể thăng tiến lên các vị trí cấp cao hơn.\",\"Đầy đủ các chế độ phúc lợi, BHXH theo quy định\",\"Bảo hiểm xã hội\",\"Thu nhập khi đạt 100% KPI: Thoả thuận\",\"Thu nhập tính theo tỷ lệ đạt KPI\",\"Lương cứng không phụ thuộc doanh số\"],\"description\":\"* Chủ động tìm kiếm và tiếp cận khách hàng qua các chương trình, sự kiện ngoài thị trường để tư vấn và giới thiệu các sản phẩm tín dụng:\\n  * Thẻ tín dụng\\n  * Tài khoản lương\\n  * Vay tín chấp\\n* Thiết lập và duy trì mối quan hệ với khách hàng. Hỗ trợ tư vấn và giải đáp thắc mắc của khách hàng mới và cũ trong suốt quá trình sử dụng sản phẩm\\n* Mở rộng và duy trì mạng lưới khách hàng tiềm năng để gia tăng doanh số\\n* Tham gia và hỗ trợ chi nhánh tổ chức các hoạt động truyền thông, quảng bá sản phẩm\\n* Chủ động chia sẻ các ý tưởng bán hàng và hỗ trợ cho các thành viên khác trong nhóm.\\n* Chịu trách nhiệm về doanh số cá nhân và cập nhật doanh số kịp thời với Quản lý\\n* Tuân thủ theo các quy định, quy trình bán hàng của ngân hàng HSBC\\n* Thực hiện các công việc khác được giao bởi Quản lý\",\"requirements_text\":\"* Tốt nghiệp Cao đẳng với 1 năm kinh nghiệm trong các lĩnh vực liên quan\\n* Có khả năng nắm bắt được nhu cầu của khách hàng.\\n* Chịu được áp lực tốt về doanh số bán hàng\\n* Khả năng quản lý thời gian tốt\\n* Giao tiếp nhanh nhẹn. Giao tiếp tiếng Anh tốt là lợi thế.\\n* Có khả năng tin học văn phòng tốt\\n* Cẩn thận, tỉ mỉ và tính kỷ luật cao\"}",
+  "usage": {
+    "input_tokens": 5393,
+    "output_tokens": 4217,
+    "total_tokens": 9610,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3144
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

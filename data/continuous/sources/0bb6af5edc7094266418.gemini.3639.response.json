@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Vận Hành\",\n  \"company_name\": null,\n  \"job_category\": \"Giáo dục / Đào tạo\",\n  \"sub_category\": \"Vận hành chung\",\n  \"industry\": \"Giáo dục / Đào tạo\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-van-hanh/2365614.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Thể thao, Giáo dục hoặc lĩnh vực liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"Quản lý thời gian\",\n    \"Kỹ năng làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 2 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thực tập\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)\\nLinh hoạt\",\n  \"benefits\": [\n    \"Hỗ trợ cung cấp thông tin, xác nhận và đóng dấu thực tập theo quy định.\",\n    \"Cơ hội thực tập trong môi trường giáo dục và thể thao chuyên nghiệp theo tiêu chuẩn LaLiga.\",\n    \"Được cung cấp thiết bị phục vụ công việc.\",\n    \"Có trợ cấp thực tập trong suốt thời gian tham gia.\"\n  ],\n  \"description\": \"• Trực tiếp tham gia tổ chức và vận hành các lớp học & sự kiện thể thao\\n• Phối hợp và trao đổi công việc với các team Operations, Academics, Creative, Social, Admission & Customer Service\\n• Chuẩn bị và quản lý tài liệu, đồng phục, học cụ và thiết bị cho lớp học\\n• Hỗ trợ vận hành trực tiếp tại lớp: điều phối, quan sát và hỗ trợ học viên\\n• Làm việc với nhà cung cấp, đối tác và cộng tác viên\\n• Hỗ trợ chuẩn bị và triển khai các sự kiện thể thao – giáo dục quy mô lớn\\n• Thực hiện các công việc hành chính và tài liệu cơ bản\\n• Chủ động xử lý các vấn đề phát sinh trong quá trình vận hành\",\n  \"requirements_text\": \"• Sinh viên năm 3 hoặc năm 4 thuộc các chuyên ngành Thể thao, Giáo dục hoặc lĩnh vực liên quan.\\n• Có kinh nghiệm tham gia, tổ chức hoặc điều phối các hoạt động câu lạc bộ.\\n• Có kỹ năng giao tiếp tốt, năng động và chủ động trong công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4752,
+    "output_tokens": 696,
+    "total_tokens": 5448,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên QS\",\n  \"company_name\": \"Công ty Cổ phần Ecoba Việt Nam\",\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Chuyên môn Xây dựng khác\",\n  \"industry\": \"Xây dựng nhà để ở\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hưng Yên, Quảng Ninh, Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-13\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-qs/1339601.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Đại học chuyên ngành Kinh tế xây dựng/ Kỹ sư xây dựng các Trường Đại học xây dựng, Kiến trúc, học viên kỹ thuật quân sự,...\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng thành thạo các phần mềm tin học văn phòng\",\n    \"Sử dụng thành thạo các phần mềm chuyên nghành (AutoCad, ...)\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"* Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\n* Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Mức lương tương xứng với năng lực, đảm bảo công bằng, minh bạch;\",\n    \"Lương tháng 13, thưởng hiệu quả công việc (trung bình 03 tháng lương/ năm);\",\n    \"Hỗ trợ chi phí ăn ca và nhà ở tại DA;\",\n    \"Xét điều chỉnh lương hàng năm;\",\n    \"Các chế độ du lịch, khám sức khỏe, BHXH, Công đoàn đầy đủ;\",\n    \"Tham gia các DA quy mô lớn trong và ngoài nước, tham gia các hoạt động đào tạo phát triển với lộ trình thăng tiến rõ ràng;\",\n    \"Môi trường làm việc trẻ trung, năng động.\"\n  ],\n  \"description\": \"- Bóc tách khối lượng theo bản vẽ;\\n- Kiểm soát, lập dự trù khối lượng vật tư;\\n- Kiểm tra, quản lý hồ sơ thanh toán khối lượng hợp đồng;\\n- Một số công việc phát sinh khác theo yêu cầu của Trưởng bộ phận.\\n- Làm việc theo dự án tại khu vực phía Bắc: Hà Nội, Hưng Yên, Quảng Ninh,…\",\n  \"requirements_text\": \"Tổng quan — Yêu cầu:\\n1 năm kinh nghiệm chuyên môn  Đại Học trở lên\\n\\nYêu cầu ứng viên\\n- Tốt nghiệp Đại học chuyên ngành Kinh tế xây dựng/ Kỹ sư xây dựng các Trường Đại học xây dựng, Kiến trúc, học viên kỹ thuật quân sự,...\\n- Có ít nhất từ 01- 02 năm kinh nghiệm làm việc tại các dự án.\\n- Sử dụng thành thạo các phần mềm tin học văn phòng và các phần mềm chuyên nghành (AutoCad, ...).\"\n}",
+  "usage": {
+    "input_tokens": 4626,
+    "output_tokens": 738,
+    "total_tokens": 5364,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

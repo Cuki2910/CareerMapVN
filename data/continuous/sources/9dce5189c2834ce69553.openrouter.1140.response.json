@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Xuất Nhập Hàng (Lao Động Phổ Thông, Nam) - Không Yêu Cầu Kinh Nghiệm\",\"company_name\":\"CÔNG TY TNHH THÊU VĨNH DƯƠNG\",\"job_category\":\"Lao động phổ thông\",\"sub_category\":\"Phân loại/Sắp xếp hàng hoá\",\"industry\":\"Sản xuất khác chưa được phân vào đâu\",\"category\":null,\"location\":\"245 Đường Hòa Bình, Phường Phú Thạnh, Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-30\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-xuat-nhap-hang-lao-dong-pho-thong-nam-khong-yeu-cau-kinh-nghiem/2346078.html\",\"qualifications\":[\"Trung học cơ sở (Cấp 2) trở lên\"],\"technical_skills\":null,\"soft_skills\":[\"Siêng năng\",\"Trung thực\",\"Tinh thần trách nhiệm\",\"Khả năng phối hợp làm việc nhóm\",\"Ý thức bảo quản hàng hóa và tài sản công ty\",\"Chấp hành sự phân công và hướng dẫn của quản lý\"],\"languages_required\":null,\"experience_required\":0,\"salary\":\"Lương từ 7.000.000 đồng trở lên\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Làm việc theo ca cố định: Ca sáng: 6h00-14h00; Ca chiều: 14h00-22h00; Ca hành chánh: 8h00-16h00\",\"benefits\":[\"Lương từ 7.000.000 đồng trở lên\",\"Làm việc ca chiều (14h00-22h00) được thêm phụ cấp ca 20% lương hợp đồng\",\"Được bố trí phần cơm trong ngày làm việc\",\"Tham gia đầy đủ chế độ BHXH-BHTN-BHYT theo quy định\",\"Trợ cấp xăng xe, thưởng chuyên cần, thưởng năng suất hàng tháng\",\"Trợ cấp nuôi con nhỏ dưới 6 tuổi\",\"Lương tháng 13, Thưởng cuối năm\",\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Phụ cấp thâm niên\",\"Thưởng tháng 13\",\"Thưởng hiệu quả làm việc\",\"Ăn trưa\",\"Xăng xe\"],\"description\":\"1. Công việc nhập hàng\\n- Tiếp nhận hàng hóa từ nhà cung cấp, đơn vị vận chuyển hoặc các bộ phận trong công ty (làm việc tại công ty).\\n- Thực hiện bốc hàng là các bán thành phẩm quần áo, giầy,... (khối lượng không quá 20 kg), vận chuyển hàng hóa vào khu vực xuất nhập.\\n- Kiểm tra số lượng, chủng loại bán thành phẩm theo hướng dẫn.\\n- Sắp xếp hàng hóa đúng vị trí, đúng khu vực lưu trữ.\\n- Ghi chép số lượng và báo cáo quản lý khi phát hiện hàng hóa thiếu, thừa, hư hỏng hoặc không đúng yêu cầu.\\n\\n2. Công việc xuất hàng\\n- Chuẩn bị hàng hóa theo phiếu xuất kho hoặc yêu cầu của bộ phận phụ trách.\\n- Thực hiện lấy hàng, đóng gói, bốc hàng và vận chuyển hàng hóa đến khu vực giao nhận.\\n- Phối hợp kiểm đếm số lượng hàng hóa trước khi bàn giao.\\n- Hỗ trợ chất hàng lên xe và sắp xếp hàng hóa đảm bảo an toàn.\\n- Bàn giao hàng hóa cho đơn vị vận chuyển hoặc bộ phận nhận hàng theo quy định.\",\"requirements_text\":\"Yêu cầu ứng viên:\\n- Có sức khỏe phù hợp với tính chất công việc bốc xếp, vận chuyển hàng hóa.\\n- Siêng năng, trung thực, có tinh thần trách nhiệm.\\n- Có khả năng phối hợp làm việc nhóm.\\n- Có ý thức bảo quản hàng hóa và tài sản công ty.\\n- Chấp hành sự phân công và hướng dẫn của quản lý.\\n\\nKỹ năng cần có:\\nTrung thực, Siêng năng, Tinh Thần Trách Nhiệm, Khả năng phối hợp làm việc nhóm, Ý thức bảo quản hàng hóa và tài sản công ty\"}",
+  "usage": {
+    "input_tokens": 5261,
+    "output_tokens": 3787,
+    "total_tokens": 9048,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 2516
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

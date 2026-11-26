@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Gia Công Cơ Khí\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN THÉP VAS HẢI PHÒNG\",\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Thợ cơ khí\",\n  \"industry\": \"Đúc sắt, thép\",\n  \"category\": null,\n  \"location\": \"Hải Phòng: Khu CN Nam cầu kiền, Phường Thiên Hương (Phường Thiên Hương thuộc Thành phố Thuỷ Nguyên cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-gia-cong-co-khi/2323685.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp Trung cấp/cao đẳng nghề trở lên (Cơ khí, hàn, nguội, tiện, phay, bào...)\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng các công cụ máy móc, dụng cụ đo phục vụ gia công cơ khí\",\n    \"Đọc hiểu bản vẽ\",\n    \"Kiến thức về dung sai\"\n  ],\n  \"soft_skills\": [\n    \"Chăm chỉ\",\n    \"Có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": null,\n  \"salary\": \"13 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"- Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\n- Có thể làm việc theo ca sản xuất\",\n  \"benefits\": [\n    \"Thưởng tháng lương 13, thưởng ngày lễ, tết, sinh nhật, hiếu hỉ.../\",\n    \"Đóng BHXH, BHYT đầy đủ\",\n    \"Hỗ trợ ăn ca\",\n    \"Môi trường làm việc ổn định, lâu dài\",\n    \"Cơ hội nâng cao tay nghề, thăng tiến\"\n  ],\n  \"description\": \"Tổng quan\\nChuyên môn: Thợ cơ khí; Cơ khí / Tự động hóa\\n\\nMô tả công việc\\n- Tiện, phay, bào gia công cơ cắt gọt kim loại\\n- Bảo trì, bảo dưỡng sửa chữa máy móc thiết bị cơ khí\\n\\nThông tin chung\\nCấp bậc: Nhân viên\\nSố lượng tuyển: 10 người\\nHình thức làm việc: Làm việc tại văn phòng / Onsite\\nLoại hình làm việc: Toàn thời gian\",\n  \"requirements_text\": \"Yêu cầu: Dưới 1 năm kinh nghiệm chuyên môn  Trung cấp trở lên  Nam\\n\\nYêu cầu ứng viên\\n- Tốt nghiệp Trung cấp/cao đẳng nghề trở lên (Cơ khí, hàn, nguội, tiện, phay, bào...)\\n- Có kinh nghiệm sử dụng các công cụ máy móc, dụng cụ đo phục vụ gia công cơ khí\\n- Đọc hiểu bản vẽ, có kiến thức về dung sai\\n- Sức khỏe tốt, chăm chỉ, có trách nhiệm trong công việc\\n- Có thể làm việc theo ca\\n\\nKiến thức ngành\\nCơ khí / Tự động hóa\\n\\nKỹ năng nên có\\nbảo trì\"\n}",
+  "usage": {
+    "input_tokens": 4487,
+    "output_tokens": 770,
+    "total_tokens": 5257,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

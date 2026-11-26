@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Đóng Gói Kho - Yêu Cầu Nam\",\n  \"company_name\": null,\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Đóng gói hàng hóa\",\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-dong-goi-kho-yeu-cau-nam/2353480.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"sử dụng máy tính cơ bản\",\n    \"in đơn\",\n    \"quét mã vạch\"\n  ],\n  \"soft_skills\": [\n    \"nhanh nhẹn\",\n    \"chăm chỉ\",\n    \"có trách nhiệm\",\n    \"cẩn thận\",\n    \"tỉ mỉ\",\n    \"chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 17:00), Làm việc giờ hành chính: 7:30-17:00, nghỉ CN (tăng ca tính tiền riêng)\",\n  \"benefits\": [\n    \"Tăng ca tính tiền riêng\",\n    \"Phụ cấp tiền xăng riêng\",\n    \"Được tham gia đầy đủ chế độ BHXH, BHYT theo Luật lao động\",\n    \"Chấp nhận tăng ca khi có yêu cầu\"\n  ],\n  \"description\": \"-Tiếp nhận đơn hàng từ các sàn thương mại điện tử: Shopee, TikTok Shop​  \\n- Kiểm tra thông tin đơn hàng, mã sản phẩm, số lượng và tình trạng hàng hóa trước khi đóng gói.​  \\n- Thực hiện lấy hàng (picking), phân loại và đóng gói hàng hóa theo đúng quy trình.​  \\n- Đảm bảo hàng hóa được đóng gói đúng quy cách, đầy đủ phụ kiện, tem nhãn và hóa đơn (nếu có).​  \\n- In và dán mã vận đơn chính xác lên từng kiện hàng.​  \\n-Kiểm tra, báo cáo các trường hợp thiếu hàng, sai hàng, hàng lỗi hoặc hư hỏng.​  \\n- Sắp xếp, bảo quản hàng hóa trong kho gọn gàng, khoa học.\\n- Hỗ trợ xuống hàng, bốc xếp hàng hóa khi cần\",\n  \"requirements_text\": \"- Nam sức khỏe tốt, nhanh nhẹn, chăm chỉ và có trách nhiệm.\\n- Tốt nghiệp THPT trở lên.\\n- Có khả năng sử dụng máy tính cơ bản, biết thao tác in đơn và quét mã vạch.\\n- Cẩn thận, tỉ mỉ, đảm bảo độ chính xác khi lấy hàng và đóng gói.\\n- Có thể làm việc với cường độ cao vào các ngày sale lớn, chiến dịch khuyến mãi.\\n- Sẵn sàng tăng ca, chịu được áp lực công việc\"\n}\n```",
+  "usage": {
+    "input_tokens": 4961,
+    "output_tokens": 805,
+    "total_tokens": 5766,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

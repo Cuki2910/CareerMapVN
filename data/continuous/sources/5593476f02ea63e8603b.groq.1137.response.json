@@ -1,0 +1,17 @@
+{
+  "content": "{\n  \"job_title\": \"Đưa Đón Ban Lãnh Đạo ( Xe 7 Chỗ )\",\n  \"company_name\": \"CÔNG TY TNHH XÍCH KMC (VIỆT NAM)\",\n  \"job_category\": \"Lái xe\",\n  \"sub_category\": \"Lái xe cho sếp\",\n  \"industry\": \"Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động\",\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/tai-xe-lai-xe-dua-don-ban-lanh-dao-xe-7-cho/2346571.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Cẩn thận\",\n    \"Đúng giờ\",\n    \"Tinh thần trách nhiệm cao\",\n    \"Giấy Phép Lái Xe Phù Hợp\",\n    \"Kinh Nghiệm Lái Xe\",\n    \"Tác phong chuyên nghiệp\",\n    \"Lịch Sự\",\n    \"Tiếng Trung\",\n    \"Tiếng Anh\",\n    \"Kinh Nghiệm Quản Lý\",\n    \"Kinh nghiệm đưa đón chuyên gia\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"Đúng giờ\",\n    \"Tinh thần trách nhiệm cao\",\n    \"Tác phong chuyên nghiệp\",\n    \"Lịch Sự\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\",\n    \"Tiếng Trung\"\n  ],\n  \"experience_required\": 3,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Bảo hiểm thất nghiệp\",\n    \"Bảo hiểm y tế\",\n    \"Chế độ tăng ca\",\n    \"Chính sách phúc lợi của công ty\"\n  ],\n  \"description\": \"Đưa đón chuyên gia nước ngoài từ khu chung cư Topaz đến Công ty và ngược lại theo lịch trình.\\nĐưa đón chuyên gia đi công tác tại các tỉnh, thành phố lân cận theo yêu cầu của Công ty.\\nĐảm bảo an toàn, đúng giờ và tuân thủ lịch trình di chuyển.\\nGiữ gìn vệ sinh, bảo quản và kiểm tra tình trạng phương tiện được giao.\\nThực hiện các công việc khác theo sự phân công của cấp trên.\",\n  \"requirements_text\": \"* Độ tuổi: 35 – 45 tuổi.\\n* Tốt nghiệp THPT trở lên.\\n* Có ít nhất 03 năm kinh nghiệm lái xe.\\n* Có thể giao tiếp bằng tiếng Trung hoặc tiếng Anh.\\n* Có giấy phép lái xe phù hợp với loại xe được giao.\\n* Có Phiếu lý lịch tư pháp hợp lệ, không có án tích.\\n* Ưu tiên ứng viên có kinh nghiệm đưa đón chuyên gia, quản lý hoặc người nước ngoài.\\n* Có tác phong chuyên nghiệp, lịch sự, đúng giờ, cẩn thận và có tinh thần trách nhiệm cao.\"\n}",
+  "usage": {
+    "input_tokens": 4600,
+    "output_tokens": 2433,
+    "total_tokens": 7033,
+    "input_token_details": {
+      "cache_read": 1792
+    },
+    "output_token_details": {
+      "reasoning": 1648
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

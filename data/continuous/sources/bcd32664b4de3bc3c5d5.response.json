@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kỹ Thuật\",\n  \"company_name\": null,\n  \"job_category\": \"Sửa chữa/Bảo trì điện tử/viễn thông\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-15\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ky-thuat-10-25-trieu-khong-yeu-cau-kinh-nghiem-di-lam-ngay/2309458.html\",\n  \"qualifications\": [\n    \"Sơ cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"iOS\",\n    \"Android\",\n    \"MacOs\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Khả Năng Học Hỏi Nhanh\",\n    \"Biết xử lý tình huống\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h35 - 18h00\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thưởng tháng 13\",\n    \"Phụ cấp thâm niên\"\n  ],\n  \"description\": \"- Kiểm định, kiểm tra sản phẩm đầu vào đảm bảo tiêu chí bán ra.\\n- Tiếp nhận bảo hành, hỗ trợ kỹ thuật, hướng dẫn khách hàng sử dụng sản phẩm.\\n- Cài đặt phần mềm, nâng cấp phần mềm điện thoại (iOS, Android, MacOs).\\n- Tháo lắp, thay thế các linh kiện cơ bản của thiết bị di động, máy tính, máy tính bảng...\",\n  \"requirements_text\": \"- Giới tính: Nam (20 - 24 tuổi).\\n- Ưu tiên ứng viên có khả năng giao tiếp, diễn giải mạch lạc.\\n- Không yêu cầu kinh nghiệm - Chưa có sẽ được đào tạo.\\n- Chăm chỉ, thật thà, kiên trì và có mục tiêu lâu dài với nghề.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5297,
+    "output_tokens": 615,
+    "total_tokens": 5912,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

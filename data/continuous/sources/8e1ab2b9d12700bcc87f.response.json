@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Giao Hàng Khu Vực Long Biên (Thời Gian Làm Việc Linh Động)\",\n  \"company_name\": \"Công Ty Cổ Phần Thực Phẩm Gia Phát\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"industry\": \"Bán buôn thực phẩm\",\n  \"category\": null,\n  \"location\": \"158 đường Hồng Tiến, Phường Long Biên (Phường Long Biên thuộc quận Long Biên cũ), Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-20\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-giao-hang-khu-vuc-long-bien-thoi-gian-lam-viec-linh-dong/2362548.html\",\n  \"qualifications\": [\"Trung học phổ thông (Cấp 3) trở lên\"],\n  \"technical_skills\": [\"giao hàng\", \"Rành đường khu vực nội thành Hà Nội\"],\n  \"soft_skills\": [\"Trung thực\", \"Trách nhiệm\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8 - 12 triệu\\nThu nhập: 8 – 12 triệu đồng/tháng.\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc linh động\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Thu nhập: 8 – 12 triệu đồng/tháng.\",\n    \"Nghỉ phép, BHXH theo quy định.\",\n    \"Môi trường làm việc ổn định, lâu dài.\",\n    \"Thời gian làm việc linh động\"\n  ],\n  \"description\": \"- Nhận đơn hàng, nhận tuyến giao hàng tại văn phòng.\\n- Lấy hàng từ kế toán, đóng hàng vào thùng hoặc túi theo quy định.\\n- Giao hàng cho khách sạn, nhà hàng sẽ chia theo tuyến được phân công.\\n- Hỗ trợ xếp hàng vào kho.\\n- Gửi hàng đi tỉnh khi có phát sinh.\\n- Phối hợp với các bộ phận liên quan.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Trung học phổ thông (Cấp 3) trở lên\\n\\nYêu cầu ứng viên\\n- Có xe máy riêng.\\n- Sức khỏe tốt, trung thực, trách nhiệm.\\n- Rành đường khu vực nội thành Hà Nội.\\n- Ưu tiên ứng viên có kinh nghiệm giao hàng.\\n\\nKiến thức ngành\\nBán lẻ - Hàng tiêu dùng - FMCG, Thực phẩm / Đồ uống, Logistic / Vận tải\\n\\nKỹ năng cần có\\ngiao hàng, Rành Đường\\n\\nKỹ năng nên có\\nKinh Nghiệm Giao Hàng\"\n}",
+  "usage": {
+    "input_tokens": 4651,
+    "output_tokens": 686,
+    "total_tokens": 5337,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

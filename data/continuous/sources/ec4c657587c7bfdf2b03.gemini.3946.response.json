@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kỹ Sư Shopdrawing\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Chuyên môn Xây dựng khác\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Đà Nẵng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-shopdrawing/2283053.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học chuyên ngành Xây dựng dân dụng & công nghiệp\",\n    \"Kiến trúc hoặc các chuyên ngành liên quan\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\",\n    \"Revit\"\n  ],\n  \"soft_skills\": [\n    \"tư duy kỹ thuật tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Tham gia đầy đủ BHXH, BHYT, BHTN theo quy định.\",\n    \"Được đào tạo, nâng cao chuyên môn và có lộ trình phát triển lên Trưởng nhóm/Chỉ huy kỹ thuật.\",\n    \"Môi trường làm việc chuyên nghiệp, nhiều cơ hội tham gia các dự án lớn.\"\n  ],\n  \"description\": \"Triển khai bản vẽ Shop Drawing từ hồ sơ thiết kế phục vụ thi công.\\nKiểm tra, rà soát và xử lý các xung đột kỹ thuật trên bản vẽ.\\nPhối hợp với Ban Chỉ huy công trình, tư vấn và các bộ phận liên quan để hoàn thiện bản vẽ.\\nCập nhật, điều chỉnh bản vẽ theo thực tế thi công và yêu cầu của dự án.\\nBóc tách khối lượng, hỗ trợ lập hồ sơ hoàn công và thực hiện các công việc kỹ thuật.\",\n  \"requirements_text\": \"Tốt nghiệp Cao đẳng/Đại học chuyên ngành Xây dựng dân dụng & công nghiệp, Kiến trúc hoặc các chuyên ngành liên quan.\\nCó từ 01 năm kinh nghiệm ở vị trí Shopdrawing (chấp nhận ứng viên mới tốt nghiệp nếu thành thạo AutoCAD và có tư duy kỹ thuật tốt).\\nThành thạo AutoCAD; biết Revit là lợi thế.\\nĐọc hiểu tốt bản vẽ kiến trúc, kết cấu và MEP.\\nCó khả năng bóc tách khối lượng, xử lý các vấn đề kỹ thuật.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4654,
+    "output_tokens": 666,
+    "total_tokens": 5320,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Nhập Liệu\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"In ấn / Xuất bản\",\n  \"industry\": \"Sản xuất\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-03\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nhap-lieu/2136127.html\",\n  \"qualifications\": [\n    \"Trung cấp/Cao đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Microsoft Excel\",\n    \"Nhập Liệu\",\n    \"Kiểm Tra Dữ Liệu\",\n    \"Sử Dụng Phần Mềm Erp\"\n  ],\n  \"soft_skills\": [\n    \"Làm việc nhóm\",\n    \"Cẩn thận\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)\",\n  \"benefits\": [\n    \"Môi trường làm việc thân thiện, năng động.\",\n    \"Cơ hội được đào tạo và phát triển nghề nghiệp.\",\n    \"Được hưởng đầy đủ các chế độ bảo hiểm theo quy định của pháp luật.\",\n    \"Tham gia các hoạt động teambuilding, du lịch hàng năm.\",\n    \"Các chế độ phúc lợi khác theo quy định của công ty.\"\n  ],\n  \"description\": \"Nhập liệu và quản lý BOM cho các dòng sản phẩm giày mẫu của thương hiệu Deckers (HOKA & TEVA)\\nKiểm tra, đối chiếu thông tin nguyên phụ liệu (da, vải, đế, phụ kiện...)\\nCập nhật thay đổi BOM theo yêu cầu từ bộ phận phát triển mẫu (R&D)\\nPhối hợp với các phòng ban (kỹ thuật, sản xuất, thu mua) để đảm bảo dữ liệu chính xác\\nLưu trữ, quản lý dữ liệu BOM khoa học, dễ truy xuất\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm.\\nCó sức khỏe tốt và chịu được áp lực công việc.\\nCó khả năng làm việc theo ca và làm thêm giờ\\nCó tinh thần trách nhiệm, cẩn thận và tỉ mỉ trong công việc.\\nCó khả năng làm việc nhóm và phối hợp với đồng nghiệp.\\nTốt nghiệp Trung cấp/Cao đẳng trở lên\\nThành thạo Excel, ưu tiên biết sử dụng phần mềm quản lý BOM/ERP\\nCó khả năng đọc hiểu tài liệu kỹ thuật là một lợi thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 5052,
+    "output_tokens": 695,
+    "total_tokens": 5747,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

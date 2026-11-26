@@ -1,0 +1,20 @@
+{
+  "content": "{\n  \"job_title\": \"Phiên Dịch Tiếng Trung\",\n  \"company_name\": \"CÔNG TY TNHH GIÀY CỰ ÍCH HƯNG YÊN VIỆT NAM\",\n  \"job_category\": \"Biên phiên dịch\",\n  \"sub_category\": \"Phiên dịch tiếng Trung\",\n  \"industry\": \"Sản xuất giày, dép\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/phien-dich-tieng-trung/2354763.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"HSK4 trở lên (lợi thế)\"\n  ],\n  \"technical_skills\": [\n    \"Lark/Feishu (lợi thế)\"\n  ],\n  \"soft_skills\": [\n    \"Có trách nhiệm, chủ động, dám nhắc nhở và đôn đốc người khác\",\n    \"Giao tiếp tốt, cẩn thận, biết sắp xếp công việc\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Trung\",\n    \"Tiếng Việt\"\n  ],\n  \"experience_required\": 1,\n  \"salary\": \"12 - 18 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Đóng BHXH, BHYT, BHTN đầy đủ theo quy định.\",\n    \"Thưởng theo hiệu quả công việc.\",\n    \"Nghỉ lễ, Tết theo quy định.\",\n    \"Được đào tạo, có lộ trình thăng tiến lên vị trí quản lý.\",\n    \"Môi trường trẻ, năng động, làm việc trực tiếp với Ban lãnh đạo.\"\n  ],\n  \"description\": \"Phiên dịch tiếng Trung – tiếng Việt giữa Ban Giám đốc người Trung Quốc và nhân viên Việt Nam (họp, trao đổi công việc hằng ngày).\\nTiếp nhận nhiệm vụ từ Giám đốc, phân công và truyền đạt rõ ràng cho các bộ phận (vận hành, kinh doanh, livestream, thiết kế).\\nTheo dõi, đôn đốc nhân viên hoàn thành công việc đúng tiến độ mỗi ngày.\\nKiểm tra kết quả công việc, tổng hợp và báo cáo cho Giám đốc hằng ngày.\\nDịch các tài liệu, tin nhắn công việc trên Lark/Feishu.\",\n  \"requirements_text\": \"Tiếng Trung thành thạo (nghe, nói, đọc, viết); có HSK4 trở lên là lợi thế.\\nCó ít nhất 1 năm kinh nghiệm phiên dịch hoặc trợ lý cho sếp người Trung Quốc.\\nCó trách nhiệm, chủ động, dám nhắc nhở và đôn đốc người khác.\\nGiao tiếp tốt, cẩn thận, biết sắp xếp công việc.\\nBiết sử dụng Lark/Feishu là lợi thế.\"\n}",
+  "usage": {
+    "input_tokens": 4725,
+    "output_tokens": 5511,
+    "total_tokens": 10236,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4620
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

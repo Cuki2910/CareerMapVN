@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kế Toán Kho Thu Nhập 14 Triệu Làm Tại Thuận Giao\",\n  \"company_name\": null,\n  \"job_category\": \"Chuyên môn khác\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-toan-kho-thu-nhap-14-trieu-lam-tai-thuan-giao/2352027.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"phần mềm kế toán\",\n    \"KiotViet\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"trung thực\",\n    \"chủ động\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3.0,\n  \"salary\": \"12 - 14 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThời gian: 8h–17h, Thứ 2–Thứ 6 tại Văn phòng Kho, đường Thuận Giao 13; Thứ 7 làm online (WFH ko cần đến công ty).\",\n  \"benefits\": [\n    \"Thiết bị: Máy tính\",\n    \"BHXH, BHYT, BHTN theo quy định\",\n    \"Thưởng lễ, Tết, tháng 13 theo chính sách và kết quả kinh doanh\",\n    \"Xét tăng lương theo năng lực\",\n    \"Chủ nhật nghỉ\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"- Kiểm tra, hạch toán nhập – xuất – tồn hàng hóa, nguyên vật liệu và thành phẩm.\\n- Theo dõi chuyển kho 368–811, hàng ký gửi, hàng trả về và hàng phục vụ TMĐT.\\n- Phối hợp kiểm kê, đối chiếu số liệu, xác minh chênh lệch và đề xuất xử lý.\\n- Theo dõi giá vốn, chi phí sản xuất, tiêu hao vật tư so với định mức.\\n- Báo cáo tồn kho, hàng chậm luân chuyển, thiếu hàng và hao hụt bất thường.\\n- Kiểm soát chứng từ và phối hợp với thủ kho, sản xuất, bán hàng, kế toán.\",\n  \"requirements_text\": \"- Tốt nghiệp Đại học chuyên ngành Kế toán, Kiểm toán hoặc Tài chính.\\n- Có kinh nghiệm kế toán kho; ưu tiên ngành sản xuất, in ấn, phân phối.\\n- Thành thạo Excel, phần mềm kế toán; biết KiotViet là lợi thế.\\n- Cẩn thận, trung thực, chủ động; biết ứng dụng AI vào công việc là lợi thế.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4767,
+    "output_tokens": 763,
+    "total_tokens": 5530,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

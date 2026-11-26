@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"International Sales Support\",\"company_name\":null,\"job_category\":\"Sales\",\"sub_category\":\"Sales Admin/Sales Support/Sales Associate\",\"industry\":\"Bán lẻ - Hàng tiêu dùng - FMCG, Logistic / Vận tải, Xuất nhập khẩu / Hải quan\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-13\",\"url\":\"https://www.topcv.vn/viec-lam/international-sales-support/2294918.html\",\"qualifications\":[\"Đại Học trở lên\",\"Bachelor’s degree in Business Administration, International Business, Marketing, or related field\"],\"technical_skills\":[\"MS Office (Word, Excel, PowerPoint)\"],\"soft_skills\":[\"Proactive\",\"Resourceful\",\"Solution-oriented\",\"Customer-focused mindset\"],\"languages_required\":[\"English\"],\"experience_required\":0,\"salary\":\"Thoả thuận\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00); Thứ 7 (từ 08:00 đến 12:00); Nghỉ trưa 12:00 - 13:00. Monday - Friday: 8:00 – 17:00 (Lunch break: 12:00 – 13:00); Saturday: 8:00- 12:00\",\"benefits\":[\"Competitive salary, all benefits followed Vietnamese labor law, plus 13th-month salary, quarterly performance bonus;\",\"Work hours: Monday - Friday: 8:00 – 17:00 (Lunch break: 12:00 – 13:00); Saturday: 8:00- 12:00\",\"Meal, Travel, Telephone allowances;\",\"Annual health check-up. Private health care program;\",\"Company trip at least once per year;\",\"Gaining clear view of your career path and attractive salary;\",\"Receiving training opportunities including many technical seminars and soft skill training courses;\",\"Professional and dynamic working environment;\",\"Having chance to work for worldwide customers and partners.\"],\"description\":\"1. Daily Operations\\n- Support the sales team in managing contracts and communication with the factory when needed.\\n- Assist the Sales Manager in updating weekly reports and preparing customer contracts.\\n\\n2. Reporting System\\n- Compare data from the Sales and Accounting departments on a monthly basis.\\n- Update the payment term list of new customers and revise payment terms for existing customers to the Accounting team.\\n- Ensure timely, accurate, and efficient processing of data for monthly sales reports.\\n\\n3. Other Duties\\n- Perform additional tasks as assigned by the Sales Manager.\",\"requirements_text\":\"Requirements: Dưới 1 năm kinh nghiệm chuyên môn Đại Học trở lên\\n\\nCandidate Requirements\\n- Education & Background: Bachelor’s degree in Business Administration, International Business, Marketing, or related field. Previous experience in FMCG and/or beauty product sales support is highly preferred.\\n- Language Skills: Excellent verbal and written communication skills in English (additional languages are an advantage).\\n- Personal Attributes: Proactive, resourceful, and solution-oriented with a customer-focused mindset.\\n- Technical Skills: Proficient in MS Office (Word, Excel, PowerPoint)\\n\\nPlease send your CV in English\"}",
+  "usage": {
+    "input_tokens": 4823,
+    "output_tokens": 5113,
+    "total_tokens": 9936,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4376
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân Nhà Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Thu ngân\",\n  \"sub_category\": \"Nhà hàng / Khách sạn\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"25 ngõ 59 Láng Hạ, Phường Ô Chợ Dừa, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan-nha-hang/1739088.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"ipos\",\n    \"phần mềm ipos\",\n    \"máy tính tiền\",\n    \"máy Pos\",\n    \"phần mềm quản lý nhà hàng\"\n  ],\n  \"soft_skills\": [\n    \"kỹ năng giao tiếp tốt\",\n    \"Khả Năng Làm Việc Dưới Áp Lực\",\n    \"Khả Năng Tính Toán Nhanh Chóng Và Chính Xác\",\n    \"Khả Năng Sử Dụng Máy Tính Tiền\",\n    \"Khả Năng Xử Lý Tiền Mặt Và Thẻ Tín Dụng\",\n    \"kỹ năng phục vụ khách hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"7.5 - 8.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 09:00 đến 17:30)\",\n  \"benefits\": [\n    \"Phụ cấp: Ăn trưa\",\n    \"Hỗ trợ ăn ca tại nhà hàng\",\n    \"Đóng BHXH theo quy định của nhà nước\",\n    \"Tháng nghỉ 3-4 ngày/tháng\",\n    \"Được nghỉ Lễ, Tết theo quy định; thưởng Lễ, Tết hàng năm theo quy định công ty và các chế khác...\",\n    \"Đi làm ngày lễ/tết được nhân 3\"\n  ],\n  \"description\": \"- Thực hiện chuẩn bị, kiểm tra các công việc đầu ca, kiểm tra các thiết bị phục vụ trong công việc\\n- Nhận hàng từ nhà cung cấp đảm bảo các chứng từ nhận hàng từ nhà cung cấp đầy đủ\\n- Duyệt order và hỗ trợ thanh toán cho khách hàng, quản lý doanh thu\\n- Trực điện thoại/tin nhắn/Fanpage khi khách cần đặt bàn\\n- Hỗ trợ giám sát trong ca đảm bảo quá trình thanh toán, cũng như đảm bảo số lượng món đúng và hợp lý\\n- Báo cáo các hoạt động/phát sinh cuối ngày, báo cáo quỹ/thanh toán/doanh thu\",\n  \"requirements_text\": \"- Nữ trung thực, nhanh nhẹn trong công việc, độ tuổi từ 18-26 tuổi\\n- Có lộ trình và cơ hội thăng tiến\\n- Được đào tạo và phát triển năng lực\\n- Nắm được các nghiệp vụ thu ngân cơ bản\\n- Ưu tiên có kinh nghiệm và đã sử dụng phần mềm ipos\\n- Thời gian làm việc: 09h00-17h30\"\n}\n```",
+  "usage": {
+    "input_tokens": 5013,
+    "output_tokens": 827,
+    "total_tokens": 5840,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

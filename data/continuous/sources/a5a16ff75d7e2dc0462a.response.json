@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thủ Kho Nhà Hàng\",\n  \"company_name\": null,\n  \"job_category\": \"Nhân viên kho\",\n  \"sub_category\": null,\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2027-01-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-kho-nha-hang/2147270.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Excel\",\n    \"phần mềm quản lý kho\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"trung thực\",\n    \"có trách nhiệm cao trong công việc\",\n    \"quản lý kho hàng và sắp xếp hàng hóa khoa học\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"9 - 11 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca gãy: 09h-14h & 17h-21h.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"BHYT\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Chế độ phúc lợi minh bạch, theo quy định Pháp luật\",\n    \"Thưởng lễ\",\n    \"thưởng cuối năm\",\n    \"lương tháng 13\",\n    \"sinh nhật\",\n    \"08/03\",\n    \"Xét điều chỉnh lương định kỳ hằng năm\",\n    \"Hoạt động văn hóa nội bộ sôi nổi\",\n    \"du lịch\",\n    \"Phụ cấp 2 bữa trưa & tối tại công ty\",\n    \"Du lịch hàng năm\",\n    \"Phụ cấp thâm niên\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Được cấp Máy tính\"\n  ],\n  \"description\": \"Tiếp nhận, kiểm tra và thực hiện nhập – xuất nguyên vật liệu, hàng hóa theo đúng quy trình của nhà hàng.\\nSắp xếp, bảo quản hàng hóa trong kho gọn gàng, đảm bảo tiêu chuẩn vệ sinh và kiểm soát hạn sử dụng.\\nTheo dõi số lượng tồn kho, lập báo cáo định kỳ và phối hợp kiểm kê cùng kế toán.\\nHạn chế thất thoát, hư hỏng và đảm bảo cung ứng đầy đủ nguyên vật liệu cho các bộ phận liên quan.\\nThực hiện các công việc khác theo yêu cầu của Tổng Quản lý\\nThời gian làm việc: Ca gãy: 09h-14h & 17h-21h.\",\n  \"requirements_text\": \"Có kinh nghiệm làm kho, ưu tiên từng làm trong nhà hàng, F&B.\\nCẩn thận, trung thực, có trách nhiệm cao trong công việc.\\nBiết sử dụng Excel cơ bản, phần mềm quản lý kho là lợi thế.\\nCó khả năng quản lý kho hàng và sắp xếp hàng hóa khoa học.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4955,
+    "output_tokens": 780,
+    "total_tokens": 5735,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

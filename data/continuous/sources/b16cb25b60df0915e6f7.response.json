@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Giám Sát Bán Hàng Kênh GT\",\n  \"company_name\": null,\n  \"job_category\": \"Sales Supervisor/Giám sát bán hàng\",\n  \"sub_category\": null,\n  \"industry\": \"Bán lẻ - Hàng tiêu dùng - FMCG\",\n  \"category\": null,\n  \"location\": \"Cần Thơ, Cà Mau, Vĩnh Long\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-24\",\n  \"url\": \"https://www.topcv.vn/viec-lam/giam-sat-ban-hang-kenh-gt/1416640.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Kỹ năng giao tiếp\",\n    \"đàm phán tốt\",\n    \"Kỹ năng xây dựng đội nhóm hiệu quả\",\n    \"Tinh thần trách nhiệm\",\n    \"chấp nhận thách thức\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"20 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Thu nhập cạnh tranh\",\n    \"Hưởng trọn lương cơ bản trong giai đoạn thử việc\",\n    \"Được tham gia BHXH, BHYT, BHTN trong giai đoạn thử việc\",\n    \"Chế độ Bảo hiểm 24/7\",\n    \"Chế độ thưởng Lễ, Tết, Lương tháng 13, KPI,...\",\n    \"Các loại phụ cấp: ăn trưa, xăng xe, điện thoại,...\",\n    \"Tăng lương định kỳ hàng năm\",\n    \"Du lịch thường niên\",\n    \"Cơ hội thăng tiến trong công việc\",\n    \"Có hỗ trợ Data\"\n  ],\n  \"description\": \"Mô tả công việc\\n1. Xây dựng kế hoạch kinh doanh cho khu vực quản lý.\\n  * Xây dựng tuyến bán hàng\\n  * Quản lý, xây dựng mối quan hệ với khách hàng trong khu vực\\n  * Đảm bảo mục tiêu tăng trưởng doanh số, thị phần, độ phủ, trưng bày.\\n  * Thực hiện các báo cáo kết quả kinh doanh\\n\\n\\n2. Đào tạo và xây dựng đội nhân sự\\n  * Tuyển dụng, đào tạo, phát triển đội ngũ nhân sự\\n  * Huấn luyện các kỹ năng bán hàng cho nhân viên mới\\n  * Theo dõi, đôn đốc nhân viên thực hiện các chỉ tiêu đề ra\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n  * Tốt nghiệp từ THPT trở lên\\n  * Kinh nghiệm tối thiểu 1 năm GSBH/Sale Sup/ Team Leader trong ngành hàng FMCG/Đồ uống không cồn\\n  * Kỹ năng giao tiếp, đàm phán tốt\\n  * Kỹ năng xây dựng đội nhóm hiệu quả\\n  * Tinh thần trách nhiệm, chấp nhận thách thức\\n  * Am hiểu thị trường trong khu vực\"\n}\n```",
+  "usage": {
+    "input_tokens": 5195,
+    "output_tokens": 820,
+    "total_tokens": 6015,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

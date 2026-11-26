@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Phụ Bếp Full-Time\",\n  \"company_name\": \"Hộ kinh doanh Chảo bánh mì\",\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Phụ bếp\",\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-29\",\n  \"url\": \"https://www.topcv.vn/viec-lam/phu-bep-full-time-tai-tphcm-di-lam-ngay/2343536.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Sử dụng dao, kéo cơ bản\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8.8 - 9.0 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Full-time\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\\nCa sáng: 08:00 – 18:00\\nCa tối: 12:30 – 22:30\\nOff 4 ngày/tháng, không nghỉ cuối tuần, Lễ/Tết. Có thể đăng ký tăng ca.\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Lương Lễ/Tết hấp dẫn\",\n    \"Được đóng BHXH, Lương tháng 13 đầy đủ\",\n    \"KPI + Tips theo tháng\",\n    \"Ưu đãi 20% tại quán\"\n  ],\n  \"description\": \"##  Mô tả công việc \\n  * Sơ chế, chuẩn bị nguyên liệu, hỗ trợ chế biến món ăn.\\n  * Trình bày món và phối hợp cùng bếp chính.\\n  * Đảm bảo chất lượng món ăn được phục vụ đồng nhất và đúng tiêu chuẩn.\\n  * Duy trì vệ sinh, an toàn thực phẩm và sự ngăn nắp trong khu vực làm việc.\\n\\n##  Quyền lợi ứng viên \\n  * Lương Lễ/Tết hấp dẫn\\n  * Được đóng BHXH, Lương tháng 13 đầy đủ\\n  * KPI + Tips theo tháng\\n  * Ưu đãi 20% tại quán\\n\\n##  Địa điểm và thời gian \\n###  Địa điểm làm việc \\n  * **Hồ Chí Minh:** 31 Trần Quang Diệu, Phường Nhiêu Lộc (Phường Nhiêu Lộc thuộc Quận 3 cũ)\\n\\n###  Thời gian làm việc \\n  * Ca hỗn hợp (ngày & đêm) \\n  * Ca sáng: 08:00 – 18:00  \\nCa tối: 12:30 – 22:30  \\nOff 4 ngày/tháng, không nghỉ cuối tuần, Lễ/Tết. Có thể đăng ký tăng ca.\",\n  \"requirements_text\": \"###  Yêu cầu: \\nKhông yêu cầu kinh nghiệm chuyên môn  Tuổi 18 - 29  Trung cấp trở lên  Nam \\n\\n##  Yêu cầu ứng viên \\n  * Nam, 18 – 29 tuổi.\\n  * Không yêu cầu kinh nghiệm, được hướng dẫn khi nhận việc.\\n  * Biết sử dụng dao, kéo cơ bản.\"\n}",
+  "usage": {
+    "input_tokens": 4251,
+    "output_tokens": 1619,
+    "total_tokens": 5870,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 828
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

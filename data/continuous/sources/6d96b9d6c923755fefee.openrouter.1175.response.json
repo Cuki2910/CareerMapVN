@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Thực Tập Sinh Nhập Liệu Tiếng Nhật (Từ N4)\",\"company_name\":\"CÔNG TY TNHH DYM VIỆT NAM\",\"job_category\":\"Biên phiên dịch tiếng Nhật\",\"sub_category\":\"Nhập liệu tiếng Nhật\",\"industry\":\"Hoạt động tư vấn quản lý kinh doanh và hoạt động tư vấn quản lý khác\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-11-30\",\"url\":\"https://www.topcv.vn/viec-lam/thuc-tap-sinh-nhap-lieu-tieng-nhat-tu-n4/2345933.html\",\"qualifications\":[\"Cao Đẳng trở lên\",\"Sinh viên đang theo học tại Đại học hoặc Cao đẳng\",\"Trình độ tiếng Nhật tương đương N4 trở lên (không bắt buộc có chứng chỉ)\"],\"technical_skills\":[\"Khả năng sử dụng máy tính thành thạo\",\"Nhập liệu chính xác\",\"Ứng dụng các công cụ AI phù hợp\"],\"soft_skills\":[\"Tác phong làm việc nghiêm túc, chủ động, cẩn thận, tỉ mỉ, có tinh thần học hỏi và khả năng thích ứng linh hoạt trong công việc\",\"Có khả năng làm việc độc lập và hợp tác tốt trong nhóm\"],\"languages_required\":[\"Tiếng Nhật (N4 trở lên)\"],\"experience_required\":0,\"salary\":\"Từ 3 triệu\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Thực tập\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nĐối với Part-time: tối thiểu 6 buổi/ tuần\",\"benefits\":[\"Trợ cấp: 3.000.000 VNĐ/tháng\",\"Trợ cấp chuyên cần 1.000.000 VNĐ/tháng (đối với sinh viên làm full-time)\",\"Hỗ trợ dấu mộc thực tập cho sinh viên\",\"Cơ hội học hỏi và rèn luyện kỹ năng trong môi trường làm việc thực tế\",\"Làm việc trong môi trường trẻ trung, thân thiện và chuyên nghiệp\",\"Cơ hội trở thành nhân viên chính thức sau thời gian thực tập\",\"Được đào tạo nghiệp vụ, quy trình làm việc và kỹ năng sử dụng công cụ trong quá trình thực tập\"],\"description\":\"- Thực hiện các công việc cơ bản trên các nền tảng/phần mềm được phân công: Nhập liệu, tìm kiếm, cập nhật thông tin; Tạo, đăng bài và chỉnh sửa nội dung, hình ảnh, video.\\n- Phối hợp với Team: Kiểm tra chất lượng, đảm bảo độ chính xác và tiến độ công việc; ứng dụng các công cụ AI phù hợp.\\n- Được đào tạo nghiệp vụ, quy trình làm việc và kỹ năng sử dụng công cụ trong quá trình thực tập.\",\"requirements_text\":\"- Trình độ tiếng Nhật tương đương N4 trở lên (không bắt buộc có chứng chỉ).\\n- Sinh viên đang theo học tại Đại học hoặc Cao đẳng.\\n- Tác phong làm việc nghiêm túc, chủ động, cẩn thận, tỉ mỉ, có tinh thần học hỏi và khả năng thích ứng linh hoạt trong công việc.\\n- Có khả năng làm việc độc lập và hợp tác tốt trong nhóm.\\n\\nVUI LÒNG GỬI CV TIẾNG NHẬT\\n\\nKỹ năng cần có:\\nKhả Năng Làm Việc Độc Lập Và Nhóm, Khả Năng Sử Dụng Máy Tính Thành Thạo, Nhập Liệu Chính Xác, Tiếng Nhật N4 Trở Lên (đọc, Hiểu)\"}",
+  "usage": {
+    "input_tokens": 5040,
+    "output_tokens": 4441,
+    "total_tokens": 9481,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 3374
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Đúc Nhựa\",\n  \"company_name\": null,\n  \"job_category\": \"Thợ cơ khí\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-duc-nhua/2286615.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kiểm Tra Ngoại Quan\",\n    \"Cắt bavia\"\n  ],\n  \"soft_skills\": [\n    \"làm việc theo ca\",\n    \"Sức Khỏe Tốt\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Nhật\"\n  ],\n  \"experience_required\": 0.0,\n  \"salary\": \"7.3 - 12 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n  * Có thể đi làm theo ca (ca sáng 06h~14h, chiều 14h-22h, đêm 22h-06h) luân phiên\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\",\n    \"Môi trường làm việc thân thiện, chuẩn Nhật\",\n    \"Làm càng lâu lương càng cao (cơ hội tăng lương 3 lần/năm, thâm niên lên đến 1 triệu/tháng)\",\n    \"Tham gia lớp học tiếng Nhật miễn phí, phụ cấp tiếng Nhật lên đến 5 triệu/tháng\",\n    \"Hỗ trợ bữa ăn, cung cấp đồng phục, 1 tháng 1 bữa ăn dinh dưỡng đặc biệt\",\n    \"Thử việc hưởng 100% lương\",\n    \"Tham gia BHXH theo đúng quy định của Nhà nước, tham gia thêm bảo hiểm tai nạn 24h\",\n    \"Lao động nữ mang thai từ tháng thứ 7 được về sớm 1h hưởng nguyên lương\",\n    \"Tiệc Tất niên\",\n    \"Có cơ hội làm việc ngắn/dài hạn tại Nhật Bản\",\n    \"Nhân viên ưu tú được tặng chuyến du lịch Nhật Bản 5 ngày 4 đêm\",\n    \"Ăn trưa\"\n  ],\n  \"description\": \"  * Kiểm tra ngoại quan linh kiện nhựa tại khu vực máy đúc\\n  * Cắt bavia cho sản phẩm (nếu có)\\n  * Công việc khác theo chỉ đạo cấp trên\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn  Tuổi 18 - 48  Trung học phổ thông (Cấp 3) trở lên  Tiếng Nhật Đọc hiểu\\n  * Nam, nữ, tuổi từ 18 đến 48 tuổi\\n  * Có sức khỏe, có thể làm công việc đứng\\n  * Có thể đi làm theo ca (ca sáng 06h-14h, chiều 14h-22h, đêm 22h-06h) luân phiên\"\n}\n```",
+  "usage": {
+    "input_tokens": 4950,
+    "output_tokens": 814,
+    "total_tokens": 5764,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

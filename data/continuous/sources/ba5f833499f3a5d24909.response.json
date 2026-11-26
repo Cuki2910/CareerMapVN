@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Khảo Sát Thị Trường\",\n  \"company_name\": \"CÔNG TY TNHH MỘT THÀNH VIÊN CIMIGO\",\n  \"job_category\": \"Market Research\",\n  \"sub_category\": \"Nghiên cứu thị trường (Market Research)\",\n  \"industry\": \"Nghiên cứu thị trường và thăm dò dư luận\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-khao-sat-thi-truong/2013033.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Phân tích dữ liệu\",\n    \"Nghiên Cứu Thị Trường\",\n    \"Thu thập thông tin\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Thuyết phục người lạ\",\n    \"Kiên nhẫn\",\n    \"Trung thực\",\n    \"Năng động\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"6.5 - 9.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)\",\n  \"benefits\": [\n    \"Thu nhập tối thiểu: 6tr5 – 9tr5/ tháng\",\n    \"Thời gian làm việc linh động\",\n    \"Công việc ổn định, nhiều cơ hội thăng tiến (Trưởng nhóm, Giám sát viên)\",\n    \"Môi trường làm việc chuyên nghiệp, thân thiện.\",\n    \"Mở rộng mối quan hệ\",\n    \"Phúc lợi cao (BH tai nạn 24/7)\"\n  ],\n  \"description\": \"Tìm người tiêu dùng có sử dụng sản phẩm/ dịch vụ theo yêu cầu của dự án\\nThu thập ý kiến, tìm hiểu thói quen tiêu dùng tại nhà của họ thông qua bảng câu hỏi do công ty cung cấp (KHÔNG TIẾP THỊ BÁN HÀNG)\\nTặng quà sau khi phỏng vấn thành công\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn Trung cấp trở lên\\nCó Máy tính bảng/ Smartphone (Màn hình 5.5 Inch trở lên) hệ điều hành ANDROID\\nThời gian rảnh ít nhất 5 tiếng/ ngày phù hợp SINH VIÊN đang học/ ĐÃ tốt nghiệp\\nKHẢ NĂNG GIAO TIẾP, THUYẾT PHỤC NGƯỜI LẠ TỐT\\nCó xe gắn máy và THÍCH đi thực địa\\nKiên nhẫn, trung thực, năng động\\nHoàn thành định mức được giao mỗi ngày.\"\n}\n```",
+  "usage": {
+    "input_tokens": 21518,
+    "output_tokens": 728,
+    "total_tokens": 22246,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

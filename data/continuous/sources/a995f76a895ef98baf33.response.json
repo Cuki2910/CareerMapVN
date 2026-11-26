@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kho\",\n  \"company_name\": null,\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Nhân viên kiểm soát tồn kho\",\n  \"industry\": \"Kho vận\",\n  \"category\": null,\n  \"location\": \"Bắc Ninh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho/2349965.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"chăm chỉ\",\n    \"chịu khó\",\n    \"có trách nhiệm trong công việc\",\n    \"có ý thức tuân thủ nội quy và quy định an toàn lao động\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:15) (Được tính thêm lương nếu tăng ca), (Công việc ít tăng ca, kho hàng thiết bị điện tử, tự động hóa)\",\n  \"benefits\": [\n    \"Làm hành chính (8h-17h15) từ T2-T6, được nghỉ tất cả T7 & CN (Được tính thêm lương nếu tăng ca)\",\n    \"Lương thỏa thuận khi phỏng vấn\",\n    \"Tăng lương hàng năm\",\n    \"Thưởng 2 lần/năm\",\n    \"Đóng BHXH đầy đủ\",\n    \"BH tai nạn 24/7 và BH sức khỏe\",\n    \"Khám sức khỏe\",\n    \"Company trip hàng năm\"\n  ],\n  \"description\": \"- Nhặt hàng, đóng gói hàng theo tiêu chuẩn\\n- Kiểm hàng và sắp xếp hàng theo số lượng chính xác theo các lô hàng\\n- Giao nhận hàng hóa trong kho\\n- Các công việc khác theo sự phân công.\",\n  \"requirements_text\": \"-Nam, từ đủ 18 tuổi trở lên.\\n-Có sức khỏe tốt, chăm chỉ, chịu khó, có trách nhiệm trong công việc.\\n-Có ý thức tuân thủ nội quy và quy định an toàn lao động của công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4751,
+    "output_tokens": 622,
+    "total_tokens": 5373,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

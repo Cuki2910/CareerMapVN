@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Thu Ngân\",\n  \"company_name\": null,\n  \"job_category\": \"Thủ quỹ\",\n  \"sub_category\": null,\n  \"industry\": \"Hoạt động của các bệnh viện, trạm y tế\",\n  \"category\": null,\n  \"location\": \"Đồng Nai\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-27\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-thu-ngan/2313059.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Kế Toán Thu\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"phục vụ\",\n    \"xử lý tình huống\",\n    \"kiểm tra, đối chiếu số liệu\",\n    \"phát hiện sai lệch\",\n    \"Có trách nhiệm\",\n    \"trung thực\",\n    \"bảo mật thông tin\",\n    \"Ghi Chép Cẩn Thận\",\n    \"cẩn thận số liệu\",\n    \"Kiểm đếm tiền chính xác\",\n    \"cẩn thận\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"8 - 9 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:00 đến 16:30)\",\n  \"benefits\": [\n    \"Làm việc trong môi trường bệnh viện chuyên khoa mắt\",\n    \"Tham gia đầy đủ bảo hiểm theo Luật định\",\n    \"Hưởng ABR theo chính sách bệnh viện\"\n  ],\n  \"description\": \"- Thực hiện thu tiền và thanh toán cho khách hàng bằng tiền mặt, thẻ, chuyển khoản hoặc các phương thức thanh toán khác.\\n- Kiểm tra hóa đơn, phiếu thu và đảm bảo thu đúng, đủ số tiền.\\n- Quản lý tiền mặt, và thực hiện bàn giao tiền cuối ngày.\\n- Đối chiếu doanh thu, kiểm tra chênh lệch ( nếu có ) và báo cáo hàng ngày.\\n- Xuất hóa đơn, phiếu thu và thực hiện các chứng từ liên quan theo quy định.\\n- Hỗ trợ giải đáp thắc mắc và xử lý các vấn đề thanh toán của khách hàng.\\n- Thực hiện các công việc khác theo sự phân công của quản lý.\",\n  \"requirements_text\": \"Có kiến thức cơ bản thu chi, hóa đơn , đối chiếu doanh thu\\nKiểm đếm tiền chính xác , cẩn thận , giao tiếp, phục vụ và xử lý tình huống với khách hàng. kiểm tra, đối chiếu số liệu và phát hiện sai lệch. Có trách nhiệm, trung thực, bảo mật thông tin.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4836,
+    "output_tokens": 701,
+    "total_tokens": 5537,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

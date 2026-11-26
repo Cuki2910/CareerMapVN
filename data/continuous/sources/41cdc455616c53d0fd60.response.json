@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Thực Tập Sinh Tư Vấn Phần Mềm CNTT\",\n  \"company_name\": null,\n  \"job_category\": \"IT - Phần mềm\",\n  \"sub_category\": \"Tư Vấn Phần Mềm\",\n  \"industry\": \"IT - Phần mềm\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-15\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-tu-van-phan-mem-cntt/2343125.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Chuyên môn Công nghệ thông tin khác\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"5 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"ĐƯỢC HỖ TRỢ MỘC THỰC TẬP SAU 3 THÁNG LÀM VIỆC\",\n    \"Môi trường làm việc trẻ trung, năng động, chuyên nghiệp, tạo điều kiện để học hỏi và phát huy năng lực bản thân.\",\n    \"Được đào tạo khi vào làm việc\",\n    \"Cơ hội thăng tiến, phát triển rõ ràng, được xem xét trở thành nhân viên chính thức nếu có kết quả làm việc tốt và phù hợp với định hướng công ty.\",\n    \"Được mở rộng kiến thức\"\n  ],\n  \"description\": \"- Tiếp nhận thông tin khách hàng\\n- Hỗ trợ ý tưởng triển khai phần mềm Website cho khách hàng\\n- Triển khai về bố cục, màu sắc, chức năng..Website\\n- Lên ý tưởng, Demo Website cho khách hàng\\n- Tương tác bộ phận kỹ thuật hỗ trợ giúp khách hàng có trang Website hoàn chỉnh\\n- Kiểm tra Website trước khi bàn giao cho khách hàng\\n- Hỗ trợ khách hàng\",\n  \"requirements_text\": \"- KHÔNG CÒN VƯỚNG LỊCH HỌC\\n- Siêng năng, chịu khó học hỏi, biết làm việc nhóm\\n- Ưu tiên ứng viên nhận việc sớm\"\n}\n```",
+  "usage": {
+    "input_tokens": 4885,
+    "output_tokens": 651,
+    "total_tokens": 5536,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

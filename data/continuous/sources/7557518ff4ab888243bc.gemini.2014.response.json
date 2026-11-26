@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Cơ Điện (Công Nhân Thi Công Điện, Điều Hòa)\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Thợ điện\",\n  \"industry\": \"Điện / Điện tử / Điện lạnh\",\n  \"category\": null,\n  \"location\": \"Hà Nội và 3 nơi khác\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-co-dien-cong-nhan-thi-cong-dien-dieu-hoa/2354165.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"chăm chỉ\",\n    \"nhiệt tình\",\n    \"ham học hỏi\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0.0,\n  \"salary\": \"12 - 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\\n  * Theo tiến độ dự án\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Bảo hiểm tai nạn 24h: 100.000.000 đồng/người /vụ\",\n    \"Quà sinh nhật CBCNV, thăm hỏi ốm đau, sinh con, hiếu, hỉ, …\",\n    \"Hỗ trợ nhà ở\",\n    \"Thưởng: 30/4-1/5, 2/9, Tết dương lịch, Tết âm lịch, Thưởng con CBCNV có thành tích tốt trong năm học, Quà tết trung thu cho con CBCNV,…\",\n    \"Chương trình nghỉ mát\",\n    \"Đánh giá năng lực và xem xét điều chỉnh lương theo đợt điều chỉnh của công ty\",\n    \"Được đào tạo để trở thành một kỹ thuật viên có tay nghề\",\n    \"Du lịch hàng năm\",\n    \"Thưởng tháng 13\"\n  ],\n  \"description\": \"- Thi công trực tiếp về mảng cơ điện\\n- Lắp đặt, bảo dưỡng hệ thống điện, điều hòa không khí, cấp thoát nước, PCCC tại các dự án ở nhà máy tại các Khu công nghiệp\\n- Chưa có tay nghề được đào tạo.\",\n  \"requirements_text\": \"- Nam, tốt nghiệp THPT trở lên\\n  * Chăm chỉ, nhiệt tình, ham học hỏi.\\n  * Chưa có tay nghề được hướng dẫn.\\n  * Sức khỏe tốt\\n  * Có thể làm việc theo các dự án của công ty\"\n}\n```",
+  "usage": {
+    "input_tokens": 5276,
+    "output_tokens": 727,
+    "total_tokens": 6003,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Sản Xuất - Không Yêu Cầu Kinh Nghiệm\",\n  \"company_name\": \"Công ty Cổ phần VN ECOFLOOR\",\n  \"job_category\": \"Vận hành sản xuất\",\n  \"sub_category\": \"Vận hành sản xuất khác\",\n  \"industry\": \"Sản xuất sản phẩm từ plastic\",\n  \"category\": null,\n  \"location\": \"Ninh Bình\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-san-xuat-khong-yeu-cau-kinh-nghiem/2353908.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Siêng năng\",\n    \"chịu khó\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8.5 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm từ thứ 2 đến thứ 7 theo ca, nghỉ chủ nhật hàng tuần\",\n  \"benefits\": [\n    \"Lương từ 8,5tr - 15tr\",\n    \"Thử việc 100% lương\",\n    \"Tham gia đầy đủ BHXH và các quy định nhà nước\"\n  ],\n  \"description\": \"- Làm việc trong nhà máy sản xuất theo sự phân công của quản lý\\n- Sản xuất, gia công sản phẩm\\n- Tuân thủ quy trình sản xuất của công ty \\n- Chi tiết công việc sẽ được trao đổi thêm trong buổi phỏng vấn\",\n  \"requirements_text\": \"- Không giới hạn độ tuổi\\n- Không yêu cầu kinh nghiệm\\n- Siêng năng, chịu khó, có thể làm ca\"\n}\n```",
+  "usage": {
+    "input_tokens": 4557,
+    "output_tokens": 514,
+    "total_tokens": 5071,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

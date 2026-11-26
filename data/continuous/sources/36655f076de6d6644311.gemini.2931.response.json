@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Quản Lý Trang Trại\",\n  \"company_name\": null,\n  \"job_category\": \"Quản Lý\",\n  \"sub_category\": \"Kế hoạch sản xuất\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Tuyên Quang\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/quan-ly-trang-trai/2363130.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên chuyên ngành Chăn nuôi, Thú y\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 07:30 đến 17:30)\",\n  \"benefits\": [\n    \"Thu nhập cạnh tranh, lương tháng 13.\",\n    \"Lộ trình thăng tiến rõ ràng, được đào tạo bài bản.\",\n    \"Đầy đủ bảo hiểm: BHXH, BHYT, BHTN.\",\n    \"Phụ cấp ăn ca, đi lại.\",\n    \"Thưởng lễ, nghỉ phép, nghỉ hằng tuần.\",\n    \"Chương trình học tập và phát triển cá nhân.\"\n  ],\n  \"description\": \"Xây dựng kế hoạch hoạt động thường niên cho trang trại dựa trên mục tiêu sản xuất do Công ty đề ra, đảm bảo hoạt động trong phạm vi ngân sách phân bổ.\\nĐảm bảo đạt được chỉ tiêu về sản lượng và chất lượng sữa nguyên liệu.\\nQuản lý, duy trì các chỉ tiêu kỹ thuật của trang trại (tỷ lệ chết, tỷ lệ đậu thai, tỷ lệ mang thai, tăng trọng bê…).\\nChịu trách nhiệm quản lý tài sản và nguồn vật chất của Công ty một cách hợp lý và hiệu quả.\\nChịu trách nhiệm kiểm soát và tuân thủ quy trình nhằm nâng cao hiệu quả công việc.\\nĐề xuất và áp dụng các phương pháp cải tiến quy trình làm việc nhằm nâng cao năng suất lao động.\\nPhát triển nguồn nhân lực; giám sát và đánh giá hiệu suất công việc của nhân viên cấp dưới dựa trên hệ thống tiêu chí đánh giá của Công ty.\\nĐảm bảo đầy đủ trang thiết bị, vật tư phục vụ sản xuất.\",\n  \"requirements_text\": \"Tốt nghiệp Đại học trở lên chuyên ngành Chăn nuôi, Thú y\\nÍt nhất 3 năm kinh nghiệm trong lĩnh vực tương đương.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4687,
+    "output_tokens": 664,
+    "total_tokens": 5351,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

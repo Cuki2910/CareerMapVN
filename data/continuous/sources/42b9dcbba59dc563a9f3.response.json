@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kế Toán Nhà Máy\",\n  \"company_name\": null,\n  \"job_category\": \"Kế toán / Kiểm toán\",\n  \"sub_category\": \"Kế toán chi phí/giá thành\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Vĩnh Long\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ke-toan-nha-may/2359554.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên chuyên ngành kế toán hoặc kiểm toán\"\n  ],\n  \"technical_skills\": [\n    \"Kế toán\",\n    \"Kiểm toán\",\n    \"kho\",\n    \"Chi Phí\"\n  ],\n  \"soft_skills\": [\n    \"giao tiếp\",\n    \"phối hợp công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"9 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 07:00 đến 17:00)\",\n  \"benefits\": [\n    \"Hưởng đầy đủ chế độ BHXH, Lễ, Tết theo quy định.\",\n    \"Được hướng dẫn, đào tạo nghiệp vụ.\",\n    \"Du lịch hàng năm.\",\n    \"Chế độ thâm niên.\",\n    \"Môi trường làm việc ổn định, lâu dài.\"\n  ],\n  \"description\": \"- Phối kết hợp với Kế toán trưởng Công ty theo dõi, hạch toán các nghiệp vụ kế toán tại nhà máy.\\n- Kiểm soát chi phí sản xuất, giá thành, tỷ lệ thu hồi thành phẩm, phụ phẩm hàng hóa.\\n- Theo dõi doanh thu, công nợ khách hàng, nhà cung cấp và thanh toán.\\n- Quản lý chứng từ, hóa đơn mua bán lúa gạo, trấu và các chi phí hoạt động của nhà máy.\\n- Tổng hợp số liệu, lập báo cáo nhập – xuất – tồn, doanh thu, chi phí và kết quả kinh doanh.\\n- Hỗ trợ công việc hành chính văn phòng tại Nhà máy.\\n- Thực hiện các công việc kế toán khác, báo cáo theo yêu cầu của Kế toán trưởng và Ban Giám đốc.\",\n  \"requirements_text\": \"- Nam/Nữ, tuổi từ 25 đến 40 tuổi.\\n- Tốt nghiệp Cao đẳng trở lên chuyên ngành kế toán hoặc kiểm toán; Có kinh nghiệm 1 năm trở lên.\\n- Sức khỏe tốt, trung thực, nhanh nhẹn, có trách nhiệm.\\n- Có kỹ năng giao tiếp, phối hợp công việc.\\n- Ưu tiên ứng viên:\\n+ Có kinh nghiệm trong lĩnh vực vận tải, logistics hoặc ngành lúa gạo và có thể nhận việc sớm.\\n+ Có hộ khẩu tại Xã An Phú Tân, Vĩnh Long (huyện Trà Ôn - Vĩnh Long và huyện Cầu Kè – Trà Vinh cũ).\"\n}\n```",
+  "usage": {
+    "input_tokens": 4868,
+    "output_tokens": 764,
+    "total_tokens": 5632,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Lễ Tân\",\n  \"company_name\": null,\n  \"job_category\": \"Lễ tân/Đón tiếp\",\n  \"sub_category\": \"Lễ tân\",\n  \"industry\": \"Y tế / Dược phẩm\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-le-tan/2043377.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Chăm Sóc Khách Hàng\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"6.5 - 8 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Làm việc từ 8-17h hoặc 7-16h, tuần nghỉ 1 ngày bất kỳ.\",\n  \"benefits\": [\n    \"Tháng 26 công, 12 ngày phép/năm\",\n    \"Tham gia BHXH, BHYT, BHTN\",\n    \"Đánh giá xét lương thâm niên hàng năm\",\n    \"Khám sức khỏe định kỳ 1-2 lần/ năm tùy theo vị trí công việc\",\n    \"Thưởng các ngày lễ tết, thưởng cuối năm theo tình hình kinh doanh\",\n    \"Tham gia tổ chức công đoàn, được quan tâm thăm hỏi ốm đau, hiếu hỉ\",\n    \"Tham quan, nghỉ mát hàng năm theo chính sách công ty\",\n    \"CBNV có thẻ BHYT được hưởng các chế độ ưu tiên khi khám chữa bệnh, sử dụng các dịch vụ y tế của hệ thống\",\n    \"Được làm việc trong môi trường năng động, chuyên nghiệp, được đào tạo và có cơ hội thăng tiến cao\"\n  ],\n  \"description\": \"- Chào đón khách đến khám, chữa bệnh và khách đến làm việc tại phòng khám.\\n- Phản hồi nhanh chóng và lịch sự trong việc xử lý các thông tin, yêu cầu, hỏi đáp, thắc mắc, khiếu nại của bệnh nhân hoặc khách đến làm việc tại bệnh viện.\\n- Cập nhật tất cả các thông tin đầy đủ có liên quan đến các dịch vụ khám, chữa bệnh của phòng khám, để cung cấp cho khách hàng một cách nhanh chóng và chính xác.\\n- Các công việc khác theo sự phân công của trưởng bộ phận.\",\n  \"requirements_text\": \"- Tốt nghiệp cao đẳng trở lên.\\n- Chăm chỉ, nhanh nhẹn, ưa nhìn, gắn bó lâu dài với công ty.\\n- Chưa có kinh nghiệm sẽ được đào tạo.\\n- Sức khỏe tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4974,
+    "output_tokens": 711,
+    "total_tokens": 5685,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

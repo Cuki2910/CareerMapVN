@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Vận Hành Máy CNC\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"71/3C Khu phố Bình Đáng, Phường Bình Hòa, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/2311948.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Cnc\",\n    \"Đọc Hiểu Bản Vẽ Kỹ Thuật\",\n    \"Sử dụng dụng cụ đo cơ bản\",\n    \"Vận Hành Máy Chấn\",\n    \"Vận Hành Máy Laser\",\n    \"vận hành máy Đột/Dập\",\n    \"vận hành máy Cắt ống\",\n    \"vận hành máy Uốn ống\"\n  ],\n  \"soft_skills\": [\n    \"Cẩn thận\",\n    \"chăm chỉ\",\n    \"có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 ()\\nCó thể đi ca, được nghỉ thêm 2 thứ 7 trong tháng\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Thưởng KPI\",\n    \"thưởng cuối năm\",\n    \"Phụ cấp cơm trưa, nhà xa, xăng xe, tăng ca và các phụ cấp khác\",\n    \"Du lịch/nghỉ dưỡng hằng năm\",\n    \"Được đào tạo, nâng cao tay nghề và có cơ hội phát triển\",\n    \"Team building\"\n  ],\n  \"description\": \"Vận hành các máy gia công: Laser, Chấn, Đột/Dập, Cắt ống, Uốn ống...\\nSetup và vận hành máy theo yêu cầu bản vẽ, hướng dẫn sản xuất.\\nKiểm tra các kích thước cơ bản của sản phẩm sau gia công.\\nThực hiện công việc đúng quy trình và quy định an toàn.\\nVệ sinh, bảo quản và thực hiện bảo dưỡng máy theo quy định.\\nPhối hợp với Tổ trưởng và các bộ phận liên quan để đảm bảo tiến độ sản xuất.\\nThực hiện các công việc khác theo phân công.\",\n  \"requirements_text\": \"Không yêu cầu kinh nghiệm chuyên môn Cao Đẳng trở lên Nam\\nKhông yêu cầu kinh nghiệm\\nCó khả năng đọc hiểu bản vẽ kỹ thuật.\\nBiết sử dụng các dụng cụ đo cơ bản.\\nCẩn thận, chăm chỉ, có trách nhiệm trong công việc.\\nCó khả năng làm việc theo tiến độ và tăng ca khi cần.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5021,
+    "output_tokens": 783,
+    "total_tokens": 5804,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

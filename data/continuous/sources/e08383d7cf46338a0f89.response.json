@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"Nhân Viên Kinh Doanh / Sales B2B Nam Có Kinh Nghiệm Ngành Vật Tư Nhà Máy\",\"company_name\":\"CÔNG TY TNHH ANYTAPE VIỆT NAM\",\"job_category\":\"Sales\",\"sub_category\":\"Sales B2B\",\"industry\":\"Sản xuất và thương mại vật tư đóng gói và nguyên liệu may mặc\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-25\",\"url\":\"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-b2b-nam-co-kinh-nghiem-nganh-vat-tu-nha-may/2272633.html\",\"qualifications\":[\"Cao Đẳng trở lên\",\"Tốt nghiệp các trường Cao đẳng, Đại học khối ngành kinh tế: Quản trị kinh doanh, Ngoại thương, Kinh tế đối ngoại..., và các chuyên ngành khác có liên quan.\"],\"technical_skills\":null,\"soft_skills\":[\"Cẩn thận\",\"Nhiệt tình\",\"Trung thực\",\"Kỹ năng làm việc độc lập\",\"Khả năng giao tiếp tốt\",\"Kỹ năng làm việc theo nhóm\",\"Có trách nhiệm trong công việc\",\"Chủ động xử lý tình huống\"],\"languages_required\":[\"Tiếng Anh\"],\"experience_required\":1,\"salary\":\"Thu nhập: 10 - 20 triệu VND; Lương cứng: 10 - 14 triệu VND; Lương cứng không phụ thuộc doanh số\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00); nghỉ trưa 1 tiếng; Thứ 7 làm buổi sáng\",\"benefits\":[\"Lương: 10-20 Triệu (Không áp doanh số) – Tùy theo năng lực và kinh nghiệm\",\"Chế độ thưởng, nghỉ lễ tết, nghỉ phép, chế độ phúc lợi xã hội (BHXH, BHYT)... theo quy định chung của luật lao động.\",\"Có cơ hội thăng tiến, phát triển bản thân, phát triển nghề nghiệp cao.\",\"Tham gia teambuilding, du lịch hằng năm cùng công ty.\",\"Môi trường làm việc năng động, cơ hội thăng tiến lên Trưởng nhóm Kinh doanh.\",\"Bảo hiểm xã hội\",\"Bảo hiểm sức khỏe\",\"Team building\",\"Du lịch hàng năm\",\"Thưởng tháng 13\",\"Được cấp Máy tính\"],\"description\":\"- Công ty chuyên về sản xuất và thương mại vật tư đóng gói và Nguyên liệu may mặc\\n- Tìm kiếm, liên hệ với các khách hàng tiềm năng, đàm phán thương lượng chốt đơn hàng và ký kết hợp đồng.\\n- Quản lí khách hàng có sẵn và Mở rộng nhiều các khách hàng tiềm năng, Đàm phán, ký kết hợp đồng,\\n- Giải quyết mọi vấn đề nảy sinh trong sản xuất theo yêu cầu của khách hàng.\",\"requirements_text\":\"- Cần kinh nghiệm 01 năm mảng vật tư đóng gói công nghiệp, hoặc B2B là lợi thế\\n- Tiếng Anh giao tiếp tốt\\n- Tốt nghiệp các trường Cao đẳng, Đại học khối ngành kinh tế: Quản trị kinh doanh, Ngoại thương, Kinh tế đối ngoại..., và các chuyên ngành khác có liên quan.\\n- Quen thuộc thị trường\\n- Kỹ năng làm việc độc lập hoặc theo nhóm, có ngoại hình ưa nhìn, khả năng giao tiếp tốt\\n- Trung thực, nhiệt tình, cẩn thận, biết chủ động xử lý mọi tình huống. và có trách nhiệm trong công việc\\n\\nKiến thức ngành: May mặc / Thời trang, Xuất nhập khẩu / Hải quan\\n\\nKỹ năng cần có: Cẩn thận, Nhiệt tình, Trung thực, Kỹ năng làm việc độc lập, Khả năng giao tiếp tốt, kỹ năng làm việc theo nhóm, Có trách nhiệm trong công việc, Chủ động xử lý tình huống\"}",
+  "usage": {
+    "input_tokens": 5251,
+    "output_tokens": 6023,
+    "total_tokens": 11274,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 2048,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4822
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Nhóm Tư Vấn Ngành Spa\",\n  \"company_name\": null,\n  \"job_category\": \"Tư vấn thẩm mỹ/Spa\",\n  \"sub_category\": \"Trưởng Nhóm Tư Vấn\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"136 Lê Lai, Phường Bến Thành, Hồ Chí Minh\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-05\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-nhom-tu-van-nganh-spa/1943150.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Kỹ năng giải quyết vấn đề\",\n    \"Kỹ Năng Lãnh Đạo Và Quản Lý Nhóm\",\n    \"Kỹ Năng Tư Vấn Và Thuyết Phục\",\n    \"Kỹ năng giao tiếp, thuyết phục và xử lý tình huống tốt\",\n    \"Tư duy dịch vụ, tác phong chuyên nghiệp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"15 - 30 triệu VND\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"8h00-20h00, nghỉ luân phiên: 2 ngày làm - 1 ngày off\",\n  \"benefits\": [\n    \"Thu nhập từ 15 - 30 triệu (Lương cơ bản: 9-10tr + Phụ cấp: cơm, giữ xe + Thưởng)\",\n    \"Đóng BHXH từ tháng đầu tiên\",\n    \"Làm việc trong môi trường năng động, chuyên nghiệp có nhiều cơ hội thăng tiến.\",\n    \"Được hưởng các chính sách phúc lợi theo quy định của công ty.\",\n    \"Thưởng lễ tết, nghỉ phép năm, quà sinh nhật, teambuilding,...\"\n  ],\n  \"description\": \"- Quản lý, điều hành và hỗ trợ hoạt động của đội ngũ Kỹ thuật viên tại Trung tâm.\\n- Trực tiếp tham gia tư vấn khách hàng trong các trường hợp quan trọng, khách VIP hoặc khách có yêu cầu đặc biệt.\\n- Theo dõi, phân tích và đánh giá hiệu quả làm việc của từng nhân viên; đề xuất kế hoạch đào tạo, huấn luyện kỹ năng bán hàng.\\n- Quản lý dữ liệu khách hàng, đảm bảo tính chính xác và bảo mật thông tin.\",\n  \"requirements_text\": \"- Tốt nghiệp Trung cấp trở lên.\\n- Có ít nhất 2 năm kinh nghiệm quản lý đội nhóm tư vấn/bán hàng.\\n- Kỹ năng giao tiếp, thuyết phục và xử lý tình huống tốt.\\n- Tư duy dịch vụ, tác phong chuyên nghiệp.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4794,
+    "output_tokens": 707,
+    "total_tokens": 5501,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

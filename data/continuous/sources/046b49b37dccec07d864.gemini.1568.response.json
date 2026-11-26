@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Công Nhân Vận Hành Máy Dập Tại Hồ Chí Minh\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Công nhân vận hành máy\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-10\",\n  \"url\": \"https://www.topcv.vn/viec-lam/cong-nhan-van-hanh-may-dap-tai-ho-chi-minh/2353839.html\",\n  \"qualifications\": [\n    \"Trung học cơ sở (Cấp 2) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Dập\",\n    \"Kiểm Tra Sản Phẩm\"\n  ],\n  \"soft_skills\": [\n    \"Siêng năng\",\n    \"trung thực\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"8.000.000 – 9.000.000 VNĐ/tháng\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Thời gian thử việc: Chỉ 06 ngày, sau đó ký Hợp đồng lao động (HĐLĐ).\",\n    \"Thu nhập: 8.000.000 – 9.000.000 VNĐ/tháng (chưa tính tiền tăng ca).\",\n    \"Bảo hiểm: Tham gia đầy đủ BHXH, BHYT, BHTN và được mua thêm BH tai nạn lao động.\",\n    \"Được nghỉ 12 ngày phép năm + 31 ngày nghỉ của công ty + 12 ngày Lễ, Tết theo luật.\",\n    \"Được nghỉ 4 ngày Chủ nhật và 2 ngày thứ 7 trong tháng.\",\n    \"Phụ cấp đi lại và nhà ở.\",\n    \"Được công ty đài thọ bữa ăn giữa ca và bữa ăn phụ khi làm việc ngoài giờ.\",\n    \"Môi trường: Việc làm ổn định, lâu dài.\"\n  ],\n  \"description\": \"- Đứng máy dập và vận hành thiết bị tại bộ phận theo sự phân công của tổ trưởng.\\n- Gá lắp phôi/nguyên liệu vào khuôn dập đúng vị trí kỹ thuật.\\n- Kiểm tra sản phẩm sau dập để phát hiện lỗi bavia, móp méo, trầy xước.\\n- Giữ gìn vệ sinh máy móc và khu vực làm việc ngăn nắp, tuân thủ an toàn lao động.\",\n  \"requirements_text\": \"- Giới tính / Độ tuổi: Nam, từ 18 đến 30 tuổi.\\n- Trình độ: Tốt nghiệp 9/12 trở lên.\\n- Kinh nghiệm: Lao động phổ thông, không yêu cầu kinh nghiệm (được hướng dẫn công việc)\\n- Siêng năng, trung thực, có sức khỏe tốt và có khả năng làm việc theo ca.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5065,
+    "output_tokens": 782,
+    "total_tokens": 5847,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

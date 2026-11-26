@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Trưởng Phòng Quản Lý Hợp Đồng Cơ Điện\",\n  \"company_name\": null,\n  \"job_category\": \"Xây dựng\",\n  \"sub_category\": \"Quản lý hợp đồng Cơ Điện\",\n  \"industry\": \"Công nghệ kỹ thuật\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-23\",\n  \"url\": \"https://www.topcv.vn/viec-lam/truong-phong-quan-ly-hop-dong-co-dien/2249651.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Đàm phán, soạn thảo và rà soát các điều khoản pháp lý\",\n    \"Luật Đấu thầu\",\n    \"Luật Dân sự\"\n  ],\n  \"soft_skills\": [\n    \"Đàm phán\",\n    \"Quản lý\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"30 - 40 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 2 - Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Lương cạnh tranh\",\n    \"Chế độ hiếu hỉ, sinh nhật, Lễ Tết,….. đầy đủ\",\n    \"Tháng lương 13, thưởng tháng, quý, hiệu quả kinh doanh\",\n    \"Bữa ăn tại Canteen Công ty, gửi xe miễn phí\"\n  ],\n  \"description\": \"Soạn thảo và rà soát: Xây dựng, chỉnh sửa các điều khoản hợp đồng thi công, cung cấp thiết bị cơ điện đảm bảo tuân thủ pháp luật.\\nĐàm phán thương mại: Làm việc trực tiếp với đối tác, khách hàng và nhà thầu phụ để thống nhất giá cả, tiến độ và điều kiện thanh toán.\\nKiểm soát rủi ro: Đánh giá các rủi ro về pháp lý, phát sinh chi phí hoặc chậm tiến độ trong quá trình thực hiện hợp đồng M&E.\\nQuản lý thanh quyết toán: Phối hợp với bộ phận kỹ thuật, kế toán theo dõi khối lượng hoàn thành, lập hồ sơ thanh toán và thanh lý hợp đồng\",\n  \"requirements_text\": \"Yêu cầu ứng viên có từ 3-5 năm kinh nghiệm trong lĩnh vực quản lý hợp đồng (đặc biệt là hợp đồng kinh tế, cơ điện/thầu phụ) và ít nhất 1-2 năm ở vị trí quản lý tương đương.\\nĐàm phán, soạn thảo và rà soát các điều khoản pháp lý.\\nAm hiểu sâu về luật Đấu thầu và luật Dân sự\"\n}\n```",
+  "usage": {
+    "input_tokens": 4767,
+    "output_tokens": 730,
+    "total_tokens": 5497,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

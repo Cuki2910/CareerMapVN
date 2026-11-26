@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Kho Vận\",\n  \"company_name\": \"CÔNG TY TNHH SX TM VŨ THIÊN\",\n  \"job_category\": \"Kho vận\",\n  \"sub_category\": \"Nhân viên kho\",\n  \"industry\": \"Sản xuất món ăn, thức ăn chế biến sẵn\",\n  \"category\": null,\n  \"location\": \"539/21/11-13 Lũy Bán Bích, Phường Phú Thạnh (Phường Phú Thạnh thuộc quận Tân Phú cũ), Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-17\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kho-van/2360315.html\",\n  \"qualifications\": null,\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Nhanh nhẹn\",\n    \"Trung thực\",\n    \"Cẩn thận\",\n    \"Có trách nhiệm trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"9 - 10 triệu\\nLương gross: 9.000.000 – 10.000.000đ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)\\n- Nghỉ trưa 1,5 tiếng\",\n  \"benefits\": [\n    \"Lương gross: 9.000.000 – 10.000.000đ\",\n    \"Chế độ BHXH, BHYT, BHTN đầy đủ.\",\n    \"12 ngày phép/năm, cộng thêm phép năm theo thâm niên\",\n    \"Chế độ công tác phí, tăng ca (nếu có) đầy đủ, Thưởng Lễ Tết, Tháng 13\",\n    \"Chế độ sinh nhật, tang lễ hiếu hỉ\",\n    \"Môi trường làm việc trẻ, năng động, đề cao yếu tố con người\",\n    \"Không có kinh nghiệm sẽ được đào tạo.\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn. Trung học cơ sở (Cấp 2) trở lên.\\nChuyên môn: Nhân viên kho, Kho vận, Sản xuất\\n\\nMô tả công việc\\n- Thực hiện việc nhập và xuất hàng cho khách hàng và đơn vị liên quan\\n- Trực tiếp kiểm đếm nhập hàng, đóng hàng,\\n- Theo dõi và ghi nhận hàng hóa xuất nhập tồn vào phiếu.\\n- Đảm bảo chất lượng vệ sinh khu vực làm việc, khu vực kho hàng\\n- Soạn, đóng gói, sắp xếp hàng hóa\\n- Đóng gói, sang chiết sản phẩm đảm bảo đúng tiêu chuẩn và VSATTP\",\n  \"requirements_text\": \"* Không yêu cầu kinh nghiệm và học vấn.\\nNhanh nhẹn, trung thực, cẩn thận và có trách nhiệm trong công việc.\\n* Có sức khỏe tốt\\n* Không có kinh nghiệm sẽ được đào tạo.\\n\\nKiến thức ngành\\nKho vận, Sản xuất\"\n}",
+  "usage": {
+    "input_tokens": 4613,
+    "output_tokens": 731,
+    "total_tokens": 5344,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

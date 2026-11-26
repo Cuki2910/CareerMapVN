@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Kỹ Thuật Khuôn Đúc Kim Loại\",\n  \"company_name\": \"CÔNG TY TNHH YU WON NRT\",\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Kỹ thuật khuôn đúc kim loại\",\n  \"industry\": \"Sản xuất linh kiện điện tử khác\",\n  \"category\": null,\n  \"location\": \"Ninh Bình: KCN Thanh Sơn, Phường Lý Thường Kiệt (Phường Lý Thường Kiệt thuộc Thị xã Kim Bảng cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-31\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-thuat-khuon-duc-kim-loai/2298728.html\",\n  \"qualifications\": [\"Tốt nghiệp CĐ/ĐH ngành Cơ khí, Chế tạo máy.\"],\n  \"technical_skills\": [\"AutoCAD\", \"Đọc bản vẽ cơ khí\"],\n  \"soft_skills\": [\"Chăm chỉ\", \"Ham học hỏi\", \"Mong muốn phát triển lâu dài\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"10 - 17 triệu\\nThu nhập khi đạt 100% KPI: 10 - 17 triệu VND\\nThu nhập tính theo tỷ lệ đạt KPI\\nLương cứng không phụ thuộc doanh số\\nMức lương thoả thuận khi phỏng vấn\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thời gian làm việc từ Thứ 2- Thứ 7: 08h00 - 17h00\\nThứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương thoả thuận khi phỏng vấn\",\n    \"Thời gian làm việc từ Thứ 2- Thứ 7: 08h00 - 17h00\",\n    \"Đóng BHXH, BHYT, BHTN đầy đủ;\",\n    \"Được xem xét tăng lương hàng năm theo năng lực và hiệu quả công việc;\",\n    \"Được hưởng chế độ lễ, tết, ốm đau, ……. theo quy định;\",\n    \"Có cơ hội thăng tiến trong công việc.\"\n  ],\n  \"description\": \"Chuyên môn: Bán hàng kỹ thuật cơ khí; Cơ khí / Tự động hóa; B2B\\n\\n'- Hỗ trợ thiết kế, gia công và lắp ráp khuôn đột dập.\\n- Đọc và hiểu bản vẽ kỹ thuật.\\n- Theo dõi quá trình sản xuất, chạy thử khuôn.\\n- Tham gia xử lý lỗi và cải tiến khuôn.\\n- Thực hiện công việc theo hướng dẫn của cấp trên.\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Tuổi 20 - 35  Cao Đẳng trở lên  Nam\\n\\nYêu cầu ứng viên\\n'-Tốt nghiệp CĐ/ĐH ngành Cơ khí, Chế tạo máy.\\n- Biết đọc bản vẽ cơ khí.\\n- Có kiến thức cơ bản về khuôn/dập tấm là lợi thế.\\n- Chăm chỉ, ham học hỏi, mong muốn phát triển lâu dài.\\n\\nKiến thức ngành\\nCơ khí / Tự động hóa\\n\\nKỹ năng cần có\\nAutoCAD\\n\\nKỹ năng nên có\\nAutoCAD\"\n}",
+  "usage": {
+    "input_tokens": 4605,
+    "output_tokens": 798,
+    "total_tokens": 5403,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

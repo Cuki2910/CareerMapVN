@@ -1,0 +1,20 @@
+{
+  "content": "{\"job_title\":\"An Ninh Thẩm Mỹ Viện - Có Bằng B2\",\"company_name\":\"Công ty TNHH Lavender Sài Gòn\",\"job_category\":\"An ninh\",\"sub_category\":\"Giám sát an ninh\",\"industry\":\"Dịch vụ chăm sóc sắc đẹp và các hoạt động làm đẹp khác\",\"category\":null,\"location\":\"Hồ Chí Minh\",\"country\":\"Việt Nam\",\"posting_date\":null,\"deadline\":\"2026-12-13\",\"url\":\"https://www.topcv.vn/viec-lam/an-ninh-tham-my-vien-co-bang-b2/2357349.html\",\"qualifications\":[\"Trung cấp trở lên\",\"Có Bằng B2\"],\"technical_skills\":null,\"soft_skills\":[\"Tác phong chỉnh chu\",\"Tác phong lịch sự\",\"Thái độ thân thiện và chuyên nghiệp\"],\"languages_required\":null,\"experience_required\":1,\"salary\":\"10.000.000 đồng + thưởng doanh thu ( ><1tr/ tháng - mỗi tháng)\",\"salary_min\":null,\"salary_max\":null,\"salary_avg\":null,\"contract_type\":\"Toàn thời gian\",\"working_hours\":\"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\n- Ca 1: 08h00 - 18h00\\n- Ca 2: 10h00 - 20h00\\n- Ca 3: 11h00 - 21h00\\n=> Tuần nghỉ 01 ngày - Trừ cuối tuần và ngày lễ\",\"benefits\":[\"Lương: 10.000.000 đồng + thưởng doanh thu ( ><1tr/ tháng - mỗi tháng)\",\"Cơm theo ca làm việc( Ăn trưa & xế)\",\"BHXH, BHYT, BHTN; phép năm\",\"Thưởng lễ, tết, sinh nhật cá nhân\",\"Thưởng doanh thu\",\"Du lịch chuẩn 5 sao hằng năm\"],\"description\":\"Kiểm soát người ra vào thẩm mỹ viện, hướng dẫn khách hàng, đối tác đến đúng khu vực tiếp đón hoặc bộ phận cần liên hệ.\\n- Trông giữ, sắp xếp xe máy, ô tô của khách hàng và nhân viên đúng vị trí; đảm bảo an toàn tài sản trong suốt thời gian gửi xe.\\n- Hỗ trợ khách hàng khi đến và rời thẩm mỹ viện, đảm bảo tác phong lịch sự, thái độ thân thiện và chuyên nghiệp.\\n- Kịp thời xử lý các tình huống phát sinh trong phạm vi trách nhiệm; phối hợp với quản lý và các bộ phận liên quan khi có sự cố.\\n- Kiểm tra các điều kiện an toàn phòng cháy chữa cháy (PCCC), nắm rõ vị trí thiết bị chữa cháy, lối thoát hiểm và thực hiện xử lý ban đầu khi có sự cố theo quy trình.\",\"requirements_text\":\"Giới tính: nam\\nĐộ tuổi: 2001 - 1981\\nNgoại hình: dễ nhìn.\\nCao từ 1m70 trở lên\\nKinh nghiệm vị trí tương đương từ 1 năm trở lên\\nTác phong chỉnh chu\"}",
+  "usage": {
+    "input_tokens": 4729,
+    "output_tokens": 4876,
+    "total_tokens": 9605,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0,
+      "cache_creation": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 4000
+    }
+  },
+  "provider": "openrouter",
+  "model": "particle-ai/particle-1:free",
+  "actual_model": "particle-ai/particle-1:free"
+}

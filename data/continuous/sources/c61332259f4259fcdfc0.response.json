@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Bán Hàng/PG- Đi Làm Ngay\",\n  \"company_name\": \"Công ty TNHH Coway Vina\",\n  \"job_category\": \"Bán hàng\",\n  \"sub_category\": \"Bán hàng siêu thị/cửa hàng tiện ích/tiện lợi\",\n  \"industry\": \"Bán lẻ hàng hóa khác mới (trừ ô tô, mô tô, xe máy và các bộ phận phụ trợ)\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-pg-di-lam-ngay/2187536.html\",\n  \"qualifications\": [\"Trung cấp trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Giao tiếp tốt\", \"Siêng năng\", \"đúng giờ\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 8 triệu\\nMức lương: 8.000.000 VNĐ + Thưởng doanh số\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca ngày\\n1 tháng off 5 ngày\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng tháng 13\",\n    \"Mức lương: 8.000.000 VNĐ + Thưởng doanh số\",\n    \"Thời gian thử việc: 1 tháng nhận 100% lương cứng + Thưởng doanh số\",\n    \"1 tháng off 5 ngày\",\n    \"Tham gia đầy đủ BHYT/BHXH/BHTN 100% lương cứng\"\n  ],\n  \"description\": \"- Giới thiệu sản phẩm đến khách hàng, tư vấn sản phẩm và bán hàng\\n- Vệ sinh máy móc và gian hàng hàng ngày\\n- Kiểm soát số lượng khách hàng qua quầy và xin thông tin khách hàng quan tâm\\n- Cập nhập báo cáo sau khi hết ca làm việc (theo mẫu)\\n- Chăm sóc khách hàng sau bán\\n- Kiểm kê và bàn giao sản phẩm/quà tặng khi hết ca\\n- Hỗ trợ các hoạt động tại gian hàng\\n- Thực hiện các công việc do quản lí yêu cầu\",\n  \"requirements_text\": \"Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Tuổi 18 - 60  Trung cấp trở lên\\n\\nYêu cầu ứng viên\\n- Độ tuổi: Từ đủ 18 tuổi trở lên\\n- Giao tiếp tốt, siêng năng, đúng giờ.\\n- Có kinh nghiệm trong lĩnh vực bán hàng là 1 lợi thế\\n\\nKiến thức ngành\\nBán lẻ - Hàng tiêu dùng - FMCG\\n\\nKỹ năng cần có\\nGiao tiếp tốt, Siêng năng, đúng giờ\\n\\nKỹ năng nên có\\nKinh Nghiệm Bán Hàng\"\n}",
+  "usage": {
+    "input_tokens": 4700,
+    "output_tokens": 691,
+    "total_tokens": 5391,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

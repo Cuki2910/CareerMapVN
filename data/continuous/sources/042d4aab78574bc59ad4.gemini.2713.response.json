@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh - Được Đào Tạo - Thu Nhập Từ 8-30 Triệu - Đi Làm Ngay\",\n  \"company_name\": \"CÔNG TY TNHH CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG KHANG THÀNH\",\n  \"job_category\": \"Sales Bán lẻ/Dịch vụ tiêu dùng khác\",\n  \"sub_category\": \"B2B\",\n  \"industry\": \"Sản xuất khác chưa được phân vào đâu\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-duoc-dao-tao-thu-nhap-tu-8-30-trieu-di-lam-ngay/2359182.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"năng động\",\n    \"nhiệt huyết\",\n    \"linh hoạt trong công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"8 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nThứ 2 - Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Làm việc trong môi trường năng động và thân thiện.\",\n    \"Có cơ hội phát triển sự nghiệp\",\n    \"Được xét tăng lương, thăng tiến theo năng lực thực tế.\",\n    \"Được hưởng đầy đủ các chế độ theo luật Lao Động Việt Nam: BHXH, BHYT...\"\n  ],\n  \"description\": \"Thực hiện các công việc liên quan đến chăm sóc khách hàng sẵn có, tìm kiếm khách hàng mới có nhu cầu sử dụng vi sinh xử lý Môi trường.\\nTư vấn cho khách hàng, giải đáp thắc mắc liên quan đến hệ thống xử lý nước thải cho các Doanh Nghiệp/Ao nuôi tôm/Trang trại chăn nuôi cho các Đại Lý và sản phẩm vi sinh của CÔNG TY TNHH CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG KHANG THÀNH\\nTham gia thực hiện các hoạt động về marketing của Công ty, xây dựng hình ảnh – thương hiệu doanh nghiệp với đối tác.\\nLập kế hoạch và liên hệ để thực hiên xúc tiến bán hàng.\",\n  \"requirements_text\": \"- Độ tuổi từ 25-32 tuổi \\n- Có thể đi công tác\\n- Tốt nghiệp tối thiểu trung cấp trở lên \\n- Năng động nhiệt huyết linh hoạt trong công việc\\n- Đối với ưng viên Nam thì có bằng lái ô tô là 1 lợi thế.\\n- Đối với ưng viên nữ có ngoại hình và giọng nói linh hoạt là 1 lợi thế\"\n}\n```",
+  "usage": {
+    "input_tokens": 4915,
+    "output_tokens": 796,
+    "total_tokens": 5711,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

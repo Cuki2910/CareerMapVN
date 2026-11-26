@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Nhà Hàng (Order)\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN DỊCH VỤ ẨM THỰC THÀNH CÔNG\",\n  \"job_category\": \"Nhà hàng / Khách sạn\",\n  \"sub_category\": \"Phục vụ\",\n  \"industry\": \"Nhà hàng và các dịch vụ ăn uống phục vụ lưu động\",\n  \"category\": null,\n  \"location\": \"Hà Nội: Số 29 Mạc Thái Tông, Phường Yên Hòa (Phường Yên Hòa thuộc quận Cầu Giấy cũ)\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-30\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-nha-hang-order/2308917.html\",\n  \"qualifications\": [\"Sơ cấp trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Giao tiếp tốt\", \"Chăm chỉ\", \"Trung thực\", \"Kiên nhẫn\", \"Có tinh thần trách nhiệm\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"7 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"* Ca hỗn hợp (ngày & đêm)\\n* Ca làm việc từ 10h - 14h; và từ 17h - 22h\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Thưởng tháng 13\",\n    \"Thưởng hiệu quả làm việc\",\n    \"Lương: 7 - 10 triệu\",\n    \"Tăng lương hàng năm theo năng lực và thời gian gắn bó\",\n    \"Ngoài lương có Thưởng Tip, sản lượng, doanh thu\",\n    \"Phụ cấp ăn 2 bữa tại nhà hàng.\",\n    \"Chế độ phúc lợi đầy đủ: sinh nhật, ốm đau, lễ tết, lương tháng 13...\",\n    \"Cấp phát đồng phục\",\n    \"Đóng BHXH, BHYT, BHTN đầy đủ.\",\n    \"Signing bonus\",\n    \"Team building\",\n    \"Ăn trưa\",\n    \"Được cấp Điện thoại, Tai nghe\"\n  ],\n  \"description\": \"* Chào đón, cung cấp thông tin cho khách về thực đơn và các dịch vụ đi kèm.\\n* Trực tiếp tư vấn đồ ăn, đồ uống cho khách.\\n* Ghi nhận món ăn, đồ uống, số lượng và yêu cầu của khách chính xác.\\n* Phối hợp với bếp, bar và nhân viên phục vụ để đảm bảo món ra đúng bàn, đúng món và đúng thứ tự.\\n* Đảm bảo khu vực làm việc sạch sẽ, đồng phục và tác phong đúng quy định nhà hàng.\\n* Thực hiện các công việc chuẩn bị đầu giờ phục vụ theo sự phân công của Tổ trưởng.\",\n  \"requirements_text\": \"### Yêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Tuổi 18 - 30  Sơ cấp trở lên\\n\\n## Yêu cầu ứng viên\\n* Tuổi từ 18 – 30\\n* Ngoại hình sáng\\n* Giao tiếp tốt, chăm chỉ, trung thực, kiên nhẫn, có tinh thần trách nhiệm.\\n\\n### Kiến thức ngành\\nNhà hàng / Khách sạn\"\n}",
+  "usage": {
+    "input_tokens": 4664,
+    "output_tokens": 772,
+    "total_tokens": 5436,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

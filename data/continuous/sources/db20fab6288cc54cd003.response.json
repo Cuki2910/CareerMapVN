@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Pháp Chế\",\n  \"company_name\": null,\n  \"job_category\": \"Luật / Pháp chế\",\n  \"sub_category\": \"Chuyên viên pháp lý\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Cà Mau\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phap-che/2166378.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"Đại học chuyên ngành Luật\"\n  ],\n  \"technical_skills\": [\n    \"Soạn Thảo Văn Bản\",\n    \"luật lao động\",\n    \"môi trường\",\n    \"luật doanh nghiệp\",\n    \"VSATTP\"\n  ],\n  \"soft_skills\": [\n    \"tư duy phản biện\",\n    \"Trung thực\",\n    \"quyết đoán\",\n    \"chịu được áp lực công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Mức lương thỏa thuận theo năng lực\",\n    \"Hỗ trợ nhà ở cho nhân viên ở xa\",\n    \"Hỗ trợ cơm trưa\",\n    \"Môi trường làm việc năng động, chuyên nghiệp.\",\n    \"Chế độ bảo hiểm, lễ tết và các phúc lợi khác theo quy định.\"\n  ],\n  \"description\": \"Quản trị Hợp đồng: Soạn thảo, rà soát và thẩm định pháp lý các loại hợp đồng, trực tiếp tham gia đàm phán điều khoản bồi thường và rủi ro.\\nTư vấn & Tuân thủ: Tham mưu pháp luật (Doanh nghiệp, Lao động, Thuế...),\\nxây dựng hệ thống nội quy, quy chế và cập nhật chính sách pháp luật mới.\\nThủ tục Hành chính: Thực hiện các thủ tục Đăng ký kinh doanh và xin cấp giấy phép con (VSATTP, Môi trường, SHTT, Công bố sản phẩm).\\nGiải quyết Tranh chấp: Đại diện công ty xử lý khiếu nại và tham gia tố tụng tại cơ quan chức năng hoặc Tòa án/Trọng tài.\\nQuan hệ Lao động: Phối hợp cùng Nhân sự xử lý kỷ luật, chấm dứt hợp đồng và các vấn đề bảo hiểm, chế độ đúng quy định pháp luật.\",\n  \"requirements_text\": \"Tốt nghiệp Đại học chuyên ngành Luật.\\nCó kinh nghiệm trong lĩnh vực pháp chế doanh nghiệp hoặc tư vấn luật.\\nAm hiểu sâu về Luật Doanh nghiệp, Luật Lao động và các quy định về VSATTP/Môi trường là một lợi thế.\\nKỹ năng soạn thảo văn bản và tư duy phản biện tốt.\\nTrung thực, quyết đoán và chịu được áp lực công việc.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4898,
+    "output_tokens": 775,
+    "total_tokens": 5673,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

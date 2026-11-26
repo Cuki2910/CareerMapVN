@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Phục Vụ (Full Time - Part Time) - Lẩu Bò Trăm Rưỡi - Quận 2\",\n  \"company_name\": \"Lẩu Bò Trăm Rưỡi\",\n  \"job_category\": \"Phục vụ\",\n  \"sub_category\": null,\n  \"industry\": \"Nhà hàng / Khách sạn\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-12\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-full-time-part-time-lau-bo-tram-ruoi-quan-2/2353170.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Giao tiếp tốt\",\n    \"Làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"25 k - 27 k /giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"full-time\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm) \\n16:00 - 01:00 hoặc 15:00 - 00h30\",\n  \"benefits\": [\n    \"Môi trường làm việc trẻ, năng động\",\n    \"Cơ hội phát triển lên vị trí chính thức/quản lý\",\n    \"Được đào tạo nếu chưa có kinh nghiệm\",\n    \"Thưởng doanh thu HÀNG THÁNG (dựa trên % tổng thu của chi nhánh).\",\n    \"Thưởng chuyên cần: Cộng thêm tiền thưởng nếu nghỉ phép không quá 2 ngày/tháng\"\n  ],\n  \"description\": \"- Giới thiệu thực đơn, tư vấn món ăn, đồ uống phù hợp với sở thích của khách hàng.\\n- Thường xuyên quan sát, lắng nghe và đáp ứng kịp thời các yêu cầu, thắc mắc của khách hàng trong suốt quá trình dùng bữa.\\n- Dọn dẹp chén đĩa bẩn, lau chùi bàn ăn sau khi khách rời đi, chuẩn bị bàn mới sẵn sàng phục vụ khách tiếp theo.\\n- Hỗ trợ bộ phận thu ngân trong việc in hóa đơn, nhận thanh toán và trả lại tiền thừa cho khách khi cần.\\n- Thực hiện các công việc khác theo sự phân công của Quản lý để duy trì hoạt động trôi chảy của nhà hàng/quán ăn.\",\n  \"requirements_text\": \"- Có sức khỏe tốt, trung thực, chăm chỉ và có tinh thần trách nhiệm cao trong công việc.\\n- Nhanh nhẹn, cẩn thận, tỉ mỉ và có khả năng làm việc dưới áp lực cao.\\n- Kỹ năng giao tiếp tốt, thái độ phục vụ chuyên nghiệp, niềm nở với khách hàng.\\n- Có khả năng làm việc theo ca, kể cả các ngày lễ, Tết.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4964,
+    "output_tokens": 747,
+    "total_tokens": 5711,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

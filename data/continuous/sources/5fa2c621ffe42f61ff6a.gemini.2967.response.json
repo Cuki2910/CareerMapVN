@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kế Hoạch Vật Tư\",\n  \"company_name\": \"CÔNG TY TNHH SẢN XUẤT ĐỒ GIA DỤNG SUNHOUSE\",\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Kế hoạch sản xuất\",\n  \"industry\": \"Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ke-hoach-vat-tu/2358523.html\",\n  \"qualifications\": [\n    \"Cao Đẳng trở lên\",\n    \"Kế toán\",\n    \"quản trị kinh doanh hoặc liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Tin học văn phòng\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Lập Kế Hoạch\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1.0,\n  \"salary\": \"12 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00), Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Thời gian làm việc: 44h/tuần\",\n    \"Mức thu nhập: 12 – 15tr/tháng\",\n    \"Phụ cấp ăn trưa\",\n    \"Thưởng KPIs\",\n    \"Bảo hiểm xã hội\",\n    \"Du lịch nghỉ mát\"\n  ],\n  \"description\": \"1. Dựa vào kế hoạch sản xuất cân đối và tính toán ra nhu cầu linh kiện, nguyên vật liệu theo tuần, tháng, quý.\\n2. Đặt hàng linh kiện và nguyên vật liệu theo leadtime đúng thời điểm, đúng số lượng theo yêu cầu.\\n3. Theo dõi tiến độ đặt vật tư, linh kiện trong và ngoài nước nhằm triển khai sản xuất theo đúng KHSX đã ban hành.\\n4. Kết hợp với bộ phận Kho lên kế hoạch xử lý linh kiện, sản phẩm tồn tại kho\\n5. Quản lý giá trị vật tư tồn lâu cần xử lý\\n6. Quản lý và kiểm soát toàn bộ hoạt động nhập - dự trữ - xuất -tồn - kiểm kê vật tư của hệ thống linh kiện, NVL\\n7. Tổng hợp, rà soát, đôn đốc vật tư linh kiện giao thiếu theo kế hoạch điều vật tư, phản hồi XNK hoặc NCC để thúc đẩy hàng về đúng theo kế hoạch.\\n8. Thực hiện công việc phát sinh theo yêu cầu lãnh đạo.\",\n  \"requirements_text\": \"1. Tốt nghiệp Cao đẳng trở lên\\n2. Chuyên ngành: Kế toán, quản trị kinh doanh hoặc liên quan\\n3. Thành thạo tin học văn phòng\\n4. Kinh nghiệm: 1 năm kinh nghiệm tại vị trí tương đương, ưu tiên ứng viên làm trong các công ty điện tử\"\n}\n```",
+  "usage": {
+    "input_tokens": 4757,
+    "output_tokens": 787,
+    "total_tokens": 5544,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,15 @@
+{
+  "content": "{\n  \"job_title\": \"Kỹ Sư Bảo Trì\",\n  \"company_name\": \"Công ty TNHH LITEON VIỆT NAM\",\n  \"job_category\": null,\n  \"sub_category\": null,\n  \"industry\": \"Sản xuất linh kiện điện tử khác\",\n  \"category\": null,\n  \"location\": \"Hải Phòng\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-16\",\n  \"url\": \"https://www.topcv.vn/viec-lam/ky-su-bao-tri-thiet-bi/2358732.html\",\n  \"qualifications\": [\n    \"Cao đẳng trở lên chuyên ngành Điện tử\",\n    \"Cao đẳng trở lên chuyên ngành Tự động hóa\"\n  ],\n  \"technical_skills\": [\n    \"SMT\",\n    \"Máy Fuji\",\n    \"Feeder\",\n    \"Nozzle\"\n  ],\n  \"soft_skills\": null,\n  \"languages_required\": null,\n  \"experience_required\": 3,\n  \"salary\": \"15 - 30 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (08:00-17:00); Thứ 2 - Thứ 6 & 2 ngày Thứ 7 trong tháng\",\n  \"benefits\": [\n    \"Thử việc 100% lương\",\n    \"Thưởng cuối năm lên đến 2-3 tháng lương\",\n    \"Nghỉ 2 thứ 7 (có lương) và Chủ Nhật\",\n    \"Xe buýt đưa đón miễn phí\",\n    \"Trợ cấp Nhà xa, Đi lại, Thâm niên, Con nhỏ, Ca đêm\"\n  ],\n  \"description\": \"Mô tả công việc:\\n- Setup chương trình, chuyển đổi model và xác nhận sản phẩm đầu tiên trên máy SMT Fuji.\\n- Quản lý Feeder, Nozzle và xử lý các bất thường trong quá trình sản xuất.\\n- Thực hiện bảo trì định kỳ, hỗ trợ xử lý sự cố thiết bị SMT.\\n- Theo dõi OEE, Yield, Downtime và đề xuất các giải pháp cải tiến.\\n- Hỗ trợ đào tạo nhân viên vận hành và đảm bảo tuân thủ SOP.\\n\\nQuyền lợi ứng viên:\\n- Thử việc 100% lương\\n- Thưởng cuối năm lên đến 2-3 tháng lương\\n- Nghỉ 2 thứ 7 (có lương) và Chủ Nhật\\n- Xe buýt đưa đón miễn phí\\n- Trợ cấp Nhà xa, Đi lại, Thâm niên, Con nhỏ, Ca đêm\\n\\nĐịa điểm và thời gian:\\nĐịa điểm làm việc: Hải Phòng: Khu Công nghiệp VSIP Thủy Nguyên, Phường Nam Triệu (Phường Nam Triệu thuộc Thành phố Thuỷ Nguyên cũ)\\nThời gian làm việc:\\n- Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\n- Thứ 2 - Thứ 6 & 2 ngày Thứ 7 trong tháng\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng trở lên chuyên ngành Điện tử, Tự động hóa hoặc liên quan.\\n- Có kinh nghiệm SMT từ 3 năm trở lên.\\n- Ưu tiên ứng viên quen thuộc máy Fuji (NXT/AIMEX/CP/XP).\"\n}",
+  "usage": {
+    "input_tokens": 4162,
+    "output_tokens": 2491,
+    "total_tokens": 6653,
+    "input_token_details": {},
+    "output_token_details": {
+      "reasoning": 1711
+    }
+  },
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "actual_model": "openai/gpt-oss-120b"
+}

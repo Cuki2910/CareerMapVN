@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Thực Tập Sinh Điều Phối Vận Tải\",\n  \"company_name\": \"CÔNG TY CỔ PHẦN TẬP ĐOÀN ITL\",\n  \"job_category\": \"Logistic / Vận tải\",\n  \"sub_category\": \"Giám sát/Điều phối vận tải\",\n  \"industry\": \"Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh: 08/434, KDC 434, DT 743, Bình Đáng, Bình Hòa, Phường Thuận An (Phường Thuận An thuộc Thành phố Thuận An cũ)\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/thuc-tap-sinh-dieu-phoi-van-tai/2240138.html\",\n  \"qualifications\": [\"Sinh viên năm 3,4 trường ĐH, CĐ các ngành liên quan\"],\n  \"technical_skills\": [\"Kiến thức ngành Logistic / Vận tải\"],\n  \"soft_skills\": [\"Cẩn thận\", \"Nhanh nhẹn\", \"Chịu khó\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Tới 1 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Thực tập sinh, Toàn thời gian\",\n  \"working_hours\": \"- Đảm bảo thời gian làm việc fulltime trong 3 tháng\\n- Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\n- Thứ 7 (từ 08:00 đến 12:00)\",\n  \"benefits\": [\n    \"Được hỗ trợ phụ cấp thực tập 1.000.000VNĐ/ tháng\",\n    \"Hỗ trợ về bài báo cáo, dấu mộc\",\n    \"Nắm được quy trình làm việc tại bộ phận\",\n    \"Được training chi tiết về công việc.\"\n  ],\n  \"description\": \"- Sắp xếp hồ sơ chứng từ\\n- Hỗ trợ hồ sơ lái xe đưa về\\n- Điều xe trên App Duyệt lệnh Book hãng tàu\\n- Theo dõi và cập nhật thông tin vận hành xe đến khách hàng\\n- Các yêu cầu khác theo sự chỉ đạo của người hướng dẫn trực tiếp.\",\n  \"requirements_text\": \"Tổng quan\\nYêu cầu:\\nKhông yêu cầu kinh nghiệm chuyên môn  Cao Đẳng trở lên\\nChuyên môn:\\nGiám sát/Điều phối vận tải\\nLogistic / Vận tải\\n\\nYêu cầu ứng viên\\n- Ưu tiên nam\\n- Sinh viên năm 3,4 trường ĐH, CĐ các ngành liên quan\\n- Đảm bảo thời gian làm việc fulltime trong 3 tháng\\n- Cẩn thận, nhanh nhẹn, chịu khó.\\n\\nKiến thức ngành\\nLogistic / Vận tải\"\n}",
+  "usage": {
+    "input_tokens": 4549,
+    "output_tokens": 677,
+    "total_tokens": 5226,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

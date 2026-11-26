@@ -1,0 +1,57 @@
+{
+  "job_title": "Kỹ Sư Vận Hành Dịch Vụ",
+  "company_name": null,
+  "job_category": "Công nghệ thông tin",
+  "sub_category": "Chuyên môn Công nghệ thông tin khác",
+  "industry": null,
+  "category": null,
+  "location": "Hà Nội",
+  "country": "Việt Nam",
+  "posting_date": null,
+  "deadline": "2026-12-30",
+  "url": "https://www.topcv.vn/viec-lam/ky-su-van-hanh-dich-vu/2366287.html",
+  "qualifications": [
+    "Tốt nghiệp chuyên ngành Công nghệ thông tin, ATTT, Điện tử viễn thông hoặc các chuyên ngành khác có liên quan.",
+    "Ưu tiên có một trong các chứng chỉ quốc tế về mạng hoặc hệ thống như CCNA, MCSA, LPI,…"
+  ],
+  "technical_skills": [
+    "SIEM",
+    "SOAR",
+    "EDR/XDR",
+    "NSM",
+    "Windows",
+    "Linux",
+    "TCP/IP Routing",
+    "Switching",
+    "Firewall",
+    "IPS/IDS",
+    "Endpoint security",
+    "Kubernetes",
+    "Docker"
+  ],
+  "soft_skills": [
+    "phân tích và xử lý vấn đề",
+    "phối hợp làm việc nhóm"
+  ],
+  "languages_required": [
+    "Tiếng Anh"
+  ],
+  "experience_required": 3.0,
+  "salary": "Thoả thuận",
+  "salary_min": null,
+  "salary_max": null,
+  "salary_avg": null,
+  "contract_type": "Toàn thời gian",
+  "working_hours": "* Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",
+  "benefits": [
+    "Thu nhập cạnh tranh, thỏa thuận theo Level",
+    "Thưởng các ngày lễ lớn, thưởng sinh nhật, lương tháng thứ 13, thưởng hiệu quả kinh doanh theo quy định và theo kết quả kinh doanh ( Gói thu nhập 14-15 tháng lương)",
+    "Review thu nhập 6 tháng/lần",
+    "Được hỗ trợ đào tạo và tài trợ tham gia các khóa học, thi chứng chỉ chuyên sâu về chuyên môn.",
+    "Chế độ bảo hiểm theo quy định của Pháp luật và bảo hiểm chăm sóc sức khỏe cấp cao PTI",
+    "Khám sức khỏe định kì hàng năm",
+    "Các hoạt động văn hóa đa dạng: Câu lạc bộ thể thao, Team building, Du lịch hằng năm"
+  ],
+  "description": "* Quản trị, vận hành và xử lý lỗi/sự cố liên quan đến các giải pháp ATTT đã triển khai tại site khách hàng như SIEM, SOAR, EDR/XDR, NSM,… nhằm đảm bảo SLA cung cấp dịch vụ.\n* Xây dựng, phát triển tối ưu các công cụ hỗ trợ cho quá trình vận hành hệ thống: công cụ quản lý giám sát, công cụ quản lý truy cập,…\n* Hỗ trợ triển khai tích hợp hệ thống (nếu phù hợp và cần thiết)\n* Nghiên cứu về các giải pháp ATTT, phương án nâng cao an toàn bảo mật trong hạ tầng CNTT.\n* Báo cáo kết quả vận hành và xử lý sự cố.",
+  "requirements_text": "* Tốt nghiệp chuyên ngành Công nghệ thông tin, ATTT, Điện tử viễn thông hoặc các chuyên ngành khác có liên quan.\n* Có kiến thức tốt về hệ điều hành máy chủ (Windows/Linux), hệ thống mạng (TCP/IP Routing, Switching…)\n* Có kinh nghiệm 03 năm trở lên trong việc vận hành hệ thống máy chủ (Windows/Linux), vận hành hệ thống mạng/bảo mật. Ưu tiên ứng viên có kinh nghiệm vận hành các hệ thống mạng/bảo mật liên quan đến một trong các giải pháp như SIEM, SOAR, Firewall, IPS/IDS, Endpoint security…\n* Có kinh nghiệm làm việc với môi trường ảo hóa, container (Kubernetes, Docker) là một lợi thế.\n* Ưu tiên có một trong các chứng chỉ quốc tế về mạng hoặc hệ thống như CCNA, MCSA, LPI,…\n* Đọc hiểu tài liệu tiếng anh.\n* Có kỹ năng phân tích và xử lý vấn đề, kỹ năng phối hợp làm việc nhóm."
+}

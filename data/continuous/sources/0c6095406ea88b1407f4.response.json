@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Chuyên Viên Dự Án Công Nghệ Thông Tin – Điện Tử Viễn Thông / Kỹ Thuật IT\",\n  \"company_name\": null,\n  \"job_category\": \"Công Nghệ Thông Tin\",\n  \"sub_category\": \"Kỹ thuật IT\",\n  \"industry\": \"IT - Phần cứng và máy tính, Viễn thông, Hàng không\",\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-11\",\n  \"url\": \"https://www.topcv.vn/viec-lam/chuyen-vien-du-an-cong-nghe-thong-tin-dien-tu-vinh-thong-ky-thuat-it/2355916.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp đại học chuyên ngành Công nghệ thông tin - Điện tử viễn thông – Hàng không, hoặc các ngành có liên quan\"\n  ],\n  \"technical_skills\": [\n    \"Quản Lý Dự Án\",\n    \"Đọc hiểu tài liệu tiếng Anh chuyên ngành\",\n    \"Phần cứng mạng\"\n  ],\n  \"soft_skills\": [\n    \"Giao Tiếp Tiếng Anh Cơ Bản\",\n    \"Kinh nghiệm mảng dự án Công nghệ thông tin\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Tới 20 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\\nCó thể làm việc ngày thứ 7 theo yêu cầu tiến độ công việc\",\n  \"benefits\": [\n    \"Bảo hiểm xã hội\",\n    \"Khám sức khỏe định kỳ\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"BHYT\",\n    \"BHTN và các chế độ khác theo quy định Nhà nước\"\n  ],\n  \"description\": \"- Làm việc với các đối tác trong và ngoài nước về các hệ thống Công nghệ thông tin (phần cứng mạng: máy chủ, máy trạm, tường lửa, định tuyến, chuyển mạch,... và các phần mềm ứng dụng)\\n- Thực hiện chức năng Quản lý dự án: triển khai lắp đặt, bàn giao, đào tạo, nghiệm thu, bảo hành\\n- Các công việc khác theo sự điều phối của ban lãnh đạo công ty\",\n  \"requirements_text\": \"- Nam, tuổi không quá 35.\\n- Tốt nghiệp đại học chuyên ngành Công nghệ thông tin - Điện tử viễn thông – Hàng không, hoặc các ngành có liên quan\\n- Ưu tiên: có kinh nghiệm trong thực tế về mảng dự án liên quan Công nghệ thông tin (hardware & networking)\\n- Có khả năng đọc, hiểu tài liệu tiếng Anh chuyên ngành. Ưu tiên ứng viên csó khả năng giao tiếp tiếng Anh cơ bản với đối tác nước ngoài\\n- Sẵn sàng đi công tác tại các sân bay trên toàn quốc\"\n}\n```",
+  "usage": {
+    "input_tokens": 5183,
+    "output_tokens": 765,
+    "total_tokens": 5948,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

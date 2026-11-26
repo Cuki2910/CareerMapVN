@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Thiết Bị Y Tế (Sale Thị Trường) - Lương Cứng 15-20 Triệu + Hoa Hồng\",\n  \"company_name\": null,\n  \"job_category\": \"Kinh doanh\",\n  \"sub_category\": \"Kinh doanh thiết bị/vật tư y tế\",\n  \"industry\": \"Chăm sóc sức khỏe / Làm đẹp\",\n  \"category\": null,\n  \"location\": \"Hà Nội, Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-thiet-bi-y-te-sale-thi-truong-luong-cung-15-20-trieu-hoa-hong/2332235.html\",\n  \"qualifications\": [\n    \"Cao đẳng/Đại học các chuyên ngành Kinh tế, Quản trị kinh doanh hoặc liên quan\"\n  ],\n  \"technical_skills\": null,\n  \"soft_skills\": [\n    \"Tư vấn\",\n    \"Đàm phán\",\n    \"Giao tiếp\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 2.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 7 (từ 08:00 đến 17:30), Thứ 7 (từ 08:00 đến 12:00), Nghỉ chiều Thứ 7 và Chủ nhật\",\n  \"benefits\": [\n    \"Có hỗ trợ Data\",\n    \"Bảo hiểm xã hội\",\n    \"Bảo hiểm sức khỏe\",\n    \"Thưởng lễ tết, hiếu hỉ, sinh nhật, lương tháng 13... theo quy định Công ty\",\n    \"Team building\",\n    \"Du lịch hàng năm\",\n    \"Tham gia các buổi đào tạo\"\n  ],\n  \"description\": \"- Tìm kiếm, phát triển khách hàng và khai thác nhu cầu về thiết bị y tế.\\n- Tư vấn sản phẩm, giải pháp phù hợp và thực hiện báo giá, đàm phán, chốt hợp đồng.\\n- Phối hợp với các bộ phận Ứng dụng/Kỹ thuật trong quá trình tư vấn và triển khai.\\n- Theo dõi đơn hàng từ giao hàng, lắp đặt đến nghiệm thu; phối hợp theo dõi công nợ.\\n- Chăm sóc khách hàng, tiếp nhận và phối hợp xử lý các vấn đề phát sinh.\\n- Cập nhật thông tin thị trường, đối thủ và báo cáo kết quả công việc.\\n- Chủ động cập nhật kiến thức sản phẩm và thực hiện các công việc khác theo phân công.\",\n  \"requirements_text\": \"- Tốt nghiệp Cao đẳng/Đại học các chuyên ngành Kinh tế, Quản trị kinh doanh hoặc liên quan.\\n- Có 2 năm kinh nghiệm Sales thị trường; ưu tiên ứng viên có kinh nghiệm trong lĩnh vực thiết bị y tế.\\n- Có kỹ năng giao tiếp, tư vấn và đàm phán.\\n- Chủ động, trách nhiệm, có tinh thần kinh doanh và khả năng chịu áp lực công việc.\\n- Bảo mật thông tin.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5614,
+    "output_tokens": 806,
+    "total_tokens": 6420,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

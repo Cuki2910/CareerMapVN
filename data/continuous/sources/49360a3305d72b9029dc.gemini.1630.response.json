@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Shipper Giao Hàng Siêu Thị\",\n  \"company_name\": null,\n  \"job_category\": \"Shipper (Nhân viên giao hàng)\",\n  \"sub_category\": null,\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Đồng Tháp\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-21\",\n  \"url\": \"https://www.topcv.vn/viec-lam/shipper-giao-hang-sieu-thi/2337192.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [],\n  \"soft_skills\": [\n    \"Quản Lý Thời Gian Hiệu Quả\",\n    \"Khả Năng Xử Lý Tình Huống\",\n    \"Tuân Thủ Luật Giao Thông\",\n    \"Lái Xe An Toàn\",\n    \"Định Hướng Tốt\",\n    \"ứng xử tốt\"\n  ],\n  \"languages_required\": [],\n  \"experience_required\": 0,\n  \"salary\": \"10 - 15 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Chủ nhật (từ 08:00 đến 17:00)\\nSiêu thị mở cửa tới khi hoàn tất đơn giao trong ngày. Off 1 ngày trong tuần\",\n  \"benefits\": [\n    \"Thưởng lương tháng 13 và thưởng các ngày Lễ, Tết.\",\n    \"Đóng đầy đủ BHXH, BHYT, BHTN theo quy định của Luật Lao động.\",\n    \"Hưởng 100% lương chính thức trong thời gian thử việc.\",\n    \"Chế độ phúc lợi dành cho đoàn viên công đoàn: quà sinh nhật, hiếu hỉ, quà các dịp lễ Tết, Trung thu, Quốc tế Thiếu nhi cho con nhỏ (nếu có).\"\n  ],\n  \"description\": \"- Giao hàng đến tận nơi cho khách bằng xe máy\\n- Tiếp nhận, kiểm tra hàng hóa nhận từ kho, đảm bảo hàng hóa đúng, đầy đủ linh kiện, sản phẩm tặng kèm theo đơn hàng\\n- Thực hiện việc lắp đặt tất cả các sản phẩm điện tử/ điện lạnh/ gia dụng theo yêu cầu của khách hàng\\n- Tư vấn, hướng dẫn khách hàng vận hành, sử dụng các sản phẩm của công ty một cách đúng kỹ thuật.\",\n  \"requirements_text\": \"- Nam, tuổi từ 20-45,\\n- KHÔNG YÊU CẦU KINH NGHIỆM\\n- Sức khỏe tốt, nhanh nhẹn, trung thực, ứng xử tốt\\n- Am hiểu các thiết bị điện, điện tử, điện lạnh\\n- Rành các tuyến đường trong khu vực  \\n- có bằng Tốt nghiệp trung cấp\"\n}\n```",
+  "usage": {
+    "input_tokens": 4861,
+    "output_tokens": 706,
+    "total_tokens": 5567,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

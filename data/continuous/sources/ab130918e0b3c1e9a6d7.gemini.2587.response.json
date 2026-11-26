@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Kiến Trúc Sư\",\n  \"company_name\": null,\n  \"job_category\": \"Thiết kế / Kiến trúc\",\n  \"sub_category\": \"Kiến Trúc Sư\",\n  \"industry\": \"Xây dựng, Bất động sản, Thiết kế / Kiến trúc\",\n  \"category\": null,\n  \"location\": \"Phường Mỹ Hào, Hưng Yên\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/kien-truc-su-hung-yen-muc-luong-upto-25-trieu-co-nhan-sinh-vien-moi-ra-truong/2340448.html\",\n  \"qualifications\": [\n    \"Đại Học trở lên\",\n    \"ưu tiên các trường Kiến trúc, Xây dựng\"\n  ],\n  \"technical_skills\": [\n    \"2D\",\n    \"3D\",\n    \"các phần mềm chuyên ngành kiến trúc\"\n  ],\n  \"soft_skills\": [\n    \"quản lý thời gian\",\n    \"chủ động trong công việc\",\n    \"làm việc nhóm\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"12 - 25 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)\",\n  \"benefits\": [\n    \"Mức lương 12-25 triệu (thỏa thuận tùy theo năng lực và kinh nghiệm làm việc thực tế)\",\n    \"Có lộ trình tăng lương rõ ràng hàng năm\",\n    \"Có chỗ ăn ở cho nhân viên ở xa, Phòng ở sạch đẹp, đầy đủ tiện nghi, có canten phục vụ 3 bữa sáng, trưa, tối\",\n    \"Đóng đầy đủ BHXH, BHYT,BHTN theo đúng quy định luật hiện hành\",\n    \"Nghỉ phép năm đúng quy định\",\n    \"Được cấp đồng phục văn phòng lịch sự, sạch đẹp\",\n    \"Môi trường làm việc lành mạnh, chuyên nghiệp\",\n    \"Có nhiều cơ hội cọ sát và phát triển bản thân\",\n    \"Tham gia các hoạt động thường niên: du lịch nghỉ mát, team building,... cùng công ty\"\n  ],\n  \"description\": \"• Quy hoạch; Triển khai 2D, 3D bản vẽ thi công.\\n• Triển khai thiết kế các công trình xây dựng dân dụng và công nghiệp.\\n• Đề xuất ý tưởng thiết kế, các giải pháp tổng thể về quy hoạch, công năng, vật liệu xây dựng cũng như chi tiết cấu tạo nhằm tăng thẩm mỹ, hiệu quả về mặt sử dụng và tối ưu về giá thành.\",\n  \"requirements_text\": \"• Tốt nghiệp đại học trở lên, ưu tiên các trường Kiến trúc, Xây dựng\\n• Có nhận sinh viên mới ra trường.\\n• Biết sử dụng các phần mềm chuyên ngành kiến trúc. Được đào tạo bài bản trong quá trình làm việc.\\n• Kỹ năng quản lý thời gian, chủ động trong công việc và có tinh thần làm việc nhóm tốt.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5178,
+    "output_tokens": 797,
+    "total_tokens": 5975,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

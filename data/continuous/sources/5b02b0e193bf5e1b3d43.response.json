@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Vận Hành Máy CNC\",\n  \"company_name\": null,\n  \"job_category\": \"Sản xuất\",\n  \"sub_category\": \"Cơ khí / Tự động hóa\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hà Nội\",\n  \"country\": \"Vietnam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-26\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-van-hanh-may-cnc/2169882.html\",\n  \"qualifications\": [\n    \"Tốt nghiệp nghề\",\n    \"trung cấp, cao đẳng chuyên ngành cơ khí\"\n  ],\n  \"technical_skills\": [\n    \"Vận Hành Máy Cnc\",\n    \"Đọc Hiểu Bản Vẽ Kỹ Thuật\",\n    \"Kiến Thức Về Vật Liệu Gia Công\",\n    \"Xử Lý Sự Cố Máy Cnc Đơn Giản\"\n  ],\n  \"soft_skills\": [\n    \"Trung thực\",\n    \"nhiệt tình năng động\",\n    \"Giải quyết vấn đề\",\n    \"Khả Năng Làm Việc Độc Lập\",\n    \"Cẩn Thận\",\n    \"Tỉ Mỉ\",\n    \"Kinh Nghiệm Làm Việc Với Nhiều Loại Máy Cnc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 1,\n  \"salary\": \"17 - 19 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca hỗn hợp (ngày & đêm)\",\n  \"benefits\": [\n    \"Cơ hội phát triển chuyên môn\",\n    \"Tham gia BHXH, BHYT, BHTN đầy đủ ngay khi ký hợp đồng chính thức\",\n    \"Phúc lợi đời sống chu đáo: Quà tặng sinh nhật, các ngày Lễ, Tết, hiếu hỷ, ốm đau,..\",\n    \"Du lịch, tham quan, nghỉ mát, khám sức khỏe định kỳ hàng năm.\",\n    \"Gắn kết và lan tỏa: Tham gia teambuilding, hội thao sôi động, các hoạt động nội bộ đầy ý nghĩa.\",\n    \"Hỗ trợ ăn ca, cấp phát đồng phục\"\n  ],\n  \"description\": \"- Vận hành máy CNC, máy cắt dây… gia công chế tạo,sửa chữa theo kế hoạch  \\n- Đảm bảo chất lượng chi tiết mình gia công   \\n- Thực hiện công việc khác khi được giao\",\n  \"requirements_text\": \"- Tốt nghiệp nghề, trung cấp, cao đẳng chuyên ngành cơ khí  \\n- Ưu tiên người có kinh nghiệm vận hành máy CNC  \\n- Trung thực, nhiệt tình năng động\"\n}\n```",
+  "usage": {
+    "input_tokens": 4730,
+    "output_tokens": 682,
+    "total_tokens": 5412,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

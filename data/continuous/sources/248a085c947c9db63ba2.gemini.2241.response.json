@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Phụ Bếp Nam/ Nữ - Nhà Hàng Hàn Quốc Quận 1/ Quận 2/ Quận 7/ Quận 8\",\n  \"company_name\": null,\n  \"job_category\": \"Phụ bếp\",\n  \"sub_category\": \"Nhà hàng / Khách sạn\",\n  \"industry\": \"Thực phẩm / Đồ uống\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/phu-bep-nam-nu-nha-hang-han-quoc-quan-1-quan-2-quan-7-quan-8/2361262.html\",\n  \"qualifications\": [\n    \"Trung cấp trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Vệ Sinh Khu Vực Bếp\",\n    \"Sử Dụng Dụng Cụ Bếp\",\n    \"Sơ Chế Nguyên Liệu\",\n    \"Chuẩn Bị Món Ăn\",\n    \"Sử Dụng Dao Thành Thạo\"\n  ],\n  \"soft_skills\": [\n    \"sắp xếp công việc\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"6.5 - 10 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Ca làm\\nFulltime 12 tiếng: 10h-22h ( nghỉ ca 1 tiếng, nghỉ 4 ngày/tháng)\\nFulltime: 9h-17h, 14h-22h, nghỉ 4 ngày/tháng\\nParttime: 17h-22h, làm tối thiểu 5 ca/tuần\\nCa hỗn hợp (ngày & đêm)\\nNghỉ 1 ngày bất kỳ trong tuần\\nKhông nghỉ cuối tuần, Lễ, Tết\",\n  \"benefits\": [\n    \"Miễn phí cơm trong ca làm\",\n    \"Tham gia BHXH\",\n    \"thưởng lương thâm niên\",\n    \"Tiền tips + thưởng KPI tại chi nhánh làm việc\",\n    \"Không mất phí giữ xe ở chi nhánh thuộc TTTM\",\n    \"cấp phát đồng phục\",\n    \"Mức lương ngày Lễ, Tết hấp dẫn\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Chuẩn bị nguyên vật liệu, sơ chế nguyên vật liệu đầu ca ( rau củ, thịt, miến, chiên gà...)\\n- Trình bày món ăn, phối hợp nhịp nhàng cũng bếp chính\\n- Tiến hành vệ sinh sạch sẽ khu vực bếp (khu chế biến- sàn bếp- cống thoát nước)\\n- Sắp xếp toàn bộ công cụ dụng cụ trong bếp gọn gàng,đúng vị trí quy định.\",\n  \"requirements_text\": \"- Nam: Độ tuổi từ 18 - 28\\n- Nữ: Độ tuổi từ 25 - 45\\n- Không yêu cầu kinh nghiệm, chỉ cần biết cách sử dụng các dụng cụ bếp ( dao, kéo, chảo...)\\n- Có kinh nghiệm bếp Buffet/ bếp Hàn là một lợi thế\\n- Có sức khỏe tốt, chịu được áp lực công việc.\\n- Nhanh nhẹn, hoạt bát, có tinh thần làm việc nhóm.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5594,
+    "output_tokens": 839,
+    "total_tokens": 6433,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Khảo Sát Người Tiêu Dùng\",\n  \"company_name\": null,\n  \"job_category\": \"Nghiên cứu thị trường\",\n  \"sub_category\": \"Market Research\",\n  \"industry\": null,\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh, Hà Nội\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-11-18\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-khao-sat-nguoi-tieu-dung/1986031.html\",\n  \"qualifications\": [\n    \"Trung học phổ thông (Cấp 3) trở lên\"\n  ],\n  \"technical_skills\": [\n    \"Tablet / Điện thoại hệ điều hành Android\"\n  ],\n  \"soft_skills\": [\n    \"Giao tiếp\",\n    \"Thuyết phục tốt\"\n  ],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"6.5 - 9.5 triệu\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Bán thời gian\",\n  \"working_hours\": \"Thời gian làm việc linh hoạt; Rảnh ít nhất 5 tiếng/ngày\",\n  \"benefits\": [\n    \"Thu nhập: 6.500.000 – 9.500.000 VNĐ/tháng (theo hiệu suất)\",\n    \"Được đào tạo – Có cơ hội thăng tiến (Trưởng nhóm, Giám sát viên)\",\n    \"Bảo hiểm tai nạn 24/7\",\n    \"Rảnh ít nhất 5 tiếng/ngày\",\n    \"Giờ làm linh hoạt, chủ động sắp xếp\"\n  ],\n  \"description\": \"Mô tả công việc\\n- Tìm kiếm và phỏng vấn người tiêu dùng theo yêu cầu của dự án.\\n- Thu thập ý kiến bằng bảng câu hỏi có sẵn (Không bán hàng).\\n- Tặng quà cho người tham gia sau khảo sát.\",\n  \"requirements_text\": \"Yêu cầu ứng viên\\n- Có Tablet / Điện thoại hệ điều hành Android.\\n- Có kỹ năng giao tiếp, thuyết phục tốt.\\n- Có phương tiện giao thông để di chuyển.\\n- Hoàn thành công việc và nộp đúng hạn cho công ty.\"\n}\n```",
+  "usage": {
+    "input_tokens": 4728,
+    "output_tokens": 588,
+    "total_tokens": 5316,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}

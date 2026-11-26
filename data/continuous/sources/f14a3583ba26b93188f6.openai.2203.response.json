@@ -1,0 +1,13 @@
+{
+  "content": "{\n  \"job_title\": \"Nhân Viên Phục Vụ (Full Time - Part Time) - Quán Trà Sam - Lương 20K/Giờ - Bảo Lộc, Lâm Đồng\",\n  \"company_name\": \"CÔNG TY TNHH DOTEA\",\n  \"job_category\": \"Phục vụ\",\n  \"sub_category\": \"Phục vụ tại quán trà\",\n  \"industry\": \"Bán lẻ thực phẩm\",\n  \"category\": null,\n  \"location\": \"Quán Trà Sam - 106 Hoàng Văn Thụ, Phường 1 Bảo Lộc (Phường 1 Bảo Lộc thuộc Thành phố Bảo Lộc cũ), Lâm Đồng\",\n  \"country\": null,\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-02\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-phuc-vu-full-time-part-time-quan-tra-sam-luong-20k-gio-bao-loc-lam-dong/2347628.html\",\n  \"qualifications\": [\"Trung học cơ sở (Cấp 2) trở lên\"],\n  \"technical_skills\": null,\n  \"soft_skills\": [\"Giao tiếp tốt\", \"Chăm chỉ\", \"Trách nhiệm\", \"Đi làm đúng giờ\", \"Thân thiện\", \"Vui vẻ\", \"Luôn sẵn sàng học hỏi\"],\n  \"languages_required\": null,\n  \"experience_required\": 0,\n  \"salary\": \"Từ 20 k /giờ\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Full Time - Part Time (Loại hình làm việc trong mục Thông tin chung: Toàn thời gian)\",\n  \"working_hours\": \"- Ca hỗn hợp (ngày & đêm)\\n- Ca sáng: 06h00 – 15h00 Ca tối: 14h30 – Đến khi hết khách\\n- Thời gian ca làm linh hoạt, phù hợp cho học sinh/sinh viên.\",\n  \"benefits\": [\n    \"Mức lương theo giờ cạnh tranh: 20.000 VNĐ/h.\",\n    \"Môi trường làm việc nhẹ nhàng, thân thiện, đồng nghiệp hòa đồng.\",\n    \"Thời gian ca làm linh hoạt, phù hợp cho học sinh/sinh viên.\",\n    \"sẽ được hướng dẫn/đào tạo khi nhận việc\"\n  ],\n  \"description\": \"Tổng quan\\nYêu cầu: Không yêu cầu kinh nghiệm chuyên môn  Trung học cơ sở (Cấp 2) trở lên\\nChuyên môn: Phục vụ\\n\\nMô tả công việc\\n- Chào đón khách hàng, nhận order món và phục vụ đồ uống tại bàn.\\n- Chuẩn bị nguyên liệu, hỗ trợ pha chế các loại trà/đồ uống theo tiêu chuẩn của quán.\\n- Giữ gìn vệ sinh không gian quán ngăn nắp, sạch sẽ và thoáng mát.\\n- Hỗ trợ các công việc phát sinh khác theo sắp xếp của quán.\",\n  \"requirements_text\": \"- Kinh nghiệm: Không yêu cầu kinh nghiệm (sẽ được hướng dẫn/đào tạo khi nhận việc).\\n- Yêu thích môi trường làm việc tại quán trà, giao tiếp tốt.\\n- Chăm chỉ, trách nhiệm, đi làm đúng giờ.\\n- Thân thiện, vui vẻ và luôn sẵn sàng học hỏi\"\n}",
+  "usage": {
+    "input_tokens": 4646,
+    "output_tokens": 754,
+    "total_tokens": 5400,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "openai",
+  "model": "cx/gpt-6.2-sol",
+  "actual_model": "gpt-6.2-sol"
+}

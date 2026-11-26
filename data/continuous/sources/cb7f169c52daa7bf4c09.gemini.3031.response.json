@@ -1,0 +1,13 @@
+{
+  "content": "```json\n{\n  \"job_title\": \"Nhân Viên Kinh Doanh Kỹ Thuật/Kỹ Sư Bán Hàng/Sales (Lương Cứng 9 - 12M + Hoa Hồng)\",\n  \"company_name\": null,\n  \"job_category\": \"Cơ khí / Tự động hóa\",\n  \"sub_category\": \"Bán hàng kỹ thuật cơ khí\",\n  \"industry\": \"Cơ khí / Tự động hóa\",\n  \"category\": null,\n  \"location\": \"Hồ Chí Minh\",\n  \"country\": \"Việt Nam\",\n  \"posting_date\": null,\n  \"deadline\": \"2026-12-25\",\n  \"url\": \"https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-ky-thuat-ky-su-ban-hang-sales-luong-cung-9-12m-hoa-hong/2364900.html\",\n  \"qualifications\": [\n    \"trung cấp\",\n    \"cao đẳng cơ khí\",\n    \"cơ điện tử\"\n  ],\n  \"technical_skills\": [\n    \"AutoCAD\",\n    \"Tin học VP\"\n  ],\n  \"soft_skills\": [\n    \"Bán Hàng\",\n    \"Đọc hiểu Tiếng Anh\"\n  ],\n  \"languages_required\": [\n    \"Tiếng Anh\"\n  ],\n  \"experience_required\": 1.0,\n  \"salary\": \"Thoả thuận\",\n  \"salary_min\": null,\n  \"salary_max\": null,\n  \"salary_avg\": null,\n  \"contract_type\": \"Toàn thời gian\",\n  \"working_hours\": \"Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)\\nThứ 7 (từ 08:00 đến 11:30)\\nTừ thứ hai đến thứ sáu:\\nSáng: 8h00 – 12h00; Chiều: 13h00 – 17h30\\nThứ 7: Sáng từ 8h00 – 11h30.\\nCông trình: theo giờ quy định của công trình.\",\n  \"benefits\": [\n    \"Lương cứng: 9 - 12M + %Hoa hồng. Thu nhập không giới hạn\",\n    \"Tham gia BHXH đầy đủ, bảo hiểm sức khỏe cá nhân (BIC)\",\n    \"Thưởng sinh nhật, lễ, tết, lương tháng 13 tùy theo tình hình kinh doanh của Công ty.\",\n    \"Môi trường làm việc ổn định, lâu dài.\",\n    \"Đi teambuilding 1 lần/ năm.\"\n  ],\n  \"description\": \"- Tư vấn, tính toán, lựa chọn lò xo, cao su chống rung và báo giá cho khách hàng.\\n- Khảo sát, kiểm tra thiết bị, lò xo.\\n- Tăng ca khi cần thiết\",\n  \"requirements_text\": \"- Tốt nghiệp trung cấp, cao đẳng cơ khí, cơ điện tử.\\n- Thành thạo tin học văn phòng.\\n- Biết sử dụng autocad.\\n- Có khả năng đọc hiểu tài liệu tiếng anh.\"\n}\n```",
+  "usage": {
+    "input_tokens": 5183,
+    "output_tokens": 748,
+    "total_tokens": 5931,
+    "input_token_details": {},
+    "output_token_details": {}
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "actual_model": "gemini-3.5-flash-lite"
+}
