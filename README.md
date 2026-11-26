@@ -1,150 +1,38 @@
-# VietJobs: A Vietnamese Job Advertisement Dataset
+# CareerMapVN
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Dataset](https://img.shields.io/badge/VietJobs%20Data-🤗%20HuggingFace%20Dataset-blue)](https://huggingface.co/datasets/dinhieufam/VietJobs)
-[![GitHub](https://img.shields.io/badge/⭐%20Star-VietJobs-green)](https://github.com/dinhieufam/vietjobs)
+Which data skills do Vietnamese employers ask for, where, in which industries, and how
+do they relate to advertised salary? CareerMapVN builds an analysis-ready dataset of
+**data roles** (tier A: data/BI analyst, data scientist/ML/AI, data engineer, business
+analyst, DBA/data governance, quant/risk) and **data-skill jobs** (tier B: other
+occupations whose postings name concrete data skills such as SQL, Power BI, Python,
+Google Analytics, statistics or advanced Excel) from Vietnamese job advertisements.
 
----
+DATA2010 Data Science Programming project, VinUniversity, Fall 2026.
 
-⭐ **If you find this project helpful, please consider giving it a [star on GitHub](https://github.com/dinhieufam/vietjobs)!**
+## Repository layout
 
----
+| Path | Contents |
+|---|---|
+| `crawling/` | TopCV crawler with LLM structured extraction → `data/CareerMapVN_jobs.csv` |
+| `analysis/` | Data pipeline: fetch → clean → filter → LLM labels → skill matrix → export |
+| `data/` | Datasets and pipeline outputs; see [`data/README.md`](data/README.md) |
+| `upstream/` | Original VietJobs fine-tuning code (LoRA, GPU); not used by CareerMapVN |
+| `Makefile`, `Dockerfile` | One-command reproduction |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dinhieufam/" target="_blank"><strong>Hieu Pham-Dinh</strong></a>,
-  <a href="https://github.com/whistle-hikhi" target="_blank"><strong>Hung Nguyen Huy</strong></a>,
-  <a href="https://elhaj.uk/" target="_blank"><strong>Mo El-Haj</strong></a>,
-</p>
-
-<p align="center">
-  <em>College of Engineering and Computer Science, VinUniversity</em><br>
-</p>
-
-<details>
-  <summary><strong>📚 Table of Contents</strong> (click to expand)</summary>
-
-- [🔍 What is VietJobs?](#-what-is-vietjobs)
-- [📊 Dataset Statistics](#-dataset-statistics)
-- [🗂 Repo Layout](#-repo-layout)
-- [I. Quickstart](#i-quickstart)
-  - [1. 📥 Clone & Setup](#1--clone--setup)
-  - [2. 📦 Install Dependencies](#2--install-dependencies)
-  - [3. Run Format, Fine-tune & Evaluation](#3-run-format-fine-tune--evaluation)
-- [📄 License](#-license)
-
-</details>
-
-## 📣 News
-
-- **[Feb 2026]** Released experiment scripts and dataset
-- **[Feb 2026]** The paper has been accepted at LREC 2026
-
----
-
-## 🔍 What is VietJobs?
-
-VietJobs is a comprehensive dataset designed for **Vietnamese Natural Language Processing** research, particularly focused on job advertisement analysis. The dataset supports multiple downstream tasks:
-
-- **Job Classification** — Categorizing job postings into industry sectors
-- **Salary Estimation** — Predicting salary ranges from job descriptions
-- **Information Extraction** — Structured extraction of job attributes
-
-### Key Features
-
-- 🌏 **Comprehensive Coverage**: All 34 Vietnamese provinces and municipalities
-- 📊 **Large Scale**: 48,092 job postings with 15+ million words
-- 🏷️ **Multi-task Ready**: Pre-processed for classification and regression tasks
-- 🔧 **Research Ready**: Includes training, evaluation, and fine-tuning scripts
-- 🤖 **LLM Compatible**: Formatted for modern language model training
-
-### Data Distribution
-
-- **Job Categories**: Technology, Finance, Healthcare, Education, Manufacturing, etc.
-- **Experience Levels**: Entry-level to Senior (0–10+ years)
-- **Contract Types**: Full-time, Part-time, Internship, Freelance
-- **Salary Ranges**: 1–500 million VND
-
----
-
-## 📊 Dataset Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total Job Postings | 48,092 |
-| Total Words | 15,000,000+ |
-| Geographic Coverage | 34 provinces/municipalities |
-| Average Posting Length | ~321 words |
-| Job Categories | 16 categories |
-| Time Period | July – October 2025 |
-
----
-
-## 🗂 Repo Layout
-
-- `data/` — dataset samples and directory conventions (full dataset on HuggingFace)
-- `run_format_prompt.sh` — format prompts and prepare data for training
-- `run_finetune_lora.sh` — fine-tune the model using LoRA
-- `run_evaluation.sh` — run evaluation pipelines
-- `requirements.txt` — Python dependencies
-
----
-
-## I. Quickstart
-
-### 1. 📥 Clone & Setup
+## Quickstart
 
 ```bash
-git clone https://github.com/dinhieufam/vietjobs.git
-cd VietJobs
+git clone https://github.com/Cuki2910/CareerMapVN.git && cd CareerMapVN
+make docker                    # or: pip install -r analysis/requirements.txt && make test all export
 ```
 
-### 2. 📦 Install Dependencies
-
-**Create a virtual environment**
-
-```bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-```
-
-**Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-**Dataset**: The dataset is available on HuggingFace and you can download it via:
-
-```bash
-huggingface-cli download dinhieufam/VietJobs
-```
-
-### 3. Run Format, Fine-tune & Evaluation
-
-**Step 1 — Format prompts and prepare data**
-
-```bash
-bash run_format_prompt.sh
-```
-
-**Step 2 — Fine-tune the model using LoRA**
-
-```bash
-bash run_finetune_lora.sh
-```
-
-**Step 3 — Run evaluation**
-
-```bash
-bash run_evaluation.sh
-```
-
----
+Outputs land in `data/analysis/export/` (`data_jobs.csv`, `all_jobs.csv`, `data_quality.md`).
+No API key is needed: LLM labels are read from the committed cache.
 
 ## Crawler
 
 The crawler accepts existing job URLs; it does not discover job links automatically.
-Use Python 3.11+ and the crawler-only dependencies (the root requirements also include GPU training packages).
+Use Python 3.11+ and the crawler-only dependencies.
 
 ```bash
 python3.12 -m venv .venv
@@ -270,6 +158,10 @@ After each crawl or job-record change, refresh this file before publishing outpu
 python3 crawling/export_csv.py
 ```
 
+The continuous worker also refreshes the CSV at startup when saved jobs exist and
+after every successful job. With an explicit `--output-dir`, its CSV is saved as
+`CareerMapVN_jobs.csv` inside that directory rather than overwriting the main dataset.
+
 Keep all collected jobs in this single CSV rather than separate batch exports.
 `data/continuous/` contains the supporting crawler state and source snapshots.
 Raw benchmark HTML (which may include embedded third-party keys) and the runtime
@@ -290,12 +182,48 @@ The worker needs the host awake and online; it does not install a login service,
 prevent sleep, restart after reboot, or guarantee free-tier billing. Requests
 continue at the configured pace until stopped or rejected by the provider.
 
-## 📄 License
+### Local crawler monitor
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+```bash
+python3 crawling/monitor.py
+```
 
----
+Open `http://127.0.0.1:8765` to see the crawler process state, actual CSV record
+count, pending jobs, recent events, and a searchable, paginated view of all CSV
+columns. Select a job title to read the full record or download the canonical CSV.
+The page refreshes every five seconds. This read-only monitor uses only Python's
+standard library, listens on localhost, and does not start or stop the crawler.
+Use `--port 8766` if the default port is occupied.
 
-<p align="center">
-  <strong>Made with ❤️ for the Vietnamese NLP community</strong>
-</p>
+## Data-skills pipeline (CareerMapVN)
+
+Merges VietJobs (pinned HuggingFace revision) with the crawled TopCV CSV, keeps
+postings that are data roles (tier A) or other jobs that require concrete data skills
+(tier B), and exports an analysis-ready table with role, company domain, region,
+salary and a 0/1 skill matrix. Full provenance, data dictionary and limitations:
+[`data/README.md`](data/README.md).
+
+```bash
+# Option 1: Docker (no Python setup, no API key)
+make docker                      # -> data/analysis/export/
+
+# Option 2: local
+pip install -r analysis/requirements.txt
+make test all export             # -> data/analysis/export/{data_jobs.csv, all_jobs.csv, data_quality.md}
+make analysis                    # optional starter analysis -> data/analysis/results/
+```
+
+LLM labels come from the committed cache `data/analysis/llm_labels.jsonl` and the crawl
+rows are frozen by `data/analysis/crawl_snapshot_ids.txt`, so a fresh clone reproduces
+the same tables without API calls. `make snapshot` deliberately adds newly crawled rows
+(the new rows then need `OPENAI_API_KEY`). Human label validation:
+`make validation-sheets`, two annotators fill `data/analysis/validation/annotator_{1,2}.csv`,
+then `make validation-report`.
+
+## Credits and license
+
+The base dataset is **VietJobs** (Hieu Pham-Dinh, Hung Nguyen Huy, Mo El-Haj, LREC 2026;
+[HuggingFace](https://huggingface.co/datasets/dinhieufam/VietJobs),
+[GitHub](https://github.com/dinhieufam/vietjobs)). This repository started as a fork of
+it; the original README and code are kept in [`upstream/`](upstream/README.md).
+Code is licensed under the MIT License; see [LICENSE](LICENSE).
