@@ -187,6 +187,8 @@ the denominator for "share of all ads".
 
 ## Validation
 
+Annotator instructions and label definitions: [`data/analysis/validation/README.md`](../data/analysis/validation/README.md).
+
 `analysis/05_validate.py sample` draws 150 rows, stratified (40 tier A, 50 tier B,
 30 none, 30 recall-audit). It writes two identical sheets with the LLM labels hidden.
 Two team members label them independently. `analysis/05_validate.py score` then reports:

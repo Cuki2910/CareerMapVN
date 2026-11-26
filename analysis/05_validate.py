@@ -11,6 +11,12 @@ from pathlib import Path
 
 import pandas as pd
 
+sys.path.insert(0, str(Path(__file__).parent))
+from importlib import import_module
+
+_label = import_module("04_llm_label")  # single source of the label vocabulary
+A_ROLES, B_ROLES, DOMAINS = _label.A_ROLES, _label.B_ROLES, _label.DOMAINS
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data/analysis"
 VAL = DATA / "validation"
@@ -51,11 +57,21 @@ def sample():
 
 def score():
     lab = pd.read_parquet(DATA / "labels.parquet").set_index("id")
-    h = [pd.read_csv(VAL / f"annotator_{k}.csv", dtype=str, encoding="utf-8-sig").set_index("id") for k in (1, 2)]
+    h = [pd.read_csv(VAL / f"annotator_{k}.csv", dtype=str, encoding="utf-8-sig",
+                     keep_default_na=False, na_values=[""]).set_index("id") for k in (1, 2)]
+    allowed = {"tier": {"A", "B", "none"}, "role": set(A_ROLES + B_ROLES + ("none",)), "domain": set(DOMAINS)}
     for k, df in enumerate(h, 1):
-        missing = df[FIELDS].isna().any(axis=1).sum()
+        missing = (df[FIELDS].isna() | (df[FIELDS].apply(lambda c: c.str.strip()) == "")).any(axis=1).sum()
         if missing:
             sys.exit(f"annotator_{k}.csv: {missing} rows incomplete")
+        for f in FIELDS:  # spreadsheets add spaces / change case; anything else is a typo to fix
+            df[f] = df[f].str.strip().map(lambda v: v.upper() if v.upper() in ("A", "B") else v.lower())
+            bad = df.loc[~df[f].isin(allowed[f]), f]
+            if len(bad):
+                sys.exit(f"annotator_{k}.csv: invalid {f} values {sorted(set(bad))[:5]} "
+                         "(see data/analysis/validation/README.md)")
+    if not h[0].index.equals(h[1].index):
+        sys.exit("annotator files contain different rows; do not reorder or delete rows")
     ids = h[0].index
     llm = lab.loc[ids]
     agreed = h[0].tier == h[1].tier
