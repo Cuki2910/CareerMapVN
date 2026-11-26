@@ -1,7 +1,7 @@
 {
   "pid": 27124,
   "started_at": "2026-11-24T19:21:16.907722+00:00",
-  "model": "cx/gpt-6.2-sol",
+  "model": "gemini-3.5-flash-lite",
   "interval_seconds": 10.0,
   "refresh_seconds": 900,
   "pages": 1,
@@ -1002,10 +1002,10 @@
     "https://www.topcv.vn/tim-viec-lam-gis-engineer-cr257cb270cl331",
     "https://www.topcv.vn/tim-viec-lam-bim-engineer-cr333cb335cl332"
   ],
-  "completed_total": 3380,
-  "requests_total": 4041,
-  "input_tokens": 17927606,
-  "output_tokens": 4669081,
+  "completed_total": 3386,
+  "requests_total": 4046,
+  "input_tokens": 17957630,
+  "output_tokens": 4675934,
   "failures": {
     "https://www.topcv.vn/viec-lam/nhan-vien-hanh-chinh-nhan-su-thu-nhap-upto-15-trieu-tai-hai-phong/2348882.html": 3,
     "https://www.topcv.vn/brand/gempire/tuyen-dung/chuyen-vien-kinh-doanh-tu-van-bat-dong-san-du-an-vin-luong-cung-8-5-trieu-hoa-hong-data-nong-ho-tro-mkt-j2344736.html": 3,
@@ -1061,7 +1061,7 @@
     "https://www.topcv.vn/viec-lam/nhan-vien-ke-hoach-san-xuat/2287862.html": 3,
     "https://www.topcv.vn/viec-lam/production-planning-executive-fb/2361467.html": 3
   },
-  "status": "extracting",
+  "status": "stopped",
   "discovery_resume_at": null,
   "api_resume_at": null,
   "website_block_streak": 0,
@@ -1073,17 +1073,14 @@
   },
   "all_categories": true,
   "search_index": 261,
-  "pending_total": 34,
+  "pending_total": 28,
   "last_event": {
-    "timestamp": "2026-11-26T16:34:58.584272+00:00",
-    "event": "api_request",
-    "url": "https://www.topcv.vn/viec-lam/chuyen-vien-dao-tao-noi-bo-ha-noi/2122992.html",
-    "provider": "openai",
-    "model": "cx/gpt-6.2-sol",
-    "prompt_characters": 14896
+    "timestamp": "2026-11-26T16:37:06.552088+00:00",
+    "event": "stopped",
+    "completed_total": 3386
   },
-  "updated_at": "2026-11-26T16:34:58.584272+00:00",
-  "current_url": "https://www.topcv.vn/viec-lam/chuyen-vien-dao-tao-noi-bo-ha-noi/2122992.html",
-  "resume_at": null,
+  "updated_at": "2026-11-26T16:37:06.552088+00:00",
+  "current_url": "https://www.topcv.vn/viec-lam/chuyen-vien-nhan-su-luong-tu-12-15-trieu-hoa-hong-nghi-thu-7-cn-ha-noi/1640311.html",
+  "resume_at": "2026-11-26T16:37:07.521496+00:00",
   "provider_index": 2
 }
