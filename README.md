@@ -222,8 +222,11 @@ then `make validation-report`.
 
 ## Dashboard
 
-Interactive Streamlit dashboard over the exported table: filters by posting type, role,
-region, company industry, source, experience and required skills; skill demand with
+Interactive Streamlit dashboard built around a map of Vietnam's 34 provinces (2025
+boundaries, including Hoàng Sa and Trường Sa). Provinces are coloured by the share of all
+job ads that are data-related, the number of postings, the share requiring a chosen skill,
+or median salary; clicking a province focuses every tab on it. Other filters: posting
+type, role, company industry, source, experience and required skills; skill demand with
 95% CIs and group comparisons; salary by role, experience and region; a salary
 estimator (log-salary OLS, cross-validated error shown); and a searchable,
 downloadable posting table.
@@ -235,10 +238,14 @@ make dashboard                   # http://localhost:8501
 
 Deploy on [Streamlit Community Cloud](https://share.streamlit.io): New app → repository
 `Cuki2910/CareerMapVN`, branch `main`, main file `dashboard/app.py`. It needs no
-secrets; the data it reads (`dashboard/data_jobs.csv.gz`, `market_by_region.csv`) is
+secrets; the data it reads (`dashboard/data_jobs.csv.gz`, `market_by_province.csv`,
+`vn_provinces.geojson`) is
 committed and refreshed by `make export`.
 
 ## Credits and license
+
+Province boundaries: simplified from
+[thanglequoc/vietnamese-provinces-database](https://github.com/thanglequoc/vietnamese-provinces-database) (MIT).
 
 The base dataset is **VietJobs** (Hieu Pham-Dinh, Hung Nguyen Huy, Mo El-Haj, LREC 2026;
 [HuggingFace](https://huggingface.co/datasets/dinhieufam/VietJobs),

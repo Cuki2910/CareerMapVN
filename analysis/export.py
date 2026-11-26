@@ -43,10 +43,11 @@ def main():
     slim = flat(data_jobs).drop(columns=["benefits", "working_hours", "soft_skills", "qualifications",
                                          "languages_required"], errors="ignore")
     slim.to_csv(ROOT / "dashboard/data_jobs.csv.gz", index=False, encoding="utf-8")
-    # Market denominators: all deduplicated postings per region and source (for "share of market").
-    reg = jobs[["source", "regions"]].explode("regions").dropna()
-    reg.groupby(["regions", "source"]).size().rename("n_postings").reset_index() \
-        .to_csv(ROOT / "dashboard/market_by_region.csv", index=False, encoding="utf-8")
+    # Market denominators: all deduplicated postings per province and source (for "share of all ads").
+    prov = jobs[["source", "provinces"]].explode("provinces").dropna()
+    prov.groupby(["provinces", "source"]).size().rename("n_postings").reset_index() \
+        .rename(columns={"provinces": "province"}) \
+        .to_csv(ROOT / "dashboard/market_by_province.csv", index=False, encoding="utf-8")
 
     vn = all_jobs.regions.map(lambda r: "Nước ngoài" not in r)
     md = [

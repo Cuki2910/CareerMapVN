@@ -1,13 +1,17 @@
 """CareerMapVN dashboard: data roles and data skills in Vietnamese job ads.
 
 Run locally:  streamlit run dashboard/app.py
-Data: dashboard/data_jobs.csv.gz + market_by_region.csv, written by `make export`.
+Data: dashboard/data_jobs.csv.gz + market_by_province.csv (written by `make export`) and
+vn_provinces.geojson (34 provinces after the 2025 merger, simplified from
+thanglequoc/vietnamese-provinces-database, MIT; includes Hoàng Sa and Trường Sa).
 """
+import json
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 import statsmodels.formula.api as smf
 import streamlit as st
 
@@ -45,7 +49,8 @@ GROUP = {
 TIER = {"A": "Data role", "B": "Data-skill job"}
 TIER_COLOR = {"Data role": "#2a78d6", "Data-skill job": "#eb6834"}
 SEQ = ["#f4f8fd", "#cde2fb", "#86b6ef", "#3987e5", "#1c5cab", "#0d366b"]
-REGIONS = ["Hà Nội", "Hồ Chí Minh", "Miền Bắc", "Miền Trung", "Miền Nam", "Nước ngoài"]
+ALL = "All of Vietnam"
+NO_DATA = "#ecebe6"
 SOURCES = {"vietjobs": "VietJobs (Jul–Oct 2025)", "topcv_crawl": "TopCV crawl (Nov 2026)"}
 NOT_CONCRETE = {"sk_Excel", "sk_Google Sheets", "sk_Data analysis (generic)"}
 GRID = "#e6e5e0"
@@ -59,6 +64,7 @@ def load():
     df = pd.read_csv(HERE / "data_jobs.csv.gz", dtype={"id": str})
     skills = [c for c in df.columns if c.startswith("sk_")]
     df["region_list"] = df.regions.fillna("").map(lambda s: [r for r in s.split("; ") if r])
+    df["province_list"] = df.provinces.fillna("").map(lambda s: [p for p in s.split("; ") if p])
     df["tier_label"] = df.tier.map(TIER)
     df["role_label"] = df.role.map(ROLE).fillna(df.role)
     df["domain_label"] = df.domain.map(DOMAIN).fillna(df.domain)
@@ -68,8 +74,9 @@ def load():
                                    "Thoả thuận")
     names = np.array([s[3:] for s in skills])
     df["skill_list"] = [", ".join(names[row == 1]) for row in df[skills].to_numpy()]
-    market = pd.read_csv(HERE / "market_by_region.csv")
-    return df, market, skills
+    market = pd.read_csv(HERE / "market_by_province.csv")
+    geo = json.loads((HERE / "vn_provinces.geojson").read_text(encoding="utf-8"))
+    return df, market, skills, geo
 
 
 def region3(regions):
@@ -133,88 +140,222 @@ def million(x):
 
 
 # ---------- filters ----------
-df, market, SKILLS = load()
+df, market, SKILLS, GEO = load()
+PROVINCES = sorted(f["id"] for f in GEO["features"])
+st.session_state.setdefault("province", ALL)
+
+
+def pick_province():
+    """Map click: select that province, or clear when the selected one is clicked again."""
+    points = st.session_state["vn_map"].selection.points
+    if not points:
+        return
+    name = points[0].get("location") or points[0].get("customdata")
+    name = name[0] if isinstance(name, list) else name
+    if name in PROVINCES:
+        st.session_state.province = ALL if name == st.session_state.province else name
+
+
+def clear_province():
+    st.session_state.province = ALL
+
+
 st.title("CareerMapVN: data skills in Vietnamese job ads")
 st.caption(f"{len(df):,} postings that are data roles or require concrete data skills, from "
            f"{df.source.eq('vietjobs').sum():,} VietJobs ads (2025) and {df.source.eq('topcv_crawl').sum():,} "
-           f"TopCV ads (2026). Filters in the sidebar apply to every tab. [Code & data]({REPO})")
+           f"TopCV ads (2026). Click a province on the map to focus the whole dashboard on it. "
+           f"[Code & data]({REPO})")
 
 with st.sidebar:
     st.header("Filters")
+    st.selectbox("Province", [ALL] + PROVINCES, key="province", help="Or click a province on the map.")
     tiers = st.multiselect("Posting type", list(TIER.values()), default=list(TIER.values()),
                            help="Data role = the job is a data job. Data-skill job = another occupation whose "
                                 "ad names a concrete data skill (SQL, Power BI, GA4, statistics, advanced Excel…).")
     role_opts = sorted(df[df.tier_label.isin(tiers)].role_label.unique())
     roles = st.multiselect("Role", role_opts, placeholder="All roles")
-    regions = st.multiselect("Region", REGIONS, placeholder="All regions")
     domains = st.multiselect("Company industry", sorted(df.domain_label.unique()), placeholder="All industries")
     sources = st.multiselect("Source", list(SOURCES.values()), default=list(SOURCES.values()))
     exp_range = st.slider("Required experience (years)", 0, 10, (0, 10), help="10 means 10 or more.")
     must = st.multiselect("Must require all of these skills", sorted(s[3:] for s in SKILLS), placeholder="Any skills")
 
-f = df[df.tier_label.isin(tiers) & df.source_label.isin(sources)
-       & df.experience_years.fillna(0).clip(upper=10).between(*exp_range)]
+# `base` = every filter except province (drives the map); `f` = base narrowed to the selected province.
+base = df[df.tier_label.isin(tiers) & df.source_label.isin(sources)
+          & df.experience_years.fillna(0).clip(upper=10).between(*exp_range)]
 if roles:
-    f = f[f.role_label.isin(roles)]
-if regions:
-    f = f[f.region_list.map(lambda r: bool(set(r) & set(regions)))]
+    base = base[base.role_label.isin(roles)]
 if domains:
-    f = f[f.domain_label.isin(domains)]
+    base = base[base.domain_label.isin(domains)]
 for s in must:
-    f = f[f[f"sk_{s}"] == 1]
-
-if f.empty:
+    base = base[base[f"sk_{s}"] == 1]
+if base.empty:
     st.warning("No postings match these filters. Remove a filter in the sidebar.")
     st.stop()
 
+province = st.session_state.province
+f = base if province == ALL else base[base.province_list.map(lambda p: province in p)]
+scope = province if province != ALL else "Vietnam"
+
 sal = salary_rows(f)
 c1, c2, c3, c4, c5 = st.columns(5)
-c1.metric("Postings", f"{len(f):,}")
+c1.metric(f"Postings · {scope}", f"{len(f):,}")
 c2.metric("Data roles", f"{(f.tier == 'A').sum():,}")
 c3.metric("Median advertised salary", million(sal.salary_avg.median()) if len(sal) else "–",
           help="Midpoint of the advertised range, million VND per month.")
-c4.metric("Salary disclosed", f"{len(sal) / len(f):.0%}", help="Others say 'Thoả thuận' (negotiable).")
-c5.metric("Median skills per ad", f"{f.skill_count.median():.0f}")
+c4.metric("Salary disclosed", f"{len(sal) / len(f):.0%}" if len(f) else "–",
+          help="Others say 'Thoả thuận' (negotiable).")
+c5.metric("Median skills per ad", f"{f.skill_count.median():.0f}" if len(f) else "–")
 
-overview, skills_tab, salary_tab, estimator, explore, about = st.tabs(
-    ["Overview", "Skills", "Salary", "Salary estimator", "Explore postings", "About the data"])
+map_tab, overview, skills_tab, salary_tab, estimator, explore, about = st.tabs(
+    ["Map", "Roles & industries", "Skills", "Salary", "Salary estimator", "Explore postings", "About the data"])
 
-# ---------- overview ----------
+# ---------- map ----------
+CONCRETE = [s for s in SKILLS if s not in NOT_CONCRETE]
+
+
+def province_table(data, metric, skill):
+    """One row per province: postings, all ads, share, chosen skill share, median salary."""
+    ex = data.explode("province_list")
+    ex = ex[ex.province_list.isin(PROVINCES)]
+    by = ex.groupby("province_list")
+    denom = market[market.source.isin([k for k, v in SOURCES.items() if v in sources])] \
+        .groupby("province").n_postings.sum()
+    t = pd.DataFrame(index=pd.Index(PROVINCES, name="province"))
+    t["postings"] = by.size().reindex(t.index).fillna(0).astype(int)
+    t["all_ads"] = denom.reindex(t.index).fillna(0).astype(int)
+    t["share_of_all_ads"] = t.postings / t.all_ads.where(t.all_ads > 0)
+    sal_ex = ex[ex.salary_avg.between(1, 200)].groupby("province_list").salary_avg
+    t["median_salary"] = sal_ex.median().reindex(t.index)
+    t["salary_n"] = sal_ex.size().reindex(t.index).fillna(0).astype(int)
+    t[f"share_{skill}"] = by[f"sk_{skill}"].mean().reindex(t.index)
+    return t
+
+
+METRICS = {
+    "Share of all job ads": ("share_of_all_ads", ".1%"),
+    "Number of postings": ("postings", ",d"),
+    "Share requiring a skill": (None, ".0%"),
+    "Median advertised salary": ("median_salary", ".1f"),
+}
+
+with map_tab:
+    left, right = st.columns([3, 2], gap="large")
+    with left:
+        m1, m2 = st.columns(2)
+        metric = m1.selectbox("Colour provinces by", list(METRICS),
+                              help="Share of all job ads = matching postings ÷ all deduplicated ads in that "
+                                   "province (selected sources). It removes the effect of market size.")
+        skill = m2.selectbox("Skill", [s[3:] for s in CONCRETE], index=[s[3:] for s in CONCRETE].index("SQL"),
+                             disabled=metric != "Share requiring a skill")
+        col, fmt = METRICS[metric]
+        col = col or f"share_{skill}"
+        t = province_table(base, metric, skill)
+        has = t[col].notna() & (t.postings > 0)
+        z = np.log10(t.loc[has, col]) if col == "postings" else t.loc[has, col]
+
+        hover = ("<b>%{location}</b><br>" + metric + ": %{customdata[0]}<br>"
+                 "Matching postings: %{customdata[1]:,}<br>All ads in province: %{customdata[2]:,}"
+                 "<extra></extra>")
+        shown = t.loc[has, col].map(lambda v: f"{v:{fmt}}" + (" M ₫" if col == "median_salary" else ""))
+        fig = go.Figure()
+        fig.add_trace(go.Choropleth(  # every province, so ones without data still show (in grey)
+            geojson=GEO, locations=PROVINCES, z=[0] * len(PROVINCES), showscale=False,
+            colorscale=[[0, NO_DATA], [1, NO_DATA]], marker_line_color="#ffffff", marker_line_width=0.6,
+            customdata=np.c_[["no matching postings"] * len(t), t.postings, t.all_ads],
+            hovertemplate=hover))
+        colorbar = dict(title="", thickness=12, len=0.6, tickformat=fmt if col != "postings" else None)
+        if col == "postings":
+            top = int(np.ceil(z.max())) if len(z) else 1
+            colorbar.update(tickvals=list(range(top + 1)), ticktext=[f"{10 ** i:,}" for i in range(top + 1)])
+        fig.add_trace(go.Choropleth(
+            geojson=GEO, locations=t.index[has], z=z, colorscale=SEQ, marker_line_color="#ffffff",
+            marker_line_width=0.6, colorbar=colorbar,
+            customdata=np.c_[shown, t.postings[has], t.all_ads[has]], hovertemplate=hover))
+        if province != ALL:  # outline the selected province
+            fig.add_trace(go.Choropleth(
+                geojson=GEO, locations=[province], z=[0], showscale=False, hoverinfo="skip",
+                colorscale=[[0, "rgba(0,0,0,0)"], [1, "rgba(0,0,0,0)"]],
+                marker_line_color="#0b0b0b", marker_line_width=2.5))
+        fig.update_geos(fitbounds="locations", visible=False, projection_type="mercator")
+        fig.update_layout(height=660, margin=dict(l=0, r=0, t=8, b=0), dragmode=False,
+                          paper_bgcolor="rgba(0,0,0,0)", geo_bgcolor="rgba(0,0,0,0)",
+                          hoverlabel=dict(font_size=13), clickmode="event+select")
+        st.plotly_chart(fig, width="stretch", key="vn_map", on_select=pick_province, selection_mode="points",
+                        config={"scrollZoom": False, "displayModeBar": False})
+        st.caption("Grey = no matching postings. Ads listing several provinces count in each. "
+                   + ("Colour is on a log scale. " if col == "postings" else "")
+                   + "Hoàng Sa (Đà Nẵng) and Trường Sa (Khánh Hòa) are part of Vietnam's territory.")
+        with st.expander("Table view: all provinces"):
+            st.dataframe(t.reset_index().sort_values(col, ascending=False, na_position="last"),
+                         hide_index=True, width="stretch",
+                         column_config={"share_of_all_ads": st.column_config.NumberColumn(format="percent"),
+                                        f"share_{skill}": st.column_config.NumberColumn(format="percent"),
+                                        "median_salary": st.column_config.NumberColumn(format="%.1f")})
+
+    with right:
+        st.subheader(province if province != ALL else ALL)
+        if province != ALL:
+            st.button("Show all of Vietnam", on_click=clear_province, icon=":material/close:")
+        if f.empty:
+            st.info("No postings in this province match the filters.")
+        else:
+            nat_share = len(base) / t.all_ads.sum()
+            row_share = t.loc[province, "share_of_all_ads"] if province != ALL else nat_share
+            nat_sal = salary_rows(base).salary_avg.median()
+            k1, k2 = st.columns(2)
+            k1.metric("Share of all job ads", f"{row_share:.1%}",
+                      delta=f"{(row_share - nat_share) * 100:+.1f} pts vs Vietnam" if province != ALL else None,
+                      delta_color="off")
+            if len(sal):
+                k2.metric("Median salary", million(sal.salary_avg.median()),
+                          delta=f"{sal.salary_avg.median() - nat_sal:+.1f}M vs Vietnam" if province != ALL else None,
+                          delta_color="off", help=f"{len(sal):,} postings with a disclosed salary.")
+
+            prof = pd.DataFrame({"here": f[CONCRETE].mean(), "vietnam": base[CONCRETE].mean()})
+            prof = prof.sort_values("here", ascending=False).head(10).iloc[::-1]
+            prof.index = [s[3:] for s in prof.index]
+            fig = go.Figure()
+            fig.add_bar(x=prof.here, y=prof.index, orientation="h", name=scope, marker_color="#2a78d6",
+                        hovertemplate="%{y}: %{x:.0%}<extra>" + scope + "</extra>")
+            if province != ALL:
+                fig.add_scatter(x=prof.vietnam, y=prof.index, mode="markers", name="Vietnam",
+                                marker=dict(symbol="line-ns", size=16, line=dict(width=3, color="#0b0b0b")),
+                                hovertemplate="%{y}: %{x:.0%}<extra>Vietnam</extra>")
+            fig.update_xaxes(tickformat=".0%")
+            fig.update_layout(title=f"Top skills in {scope}" + (" vs Vietnam (black tick)" if province != ALL else ""),
+                              legend=dict(orientation="h", y=-0.15))
+            show(fig, prof.reset_index(names="skill").round(3), "prov_skills", height=400)
+
+            mix = f.role_label.value_counts().head(8).iloc[::-1]
+            fig = px.bar(x=mix.values, y=mix.index, orientation="h", text=mix.values,
+                         title=f"Most common roles in {scope}", labels={"x": "Postings", "y": ""})
+            fig.update_traces(marker_color="#2a78d6", textposition="outside", cliponaxis=False)
+            show(fig, mix.rename_axis("role").rename("postings").reset_index().iloc[::-1], "prov_roles", height=340)
+            st.caption(f"Based on {len(f):,} postings. Small provinces have few ads, so read their shares "
+                       "with care.")
+
+if f.empty:
+    for tab in (overview, skills_tab, salary_tab, estimator, explore):
+        tab.info("No postings in this province match the filters.")
+    st.stop()
+
+# ---------- roles & industries ----------
 with overview:
-    left, right = st.columns(2)
     roles_t = f.groupby(["tier_label", "role_label"]).size().rename("postings").reset_index() \
         .sort_values("postings")
     fig = px.bar(roles_t, x="postings", y="role_label", color="tier_label", orientation="h", text="postings",
-                 color_discrete_map=TIER_COLOR, title="Postings by role",
+                 color_discrete_map=TIER_COLOR, title=f"Postings by role · {scope}",
                  labels={"role_label": "", "postings": "Postings", "tier_label": "Type"})
     fig.update_traces(textposition="outside", cliponaxis=False)
-    with left:
-        show(fig, roles_t.rename(columns={"tier_label": "type", "role_label": "role"}), "roles",
-             height=max(360, 28 * len(roles_t) + 120))
-
-    by_reg = f.explode("region_list").groupby("region_list").size().rename("postings")
-    denom = market[market.source.isin([k for k, v in SOURCES.items() if v in sources])] \
-        .groupby("regions").n_postings.sum()
-    # Abroad has too few ads overall for a meaningful share.
-    reg_t = pd.DataFrame({"postings": by_reg, "all_ads": denom}).reindex(REGIONS[:-1]).dropna()
-    reg_t["share"] = reg_t.postings / reg_t.all_ads
-    reg_t = reg_t.reset_index(names="region")
-    fig = px.bar(reg_t, x="region", y="share", text=reg_t.share.map("{:.1%}".format),
-                 hover_data={"postings": True, "all_ads": True, "share": ":.2%"},
-                 title="Share of all job ads in each region that match the filters",
-                 labels={"share": "Share of all ads", "region": "", "all_ads": "All ads in region"})
-    fig.update_traces(marker_color="#2a78d6", textposition="outside", cliponaxis=False)
-    fig.update_yaxes(tickformat=".0%")
-    with right:
-        show(fig, reg_t, "regions")
-        st.caption("A posting listing several regions counts in each. Denominator: every deduplicated ad "
-                   "in that region from the selected sources. Ads abroad are excluded.")
+    show(fig, roles_t.rename(columns={"tier_label": "type", "role_label": "role"}), "roles",
+         height=max(360, 28 * len(roles_t) + 120))
 
     dom_t = f.groupby(["domain_label", "tier_label"]).size().rename("postings").reset_index()
     order = dom_t.groupby("domain_label").postings.sum().sort_values().index
     fig = px.bar(dom_t, x="postings", y="domain_label", color="tier_label", orientation="h",
                  category_orders={"domain_label": list(order)}, color_discrete_map=TIER_COLOR,
-                 title="Postings by hiring company's industry", labels={"domain_label": "", "postings": "Postings"})
+                 title=f"Postings by hiring company's industry · {scope}",
+                 labels={"domain_label": "", "postings": "Postings"})
     show(fig, dom_t.rename(columns={"domain_label": "industry", "tier_label": "type"}), "domains",
          height=max(360, 26 * len(order) + 120))
 
@@ -374,7 +515,7 @@ with estimator:
 with explore:
     q = st.text_input("Search job titles", placeholder="e.g. data analyst, kế toán, marketing")
     view = f[f.job_title.str.contains(q, case=False, regex=False, na=False)] if q else f
-    cols = {"job_title": "Job title", "tier_label": "Type", "role_label": "Role", "regions": "Region",
+    cols = {"job_title": "Job title", "tier_label": "Type", "role_label": "Role", "provinces": "Province",
             "domain_label": "Industry", "salary": "Salary (as advertised)", "salary_avg": "Salary midpoint (M ₫)",
             "experience_years": "Experience (yrs)", "skill_list": "Skills detected", "source_label": "Source"}
     out = view[list(cols)].rename(columns=cols)
@@ -395,6 +536,8 @@ Ads that only mention office software or "data entry" are excluded.
 
 **Sources.** [VietJobs](https://huggingface.co/datasets/dinhieufam/VietJobs) (48,092 ads, Jul–Oct 2025, pinned
 revision) and ads crawled from TopCV in Nov 2026. Reposted ads are merged, so each posting counts once.
+Province boundaries: 34 provinces after the 2025 merger, from
+[vietnamese-provinces-database](https://github.com/thanglequoc/vietnamese-provinces-database) (MIT).
 
 **Method.** A broad keyword filter finds candidate ads. One LLM labels type, role and company industry, and two
 people check a blind sample. Skills come from a 55-entry dictionary with Vietnamese synonyms.
