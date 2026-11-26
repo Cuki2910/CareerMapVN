@@ -1,5 +1,6 @@
 import asyncio
 from contextlib import redirect_stdout
+import csv
 import io
 import json
 import os
@@ -287,10 +288,19 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             self.assertEqual(job["job_title"], "Analyst")
             self.assertEqual(job["description"], "Analyze data")
             self.assertEqual(job["url"], URL)
+            csv_output = args.output_dir / "CareerMapVN_jobs.csv"
+            with csv_output.open(encoding="utf-8", newline="") as saved:
+                rows = list(csv.DictReader(saved))
+            self.assertEqual(len(rows), 1)
+            self.assertEqual(rows[0]["job_title"], "Analyst")
+            self.assertEqual(rows[0]["description"], "Analyze data")
+            self.assertEqual(rows[0]["category"], "")
             state = json.loads((args.output_dir / "status.json").read_text())
             self.assertEqual((state["status"], state["completed_total"], state["input_tokens"]), ("stopped", 1, 5))
             events = [json.loads(line) for line in next((args.output_dir / "events").glob("*.jsonl")).read_text().splitlines()]
             self.assertIn("job_completed", [event["event"] for event in events])
+            completion = next(event for event in events if event["event"] == "job_completed")
+            self.assertEqual(completion["output"], str(csv_output))
             fallback = [event for event in events if event["event"].startswith("crawl_fallback_")]
             self.assertEqual([event["event"] for event in fallback], ["crawl_fallback_started", "crawl_fallback_succeeded"])
             self.assertTrue(all(event["url"] == URL for event in fallback))
@@ -307,6 +317,8 @@ class ContinuousChecks(unittest.IsolatedAsyncioTestCase):
             ), redirect_stdout(io.StringIO()):
                 await worker.run(args, stop)
             model.ainvoke.assert_not_awaited()
+            with csv_output.open(encoding="utf-8", newline="") as saved:
+                self.assertEqual(len(list(csv.DictReader(saved))), 1)
 
     async def test_discovery_block_cooldown_survives_restart(self):
         with tempfile.TemporaryDirectory() as directory:
